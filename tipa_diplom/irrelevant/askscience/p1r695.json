@@ -1,0 +1,94 @@
+{
+    "Why did we go from a Delta variant of COVID straight to Lambda? What happened to Epsilon, Zeta, Eta, Theta, Iota, and Kappa?\nAccording to [this article](https://www.cnn.com/2021/08/07/health/lambda-coronavirus-variant-wellness-explainer/index.html) there is now a lambda variant of COVID that is impacting people mostly in South America.\n\nThis of course is coming right in the middle of the Delta variant outbreak in the United States and other places.\n\nIn the greek alphabet, Delta is the 4th letter and Lambda is the 11th. So what happened to all the letters in between? Are there Epsilon-Kappa variants in other parts of the world that we just havent heard of?\n\nIf not, why did we skip those letters in our scientific naming scheme for virus variants?": [
+        {
+            "id": "h8hucxy",
+            "score": -17,
+            "text": "[removed]",
+            "title_similarity": "0.13400179"
+        },
+        {
+            "id": "h8fltc8",
+            "score": 8,
+            "text": "Variants are caused by errors on replication inside peoples bodies who catch the virus. It’s basically natural selection sometimes a change will be bad for the virus but since covid is so transmissible already only one beneficial change is detrimental to us and is enough for it to become the “new covid” in delta variants case the code that codes for the spike proteins has mutated to where the spike proteins can stick more easily to your cells to get inside and replicate in.",
+            "title_similarity": "0.55142087"
+        },
+        {
+            "id": "h8fl45s",
+            "score": 12,
+            "text": "Do these letters work like drawing revision letters?  On a letter revised drawing (like for a engineering drawing a fabricator might use) if you go through the entire alphabet through revisions A-Z, and you want to revise it again, you go to revision AA.  If you complete that lap again, you get to AAA.  If we're using greek letters, they'll match Fraternity/Sorority names.  Will we have a Lamda Lamda Lamda variant?",
+            "title_similarity": "0.6550117"
+        },
+        {
+            "id": "h8jegyr",
+            "score": 1,
+            "text": "How are we currently detecting variants? I assume this is what's happening but don't know for sure, but are samples from positive tests being sent to the CDC (or insert any country's national laboratory here) for analysis? I see this question asked all the time and have been curious as to what the process is",
+            "title_similarity": "0.55286765"
+        },
+        {
+            "id": "h8flim7",
+            "score": 16,
+            "text": "The WHO gives a greek letter to a COVID variant of concern. This does not mean it will get broad in the mainstream media, but the WHO thought at some point that it could be a dangerous variant. Hence, the variants we know from the media are not the same ones that are considered by the WHO. Did you ever hear about the beta variant? So why delta??",
+            "title_similarity": "0.571589"
+        },
+        {
+            "id": "h8giytu",
+            "score": 6,
+            "text": "Some variants just aren't that different. If they are about as equally dangerous, as equally affected by the vaccine, transmit about the same, etc. they will be out there, but there is not a lot of reasons to talk about them outside of a research team.",
+            "title_similarity": "0.38296375"
+        },
+        {
+            "id": "h8gpy6g",
+            "score": 34,
+            "text": "It’s just like how we only hear about Hurricanes like  Katrina and Sandy, etc. But each hurricane is named alphabetically each year. They didn’t just skip right to K or S or whatever, it’s just the A-whatever were all small or like in the middle of the ocean or whatever and didn’t really matter. Same with the other variants that appear to have been “skipped”.",
+            "title_similarity": "0.5852576"
+        },
+        {
+            "id": "h8fft9h",
+            "score": 44,
+            "text": "Not all mutations lead to greater infectiousness or mortality so they typically get ignored in favor of more \"impactful\" variations. \n\nIn this case, these relatively unknown (in the mainstream media, anyway) variants are likely just getting out-competed by the more virulent and insidious Delta and Lamba variants.",
+            "title_similarity": "0.44239247"
+        },
+        {
+            "id": "h8g3k0j",
+            "score": 334,
+            "text": "The greek-letter-naming is not scientific, it is bureaucratic. Scientific names are pango lineages (e.g., B.1.1.7 for alpha) or GISAID clade (e.g., GRY for alpha), etc. \n\nThe World Health Organization (WHO) \"names\" strains of particular interest to avoid nomenclature such as the \"British variant\" or \"Brazilian mutation\". Bureaucratically each Variant of Interest (VOI) gets a Greek letter name handed out in the order they were designated VOI. The Variants of Concern (VOC) are Variants of Interest which have been \"upped one level\". Not all VOI become VOC. Currently, the designated strains are alpha (VOI + VOC), beta (VOI + VOC), gamma (VOI + VOC), delta (VOI + VOC), eta (VOI), iota (VOI), kappa (VOI), and lambda (VOI). See table below:\n\n|Bureaucratic name|Strains|Designation|\n|:-|:-|:-|\n|Alpha|B.1.1.7|VOI + VOC|\n|Beta|B.1.351 / ...|VOI + VOC|\n|Gamma|P.1 / ...|VOI + VOC|\n|Delta|B.1.617.2  / AY.1 / ...|VOI + VOC|\n|Eta|B.1.525  |VOI|\n|Iota|B.1.526  |VOI|\n|Kappa|B.1.617.1|VOI|\n|Lambda|C.37|VOI|\n\nIn general, the media only mentions the Variants of Concern (VOC), and do not mention the Variants of Interest (VOI) according to the WHO. The scientific community does not use the WHO-designations since they are not scientifically meaningful. I.e., if you are interested in research on the \"alpha-strain\", use B.1.1.7 and not alpha as a search term. \n\nThe current listing of international and bureaucratic names of SARS-CoV-2 variants can be found at [https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)\n\nThere is a literal gazillion of strains which are neither VOI nor VOC.",
+            "title_similarity": "0.640373"
+        },
+        {
+            "id": "h8fj5m1",
+            "score": 46,
+            "text": "The other names have been used for other variants that exist, just they haven't made it into the public media as much.\n\nSo for example variant Eta has been discovered and considered worthy of attention - hence the name - but luckily so far has not had a big enough impact to justify the headlines.\n\nRemember that there is a vast amount of work going on unheard of here in discovering and tracing variants of note and covids evolution - the media and general public may be somewhat burnt out with the situation, but the researchers and scientific and support community are still working tirelessly. So there is a large amount of 'news' that just isn't of interest to the general public and that you won't hear unless you go digging.",
+            "title_similarity": "0.46284637"
+        },
+        {
+            "id": "h8fnr2c",
+            "score": 162,
+            "text": "A - the other variants have been identified and named. They just didn't mutate in ways that make them notable at scale.\n\nB - Lambda was mentioned weeks ago as a major concern as it was clearly becoming dominant in South America, but it's only just now being mentioned here because it has finally begun to spread away from that continent. This also tells you something about our news cycle.\n\n[The WHO has a page dedicated to stats on variants](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/). It doesn't work well on mobile, but it shows that these evolutions are noted and monitored long before they ever hit headlines. Delta first reared its head in India last October.",
+            "title_similarity": "0.6558041"
+        },
+        {
+            "id": "h8feb3v",
+            "score": 213,
+            "text": "Other comments have answered your question, but for a deeper dive: I was just looking at this interesting article the other day that describes that many variants have been found, but only a handful are considered Variants of Interest (VOI) or Variants of Concern (VOC):\n\nhttps://ajp.amjpathol.org/article/S0002-9440(21)00317-5/fulltext",
+            "title_similarity": "0.5615262"
+        },
+        {
+            "id": "h8f8res",
+            "score": 1268,
+            "text": "Epsilon was the \"California variant\" identified roughly a year ago.  It had some interesting mutations at the spike protein that helped it evade a fraction of the antibodies fighting the pathogen.  \n\nBut since there are dozens and dozens of specific antibodies attacking dozen and dozens of specific sites on the spike protein, full immune escape wasn't nearly approached.\n\nThere were some implications for specific monoclonal antibody treatments.\n\nBut Epsilon basically died out (at least in the US) as people gained immunity to it either by vaccination or infection, especially with alpha or delta.",
+            "title_similarity": "0.64231515"
+        },
+        {
+            "id": "h8f6gig",
+            "score": 13433,
+            "text": "They didn't skip them. There are variants that use the other greek letters. Lambda is just a variant making a larger impact. You won't hear about all the variants unless they were influencing more public action.",
+            "title_similarity": "0.44165123"
+        },
+        {
+            "id": "h8jhbmx",
+            "score": 1,
+            "text": "It didn't. It's just that those other variants have not been as bad. Here's an excellent overview of all the variants, submitted in another post, that might help visualize the situation: [https://nextstrain.org/ncov/gisaid/global?fbclid=IwAR3rVSMvL0c9uOuEky5CDcM71iUiSbI6ov0kHtmCh4JclDbr7ceqFIEV3sk](https://nextstrain.org/ncov/gisaid/global?fbclid=IwAR3rVSMvL0c9uOuEky5CDcM71iUiSbI6ov0kHtmCh4JclDbr7ceqFIEV3sk)",
+            "title_similarity": "0.3650649"
+        }
+    ]
+}

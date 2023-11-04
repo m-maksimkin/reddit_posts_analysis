@@ -1,0 +1,851 @@
+{
+    "CMV: Additional taxes on gasoline disproportionately harm those who cannot afford alternatives\nContext:\n\n>Get Ready for $5 Gasoline if You Live in California—or if You Don’t...  \n>  \n>Golden State laws drive up prices at the pump, and the Biden administration aims to take them national...  \n>  \n>Why do California drivers pay so much at the pump? Blame a higher-octane blend of taxes and environmental regulations.\n\nvia [https://www.wsj.com/articles/get-ready-for-5-gasoline-if-you-live-in-californiaor-if-you-dont-11622226479?mod=hp\\_opin\\_pos\\_2](https://www.wsj.com/articles/get-ready-for-5-gasoline-if-you-live-in-californiaor-if-you-dont-11622226479?mod=hp_opin_pos_2)\n\n**My view:**\n\nTaxing gasoline is an effective, and perhaps essential strategy for any government to shift consumer behavior to alternate means of energy. The most obvious and widespread first-order effect of increasing gasoline is the cost of transportation using ICE vehicles. Governments hope that higher gasoline prices coupled with incentives on electric vehicles will result in consumers shifting to EVs over time, reducing the dependency on fossil fuel. **My view** is that in the US, raising gasoline prices before viable alternatives are ready is jumping the gun because it disproportionately hurts a family who cannot afford an EV. I believe there are better ways of spending the money than giving it to a family earning $249k\n\nTo substantiate my view, I will offer what I believe to be a more sensible counter-proposal to the expected US Federal Govt changes, which in brief are: gas taxes ($1-2 extra per gallon, and more over time), and EV incentives ($7k point-of-sale discount for those earning less than $250k) via the infrastructure plan.\n\n1. Offer an income-scaled incentive for EVs that proportionately benefits low-earners, starting at $10k and phasing out to $1k between for those between 75k and 200k household income (which are the [50th and 90th](https://dqydj.com/household-income-percentile-calculator/) percentiles respectively). A few example values; $50k income = 10k incentive, $100k = $7k, $150k = $3k, $250k = $0. *Note: There are challenges with conflating income with wealth / purchasing power, but for the sake for this argument I will assume that's a solved problem in the proposed federal plan that uses $250k as the cutoff.*\n2. Announce a plan for raising gasoline prices to $1 a gallon per year over a 5 year period, coupled with an outreach / marketing program to sell Americans on the benefits of EVs - including a calculator that illustrates their 5-year savings. I chose 5 years as the amount of time it takes to build out sufficient charger infrastructure to make EVs a viable choice for most.\n\nImagine 4 families in 2022:\n\n||Proposed federal plan|My counter-proposal|\n|:-|:-|:-|\n|34k household income (25th %tile)|$7k incentive / $5 gallon|$10k incentive / $3 gallon|\n|75k (50th)|$7k incentive / $5 gallon|$10k incentive / $3 gallon|\n|125k (75th)|$7k incentive / $5 gallon|$5k incentive / $3 gallon|\n|199k (90th)|$7k incentive / $5 gallon|$1k incentive / $3 gallon|\n|250k (94th)|$7k incentive / $5 gallon|$0 incentive / $3 gallon|\n\nIt's a small shift, but a meaningful one.": [
+        {
+            "id": "gzw4j2v",
+            "score": 1,
+            "text": "/u/stackinpointers (OP) has awarded 5 delta(s) in this post.\n\nAll comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/nnsnwq/deltas_awarded_in_cmv_additional_taxes_on/), in /r/DeltaLog.\n\nPlease note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.\n\n^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)",
+            "title_similarity": "0.5802188",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "gzvilck",
+            "score": 8,
+            "text": "The proposed gasoline tax disproportionately affects people living in rural states and areas who have no viable carpooling or public transport option. Guess which way those people tend to vote? This part of the infrastructure plan is simply a method to tax republicans and hand the money to democrat voting areas.",
+            "title_similarity": "0.7950078",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "gzvju65",
+            "score": -2,
+            "text": "My opposition lies in the fact EV’s only reduce CO2 emissions and your post doesn’t take into consideration the environmental cost of mining nickel, cobalt, lithium and what to do with these batteries after they are used. \n\nWe’re just shifting from one finite resources to another. By trying to fix one issue, we’re creating so many new ones with the environmental cost of heavy mining. \n\nFurthermore, I HATE driving EV’s, charging them takes ~45 minutes so it’s inconvenient. Refueling takes <5min. \n\nOn top of this, why should Americans with higher income levels pay for others buy these cars? I’m not challenging the part you’re excluding but rather the general premise that higher income earners should pay for lower income earners purchasing new vehicles. We don’t force people to update their vehicles when new safety features come out (blind spot monitors or rear cameras), we don’t force drivers to use winter / summer tires which are much better in the winter than all season, we don’t require people to fix or repair their vehicles after collisions prior to driving. All of which have detriments and harms to society in general so why should we suddenly pay for people to upgrade to EV?",
+            "title_similarity": "0.81249374",
+            "sentiment_compound": -0.904
+        },
+        {
+            "id": "gzvl3u3",
+            "score": -8,
+            "text": "[removed]",
+            "title_similarity": "0.009985747"
+        },
+        {
+            "id": "gzvqwwo",
+            "score": -3,
+            "text": "I agree with you that simply raising the gas tax is a harmful idea, but your proposed solution is also harmful.\n\nElectric cars have most of the same issues as gasoline cars. Unabated, they will continue to be the leading cause of death for children, congest our roads, and use vast amounts of space just for their storage.\n\nThere's also the issue that manufacturing a new electric car creates a lot of carbon emissions, offsetting the gains from getting rid of a gasoline car before it's ready to be retired.\n\nIncreasing the cost of driving is a good thing, even if the alternatives don't appear to be ready. Take a look at the oil crisis of 1973, when an embargo caused oil prices to quadruple. When it was too expensive to drive to work, people took trains, buses, and bikes. Public transit systems expanded as much as they could to capture the new demand. Increasing the cost of driving again, but through much more controlled methods, would bring back this expansion of our public transit systems and the demand for them.\n\nThis brings us back to the issue of how do we raise the cost of driving. The best method is a vehicle mile tax. Instead of this loose method of taxing how much the car is being used by taxing its fuel, it should just be taxed directly. This eliminates the unfairness of the gas tax you've already mentioned and makes sure that nobody is getting out of paying for the roads they use because they're rich enough to afford to not use gasoline",
+            "title_similarity": "0.7953594",
+            "sentiment_compound": 0.9478
+        },
+        {
+            "id": "gzvs2q2",
+            "score": 0,
+            "text": "Not really true outside the US. I live in a booming city in Germany and we have okay (for Americans utopian) bike infrastructure and all the students attending University use bike or public transport. Many of them don't even have a car and can't care less how much gas prices rise.\n\nBut I would partly agree: without a bike lane or reliable, cheap and fast public transportation you can't raise taxes on fuel and expect a change",
+            "title_similarity": "0.6502213",
+            "sentiment_compound": 0.171
+        },
+        {
+            "id": "gzvhd0f",
+            "score": 647,
+            "text": "> who cannot afford alternatives\n\nI was expecting to see a list of all the alternatives and was curious how you'd work that into your view. You only gave one alternative -- drive an electric car.\n\nTwo alternatives I think at least have to be mentioned. Drive Less/Car Pool. Public Transit. \n\nPutting a higher tax on driving (gas) doesn't necessarily cause \"harm\". It causes people to reconsider how much of their budget can/should be allocated to the cost of driving. If the cost is too high, that can be a good motivator to consider alternatives. \n\nFewer people driving, more car pooling, and more public transit use is good for all of us. \n\nThe choices aren't limited to: Drive 12k-15k miles per year in a standard fuel car and Drive 12k-15k miles per year in an EV. There are many many other alternatives. Encouraging more people to consider and use those other alternatives is a good thing.\n\n(20 different people responding with the exact same response isn't necessary. I know rural areas exist.)",
+            "title_similarity": "0.67094886",
+            "sentiment_compound": 0.951
+        },
+        {
+            "id": "gzvvpe4",
+            "score": 52,
+            "text": "Cheap petrol has made America used to a culture of private cars and driving long distances. The only way to make that stop is to make it less economically viable for the average person. Taxing fuel is a good way to do that and the money raised can be spent on environmental projects.\n\nOne of the main reasons public transport is bad in most of America is that most people drive, places that tax fuel readdress this.",
+            "title_similarity": "0.7219782",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "gzvptb2",
+            "score": 0,
+            "text": "you dont wanna know german taxes on gas then",
+            "title_similarity": "0.52041173",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzw8x30",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.009985747"
+        },
+        {
+            "id": "gzvw89l",
+            "score": 4,
+            "text": "Most don't know how heavily subsidized  oil & gas is nor the part of our \"defense budget\" allocated towards ensuring o&g market dominance. We ALL pay for subsidized fuel, even those of us who don't drive. \n\nNow, if it were a free market we would see $10/gallon if not more. The billions/yr o&g spends on marketing and political influence would have a lot more impact on fuel costs if we the people weren't funding most of it.",
+            "title_similarity": "0.7716528",
+            "sentiment_compound": 0.743
+        },
+        {
+            "id": "gzw5a9z",
+            "score": 1,
+            "text": "Yes, this is by definition a regressive tax and should not be used except in extreme circumstances like perhaps cigarettes. Gasoline taxes should be progressive, like all taxes should be, so we stop charging poor people higher total (or real effective) tax rates than billionaires.\n\nOnly in America, after 40 years of trickle down propaganda and intentional dumbing down the citizenry, is your statement controversial.",
+            "title_similarity": "0.79995584",
+            "sentiment_compound": 0.3535
+        },
+        {
+            "id": "gzvsl20",
+            "score": 2,
+            "text": "Did you see the new EV Tax credit by a corrupt politician where Tesla vehicles (non-UAW factor, not defending that but important distinction) get less of a tax credit than other American made vehicles. Michigan Senator Debbie Stabenow who has GM, Ford and obviously United Auto Workers Union as her main campaign contributors have clearly crafted this bill to help certain US companies while hurting others.\n\nNow Tesla has its own problems and I am not defending them but this is clearly bribery and its legal at the moment due to our corrupt politicians re-writing campaign finance laws and allowing for this kind of graft.\n\nIf the US citizens want to reclaim whats best for them and not whats best for some corporation, industry or even a specific person, we need major campaign finance reform. This is one of many examples in a long list with ISP's, media companies and oil and gas industries doing whats best for a few because our paid \"civil servants\" decide its best to help a few rather than the majority of its citizens to get more campaign financing.\n\nBesides all of that, how many of these EV vehicles are available as I know the Model 3 & Y are all sold out and there are waiting lists so although an incentive tax credit is nice idea it still makes a $40k car into a $30k car and if you are only making $50k or less you would be bad with finances to try and afford that on that salary. There is no way most people would ever be able to afford that, especially single parents and low income people.",
+            "title_similarity": "0.74535716",
+            "sentiment_compound": 0.9888
+        },
+        {
+            "id": "gzvyyl2",
+            "score": 67,
+            "text": "You know what else is going to harm poor people disproportionately? \n\nGlobal Warming. \n\nIf this reduces people's carbon footprint, poor people will be the ones that benefit the most. \n\nMight they not always be the same poor people who are paying the cost of the externalities that they are imposing on others? Probably, but so what?\n\nOf course, even better would be a general carbon tax... but the easiest and most transparent way to actually *impose* a carbon tax on gasoline is a gas tax... \n\nJust take the money and use it for whatever level of universal basic income the tax can support. That way on average poor people will not suffer from the increased tax... only the ones abusing the planet the most will.\n\nThe poor people using a lot of gas *really need to stop*. They are harming other poor people by their actions, so I'm not going to cry any crocodile tears.",
+            "title_similarity": "0.76279724",
+            "sentiment_compound": -0.9439
+        },
+        {
+            "id": "gzvv93i",
+            "score": 0,
+            "text": "Who said other taxes can't be cut?",
+            "title_similarity": "0.40628785",
+            "sentiment_compound": 0.2057
+        },
+        {
+            "id": "gzvvr9k",
+            "score": 0,
+            "text": "You’re describing “regressive tax”.",
+            "title_similarity": "0.40459624",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzw344b",
+            "score": 0,
+            "text": "\"Get Ready for $5 Gasoline if You Live in California—or if You Don’t...\"\n\nThey said the same thing with the pipeline hack and gas did not move one cent in either direction in MO.",
+            "title_similarity": "0.6937282",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gzw6g9z",
+            "score": 0,
+            "text": "This is a pointless tax. Greenhouse gas emissions should be addressed by corporations, not people. Increase regulations for farming cattle, that's a large greenhouse gas emitter. Make industrial transportation emit less pollution. Increase subsidies to consumers buying hybrids and electrics to drive the market the direction you want. Increase subsidies on using plastic replacements and subsidize HOAs or rental units with recycling services.\n\nGasoline taxes hurt the poor. If we change the market so the cheapest cars are hybrids and electrics, and we make it plausible to charge cars everywhere in the US, we can slowly remove dependence off gasoline. Plenty of Americans don't go out as is because they don't have enough money. This is just more money out of their pockets.",
+            "title_similarity": "0.7811099",
+            "sentiment_compound": -0.5914
+        },
+        {
+            "id": "gzwaa49",
+            "score": 0,
+            "text": "Sticking with the same tax strategy is already crap. Don't add any taxes to gas and start taxing the rich so they pay their fair share. And I'm talking about 100M+ kinda rich. Start adding more brackets above our miniscule cap of 500k.",
+            "title_similarity": "0.8169975",
+            "sentiment_compound": 0.798
+        },
+        {
+            "id": "gzwq59i",
+            "score": 0,
+            "text": "Additional taxes are always a bad idea in my opinion. These taxes disproportionately affect lower income families, and anyone who lives outside a major metropolitan area.\n\nDid anyone think of the people who can't afford an EV, or the people who have to drive 100 miles to the nearest grocery store when this was proposed? No, of course not.",
+            "title_similarity": "0.7648311",
+            "sentiment_compound": -0.6908
+        },
+        {
+            "id": "gzy2o1p",
+            "score": 0,
+            "text": "Stop taxing things for any other reason than to meet the expenses it takes to run the government. Quit taxing things to “curb behavior” or because so and so should pay “their fair share” etc. the government needs to be put on a budget and then report how much it needs and tax that much. Just taxing people for other means and then wasting that money on bs has to stop. How did we ever let our government get away with this?",
+            "title_similarity": "0.6798016",
+            "sentiment_compound": -0.6682
+        },
+        {
+            "id": "gzykl9m",
+            "score": 0,
+            "text": "Fuck government. Stay out of my life. Defund Congress.",
+            "title_similarity": "0.43986988",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gzvvtd2",
+            "score": 9,
+            "text": ">raising gasoline prices before viable alternatives are ready is jumping the gun because it disproportionately hurts a family who cannot afford an EV\n\nThe whole purpose of creating such a tax is to encourage the development and adoption of such alternatives. Including public transit, simply reducing traveling period, walking/biking more, etc. Not to encourage EVs. Increasing EV adoption has instrumental value. Not intrinsic value. They are better than gas cars. But worse than not cars. \n\nAnd you seem to be greatly overestimating the extent to which price is the limiting factor in EV adoption. As if everyone would by default choose an EV if they could afford it. That is a wild assumption to make.\n\nA vehicle is a major investment. One which carries a good amount of risk and is done rather rarely if at all. My car is working fine at the moment. It gets me to work. It isnt perfect but I have already largely planned for its shortcomings. \n\nI have never been in an EV. I dont personally know anyone that has one. I am fairly certain that if my car was suddenly switched out with an ev, I could make it work more or less. But there is definitely uncertainty there. I live in a cold, mountainous, wet, rural area. All things I am fairly certain impact the performance of EVs. It also impacts ICE performance. But where an ICE measures that affect in milage(cost), EVs measure it in range(hard limit on viability for transportation needs). \n\nIf I needed to replace my car now, I probably would not buy an EV. My ability to afford it would not be the determining factor. For a subsidy to alter that decision it would have to be large enough to overcome the risk that it may not actually meet my needs, the inconvenience of adjusting my transportation needs to its limitations, and the cost of renting a car for when it doesn't. In other words, it would have to be substantial. Substantial enough that it would likely actually be cheaper to implement a gas tax in conjunction with a proportional increase to the eitc or something similar to defer the regressive impact of a gas tax. \n\nI would not be alone in this. \n\nAnd after that is all said and done it would still have a marginal, indirect, and limited impact on emissions. \n\nA gas tax would directly disincentivize gas consumption at all levels of society and incentivize finding alternatives. One of which could be EVs anyway.",
+            "title_similarity": "0.828617",
+            "sentiment_compound": 0.4194
+        },
+        {
+            "id": "gzvns71",
+            "score": 251,
+            "text": "OK, here is reality: taxes **always** fall hardest on the poor.\n\nIf you tax something that everyone needs, that tax will naturally fall hardest on the poor, as they have the least disposable income.\n\nIf you tax something that everyone wants, rich people have the flexibility to arrange their life-style to purchase some substitute.  The poor either pay the tax or do without.\n\nIf you tax something that only the rich buy, rich people just don’t buy it.\n\nYou would think that that last one would be OK — but think again.\n\nAbout 25 years back, the Federal government put a special tax on the building of luxury yachts.  Hah-hah, only rich fat-cats buy luxury yachts!  Well, it turns out, if there is a special tax on building luxury yachts, rich fat-cats don’t buy luxury yachts, or not new, American-built ones.  They bought used, or over-seas — and a bunch of working-class ship-wrights lost their livelihoods.\n\nYou are trying to propose a more elaborate law that you think will do better, but it won’t.  As you make things more complicated, it gets harder to _see_ how things will go wrong, but there are more things to go wrong and not being able to see it just makes thing worse.\n\nIt’s like perpetual-energy: it may _feel_ that the problem is almost fixed, that one more gear or lever or ramp will get the gizmo working, but no, the problem is fundamental, and no amount of tweaking will fix it.",
+            "title_similarity": "0.77647656",
+            "sentiment_compound": 0.8025
+        },
+        {
+            "id": "gzvz5p2",
+            "score": 1,
+            "text": "Honestly what matters is that there are alternatives, public transport is far less expensive than owning and maintaining a private vehicle. In general, we survived with out gasoline for thousands of years, society makes us think otherwise. More affordable and eco-friendly technology is happening, it's just taking time, but I don't think money should be an excuse to perpetuate very real and non-monetary issues.",
+            "title_similarity": "0.61993086",
+            "sentiment_compound": 0.5647
+        },
+        {
+            "id": "gzw1wri",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.009985747"
+        },
+        {
+            "id": "gzw2z7n",
+            "score": 1,
+            "text": "Im pretty sure places like cali, or to be more precise big cities in cali, are trying to get more ppl to use bikes, public transportation and other things that dont make emissions.\n\nThis fits perfectly into this",
+            "title_similarity": "0.5004801",
+            "sentiment_compound": 0.9042
+        },
+        {
+            "id": "gzw4akh",
+            "score": 1,
+            "text": "Why don’t we tax the companies who continue to produce standard gasoline engines, instead of placing the burden on the people?",
+            "title_similarity": "0.68056905",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "gzw51o3",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.009985747"
+        },
+        {
+            "id": "gzwxq5d",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.009985747"
+        },
+        {
+            "id": "gzwyl0c",
+            "score": 1,
+            "text": "Cheaper alternative: bicycle.  \n  \nHopefully cars will be phased out in a few decades.",
+            "title_similarity": "0.4820428",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "gzvo5g8",
+            "score": 40,
+            "text": "[deleted]",
+            "title_similarity": "0.05182995"
+        },
+        {
+            "id": "gzvervj",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.009985747"
+        },
+        {
+            "id": "gzvq0dm",
+            "score": 2,
+            "text": "How do you propose we pay for road maintenance?",
+            "title_similarity": "0.3213912",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "gzwatr4",
+            "score": 2,
+            "text": "Not only have you failed to consider alternative transportation such as bicycles and public transportation, but you have also failed to consider the disproportionate burden that climate change is unleashing on poor people - so reducing taxes on fossil fuels (which are mostly subsidized anyways) would only hurt poor people more as they bear the brunt of climate-induced storms, heatwaves, droughts, et cetera.",
+            "title_similarity": "0.7401936",
+            "sentiment_compound": -0.976
+        },
+        {
+            "id": "gzvcmn6",
+            "score": 42,
+            "text": "FYI: Your chart isn't complete\n\nYou can see that as a regressive tax, but it's also a consumption tax, both of gas (literally) and as a proxy for driving on the road in general. We all use roads, and EVs tear up the road just as much as gas and diesel cars do. One of the solutions is to shift some of the road costs to excise taxes on EVs, which occurs at registration.\n\nDoes your plan include these excise taxes?",
+            "title_similarity": "0.72687876",
+            "sentiment_compound": 0.4246
+        },
+        {
+            "id": "gzvs9b7",
+            "score": 16,
+            "text": "It actually disproportionately harms lower income  workers who require a full size vehicle for their livelihood.  Landscapers, haulers, movers, painters, etc.",
+            "title_similarity": "0.6279435",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "gzw3ilf",
+            "score": 20,
+            "text": "Every piece of legislation has winners and losers. Rural America is heavily subsidized by urban/suburban America. Roadways, healthcare, and education would not exist in their current forms, unless funds were taken directly from these more successful areas of the country. The 2017 tax cut saw SALT deductions slashed, which overwhelmingly favored America's rural residents. Americans enjoy insanely cheap gas compared to the rest of the developed world, just look at prices in Europe. Norway, Germany, France, the UK, the Netherlands, Italy, and Sweden all prices north of $5/gallon. These countries all have rural areas of their own and European infrastructure don't service every rural area.  The previous president set fuel consumption targets that would expect 54/mpg for cars and light-duty trucks by 2025, which implemented in conjunction with fuel prices would curb the pain for rural residents.\n\nAll of this completely ignores the fact that minimum wage increases would help offset some of these expenses. In my rust belt rural hometown wages haven't increased since the minimum wage hike over a decade ago. If you truly care about helping families in rural America, hiking wages would have a greater impact on the community where large portions of the population live below the poverty line. Use these gas taxes to create further benefits for rural child care and establishing functional commuter rails where it makes sense to alleviate the some the pain you're discussing.\n\nFurthermore give tax credits to Americans with heavy work trucks that use these trucks in a workplace. The vast majority of the opposition I've seen to increased gas taxes has come from <10/mpg heavy trucks that are luxury vehicles in rural America. The push for fuel efficiency hasn't included these gas guzzlers and their owners make the most noise since these taxes would disproportionately affect them. Operating such a vehicle would be cost prohibitive in Europe, but only works in America due to our excessive oil subsidies.",
+            "title_similarity": "0.738221",
+            "sentiment_compound": 0.8535
+        },
+        {
+            "id": "gzvxw9w",
+            "score": 4,
+            "text": "In the case of taxes on gasoline, how Canada handled it is to return all taxes money back to the people. \n\nSo yes, you pay 150$/year more at the pump, but you get a 250 rebate. If you go electric, that full rebate can go towards your car loan. \n\nThe people losing out are polluting companies and, more unfortunately, self-employed Truck drivers, who consume large quantities of gasoline. They might pay 1000$/year more, and get the same 250 back. This encourages companies to go electric, since they can afford it, but the self employed truck driver might still struggle.",
+            "title_similarity": "0.78677577",
+            "sentiment_compound": -0.6141
+        },
+        {
+            "id": "gzvzrm7",
+            "score": 6,
+            "text": "In addition to what u/EdTavner said, higher prices shifts individual calculus for determining which products to purchase. Public transit gets cheaper and cheaper the more it is used. So increased gas cost drives people to use public transit which incentivizes the municipality to increase access and add lines. It also increases investment by competitors (public transit as mentioned, electric vehicles, etc) where new technologies and efficiencies are gained driving those prices down. Look at what happened when solar and wind energy began to close in on fossil fuel energy prices. Investment and innovation skyrocketed and that’s still with fossil fuel subsidies in place.",
+            "title_similarity": "0.7690667",
+            "sentiment_compound": 0.933
+        },
+        {
+            "id": "gzw21o1",
+            "score": 2,
+            "text": "The problem is climate change will do the same thing on steroids but to people who had no say so.",
+            "title_similarity": "0.59401965",
+            "sentiment_compound": -0.5647
+        },
+        {
+            "id": "gzw2973",
+            "score": 1,
+            "text": "Get ready? It's been like this in San Diego for a while now:\n\n[gas price](https://imgur.com/gallery/rXOHLo2)",
+            "title_similarity": "0.50080895",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "gzw37qt",
+            "score": 9,
+            "text": "While I totally get where your coming from, the proof is in the pudding, gas is precisely 5+ bucks in the EU. And because of that, public transportation and electric vehicles, as well as more reserved driving patterns are all results. It’s happened elsewhere and it works. I’ll concede that in the US, a grant for families that show a need for gasoline transportation should be supplied, but expensive gas has been a leading drive in better public transportation from greater need",
+            "title_similarity": "0.78978956",
+            "sentiment_compound": 0.8555
+        },
+        {
+            "id": "gzw6c3p",
+            "score": 28,
+            "text": "There is a major environmental disadvantage I see in your plan: it only incentivizes EVs over every gas car. In the long run, yes it’d be great to switch everyone to electric, but there’s way more people who can choose to burn less gas than who can get a Tesla. It also doesn’t incentivize companies at all, and fleets can be a huge number of cars on the road.\n\nThe price of gas has been low enough for a while that people have been buying more SUVs and Trucks despite their low MPG. That needs to shift.\n\nPoor people are less likely to be able to buy a new electric car at all, but very fuel-efficient cars have been around for a while. A 2008 45 mpg Prius is around $5K. And if you include the environmental toll of making a car in the first place, the guy who buys the old Prius and runs it into the ground is likely decreasing their carbon footprint vs a new electric. He’d also be paying less on the tax than the guy who bought a new F150.\n\nIf the federal plan can get just over twice as many people to choose a twice as fuel-efficient car as your plan can get additional people to switch to electric it wins. I just don’t see that happening for an extra $3K to some people.",
+            "title_similarity": "0.7463241",
+            "sentiment_compound": 0.7377
+        },
+        {
+            "id": "gzw7bh2",
+            "score": 1,
+            "text": "Agreed",
+            "title_similarity": "-0.19960675",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "gzw7eml",
+            "score": 1,
+            "text": "This goes for everything in our society",
+            "title_similarity": "0.053177863",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzwaa3w",
+            "score": 3,
+            "text": "Who are you specifically talking about when you say those who cannot afford alternatives?  The poorest people is this country don't own cars and the poorest people who do have cars consume less gasoline than say someone in the middle class because of the price.\n\nI think there are details about the policy goals here that are missing. The point of the tax tax isn't to convince people to specifically electrify, but to use less gasoline. One way to do this is moving to electric, but dissuading gas use in general also helps with the policy goal. If people drive a little less, or skip the road trip for a more local plan that is the tax working as intended. The opposite is true of the incentive, its not meant to help people buy electric vehicles if they want one but cannot afford it, it is meant to incentive people to electrify at the margins. This is why the credit isn't income based until the very top end where the incentive is unlikely to change behavior, you want to convince people to buy electric and your proposal does not do this as strongly for higher income people. Environmentally speaking convincing a high income person to buy an EV instead is just as valuable as convincing anyone else regardless of if they could have afforded it otherwise, and although there are fewer of them per person its actually more important to convince higher income people (not super-rich because of the cap, think upper-middle class) because they consume more (in this case buy more cars more frequently).\n\nYou're only talking about the costs, but what about the benefits? Surely that is important to determine net harm. The effects of climate change and local pollution are and in the future will be disproportionately borne by the poor. They therefore benefit the most from policies which attempt to address them. So for any poor households without a car, this is purely upside. Among those who do own a car you need to balance between extra gas taxes and long-term benefits. Then you need to combine these groups and decide if it's a net help or harm. I don't think there is a way to prove that empirically either way, but I think that's the correct framework to think about it and reach whichever conclusions you do.",
+            "title_similarity": "0.74363333",
+            "sentiment_compound": 0.9899
+        },
+        {
+            "id": "gzwaiwn",
+            "score": 1,
+            "text": "\n>2. Announce a plan for raising gasoline prices to $1 a gallon per year over a 5 year period, coupled with an outreach / marketing program to sell Americans on the benefits of EVs - including a calculator that illustrates their 5-year savings. I chose 5 years as the amount of time it takes to build out sufficient charger infrastructure to make EVs a viable choice for most.\n\nThis really jumps out at problematic to me. It's way too fast. Are you suggesting every family has to buy a new car in the next five years? Most people would have a hard time allocating the budget for that, let alone with the skyrocketing prices that this suggestion would bring to the market via a massive shift in the demand curve. And the people that would be hurt the most by this would be the poorest families, the ones least able to rapidly shift to buying an EV. Something like a 10 year escalation, or more, would be necessary.",
+            "title_similarity": "0.77375495",
+            "sentiment_compound": -0.7579
+        },
+        {
+            "id": "gzwbmk3",
+            "score": 2,
+            "text": "You can say this about milk or potatoes.\n\nThere’s no cheap alternative to milk. But the price flux’s like crazy.",
+            "title_similarity": "0.6405778",
+            "sentiment_compound": -0.1154
+        },
+        {
+            "id": "gzwd28y",
+            "score": 1,
+            "text": "I can’t speak to Biden’s plan, but I can speak to some logic for CA:\n\nFirst, CA combines the gas tax with incentives for EVs that scale with income through the [Clean Vehicle Rebate Project](https://www.coltura.org/electric-vehicle-rebate-california). So, they agree with you!\n\nSecond, the point of the tax is to internalize the externalities posed by cars that use gas. There are many externalities there; the most famous is the overall contribution to climate change. But, it also includes localized pollution, which is why CA has such strict emissions laws. Inevitably, areas with poor air quality result in both cheap housing and also reduce life span and lower quality of life (asthma rates are higher, etc). So, the total cost of the gas tax is (cost of tax in $) - (marginal benefit of better air quality). I don’t think this changes the math to a benefit, but the point is that car pollution disproportionately affects low income communities, so there is at least some benefit there. \n\nAs a side note, the history of pollution/air quality in CA and LA in particular is pretty interesting — see [these photos](https://www.insider.com/vintage-photos-los-angeles-smog-pollution-epa-2020-1) for why they have CA has focused so hard on reducing car pollution.",
+            "title_similarity": "0.76314986",
+            "sentiment_compound": 0.9786
+        },
+        {
+            "id": "gzwdsh8",
+            "score": 3,
+            "text": "I’m not sure if anyone else has mentioned this yet, but gasoline is already subsidized by the US government .  If it weren’t, prices would be much higher than they are.  In a way, the burden already rests heavily on tax paying citizens.  We could always remove the subsidies from fuel, and put them on cleaner energy initiatives.  I’m not sure if that would balance the problem out, but it’s just a thought.",
+            "title_similarity": "0.77802014",
+            "sentiment_compound": -0.7666
+        },
+        {
+            "id": "gzwelsv",
+            "score": 1,
+            "text": "I’m pretty far to the left, and strongly support arguments like billionaires need to pay their fair share. \n\nAnd that’s exact what happens with a gas tax, everyone who uses it pays for their usage. \n\nEV vehicles should be paying an attentional fee at license renewal to offset.",
+            "title_similarity": "0.7056246",
+            "sentiment_compound": 0.872
+        },
+        {
+            "id": "gzwezks",
+            "score": 1,
+            "text": "CMV: Making things more expensive disproportionately harms people with less money.\n\nSo I don’t know if that’s a disagreement or what",
+            "title_similarity": "0.6861841",
+            "sentiment_compound": -0.7152
+        },
+        {
+            "id": "gzwgytp",
+            "score": 1,
+            "text": "If by “additional” you mean “all,” then I agree.",
+            "title_similarity": "0.026925215",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gzwj1f7",
+            "score": 1,
+            "text": "This is why more taxes need to be at different levels based on income. People who don’t make much money shouldn’t have to pay a gas tax like this, since they can’t afford it or get around it; people who make large amounts of money should be taxed, perhaps at even higher levels, as they can afford to pay the taxes or  buy an electric car.",
+            "title_similarity": "0.8000246",
+            "sentiment_compound": 0.1779
+        },
+        {
+            "id": "gzwkggy",
+            "score": 1,
+            "text": "I live in California and raising the tax so that people will shift to EV’s doesn’t work.  People started buying hybrids and EV’s, so guess what the state loss the revenue from that gas punishment and they raised the taxes on gas again to make up for it.  The thing that isn’t talked about with EV’s is the next environmental disaster in the making, disposing of their highly toxic batteries.",
+            "title_similarity": "0.8619618",
+            "sentiment_compound": -0.8625
+        },
+        {
+            "id": "gzwkod8",
+            "score": 1,
+            "text": "IMO you can solve a lot of problems by using the revenue of the tax for a citizen's dividend.\n\n- Poorer families will actually benefit from it even if they can't change their need to drive to employment.\n\n- In spite of that, the incentive to use less gas for those who have the option to change, still remains intact.\n\n- As an additional bonus, it counters the considerable resistance against a fuel tax raise by keeping it insulated from general policy spending, given that the money goes straight back to the people.",
+            "title_similarity": "0.69046843",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "gzwns94",
+            "score": 1,
+            "text": "Honestly it's not even this factor that gets me. Lots of people live in apartments with no charging options. I'd love an EV but nowhere to charge so I can't even consider it as an option.",
+            "title_similarity": "0.3830089",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "gzwq2p7",
+            "score": 2,
+            "text": "But help them too by reducing pollution. Cars cause not only air pollution, but are the number one cause of micro plastics near waterways. \n\nCars also kill 40,000 people every single year, and cause major injuries to over a million people. \n\nAnything we can do to reduce car usage is good for everyone. The best way to reduce car usage is to increase gas prices.",
+            "title_similarity": "0.7688025",
+            "sentiment_compound": 0.8765
+        },
+        {
+            "id": "gzwqwc7",
+            "score": 3,
+            "text": "The intent of these laws and taxes is to increase barriers to the use of gas in order to preserve our environment and shift to more sustainable resources. This is mostly because the use of gasoline and oil is not sustainable. These resources are subsidized by the government and, as they become more rare, will require more subsidizing to keep the price \"fair\". This will only worsen the situation as time goes on. It's much less 'harmful' to get people more comfortable with finding alternatives which are more sustainable for them financially and for the economy and environment.\n\nSo firstly, the gas tax is important.\n\nYour suggestion for a lower incentive do make sense for making people who need gas more comfortable, but the point of these taxes are not to make people comfortable with using gas, it's to make people less comfortable and more directly see the effects of using unsustainable resources.\n\nI think if people have a problem with the taxes, or these policies, they should ask their government and companies they work for for more support transitioning or subsidizing their work expenses.",
+            "title_similarity": "0.78236425",
+            "sentiment_compound": 0.9348
+        },
+        {
+            "id": "gzwrf9a",
+            "score": 1,
+            "text": "As many other people have pointed out, yes any kind of sales tax is going to be inherently regressive. However, what do you think of the carbon tax and dividend model many progressive climate advocates promote?\n\nThe idea is that you have your tax on gas, which is regressive, but all revenue from that tax is then equally distributed back to all citizens. You get the same amount of money from the dividend regardless of income or personal carbon footprint.\n\nThe effect is that if you have an average carbon footprint, then yes your gas is more expensive at the pump, but the dividend should balance that out. If you're an above average emitter, then you will lose money overall, but if you're carbon footprint is below average then you should save money.\n\nIncome level roughly correlates to carbon footprint, so this model should help alleviate the regressive nature of a gas tax, while still providing incentives to switch to lower carbon alternatives since they will be more cost competitive with a gas tax.",
+            "title_similarity": "0.7648772",
+            "sentiment_compound": 0.9204
+        },
+        {
+            "id": "gzwrjj2",
+            "score": 1,
+            "text": "The real end goal should be reduction in car reliance and urban sprawl and increased use of dense neighborhoods and transit. \n\nBut those things don’t happen unless people are incentivized to get out of their cars. Transit can’t be supported and expanded unless people take it. The money also needs to come from somewhere. \n\nThe immediate harm is somewhat necessary to move towards this goal. Long term having cities where low income people are mobile and living closer to work and don’t need the additional expense of a car (which is one of the biggest after housing) is incredible beneficial to the very demographic that has taxes hurt.",
+            "title_similarity": "0.67968976",
+            "sentiment_compound": -0.6382
+        },
+        {
+            "id": "gzwrjtc",
+            "score": 1,
+            "text": "if you are viewing it as a matter of only EV versus gasoline then your point makes sense.\n\nbut the biggest thing a high gas tax incentivizes is drop-in replacement fuels.  you can use your existing vehicle, maybe with minor modification, and avoid the high gas price while also reducing your carbon footprint.\n\nbut drop-in development has something of a catch-22, the goal is to replicate the chemical performance of gasoline, at least as far as fuel/air mixture, detonation velocity, temperature of combustion and soot/byproduct cleanliness goes.  but what's the point of making erzatz petrol if petrol continues to be cheap.  but the moment petrol isn't cheap you have a crisis which you could have averted by looking at drop-in fuels.\n\nas a result artificially increasing the price of gasoline to rationalize it's cost relative to it's externalized costs is a vital step in making bioreplacemebt viable, and once it is there is literally no reason to use gasoline for something as inefficient as transportation.",
+            "title_similarity": "0.7770559",
+            "sentiment_compound": -0.8705
+        },
+        {
+            "id": "gzwt8nv",
+            "score": 1,
+            "text": "I'm not a fan.  I bought I used Honda civic with under 100k miles for 3 grand. The car might last me 10 years.  Due to its low value I can also carry liability only insurance coverage.  So I'm only paying around 600 a year for vehicle costs with only a few hundred a year in maintenance. Pretty much less than a grand a year before fuel costs.\n\nThe cheapest decent electric vehicles with a respectable range is what like 30k+?  Even with your inventive I'm still gonna have to drop at least 20 grand.  Your inventives aren't gonna be nearly enough for people with low income.  I don't think this is advisable at all until you can get a used long range EV with under 100k miles for 10k or under\n\nI also often make 200 plus mile round trips to visit friends and family, so a low range vehicle isn't an option.  I also live in an apartment where the charging infrastructure is non existent.  While I could technically afford a electric vehicle, that's gonna be a large car payment, large insurance bill and a headache to charge.",
+            "title_similarity": "0.70191556",
+            "sentiment_compound": 0.908
+        },
+        {
+            "id": "gzwtvcy",
+            "score": 1,
+            "text": "I feel similarly about cigarettes. Like let’s just go punish some people financially who are dead set on harming themselves physically .",
+            "title_similarity": "0.56833947",
+            "sentiment_compound": -0.8689
+        },
+        {
+            "id": "gzwybwi",
+            "score": 3,
+            "text": "Flat taxes on needed products will always unfairly affect the poor.  With all due respect, that isn't a view so much as it is a mathematical fact.\n\nCali, as you said, is doing this to help the environment.  You didn't use the words \"climate change\" but that is the reason behind it all.\n\nThe last reports I saw said we would hit a point of no return in 2030 unless we lower carbon emissions by a whole lot very quickly.  That is less than a decade away.\n\nWe are far beyond the point of having the luxury of being fair to everyone. We will have to break a whole lot of eggs to make this omelette, and a lot of those eggs will be poor unfortunately.\n\nPoor people have born the brunt in every major change in human history, and still do today.  That isn't going to change in the next nine years.\n\nYes, poor and lower middle class people in cities will need to take the bus, in rural areas they will need to carpool.  No, that isn't fair, it's just one unfair thing that needs to happen along with lots of other unfair things to have even a small chance at this. \n\nBy the way, I like your plan, but a lot of poor people don't have garages to charge their EV's in, so I am just not sure what that would look like.  I don't know if there would be enough charging stations in the infrastructure to make that work.",
+            "title_similarity": "0.75201005",
+            "sentiment_compound": -0.9775
+        },
+        {
+            "id": "gzx0okv",
+            "score": 1,
+            "text": "Several state (and I believe the federal also) are already stating to complain about the lost tax revenue associated with drivers moving to hybrids and all electric vehicles. Gasoline and diesel consumption has dropped because of this shift and they are already looking to implement ways to offset this loss with other tax methods aimed at the alternative transportation markets",
+            "title_similarity": "0.7518352",
+            "sentiment_compound": -0.7525
+        },
+        {
+            "id": "gzx2q88",
+            "score": 1,
+            "text": "Yes.... but that's literally the point. Make pollution cost more money so that people will avoid doing it to save cash.",
+            "title_similarity": "0.7414819",
+            "sentiment_compound": 0.5187
+        },
+        {
+            "id": "gzx3tji",
+            "score": 1,
+            "text": "I agree it pushes the financial burden onto the end user when in reality it's obvious that gasoline still provides a huge profit with or without the tax meaning; the tax is pointless.",
+            "title_similarity": "0.7108451",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "gzx4udf",
+            "score": 1,
+            "text": "Hinestly 10k isnt going g incentivize a lot fo people to be honest most people cant even afford a 20k vehicle heck most a 10k car and electric cars are far above that price.",
+            "title_similarity": "0.6734804",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "gzx5hhy",
+            "score": 1,
+            "text": "How about instead of forcing people to buy a new electric vehicle we allow manufacturers to create enough surplus of used electric cars to make it possible for regular citizen to purchase one. \n\nPeople buy used cars at a rate of about 2.8-1 so the used market is very important for most people when looking at purchasing a used car.\n\nPeople also need to have the proper electrical circuit to charge their vehicle. Some people may need home modifications to allow them to charge their vehicle. Some people may not have access to charge their vehicle in the place they live aswell.\n\nSome people drive long routes during the day for work and are unable to do so on a single charge.\n\nAll taxing gasoline does is give the government more money to play with and not follow through with their promises. Many states pay high gas tax already and have horrible road conditions and school systems which these taxes are supposed to be funding.\n\nMandating a complete overhaul of the transportation in the United States is not something that we can accomplish in 5 years. Let alone 20. We lack the infrastructure that many countries do in Europe for example. Many major cities in the united states lack a subway system, or other reliable forms of transport. And many Americans live in areas where public transport is just not an option. \n\nConclusion- I believe that mandating electric vehicles for the whole country is not an option. Allow the states to take these ideas to their own legislative branches and let the voters of their states decide for themselves. The country needs time before we can completely change the transportation system. And it won't happen in 5-10 years.",
+            "title_similarity": "0.6704612",
+            "sentiment_compound": 0.8172
+        },
+        {
+            "id": "gzx60ni",
+            "score": 1,
+            "text": "Raise income taxes for the wealthy, use said taxes to subsidise what you want the poor to adopt, repeat ad nauseum.",
+            "title_similarity": "0.6536933",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "gzx7nvi",
+            "score": 1,
+            "text": "In Canada the carbon tax brings up gas prices however every year 10% or so goes to public funding and 90% is paid back to Canadians so most Canadians and especially poorer Canadians actually end up with more money.",
+            "title_similarity": "0.68689686",
+            "sentiment_compound": -0.4201
+        },
+        {
+            "id": "gzx9knr",
+            "score": 1,
+            "text": "I know the exact gas station pictured above - near Fairfax and San Vicente in LA. This station is always $1-$2 above every other gas station nearby. I don’t get why people buy here when they could drive 2 minutes in either direction and save a ton of money.",
+            "title_similarity": "0.6702404",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "gzx9x5h",
+            "score": 1,
+            "text": "Where I live I pay a “hybrid tax” every time I register my car because I’m not giving enough money to gas companies apparently",
+            "title_similarity": "0.7206911",
+            "sentiment_compound": -0.3476
+        },
+        {
+            "id": "gzxanyt",
+            "score": 1,
+            "text": "Im in the UK and i think public transport should be heavily invested in and be made free for low income residents\n\nI also think they should further increase road rax, low emission cars currently pay zero road tax, which is great, but gas guzzlers should be stupidly highly taxed in my opinion, most people driving huge 4x4s do not need to, they simply do it as a statement of wealth, same with supercars, in a country where the national speed limit is 60/70, finamce should not be availble on these types of cars either, they should be as inaccessible as possible\nCompanies should also be made to use EVs rather than petrol or diesel vehicles where possible, for instance, company cars and some vans",
+            "title_similarity": "0.72208524",
+            "sentiment_compound": 0.7714
+        },
+        {
+            "id": "gzxbmq6",
+            "score": 1,
+            "text": "Question: Is this just about gasoline or is diesel included in the tax hike? Cause people may shift to diesels if diesel isnt taxed as well.",
+            "title_similarity": "0.7460395",
+            "sentiment_compound": -0.2057
+        },
+        {
+            "id": "gzxcjmc",
+            "score": 1,
+            "text": "I think the goal here is to change who can afford what. I.e. by manipulating the market to make ICE more expensive and EVs cheaper, you are trying to shift the demographic of \"people using the cheapest transport they can\"  on to electric motors. What the world needs, is just a really cheap and functional EV with less features and a way lower cost to make EV adoption much more affordable for everyone.\n\nAs others have said, if you can't get an EV right now, the tax still serves to incentivize reducing gasoline use by using public transport, carpooling, walking/biking etc.",
+            "title_similarity": "0.71092486",
+            "sentiment_compound": -0.5719
+        },
+        {
+            "id": "gzxd0t3",
+            "score": 1,
+            "text": "This is the whole point",
+            "title_similarity": "-0.11752307",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzxids8",
+            "score": 1,
+            "text": "The population of people who live next to highways skews heavily poor, and gas taxes, which strongly disincentivize gas-guzzling cars, strongly reduce the harmful effects of road pollution on the lungs of young poor people.",
+            "title_similarity": "0.75198865",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "gzxiqvp",
+            "score": 1,
+            "text": "So the government's going to  taxes us again after they gave all the money to the airplane corporation.\n So now they can just screw us out of billions if not trillions of dollars.\nWe use to have fairly good public transit. Buses, trolleys, trains, trains could have been really good by now but no they shut them down and the buses  cuz it cost too much. Really it well so they could give all the money to the airplane corporations and line their own pockets.",
+            "title_similarity": "0.76183563",
+            "sentiment_compound": 0.4791
+        },
+        {
+            "id": "gzxklv6",
+            "score": 2,
+            "text": "Societies which do not provide public transportation disproportionately harm those who cannot afford personal vehicles.",
+            "title_similarity": "0.54623044",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gzxkm0d",
+            "score": 1,
+            "text": "Ceteris Paribus this is probably true. But the incentive schemes you talk about need taxes from somewhere. So long as the income from taxes is shifted towards making alternatives cheaper, such as investing it in EV's and more importantly, environmentally friendly public transport, the burden on the poorest shouldn't be high at all. In fact, in large urban centers, where these sorts of taxes are highest because of the need to reduce congestion and concentrated emissions, working people hardly ever own cars, they already almost exclusively rely on public transport. So taxes on gas would disproportionately affect those with car owners, the middle class and above, and can be invested into green public transport.",
+            "title_similarity": "0.7729123",
+            "sentiment_compound": 0.5625
+        },
+        {
+            "id": "gzxmmgx",
+            "score": 1,
+            "text": "No matter what America does, it’s not going to reduce gas consumption globally as China, Africa etc will just use whatever gas we choose not to burn",
+            "title_similarity": "0.41431448",
+            "sentiment_compound": -0.0191
+        },
+        {
+            "id": "gzxqie0",
+            "score": 1,
+            "text": "Can’t change your view. Gas tax is regressive. I don’t disagree that it hurts poorer people more. I just don’t have a better answer for how to put for things the gas tax pays for (other than taxing the Uber wealthy and coporations)",
+            "title_similarity": "0.79615855",
+            "sentiment_compound": -0.3626
+        },
+        {
+            "id": "gzxr8mb",
+            "score": 1,
+            "text": "I think this video summaries my response best\nhttps://youtu.be/rSSNlM3Au1A",
+            "title_similarity": "0.21309051",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "gzxrj78",
+            "score": 1,
+            "text": "agreed. liberal policies often neglect the poor in some way, and only focus on one problem\n\nhowever, there is public transportation, so in cities with good public transportation it's not an issue\n\nedge cities often have a decently large poor population that drive cars, and don't have public transportation, so this would definitely harm them",
+            "title_similarity": "0.58583677",
+            "sentiment_compound": -0.8144
+        },
+        {
+            "id": "gzxrv2t",
+            "score": 1,
+            "text": "Poor people are driving big trucks and SUVs. \n\nI say let them pay $5 a gallon. It’s still cheaper than the rest of the world. \n\nI am tired of people tearing up the road while bitching about gas prices each time it goes up.",
+            "title_similarity": "0.81546795",
+            "sentiment_compound": -0.8176
+        },
+        {
+            "id": "gzxt99a",
+            "score": 1,
+            "text": "Thing is if we don't oppress the poor than the upper middle class will lose hope because they wont be able to look down on anyone. So really all taxes that are oppressive to the poor are important to keep suicide rates down and make the upper middle class think their doing something valuable with thier time.",
+            "title_similarity": "0.6613386",
+            "sentiment_compound": -0.5641
+        },
+        {
+            "id": "gzxtjma",
+            "score": 1,
+            "text": "I think your criticism is valid, but it doesn’t address the fundamental issue. Why are we focused on changing consumer behavior rather than production?",
+            "title_similarity": "0.47263277",
+            "sentiment_compound": 0.3506
+        },
+        {
+            "id": "gzxu4mf",
+            "score": 1,
+            "text": "Some of the folks think driving is only for going to work, what about driving just to see things and to enjoy being in this great country, so only (as usual) the elite get to do these things? They get to Cruze Route 66 while the rest of us toil just to find a way to work? That’s just bullshit, then again maybe that’s the point, more control over us",
+            "title_similarity": "0.59939957",
+            "sentiment_compound": 0.6843
+        },
+        {
+            "id": "gzxu4un",
+            "score": 1,
+            "text": "I would argue the scope of your proposal is inherently limited, relative to the problem of global warming and fossil fuel use.\n\nAlso the more complicated and detailed a policy is, the easer it is to \"game\" by those with the means to.\n\nInstead of a specific gasoline tax at the pump. I would tax all fossil fuel extracted or imported by weight. That would raise the price of everything that uses oil, coal, or natural gas.\n\nYes as with everything this will hurt the poor the most. Which is why this and other unfair taxes should be offset by a blanket UBI that will disproportionately HELP the poor.\n\nThat way with simple rules, tied as close to the root problems as possible. You get broader problem solving, with less manipulation by the powerful.\n\nOf course the simplicity game resistant nature of such laws is exactly why they never get passed.",
+            "title_similarity": "0.81927395",
+            "sentiment_compound": -0.8903
+        },
+        {
+            "id": "gzxvxsj",
+            "score": 1,
+            "text": "Just say fees disproportionately effect the poor.",
+            "title_similarity": "0.54717803",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "gzxwc6j",
+            "score": 1,
+            "text": "All taxes aim to harm the poor, this is no exception",
+            "title_similarity": "0.435876",
+            "sentiment_compound": -0.8316
+        },
+        {
+            "id": "gzxwgl2",
+            "score": 1,
+            "text": "Use taxes to subsidize alternatives to the point they become affordable",
+            "title_similarity": "0.45390302",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzxx7um",
+            "score": 1,
+            "text": "Octane is an anti-knock additive. \n\nHigher octane gasoline is more stable than lower octane gasoline. \n\nA higher octane tax would insinuate a more volatile tax, which it seems you are against. \n\nYour proposal is pretty decent, but your play on words is backwards.",
+            "title_similarity": "0.686205",
+            "sentiment_compound": 0.6387
+        },
+        {
+            "id": "gzxy765",
+            "score": 1,
+            "text": "The point is to make alternatives the more affordable option.",
+            "title_similarity": "0.25708336",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzxypgc",
+            "score": 1,
+            "text": "Progressives cheering for a regressive tax.",
+            "title_similarity": "0.5082491",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "gzxzv3h",
+            "score": 1,
+            "text": "You should learn about price elasticity before claiming that people will use less gas if it costs more.",
+            "title_similarity": "0.582796",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzy0jnh",
+            "score": 1,
+            "text": "Majority of electricity in the US still and will come from fossil fuels over the next decade. Electric vehicles are additionally sourced from conflict minerals from Uyighur China as well as child laborers in the Congo. We have no sustainable, ethical supply of battery metals at the moment. Pushing people to EVs is great but it should be prioritized less than grid / renewable generation",
+            "title_similarity": "0.6259141",
+            "sentiment_compound": -0.0003
+        },
+        {
+            "id": "gzy0o5j",
+            "score": 1,
+            "text": "Ah... les gilets jaunes",
+            "title_similarity": "0.018664759",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzy2uyc",
+            "score": 3,
+            "text": "I bike 10k to work.\nI have a bad knee. I cannot afford a car right now I'm confused do you think staying home because you can't drive there is a acceptable reason to be a hermit and not work?",
+            "title_similarity": "0.66717213",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gzy2zvu",
+            "score": 1,
+            "text": "Man, its like they don’t wanna let you live in California no more.",
+            "title_similarity": "0.5100484",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "gzy3dui",
+            "score": 1,
+            "text": "I would like to see the tax credit to be allowed in second hand vehicles and be fully refundable. There would need to be some time limits in place as it would be easy to game the system, but a 4 year old Chevy Bolt at $17k with the old $7500k tax credit + the $2000 CA rebate would open it up to a lot more people.",
+            "title_similarity": "0.70703053",
+            "sentiment_compound": 0.8402
+        },
+        {
+            "id": "gzy4p7d",
+            "score": 1,
+            "text": "This is similar to the argument developing countries use when being asked to use more eco-friendly alternatives.\n\nIt is often more expensive to have more eco friendly utilities and industries. Developing countries often point out that while most modern developed countries were industrialized they paid no attention to their environmental impact for decades. \nTherefore it disproportionately slows their ability to become as developed as the rest of the modern world.\n\nAs others have pointed out, the lowest class will definitely be the most affected by global warming. This is not an easy to solve debate imo.\n\nThis thinking is also what leads to tons of companies placing their most polluting facilities in developing countries who have not yet adopted environmental standards at the same level as developed countries.",
+            "title_similarity": "0.7412232",
+            "sentiment_compound": 0.0719
+        },
+        {
+            "id": "gzy4uu6",
+            "score": 1,
+            "text": "USA ~20% taxes on petrol\nIndia ~260% taxes on petrol",
+            "title_similarity": "0.61360466",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzy88zu",
+            "score": 1,
+            "text": "WHERE IS THIS PICTURE OMG SO SCARY",
+            "title_similarity": "0.27566093",
+            "sentiment_compound": -0.6269
+        },
+        {
+            "id": "gzybejr",
+            "score": 1,
+            "text": "The obvious solution is to pair behaviour altering taxes and incentives with tax breaks and assistance programs aimed at lower income individuals to make the bill revenue neutral.",
+            "title_similarity": "0.556209",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "gzyh2no",
+            "score": 1,
+            "text": "But this is quite common in some countries.India is an economy of head inflation",
+            "title_similarity": "0.55516773",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzym482",
+            "score": 1,
+            "text": "I think we should ask in general instead of just gas, why is it the general prices of every single thing in CA rising my entire life getting more expensive, but not the amount of money earned from wages. 🤔",
+            "title_similarity": "0.8006635",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzynui7",
+            "score": 2,
+            "text": "OP, your CMV would be better without including this \"context\":\n\n>Context: Get Ready for $5 Gasoline if You Live in California—**or if You Don’t...** Golden State laws drive up prices at the pump, and **the Biden administration aims to take them national** [...]\n\nYou're quoting the heading & subhead from an op-ed that frames the whole piece around attacking the Biden administration, but then in the actual body of the editorial, it never once even mentions them or any supposed policy that backs up their subhead. As it's from the Wall Street Journal's editorial section the lazy partisanship is not unexpected, but its \"context\" adds nothing to your CMV.",
+            "title_similarity": "0.9034319",
+            "sentiment_compound": -0.431
+        },
+        {
+            "id": "gzyqw9f",
+            "score": 1,
+            "text": "Have you seen how much it costs in the UK? \n\nAlso people mentioning cigarette tax, about 80% of tobacco prices are tax in the UK. \n\nWe also have sugar tax too for high sugar content such as Coca Cola. \n\nYour gas is cheap in comparison with other countries, but I appreciate your points. Austerity and approaches to tackling poverty goes beyond this point alone, but it’s certainly a start.",
+            "title_similarity": "0.7097995",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "gzyri6e",
+            "score": 1,
+            "text": "Can you shut the fuck up and give us corn 🌽",
+            "title_similarity": "0.29504633",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gzytyai",
+            "score": 1,
+            "text": "Taxes are bad? Imagine my surprise",
+            "title_similarity": "0.5079749",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "gzzfzkw",
+            "score": 1,
+            "text": "As long as there’s a National mandate for all wages to meet the standards of a Living Wage that keeps up with the Real Cost of Living",
+            "title_similarity": "0.36550257",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gzzy0lo",
+            "score": 1,
+            "text": "Your counter-proposal is a lot more government spending than the federal plan.  You're proposing about 10% more in federal incentives while reducing revenue from gas taxes by about $200bn.",
+            "title_similarity": "0.7338301",
+            "sentiment_compound": 0.3744
+        },
+        {
+            "id": "h004av0",
+            "score": 1,
+            "text": "Would it change the view if that's part of the point? It creates need and where there's a need, someone will fill it as long as the need is pressing enough to either generate a profit or satisfy their interests. The difficulty is simply that your counter proposal may not be aggressive enough",
+            "title_similarity": "0.4580093",
+            "sentiment_compound": 0.7932
+        },
+        {
+            "id": "h02izrx",
+            "score": 1,
+            "text": "All sale incentives are wrong. Let me explain. Compare a family that buys an EV to a family that rides bicycle, walks and uses public transport. The latter is actually *less* damaging to the environment than the former and the incentive to buy an EV encourages the family to do that instead. That's just dumb.\n\nOr if you want even better, how about someone who organizes his life so that he can actually work from home and doesn't need any commuting?\n\nSo, if you want to help poor people hit by high gas prices meant to reduce driving with internal combustion engine cars, just give them money with no strings attached. They will then make their own decisions on how to best avoid having to pay the high gas taxes.\n\nEdit. Let me add that sale incentives could be useful to overcome some threshold. For instance in the case of EV the problem could be that not many people buy them because the charging network doesn't exist and nobody builds the charging network as long as there are not enough EVs around. To get out of this vicious cycle, the government subsidies could give a needed push. But this is a completely separate issue of what OP is talking about.",
+            "title_similarity": "0.7330661",
+            "sentiment_compound": 0.0539
+        },
+        {
+            "id": "h02y954",
+            "score": 2,
+            "text": "Canada has perhaps a simple alternative for you. Canada has a carbon tax. It is revenue neutral. Each person gets a rebate of the tax collected. People could use that money how they wish. It could be put towards alternatives. Or could be used to buy gas. Or they could conserve and just pocket the money. They only people that pay more in this system are people using above average carbon. People that were already conserving also get the rebate so it’s good for everyone.",
+            "title_similarity": "0.58668506",
+            "sentiment_compound": 0.6682
+        },
+        {
+            "id": "h04lwp8",
+            "score": 1,
+            "text": "Taxes based on lotteries, cigarettes, parking tickets, speeding tickets, alcohol sales etc are all just taxes on the poor because they do not effect rich people. All fines are taxes on the poor.",
+            "title_similarity": "0.6037918",
+            "sentiment_compound": -0.8452
+        },
+        {
+            "id": "h05vrzp",
+            "score": 1,
+            "text": "This is a solution in search of a problem. Mileage based tax and be done with it.",
+            "title_similarity": "0.39475763",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "h0gcrfz",
+            "score": 1,
+            "text": "I know you’ve already awarded deltas, and perhaps this has already been explained here, but I have a few things to argue against this:\n\nFor one, there are several alternatives beyond electric cars, including:\n\n- Car pooling\n- Biking/Walking (if you’re close enough to everything)\n- Buying a smaller/gas sipping car (do you *really* need that giant, gas-guzzling F150? Especially if you’re in an urban/suburban area where you’re rarely even carrying anything large and of major importance?)\n- Public transport\n\nI do understand the last one might not be possible for everyone (especially in rural/suburban areas), though I do think it’s a sign of a bigger thing we have to reconcile as a society: Voting, or lack thereof. \n\nPeople put a lot of emphasis on national elections (and they are important), but in my state alone, over 3 local elections will be played out throughout this year. People don’t seem to recognize that local elections are just as important to our lives as national ones.\n\nSee a zoning law change on the ballot? Vote for it. Heard about a politician that wants to expand/introduce important bike paths? Check him/her out. Read about an upcoming budget increase for your county’s public transport system? Vote it in.\n\nYou could also sign (or start) petitions and join meetings that could pertain to public transport improvement/implementation, as well.\n\nEven seemingly-unrelated issues can make a big difference. See a zoning law change that could make businesses a lot closer? That could make things a lot more closer to you and, thus, not have to rely on heavy distances just to get even basic necessities. Little things like this could add up to better communion opportunities. \n\nI think we also need to reconcile our overall relationship to the automobile in general. Look at places like Japan or in a lot of European countries! Maybe even check out cities like Chicago or New York! Yes, they still have automobiles and all, but they’re not major necessities. These important changes in lifestyles and our systems could not only make your commute a lot more cheaper (i.e. no gas or maintanence to worry about), but it could even help our environment/climate a lot more than even an electric car. They’re even safer, too! Yearly automobile deaths literally plummeted to the single digits in the Netherlands just because they adapted more human/public transport-friendly infrastructure. \n\nThere’s so much about the US that is so unsustainable, and our overeliance on the automobile is just one of them. I think our increases in gas prices is just a wake up call.",
+            "title_similarity": "0.6796553",
+            "sentiment_compound": 0.9898
+        }
+    ]
+}

@@ -1,0 +1,382 @@
+{
+    "If Tesla was on the path of making electricity be conducted through air, like WiFi, how come we can't do it now since technology advanced so much?\nEdit: how about shorter distances, not radio-like? Let's say exactly like WiFi, in order for me to charge my phone even when I'm 5 meters away from the charger? Right now \"wireless\" charging is even more restraining than cable charging.": [
+        {
+            "id": "h2ohybh",
+            "score": 0,
+            "text": "Because Tesla while brilliant in many ways was also naive and foolish. Many ideas just don’t pan out and wireless power is one of those. \n\nGetting electrons to move at a distance is possible but only with extreme losses when a cable is a better solution.\n\nWi-fi is data not power. The two are not equivalent. To suggest they’re interchangeable is to be as naive and foolish as Tesla.",
+            "title_similarity": "0.7583857"
+        },
+        {
+            "id": "h2nmvv4",
+            "score": -3,
+            "text": "Your wireless charger would transmit power to anything with a conductor in it, every circuit and wire in your house would receive that energy like a radio picking up your favorite stations. Up the power and you have a microwave oven. Place a tomato in your microwave and give it a minute or two, watch what happens when you transmit a lot of radiofrequency energy. Microwaves excite water molecules, different frequencies affect different conductors. Leave a fork on the plate and you get an electrical discharge, The metal can reflect that energy back to the magnetron tube that produces it and destroy it.",
+            "title_similarity": "0.58932567"
+        },
+        {
+            "id": "h2oeeaj",
+            "score": 5,
+            "text": "It is amazing how all of the answers are missing the point. Tesla was aware that through the atmosphere there would never be enough transmission to supply electricity. From Wikipedia ( https://en.wikipedia.org/wiki/Wardenclyffe_Tower ):\n> Tesla's design for Wardenclyffe grew out of his experiments beginning in the early 1890s. His primary goal in these experiments was to develop a new wireless power transmission system. He discarded the idea of using the newly discovered Hertzian (radio) waves, detected in 1888 by German physicist Heinrich Rudolf Hertz since Tesla doubted they existed and basic physics told him, and most other scientists from that period, that they would only travel in straight lines the way visible light did, meaning they would travel straight out into space becoming \"hopelessly lost\".[3]\nIn laboratory work and later large-scale experiments at Colorado Springs in 1899, Tesla developed his own ideas on how a worldwide wireless system would work. He theorized from these experiments that if he injected electric current into the Earth at just the right frequency he could harness what he believed was the planet's own electrical charge and cause it to resonate at a frequency that would be amplified in \"standing waves\" that could be tapped anywhere on the planet to run devices or, through modulation, carry a signal.[4] His system was based more on 19th century ideas of electrical conduction and telegraphy instead of the newer theories of air-borne electromagnetic waves, with an electrical charge being conducted through the ground and being returned through the air.\n\n\n\nSo it was only the closing of the circuit that was intended to go through the atmosphere, while the supplied energy would be through standing waves of electricity in the earth itself by the use of resonating frequencies (dont ask me how this would work).\nI'll leave you some links if you want to get into it. No one really understands how this could have worked, but people still try to re-imagine his ideas.\n\nhttp://teslasociety.com/warden.htm\n\nhttps://www.damninteresting.com/teslas-tower-of-power/\n\nhttp://teslaradio.com/pages/wireless_102.htm\n \nOr read a book about it, which also covers the whole life of Tesla: \"Tesla: Inventor of the Electrical Age\" by W. Bernard Carlson. It is a good starting point for a journey, it provides many links and sources.\n\nedit: This also answers your actual question. Because by design anyone could use this electricity and there would be no way to tell who used how much of it. You drive the recieving antenna into the ground and would have electricity. That's basically anarchy to investors like J.P.Morgan. THey would have never financed it, even if it could have worked. Getting the earth to vibrate would take tremendous amount of ~~energy~~ investment and for what, free energy for everyone?`Yeah that sounds like a good investment.",
+            "title_similarity": "0.71363693"
+        },
+        {
+            "id": "h2op4ja",
+            "score": 4,
+            "text": "He wasn't. It's not a technological problem, it's the laws of physics. We can transmit energy via air, it's just very inefficient and you better not stand anywhere near the sender.\n\nCrystal radio receivers work without external lower supply, they run on the energy delivered by the radio waves themselves, that's one example how energy transmitted through the air can be used.\n\nAnother method is using slightly different electromagnetic waves: Lasers. The concept is not new, but getting attention again lately.",
+            "title_similarity": "0.7271757"
+        },
+        {
+            "id": "h2pzj56",
+            "score": 6,
+            "text": "Tesla was a crackpot, he wasn't nearly as brilliant as his modern fanboys believe.\n\nThe best analogy to wireless electric power would be a pipeless water supply. Imagine a hose spraying water everywhere all the time and if you wanted water you could go outside with a bucket to catch some of it. It's **extremely** inefficient. Something like 99.999...(add as many zeroes as you want)% goes to waste.\n\nIn order for it to work efficiently it must be at so short a distance that it's inside the same enclosure. Electric transformers are among the most efficient machines we have, big ones they have 99%+ efficiency, and they transmit \"wireless\" power, in the sense that there is no electric contact between the primary and secondary windings. All the power is transmitted by the magnetic field that envelops both the primary and secondary windings, but for that to happen both windings must be inside the same iron core.\n\nIf you have two coils of wire and an alternating electric current goes through one of those coils, we call that coil the \"primary\", another electric current is generated in the other coil, which we call the \"secondary\". The alternating current through the primary generates an alternating magnetic field. That field induces a current in any other coil that it crosses. \n\nThe problem is getting the field generated by the primary to cross the secondary coil. If both coils are separated by a sizable distance, most of the field will never reach the secondary, so it will be wasted. In a transformer there is a nucleus made of a special iron alloy that contains the magnetic field, and both the primary and secondary coils go around that nucleus, meaning practically all the magnetic field generated by the primary goes through the secondary.",
+            "title_similarity": "0.7400209"
+        },
+        {
+            "id": "h2nu1xb",
+            "score": 6,
+            "text": "Probably a bad explanation, but here's how I think of it...\n\nTesla's wireless transmission of electricity basically floods your environment with electromagnetic energy, which sounds good at first.  However, it's a bit like saying you would love to have water without having any pipes in your house.  You would literally be swimming in the uncontrolled amount and location of water, and you would have to deal with all of its unintended effects.\n\nIt's better to just have it come out of the spigot at the point and time that you need it, and in the exact amount.",
+            "title_similarity": "0.73200476"
+        },
+        {
+            "id": "h2oiz2y",
+            "score": 5,
+            "text": "Tesla wasn't \"on the path of making electricity be conducted through the air\".  He thought that he was, but the basic physics of the concept - which were well known to his contemporaries - make it *absurdly* inefficient compared to the usual technologies of wired and stored power.  As your question implies, even a century of unprecedented advancement has failed to overcome the impracticalities that Tesla either ignored or never bothered to work out at all.\n\nOverall, Tesla wasn't really anything more than a skilled showman.  His inventions were flashy, and quick to catch lay attention, but I have yet to hear of any that were\n\n- actually useful\n\n- possible to build\n\n- not already invented by someone else",
+            "title_similarity": "0.6357267"
+        },
+        {
+            "id": "h2nhahy",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2p1s21",
+            "score": 2,
+            "text": "Tesla never intended to broadcast power 'by radio'; he had a very different principle in mind, and it would have resulted in a very, very different-looking world of modern technology. Constructing, and turning on, a full-scale functional 'tesla transmitter' would constitute an act of international terrorism, today ;)\n\n(Unfortunately, I cannot figure out how to link particular Quora answers the 'share link' widget doesn't work for me. The answers I want to point to are by William Beaty. He addresses Tesla's broadcast-power ideas repeatedly:)\n\nhttps://www.quora.com/Why-hasnt-Teslas-experiment-of-wirelessly-transmitting-energy-been-reproduced-Was-it-a-hoax-or-was-Tesla-that-far-ahead-of-his-time\n\nhttps://www.quora.com/Would-Nikola-Telsas-Wardenclyffe-Tower-actually-have-worked-if-he-had-the-proper-funding-Was-his-design-hypothesis-of-producing-free-electricity-actually-correct-and-attainable\n\nhttps://www.quora.com/Do-you-think-Nikola-Tesla-could-have-succeeded-at-providing-free-energy-to-the-world\n\nhttps://www.quora.com/Why-isnt-Nikola-Teslas-wireless-power-used-today\n\nhttps://www.quora.com/Is-it-true-that-Teslas-Wardenclyffe-Tower-and-his-plans-to-build-such-magnifying-transmitter-towers-at-other-places-would-have-peppered-the-globe-with-free-electricity-and-wireless-communication-as-early-as-the-1920s\n\nhttps://www.quora.com/What-was-the-working-mechanism-behind-Nikola-Teslas-Wardenclyffe-Tower",
+            "title_similarity": "0.67829376"
+        },
+        {
+            "id": "h2n5jbg",
+            "score": 102,
+            "text": "Tesla's wireless power idea was always harebrained and uneconomical, more of a thought experiment and marketing device than a really viable plan. I don't get how it did become so popular on reddit. Is it all just from The Prestige?\n\nApart from the drastic losses other posters mentioned, the simple question is, who would run the power plants? The state using taxes? So the aluminum smelter behind your house and you would both pay regardless of how much electricity you consumed? Could you imagine what an unreliable shit show getting electricity would be if anyone could draw as much as they want at any time? Or the cost for nature if there was absolutely no incentive to minimize power consumption?\n\nBut let's assume you somehow find way to do billing and metering, or just finance it all with magic money, the next problem is multiple power plants interfering with each other. Every plant that will \"send energy\" will also receive from all the plants around it. With radio that's no problem because you just ground the small voltage you pick up, and dampening the signal of other stations is no problem because you will be far away enough due to regulations and frequency management. But wireless power would gobble up nearly all the spectrum and you'd needa lot of transmitters to get a somewhat decent field up, and they'd all dampen the field of their neighbors. It just doesn't scale.",
+            "title_similarity": "0.7797658"
+        },
+        {
+            "id": "h2nv1x9",
+            "score": 0,
+            "text": "[deleted]",
+            "title_similarity": "0.06729175"
+        },
+        {
+            "id": "h2ovgf0",
+            "score": 0,
+            "text": "It already exists, take phone charging pads and the under surface charging stations they keep on about for electric busses. Inductive charging, I think it's called.\nThere is a problem with sending a charge over a wide distance being that the current drops off over distance. WiFi proves this as WiFi uses the same principal to convey data from the router (charger) to a satellite device (phone ( power receiver)). WiFi signal doesn't hold enough power to really charge anything.",
+            "title_similarity": "0.7687084"
+        },
+        {
+            "id": "h2qamyf",
+            "score": 0,
+            "text": "We can and we already do over very short distances... Think about electric razors, electric toothbrushes etc that get charged without a cable from their stand. There are also stands where one can put a phone over to get it recharged, as long as the phone itself is constructed to support that. I bought a phone stand charger ar IKEA...",
+            "title_similarity": "0.6655434"
+        },
+        {
+            "id": "h2narll",
+            "score": 1,
+            "text": "There’s a fair amount of research being done into this. A company called International Electric is looking into the concept in order to make space-based solar power a reality. They have a paper linked on their website: www.internationalelectric.com",
+            "title_similarity": "0.4759987"
+        },
+        {
+            "id": "h2ohg58",
+            "score": 1,
+            "text": "The tech already exist. But the efficiency is way too low to make it worth commercializing. It becomes just a gimmick as it charges slower than the gadget losing battery.\n\nBesides there has not been any safety test. Nor it is able to go through room doors and walls of the house without dropping to nothing.\nThis makes it a fixed charging point. Usable only within the confine of the room. Might as well go with a cable since that is the case.",
+            "title_similarity": "0.6912049"
+        },
+        {
+            "id": "h2oorwh",
+            "score": 1,
+            "text": "In relation to your mention of 'charging your phone while meters away from the charger' that actually does exist, and will be reality in 5-10 years potentially. \n\nYou can buy it now it's just not great. It works much like 5g from what I understand and basically as it stands you put a 'hub' in the middle of your room and as long as your device is stationary (and is able to take this kind of charging of course) it'll charge it",
+            "title_similarity": "0.7786067"
+        },
+        {
+            "id": "h2qedo2",
+            "score": 2,
+            "text": "Years ago A friend showed me that if you take a fluorescent tube light up to a radio broadcast tower it lights up like a light sabre. I am not sure if it still works since towers are likely more directional now. \n\nActually I don't know if there are any AM radio stations at all anymore.",
+            "title_similarity": "0.64888066"
+        },
+        {
+            "id": "h2n37jn",
+            "score": 49,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2n72wc",
+            "score": 3,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2nxo0z",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2oj6pd",
+            "score": 1,
+            "text": "Ooh, I went to a seminar about this in grad school.\n\nApparently we figured out a few safe and effective ways to do this--you can use frequencies that don't hurt humans, stuff like that--but so far they all require weird rare ingredients.\n\nOne version humorously required three billion US dollars worth of osmium to set up a single room. It was nearly all the minable osmium that has ever been found. Should theoretically have worked great though!\n\nSo it's possible, we have found ways around the kinks mentioned in the other posts, but we really haven't hit on the trick for making it practical yet.",
+            "title_similarity": "0.6790213"
+        },
+        {
+            "id": "h2prbpm",
+            "score": 3,
+            "text": "I just hate the conspiracies that seem to be present in pop science which the scientifically untrained population seems to gobble up. Do people really assume that there actually is a drug that cures cancer and FREE UNLIMITED WIRELESS ELECTRICITY? \n\nThere are so many extremely competent and selfless scientists out there that if there really was such life changing developments, these people would 100% leak it. \n\nI just really hate how people equate instances of the Phoebus cartel to scientists holding back miracles.",
+            "title_similarity": "0.64787555"
+        },
+        {
+            "id": "h2nbl7s",
+            "score": -4,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2n99jh",
+            "score": 17,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2o393m",
+            "score": 8,
+            "text": "Long-story-short, fantastically dangerous and impractically wasteful. Tesla had big ideas, like most people do at the beginning of a new technological paradigm. Big ideas aren't necessarily *good* ideas, but they do get the ball rolling.",
+            "title_similarity": "0.5958089"
+        },
+        {
+            "id": "h2ne3e6",
+            "score": 9,
+            "text": "So short answer, we can do this today, but it costs a large amount of reactive power. Power is broken into two types: active and reactive. Wireless power would work through a process called induction. Anywhere there is an electric current, there is a magnetic field perpendicular to it. That works in the reverse as well. \nThere is story one of my professors would tell as an example of reactive power. \nThere was a farmer who had a large coil of wires in his barn. He had a major power line running through his farm. He realized that the coil had a large charge to it, so he hooked up a generator to it and starting running his equipment on it. The power company started seeing line loses. They have very sophisticated equipment that they can see where loses occur, and what the farmer was doing (unknown to him) is actually illegal. Needless to say, the farmer was fined a ton of money, as the power company needs that reactive power returned to mitigate their line losses.",
+            "title_similarity": "0.60585284"
+        },
+        {
+            "id": "h2nazr3",
+            "score": -10,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2pcy9q",
+            "score": 12,
+            "text": "The real answer?  Tesla was a brilliant inventor.  Brilliant inventors sometimes go off on bad ideas, and thanks to an offshoot of  Dunning-Kruger, they can be very difficult to convince that they are in fake chasing a wild goose.  As people see themselves as more and more superior to others, they in effect also become better at deluding themselves\n\nNicola Tesla also wondered off the path and spent his last years with serious mental illness.\n\nTL:DR Tesla WASNT on a path to creating a way to transmit power through the air.  He was smart enough to delude himself (and others) into thinking he was.",
+            "title_similarity": "0.63555044"
+        },
+        {
+            "id": "h2n7cp0",
+            "score": 235,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2nr5cy",
+            "score": 11,
+            "text": "> Edit: how about shorter distances, not radio-like? Let's say exactly like WiFi, in order for me to charge my phone even when I'm 5 meters away from the charger? Right now \"wireless\" charging is even more restraining than cable charging.\n\nImagine you have something that transmits power wirelessly in all directions around it (an isotropic radiator). At 5 meters, whatever power you start with is spread out over a 4π(5 m)^(2)=314 m^(2) area (a sphere). Your phone's receiving antenna would be large enough to cover maybe like (0.05 m)^(2) of that, which is less that 1/100000 of the original transmitted power, and that's *really* optimistic. If you have a cell phone battery, which stores something like (3.5 Ah) × (3.7 V) = 13 Wh, and you want to charge it, in say, 1 hour, you'd need to deliver 13 W to it, so you'd need to transmit something like (13 W) * 100000 = 1.3 MW which is insane.\n\nYour options turn to directing power straight at your phone so you're not wasting so much of it. You'd have to track that phone, you'd have to have a very tight beam aimed at it, you'd have to make sure you stop transmitting the moment anything gets in the way *somehow*, you'd have to make sure almost none of that power reflects off or passes through the phone to microwave you and others around. In practice, it becomes next to impossible.",
+            "title_similarity": "0.885026"
+        },
+        {
+            "id": "h2mxm4i",
+            "score": 166,
+            "text": "We can, but it is fundamentally inefficient and only able to deliver small amount of power that is nowhere close to the amount of power needed for average electrical appliances. This is compounded by the distance the power is transmitted through.",
+            "title_similarity": "0.60760933"
+        },
+        {
+            "id": "h2nbosa",
+            "score": 61,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2o7ym1",
+            "score": 77,
+            "text": "We can do all those things, it's just that they are horribly inefficient, impractical and dangerous if your goal is transmiting usable power rather than information. And the greater the distance over which you want to transmit, the worse everything gets. Could you charge up your phone from 5 meters away? Probably, but the vast majority of all the energy output would be wasted on heating up all other metal objects in the room.",
+            "title_similarity": "0.7565857"
+        },
+        {
+            "id": "h2o9isv",
+            "score": 38,
+            "text": "Tesla was 41 when electrons were discovered.  Before that we had an incomplete understanding of the physics of electricity.  Tesla was experimenting with electricity and thought that it might be possible to send power through the ground and then up through the ionosphere to complete a circuit.  With advances in our understanding of electricity, we know that his plans were impractical.  Here is some reading.\n\nhttps://en.wikipedia.org/wiki/Wardenclyffe_Tower\n\nhttps://www.britannica.com/science/atom/Discovery-of-electrons\n \nhttps://en.wikipedia.org/wiki/Nikola_Tesla\n\nIf you want a wild ride, read his description on this patent\n\nhttps://patents.google.com/patent/US1119732",
+            "title_similarity": "0.6974265"
+        },
+        {
+            "id": "h2n58yh",
+            "score": 524,
+            "text": "I see others answering why Tesla's version wouldn't work (wide band, high noise, directionless energy transfer).\n\nFor our technology, a low noise, narrow band, directional transmitter would be a laser.  If you look at photovoltaics, there are models that use a photonic structure and a terahertz (THz) rectifier that can achieve a theoretical 86% photon energy to electrical energy conversion rate.  There have been proof of concepts built which were fractions of a % efficient.  No one knows how to build a rectifier with enough potential per distance to make this work.\n\nEven taking this ideal, a laser can be about 50% efficient and this miracle solar cells 86% efficiency still leaves us with 57% loss which is extremely wasteful.  A current laser/photovoltaic would waste about 86% of energy.  \n\nA copper wire is amazingly efficient in contrast.  The energy lost for most grids in the US sits somewhere in the realm of 5-15%.  That's losses across power lines, transformers and then to you.  We don't have the excess energy to waste on less efficient power transmission.",
+            "title_similarity": "0.7363478"
+        },
+        {
+            "id": "h2mw0vr",
+            "score": 6598,
+            "text": "The basic idea is that a varying electric field will induce a current in a conductor. This is how radio antennae work. You produce radio waves in a transmitter. These radio waves are waves of *electromagnetic force*. As the radio wave passes over something, the EM force pushes and pulls electrons back and forth at the wave's frequency. If you have a conductor, these electrons are actually allowed to move, and you have a current. So, a radio wave will induce a small current in a conductor - such as a long piece of metal, i.e. an antenna. You can vary the radio wave to communicate a signal to the antenna, which is how radio communication works. But inducing a current is also supplying a small amount of electrical power to the antenna. In fact, it is possible to build a small radio that is powered entirely by the radio signal it receives. They are quiet, as the sound is not amplified, but they work, and there are even kits to build them yourself. The classic version is a [Crystal radio](https://en.wikipedia.org/wiki/Crystal_radio).\n\nIn that sense, wireless transmission of power is everywhere, and it's just been a standard part of everyday technology for about a century.\n\nAs for transmission of *large* amounts of power, there are some practical problems. An EM wave will set up a current in any conductor it passes through. So *any* piece of metal will get electrified. This is very dangerous. At the very least it will damage electronic equipment, and at worst you will electrocute people.\n\nIt also requires a *lot* of power to transmit over any large distance. This isn't such a big issue for radio communication, because you don't need the signal at full power - you can amplify the sound using a local power source. But if the electric power itself is what you need, then those losses really matter. As the wave spreads out, its power drops proportionally to 1/distance^(2) - each time you double the distance, you have 1/4 the power.\n\nTo maybe oversimplify a little, large-scale wireless transmission of power is dangerous and a huge waste of energy.\n\nHowever, small-scale direct wireless transmission of power is more feasible. If your receiver is close to the energy source, then you aren't wasting as much power, and it's less dangerous because you aren't electrifying some large area. I believe there are also some new tricks to focus how EM waves are transmitted, to increase the range without losing too much power.",
+            "title_similarity": "0.5430469"
+        },
+        {
+            "id": "h2nipfn",
+            "score": 3,
+            "text": "Longer range wireless chargers exist, but for reasons mentioned they are pretty impractical. [LTT did a video on a commercial solution.](https://youtu.be/YeNXRD8eziA). But to summarize all electromagnetic radiation is technically long range power transfer, but getting around the inverse square law (P_recieved ~ P_trans/distance^2) is impossible according to our current understanding of physics. Plus radiated energy would be absorbed or reflected by anything conductive.",
+            "title_similarity": "0.78251773"
+        },
+        {
+            "id": "h2njmnk",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2nkwk7",
+            "score": 3,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2nmr3h",
+            "score": 12,
+            "text": "Over long distances as others have mentioned, this could cause issues with all sorts of metallic objects and electronics. I'm a rank amateur, but the other day, I just learned about the Carrington event of 1859 when Tesla was 3 years old. It was caused by a massive solar flare and wreaked havoc on the telegraph system. But also: \"Some telegraph operators could continue to send and receive messages despite having disconnected their power supplies.\" [https://en.wikipedia.org/wiki/Carrington\\_Event](https://en.wikipedia.org/wiki/Carrington_Event)",
+            "title_similarity": "0.6959751"
+        },
+        {
+            "id": "h2nptsu",
+            "score": 2,
+            "text": "What about focusing the emitted power by means of a parabolic antenna? You could then aim it across the room to a specific point where you have a receptor, and thus transmit power more efficiently, right? I guess it would be a very bad idea to cross this concentrated ray with your body, though.",
+            "title_similarity": "0.6086546"
+        },
+        {
+            "id": "h2nqdg7",
+            "score": 1,
+            "text": "We can and do. The technology is probably in your cell phone right now if you have a smartphone. The issue comes about how the electricity moves through the air. It forms fields like magnets and you need a coil of wire to be inside the flux field to capture the energy.\n\nIt works most efficiently in very close proximity so our wireless chargers usually sit on a charging pad. Itd be possible to do wifi-level charging if you had the power of the sun im sure",
+            "title_similarity": "0.7313281"
+        },
+        {
+            "id": "h2ntogi",
+            "score": 1,
+            "text": "The closest to that idea, object or technology, I have seen recently is Xiaomi \" Mi Air Technology \" that allows according to the video below to charge a phone or other devices few meters away from Xiaomi device.\n\n[https://youtu.be/xsFHKCcV2rg](https://youtu.be/xsFHKCcV2rg)\n\n[https://www.theverge.com/2021/1/28/22255625/xiaomi-mi-air-charge-technology-wireless-charging](https://www.theverge.com/2021/1/28/22255625/xiaomi-mi-air-charge-technology-wireless-charging)",
+            "title_similarity": "0.71448183"
+        },
+        {
+            "id": "h2o73qy",
+            "score": 7,
+            "text": "The world of technology is full of innovators carving paths that eventually dead end.\n\nWireless power is very low range, very weak, very lossy, very dangerous, or some combination thereof.\n\nMany good answers are here. Let me explain my perspective on your edit. It is a common saying that “electricity takes the path of least resistance”, this is incomplete. What is more accurate is “electricity takes all path simultaneously, where significantly more power density can concentrate along paths with significantly less resistance.” This is why the r^2 relationship sucks power away. In the air, the energy spreads out all over the place. Crank up the power and you could induce currents in and therefore heat up conductors in the walls of your home, for example, potentially starting a fire.\n\nThe best way around this is to focus the energy in some way. You’ll need to figure out what direction, be able to point in that direction, be able to detect any unwanted objects, and the receiver needs to be able to accept it. So you’d need to point some receiver on your phone in the correct orientation to accept the power as well. The cell phone inductive chargers are a good example here, you can visualize the power transmitter and power receiver each as a coil of wires in a circle, like a donut, with the path of energy coming tangent to the circle, like poking your finger through the hole of the donut. If your phone was on its side, and not it’s back, it wouldn’t charge. If there’s a foreign conductor between the charger and your phone, the charger needs to be able to detect the foreign conductor, like a paper clip, and not charge the phone.\n\nPhysically, wires, like your charging cable, are simply the best way we have to direct significant quantities of electric power to a specific, distant location in a physical space.",
+            "title_similarity": "0.7158969"
+        },
+        {
+            "id": "h2odm00",
+            "score": 3,
+            "text": "Some ideas are theoretically feasible but practically aren't.\n\nShort distances work very well and are super widely used in e.g. transformers, which are in almost every device. (Yes, technically not through air, but contact-less power transfer still). Another example of short-distance high-power transfer is kitchen microwaves.\n\nLong distances are constrained by not being able to reasonably direct a beam of power in a certain direction. For long wavelengths, like radio, this requires immensely large transmitter antenna (think kilometers in diameter). For short wavelengths, like light, you need a direct line of sight, and absorption is very high even then. The reason for this is in quantum mechanics, and not a technical constraint.\n\nAnother example of a concept that sounds great in theory but will not work out in practice is generating power using thermocouples. In theory, you have a thin plate with wires you put between a cold and a warm surface, and you get electricity. In practice, this works, but with efficiencies usually below 1% so nobody bothers.",
+            "title_similarity": "0.6749113"
+        },
+        {
+            "id": "h2p9gae",
+            "score": 13,
+            "text": "For anyone actually interested, he wanted to use ground resonance not EM radiation through the air. You can do it, it's just damaging and wasteful and impractical and dangerous. So... yeah. Maybe as a very strange form of area defense?",
+            "title_similarity": "0.5342706"
+        },
+        {
+            "id": "h2pdlke",
+            "score": 6,
+            "text": "The short answer is this:  We *can* do it now.\n\nThere are various ways of transmitting useful energy in various EM bands, but... we either can't transmit very much energy that way, or when we transmit a *lot* of energy that way it's dangerous.\n\nOne of the advantages of conveying electricity through wires is that one can't walk, or fly, through a wire like one can walk through a laser or microwave beam.  That's one of those do-not-try-this-at-home sorts of things.",
+            "title_similarity": "0.7009719"
+        },
+        {
+            "id": "h2pko6s",
+            "score": 4,
+            "text": "A number of stories often repeated about Tesla are apocryphal.  They are not from any documentation he left behind, nor does it come from anyone he knew.  These claims were written after his death.\n\nHe did do experiments at Colorado Springs with wireless power and \"stuff\" in general.  Due to the inverse-square law, it really wasn't capable of sending meaningful amounts of power at a significant distance.  \n\nThere's an account that his apparatus lit \"200 bulbs 26 miles away\".  There's nothing like that documented in his time (and it won't work).  A fan-historian O'Neill created this claim after his death.  It seems to come from grossly misreading and misremembering some pieces of actual information.\n\nThere's this weird story of Tesla's nephew inviting someone to ride in a wireless, battery-less electric Pierce Arrow car Tesla had made, and they drove all over for a long time without apparent energy source.  The story's wild fiction that Tesla had nothing to do with.  Tesla didn't even have a nephew.\n\nTesla's tech was pretty much all Tesla coils in several variants.  They're powerful radio transmitters, but they can't focus in one direction (modern phased array radio towers can, to some extent).",
+            "title_similarity": "0.62344956"
+        },
+        {
+            "id": "h2ptgpj",
+            "score": 6,
+            "text": "The problem with wireless phone chargers is that the inductive feislds they produce will create a current in any ferrous metal placed within range. This is in fact how an induction stove top works by cranking the field strength up enough to cause a frying pan to get hot.  This is why a wireless charger has to do a handshake with the device to make sure it's a device that can can handel the induction field and not just a peice of metal that will turn your charger into a mini camping stove. \n\nSo with that said you could imagine the problem of a wireless charger that had longer range using similar technology, it would not only charge the phone but heat up every peice of ferrous metal between itself and the phone.",
+            "title_similarity": "0.6797216"
+        },
+        {
+            "id": "h2px9uo",
+            "score": 2,
+            "text": "Not only is this already a thing, but it's fairly inexpensive on the consumer market.  It's called wi-charge, and you can buy one right now.  No, it doesn't just charge your whole house through walls and everything, but it does charge by line of sight and can follow moving objects as long as line of sight isn't broken.",
+            "title_similarity": "0.55121183"
+        },
+        {
+            "id": "h2q30rb",
+            "score": 2,
+            "text": "Tesla was never going to transmit electricity through the air like wifi.\n\nMost people including electrical engineers do not understand what Tesla was about, it frustrates me to read about such things microwave transmission or laser transmission or radio waves. If you read Telsa's notes and remember what Tesla was fundamentally about, it becomes easy to understand what he hoped to achieve.",
+            "title_similarity": "0.65174764"
+        },
+        {
+            "id": "h2q32zd",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.030270655"
+        },
+        {
+            "id": "h2q7aaz",
+            "score": 1,
+            "text": "As others have explained we have this already in the form of radio and wi-fi but there is also power delivery via electromagnetic induction (electric current with a magnetic field aka induction charging). This has been around in practical applications since the 1970s and is used in everything from toothbrush chargers to EVs and maglev trains.",
+            "title_similarity": "0.5546315"
+        },
+        {
+            "id": "h2q8db4",
+            "score": 2,
+            "text": "So there was a group of researchers that accomplished this sort of thing back in 2014, but the power loss wasn't worth the cost. I think it also cause some sort of minor health problems and they didn't want to scale it up guessing it would cause more problems.\n\nThe more recent instance of this is a US military satellite project that they are testing, which once scaled up can power a military base from space. ( However if you read into it, it is likely a cover for making a giant f*cking space laser that could feasibly quietly assassinate anyone on the planet instantly or with a delay [by causing significant cancer growth quickly])",
+            "title_similarity": "0.6711496"
+        },
+        {
+            "id": "h2qe8ye",
+            "score": 1,
+            "text": "Answering your edit: yes it can and has been done to charge phones in the same room with microwave beam forming.\n\nhttps://www.theverge.com/2020/1/3/21044650/guru-wireless-charging-mmwave-cordless-over-the-air-radio-waves-ces-2020\n\nIt's expensive, it's a bit dangerous to your phone which is already full of antennas, and it's still a bit slow.",
+            "title_similarity": "0.78025955"
+        },
+        {
+            "id": "h2qgsuo",
+            "score": 3,
+            "text": "Disregard all the problems associated with electrifying the atmosphere for a second.  If you just broadcast electricity like radio or TV then how do you monetize it?  \n\nThen you have all the extreme problems associated with electrifying the atmosphere.",
+            "title_similarity": "0.6873828"
+        },
+        {
+            "id": "h2qicdv",
+            "score": 1,
+            "text": "Tesla use capacitive conduction which is like static electricity. Lots people got lots of shocks from his wireless electricity. Current technology uses induction which is magnetic flux, it won't shock you but could do damage to things that are sensitive to magnets.",
+            "title_similarity": "0.66216"
+        },
+        {
+            "id": "h2qniiw",
+            "score": 1,
+            "text": "IIRC, at least one of Tesla's plans involved taking advantage of the fact that:\n\n1. The Earth itself acts as a return wire for current.\n2. Alternating current can be transmitted without a return path if you hook up a capacitor, since the electrons will just go back and forth without having to complete the circuit\n\nto make a theoretical one wire circuit where the earth itself was the wire, I think...",
+            "title_similarity": "0.65086454"
+        },
+        {
+            "id": "h2qzjjl",
+            "score": 1,
+            "text": "Responding to your edit: anything over distances larger than the wavelength of the radio waves will be radio-like. \n\nIt might still be possible with well directed radio beams, but no one has developed the tech yet. Also it still has the issue that if you put a metal object in the path of the beam it could absorb the electrical energy instead.",
+            "title_similarity": "0.72667646"
+        },
+        {
+            "id": "h2r83js",
+            "score": 1,
+            "text": "We simply don't know how he did it. We know he was able because of a public event he held in which he wirelessly powered a small submarine, but the crowd accused him of witchcraft. He said he was pulling electricity from the ionosphere, and he was doing so safely. When his lab burned to the ground with all of his notes and records (along with his life's work) we can only imagine what we lost.\n\nWe gained Vortex Mathematics from him at least.",
+            "title_similarity": "0.58770996"
+        },
+        {
+            "id": "h2tboga",
+            "score": 2,
+            "text": "We can: https://www.youtube.com/watch?v=YeNXRD8eziA\n\nhttps://www.wi-charge.com/components\n\nHasn't really caught on. It's very limited and lossy. It's possible to crank up the power, but there's no way it would be safe enough then to be accepted by regulators. Similar to asking why we don't fly everywhere, now that we have the ability to do so. In the real world, it's underwhelming and wasteful at best, and dangerous at worst, with very little convenience actually added in real-world use. Installing a runway or a takeoff pad on your roof is not really something people want. Installing wireless power nodes everywhere just to avoid plugging in or setting their phone on a pad is also pointless in most people's eyes... and the market largely decides what tech will exist. A lot of predictions about the future seem obvious, until someone actually tries implementing the technology.",
+            "title_similarity": "0.6812221"
+        },
+        {
+            "id": "h2xag2x",
+            "score": 1,
+            "text": "Who told you that we can't transmit electricity wireless now a days. The issue is not whether we can do it or can't, (cause we can, look up MIT students who transmitted electricity 50 feet across a room. Also new military project uses lasers to transmit power to drones in flight to charge them). The big issue is Tes0la0 was way ahead of what we can do now back 130 years ago. He was able to transmit massive amounts of power over great deal of distances. For example his ray gun, he claimed could fire a beam of power to a target that was 400 miles away. This was back in 1890. In0 2021 we can transmit a laser jet a whopping 1000 feet, an improvement from 50 feet by the MIT students, but not really. Cause those guys were college students with a budget that couldn't get you a happy meal, while a US Navy with Billions do0llars in budged couldn't do better than 1000 feet. So what did Tesla know that we don't, well I imagine a lot. Its sad we lost a genius of unfathomable capability who did everything to benefit and help humanity. Unlike many other great minds who were greedy, vicious, empathetic, Tesla's contributions were truly selfless and he always placed benefits to humanity before his well being. \n\n\"Mr Einstein, how does it feel to be the smartest man on Earth\"?\n\"I truly don't know, you should ask Nikola Tesla\"",
+            "title_similarity": "0.76821125"
+        },
+        {
+            "id": "h2xgfeu",
+            "score": 1,
+            "text": "I see others answering why Tesla's version wouldn't work (wide band, high noise, directionless energy transfer).\n\nFor our technology, a low noise, narrow band, directional transmitter would be a laser. If you look at photovoltaics, there are models that use a photonic structure and a terahertz (THz) rectifier that can achieve a theoretical 86% photon energy to electrical energy conversion rate. There have been proof of concepts built which were fractions of a % efficient. No one knows how to build a rectifier with enough potential per distance to make this work.\n\nEven taking this ideal, a laser can be about 50% efficient and this miracle solar cells 86% efficiency still leaves us with 57% loss which is extremely wasteful. A current laser/photovoltaic would waste about 86% of energy.\n\nA copper wire is amazingly efficient in contrast. The energy lost for most grids in the US sits somewhere in the realm of 5-15%. That's losses across power lines, transformers and then to you. We don't have the excess energy to waste on less efficient power transmission.",
+            "title_similarity": "0.7363478"
+        }
+    ]
+}

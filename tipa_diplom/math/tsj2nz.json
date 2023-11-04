@@ -1,0 +1,52 @@
+{
+    "Isometry Between a Helicoid and a Catenoid\n": [
+        {
+            "id": "i2rjv4d",
+            "score": 36,
+            "text": "Mappings between two surfaces that preserve the metric between each surface is one of the fundamental problems of interest in Classical Differential Geometry. Attached is an animation of a mapping between a Helicoid and a Catenoid, in which the metric is preserved. Thus this transformation is called an \"isometry\". We know this mapping is possible with certain generators of the parametrization of both surfaces. Choosing choice functions for generators causes the surfaces to have the same [First Fundamental Form](https://en.wikipedia.org/wiki/First_fundamental_form), which allows for an inner product to be defined on the tangent space to the surface.\n\nThe First Fundamental Form is important because it allows us to define curvature, distance, etc., on the surface which allows us to do calculus-y things as if it was euclidean space.",
+            "title_similarity": "0.5121759"
+        },
+        {
+            "id": "i2trhk6",
+            "score": 25,
+            "text": "Not exactly? An isometry is first a diffeomorphism, and this map doesn’t look like a diffeomorphism (the two surfaces have different boundaries).",
+            "title_similarity": "0.48940986"
+        },
+        {
+            "id": "i2tzab3",
+            "score": 12,
+            "text": "Someone did this physically, here:\n\nhttps://youtu.be/Gp6XkPLCw7s",
+            "title_similarity": "0.46472743"
+        },
+        {
+            "id": "i2u6kzn",
+            "score": 2,
+            "text": "Now I want a doughnut 🍩",
+            "title_similarity": "0.38112575"
+        },
+        {
+            "id": "i2uayrx",
+            "score": 4,
+            "text": " This hurts my head, thanks!",
+            "title_similarity": "0.3120256"
+        },
+        {
+            "id": "i2uhh4e",
+            "score": 1,
+            "text": "Is the difference between these a single coefficient?",
+            "title_similarity": "0.52919984"
+        },
+        {
+            "id": "i2uihvl",
+            "score": 5,
+            "text": "Do the edges overlap in the middle of the map? If so, if you stopped at where they overlap would that shape still be isometric to the catenoid/helicoid?",
+            "title_similarity": "0.6270075"
+        },
+        {
+            "id": "i2vrmm8",
+            "score": 1,
+            "text": "Everyone else: \\*Babbling math stuff\n\nMe: Haha funny shape.",
+            "title_similarity": "0.35235283"
+        }
+    ]
+}

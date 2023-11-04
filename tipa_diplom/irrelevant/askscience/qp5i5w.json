@@ -1,0 +1,64 @@
+{
+    "In the Seinfeld episode \"The Junior Mint\", Jerry and Kramer are watching an operation of a man who gets his spleen removed. Kramer is eating Junior Mints, and fumbles one that drops into the cavity of the patient, unbeknownst to the doctors. What outcome would a patient have IRL if this happened?\nI presume an infection, but wasn't sure if possibly the body would somehow breakdown/consume the food?": [
+        {
+            "id": "hjrtg81",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "0.056571037"
+        },
+        {
+            "id": "hjrrppr",
+            "score": 8,
+            "text": "[removed]",
+            "title_similarity": "0.056571037"
+        },
+        {
+            "id": "hjs04bm",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.056571037"
+        },
+        {
+            "id": "hjrtag6",
+            "score": 22,
+            "text": "It is hard to tell what something like a mint may do when dropped into a body cavity during surgery. The easiest analogy to examine would be when surgical instruments or debris are left inside after a surgery.\n\nAs per this article on [Retained Surgical Bodies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5320916/) the outcomes are generally not good for the patient and often require further surgery.\n\nReactions to retained surgical instruments can manifest from acute such as inflammatory response, infection or abscess within days or weeks after the operation. Alternatively chronic presentation may present similar to malignant tumors years later prior to investigation.\n\nWhere this all falls apart is that the mint is probably soluble to some degree and there aren't a lot of soluble materials used during surgical operations. What did come to mind is the usage of absorb-able sutures.\n\nThis article about [Suture Hypersensitivity](https://www.ncbi.nlm.nih.gov/books/NBK562288/) reveals that except in the most extreme cases reactions to sutures are self limiting and don't cause large complications.\n\nHow this would apply to a mint, well sadly I can't find any specific literature.",
+            "title_similarity": "0.72510076"
+        },
+        {
+            "id": "hjsn109",
+            "score": 118,
+            "text": "Probably nothing.  The scrub nurses in our OR are super strict.  We do a needle count, clip count and sponge count before we close.  We also do a mint count.  We would have caught this.\n\nAs an aside, Junior Mints are the number 1 energy mint we use to stay focused in the OR.  We thank Junior Mints for their sponsorship and look forward to many years working together.\n\n(Real talk, the patient would likely have been fine -only a slight chance of peritonitis.  In medical school I actually saw a Cheeto fall into the abdominal cavity - one of the residents had scrubbed out, gotten a snack and had a Cheeto on the lip of his mask when he came back in.  During the middle of the case, the attending says \"Goddamit, what is that?\" and the chief says \"I believe that's a Cheeto sir.\"  Patient did fine, resident did not.)",
+            "title_similarity": "0.76983535"
+        },
+        {
+            "id": "hjsjmc1",
+            "score": 48,
+            "text": "ER surgeon here. I would think there's an extremely high risk of development of an OPSI. I haven't seen the episode but a spit stained mint in the abdominal cavity of a splenectomy patient could be a death sentence if it isn't picked up in time.\n\nEdit : thanks for the award!",
+            "title_similarity": "0.7585428"
+        },
+        {
+            "id": "hjrtrp3",
+            "score": 1886,
+            "text": "I work in the operating room (I can’t say my role or degrees and training for my own privacy). Patients occasionally ingest non-edible objects due to mental health issues or for other reasons. I’ve seen people who have eaten twigs off trees, plastic forks and spoons, the ink cartridge of a Bic pen, live ammunition, and more.\n\nThese “ingestion of a foreign body” cases occasionally lead to perforation of the esophagus or stomach. Gunshot wounds and stab wounds can lead to perforation of the intestines or other structures.\n\nThe gastrointestinal tract of non-fasting individuals contains food in various stages of digestion, which then leaks out into the surrounding spaces. The contamination from your own “gut flora” - the trillions of bacteria that live in your GI tract - is what causes most infection in these cases. Depending on the degree of contamination and the patient’s level of health beforehand, the infection can be minor or major, leading to sepsis and death. Source control is the name of the game in these cases. Perform an operation to find the perforation, clean out the contamination, close the perforation (or more commonly, cut out the perforated / damaged section to get clean margins and then close the freshly-cut margins), leave drains in place, give lots of antibiotics, and either close up the surgical site or leave it open and use a “wound vac” or other technology to aid with eventual closure.\n\nA single Junior Mint, as shown in the episode, would be expected to cause a minor infection in most healthy individuals. It may cause no infection at all, since the standard of care today is to administer prophylactic antibiotics to all patients undergoing major surgery. The interior of the Junior Mint very likely IS sterile (heat processing of food is wonderful!) and if the mint was untouched before automated manufacturing and packaging was performed, then the only bacteria or infectious organisms on it would be from Kramer’s hands, most likely. Unless Kramer is carrying around some seriously dangerous bacterial flora on his hands and hasn’t washed them in a long time, he probably has the usual mild bacteria we all do - staph epidermidis and other easily-treated bacteria (which the antibiotics already in the patient’s system would treat).\n\nOnce the immune system mobilized and started breaking down the outside, it is primarily responding to the presence of the foreign matter, not any microscopic infectious organisms like bacteria, spores, or viruses - they should be gone after the first few days. The body will slowly degrade and break down the organic substances of the Junior Mint. Anything inorganic or difficult to break down like confectioners wax, etc. will be “walled off” in a cyst-type structure that can exist for decades without being noticed or causing major harm. It will also likely break down over time, too, depending on the substance.\n\nEdit to discuss long-term effects: if the immune system’s response to the Junior Mint was particularly aggressive, it could cause “friendly fire” damage to surrounding tissues. This usually isn’t a problem, but in some cases, and depending on the damage’s location, it can result in the formation of scar tissue. That scar tissue can constrict and change over time, causing parts of the bowel to become kinked and stuck together as they are bound up by the scar. This leads to a bowel obstruction, with subsequent vomiting and inability to move food through the GI tract. That would require an additional surgery to fix. Bowel obstructions due to scarring (called adhesions in medical terminology) can be fixed easily in most cases and are not usually fatal.",
+            "title_similarity": "0.7178525"
+        },
+        {
+            "id": "hjs0f1d",
+            "score": 69,
+            "text": "I’ll weigh in this one as an MD (not a surgeon,  but have spent plenty of time in an or).\n\nIf a junior mint found its way into the surgical field and actually into the body,  after the utter wtf shock of what just happened,  the surgeon would stop what they’re doing and start fishing around to find it, place it in a specimen cup to go to pathology (and probably microbiology) to see what it is,  irrigate the cavity (with at least saline, maybe some antibiotics ) and go on their way to complete the surgery.  Afterwards, would probably give extra antibiotics to cover for mouth bacteria.  Most likely the patient would do ok.\n\nIf somehow no one noticed,  the patient would be at risk for infection, maybe spiking fevers and getting antibiotics.  Possibly getting some type of imaging which would show the junior mint and confuse everyone.  Eventually the immune system would step in either walling it off or dissolving it.",
+            "title_similarity": "0.79072356"
+        },
+        {
+            "id": "hjsaoiv",
+            "score": 173,
+            "text": "[deleted]",
+            "title_similarity": "0.100124724"
+        },
+        {
+            "id": "hjrrvb3",
+            "score": 5524,
+            "text": "It depends on where it lands but let's assume that it's just in an interstitial cavity and not inside an organ or anything.\n\nThe most immediate danger is, as you guessed, infection. Kramer was touching his filthy hands to his mouth and then touching the Junior Mint. Directly introducing that to the inside of someone's abdominal cavity could cause a potentially lethal infection if untreated.\n\nAnother huge danger is blockage. If the mint got stuck somewhere it could block the flow of blood or other fluids that would cause all kinds of problems.\n\nIf the patient doesn't get an infection and the mint is just chilling and not blocking anything, then it probably wouldn't be a huge risk to the patient as junior mints are fairly small and squishy. Eventually it would be broken down by  [macrophages](https://en.wikipedia.org/wiki/Macrophage).",
+            "title_similarity": "0.7478936"
+        }
+    ]
+}

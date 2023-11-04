@@ -1,0 +1,94 @@
+{
+    "How did people manage diabetes before modern medicine?\n": [
+        {
+            "id": "h143e2w",
+            "score": 12,
+            "text": "[removed]",
+            "title_similarity": "0.11785503"
+        },
+        {
+            "id": "h148gh3",
+            "score": 64,
+            "text": "There are 2 main types of diabetes.  Type 1 and Type 2  (I'm excluding gestational and diabetes insipidus)\n\nPatients with Type 1 require insulin.  The pancreas (which produce insulin) is unable to produce enough (or any) insulin for the metabolism of glucose.  Instead of being absorbed intracellularly it will push through your vasculature and cause all sorts of other types of damage (retinopathy, neuropathy, stroke, heart disease, etc).  But typically, what happens before all of this is diabetic ketoacidosis (DKA).  Without insulin your body can't uptake glucose and so it essentially begins to starve.  At some point your body will attempt to \"eat itself\" and convert fat into ketones for energy.  Ketones are types of fat that are formed by your liver to be used as an alternative to glucose.  The main problem with ketones is that they are acidic.  Your body produces all these ketones in the bloodstream which causes the pH to drop and your blood to become dangerously acidic.  This cycle continues and continues because your body is\n\n1. Unable to produce insulin and absorb glucose\n2. Reliant on using ketones for energy\n3. Unable to compensate for the overwhelming acidity in your bloodstream\n\nType 1 is autoimmune in nature in that it's your own immune system that attacks the B-cells in your pancreas.   Risk factor is mainly family history of type 1.\n\nType 2 patients suffer from insulin resistivity (and various related issues).  The pancreas produces insulin but the cells (for various reasons) require increasing amounts of insulin to metabolize the glucose.   This strains the pancreas to produce more insulin and eventually causes cellular damage to the pancreas.  The islets in the pancreas are worked to the point of failure.  So now the patient is both insulin resistant but also insulin dependent since they're no longer able to produce insulin.   I haven't personally seen a Type 2 - Insulin dependent patient but I've read about it in various textbooks.\n\nTreatment for Type 2 diabetics is : **proper** **diet**, exercise, and medication.  The order listed is the priority.   This is very much a lifestyle type disease.   Poor diet and a lack of exercise are huge risk factors for developing DM 2.   Controlling the caloric/carb intake reduces the workload on the pancreas to produce insulin.  Exercising enhances the cellular uptake of glucose without the need for more insulin.  Then there's medication but it's a strong possibility to manage the disease with just diet and exercise.\n\n**TLDR**\n\nIf you're a Type 1 diabetic, the prognosis is grim.  You can't *not* eat carbs and expect to live.  You need glucose/sugar for everything.  You're using it even without realizing it with things like basic bodily functions (respiration, GI, heart, etc) and homeostasis (temp, motor control, etc).  Your brain consumes larges amounts of glucose.   Without insulin, DKA inevitably occurs and without insulin death can happen in as little as 24 hours after the onset of initial symptoms.",
+            "title_similarity": "0.6946496"
+        },
+        {
+            "id": "h14h3vw",
+            "score": 36,
+            "text": "Depends how far back in history you go. Before it could be diagnosed it was usually a case of \"Fred died, I don't know why though he was fine last night\". After a diagnosis was possible they would mostly just barely feed the patient and try to reduce the sugar in their pee. Problem was they didn't realise too little sugar can be just as bad as too much and killed a good few that way. Until proper sugar level testing and insulin a diabetic was pretty much living on borrowed time",
+            "title_similarity": "0.5665908"
+        },
+        {
+            "id": "h143q21",
+            "score": 96,
+            "text": "They sometimes monitored diabetes by tasting urine. Diabetic urine is sweet apparently. They thought that that must mean too much sweet foods being eaten so they put the person on a bland diet until their urine wasn't sweet. Silly method, but it worked as well as anything could. Without insulin all you have is managing your diet.",
+            "title_similarity": "0.5358949"
+        },
+        {
+            "id": "h14fs0i",
+            "score": -28,
+            "text": "[removed]",
+            "title_similarity": "0.11785503"
+        },
+        {
+            "id": "h13xu6s",
+            "score": 54,
+            "text": "[removed]",
+            "title_similarity": "0.11785503"
+        },
+        {
+            "id": "h14llhh",
+            "score": 171,
+            "text": "So some people below have said diabetes wasn't a problem till recently, which is wrong.\nThere are references to an insidious and deadly sickness that slowly and painfully caused the death of the person who had it. \nI'm pretty sure it was sometimes called the sweet sickness, due to the smell of the patient's breath (pear drops).\n\nIt's an autoimmune disease, and causes itself. It's not related to diet whatsoever, in any way at all.\n\nI will agree that type 2 most likely hasn't been as prevalent before modern times,but Indian physicians as far back as 500 AD have differentiated between the 'diabetes of youth' and the 'sickness of the overweight'.\n\nMine was triggered by a massive viral infection, which caused my immune system to overreact and, essentially, attack my pancreas. This stopped my pancreas from efficiently producing insulin, which only gets worse as time goes on.\n\nI need to add sources, but I'm on mobile and it's pretty difficult.\n\nEdit: added source, and some suggested searches.\n\nGoogle 'Eber Papyrus', a physician from c. 1550 BC who described symptoms of diabetes, and Ayurvedic physicians, 5th century BC, who noted the 'sweet taste of urine' from those with diabetic symptoms.\n\nhttps://en.m.wikipedia.org/wiki/History_of_diabetes#:~:text=The%20condition%20known%20today%20as,(%22honey%20urine%22).",
+            "title_similarity": "0.54372835"
+        },
+        {
+            "id": "h141c7e",
+            "score": 296,
+            "text": "the main solutions i recall in modern history were closely guided starvation and blood transfusions. they tried all sorts of things, but mostly it was just ignored or the sufferer was sometimes declared to be lazy and wasting away due to sloth. tldr: complete and utter barbarism. im reading that there are records resembling the disease from ancient egypt, although it doesn't appear that they had an effective treatment for it, since they defined it by the symptom of excessive urination/overfilled kidneys but weren't sure what was going on otherwise. one google result is saying they had people exercise, jump up and down, go horseback riding etc because they felt that bouncing/movement would help reduce the buildup of fluid (relatively true, but it would probably just be the exercise that does it)",
+            "title_similarity": "0.5250504"
+        },
+        {
+            "id": "h144huu",
+            "score": 1079,
+            "text": "Diabetes is a disease known to the ancients. In East Asia, they diagnosed it by tasting the patient's urine to see if it is sweet or look if the patient's urine attracts ants. In several languages, diabetes is known as \"sugar urine\" (\"tiểu đường\" in Vietnamese for example) for this reason.\n\nUnfortunately, there was no way to \"manage\" it, other than to reduce sugar intake. But that doesn't help at all if it was type I. I Imagine diabetes being one of the major reasons why the average age expectancy is far lower before the advent of modern medicines.",
+            "title_similarity": "0.563037"
+        },
+        {
+            "id": "h145d5p",
+            "score": 361,
+            "text": "[removed]",
+            "title_similarity": "0.11785503"
+        },
+        {
+            "id": "h14dt4x",
+            "score": 618,
+            "text": "People didn't manage it, they died. While it has been recognized as a disease for a long time, there wasn't much that could be done by way of treatment.  In the late 1800s-early 1900s, the \"treatment\" they worked out was essentially a starvation diet. They figured it out because a group of diabetic patients stopped having sugar in their urine during intense rationing during a siege on Paris. Essentially these patients were starving to death but they lived longer this way than if they were to eat normally. It's pretty morbid to think that if you were diabetic back then all you could hope for was maybe a couple more years of painful starvation. In the 1920s  scientists had figured out how to isolate insulin and they were finally able to treat people (of course, the downside is that it came from pigs and cows until the 70s). If you're interested there was an episode of  a podcast I like called the memory palace which covered this topic, focusing on one of the first patients to be treated with insulin: [https://thememorypalace.us/elizabeth/](https://thememorypalace.us/elizabeth/)",
+            "title_similarity": "0.55210686"
+        },
+        {
+            "id": "h140nwa",
+            "score": 2274,
+            "text": "Pre insulin they put people on low calorie, low carb diets. Some apparently even starved..\n\nhttps://www.diabetes.org/blog/history-wonderful-thing-we-call-insulin#:\\~:text=Before%20insulin%20was%20discovered%20in,diets%20with%20minimal%20carbohydrate%20intake.",
+            "title_similarity": "0.56822926"
+        },
+        {
+            "id": "h14al2o",
+            "score": 5283,
+            "text": "The disease was a death sentence but they did try. The most common treatment was a starvation diet where they limited both the intake of calories and carbohydrates this bought the child a small amount of time.  You were basically fed proteins.\n\nLeonard Thompson, a 13 year old boy, was on such a diet when the experimental insulin treatment was being developed in 1922. The treatment failed numerous times because of it not being pure enough but Banting, Best, Collip and Macleod from the University of Toronto didn't give up and continued to refine and purify extracted insulin until it finally was able to work. \n\nI like this video.\n\n[https://www.historicacanada.ca/content/heritage-minutes/discovery-insulin](https://www.historicacanada.ca/content/heritage-minutes/discovery-insulin)",
+            "title_similarity": "0.5297346"
+        },
+        {
+            "id": "h14kdui",
+            "score": 835,
+            "text": "Something worth noting... Even after insulin became available, type 1 diabetes had a high mortality rate until recently. A big change is a) synthetic insulin with different action profiles and b) ability to have small doses (0.025 units compared to >= 1). Diabetes foundations award people who have had the disease for 50+ years with medals for good reason. My mum gets her 60th this year. Burn out is life threatening now but back then it was a death sentence. I’ve had it for 14 years (dx 19) and I’m not sure I would have been one of the survivors had I got it 60 years ago.",
+            "title_similarity": "0.5637672"
+        },
+        {
+            "id": "h13zo4m",
+            "score": 2482,
+            "text": "[removed]",
+            "title_similarity": "0.11785503"
+        }
+    ]
+}

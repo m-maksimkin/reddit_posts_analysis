@@ -1,0 +1,652 @@
+{
+    "ELI5: What exactly happens when a WiFi router stops working and needs to be restarted to give you internet connection again?\n": [
+        {
+            "id": "h1dweqc",
+            "score": 1,
+            "text": "Heat and cooling issues are often what causes router to stop working. Routers are just computers that run constantly transferring, processing, transmitting, receiving data. Over time, the hardware like the cpu and other components can get hot and slow down processes causing bottlenecks. \n\nResetting it (unplug for 30 seconds) allows the router to cool down. Like most computers, if you put your router in a well ventilated, cooling area, it will keep the router working for longer.",
+            "title_similarity": "0.65346634"
+        },
+        {
+            "id": "h1e7dzi",
+            "score": 4,
+            "text": "Pay attention to those that tell you that it's cleaning cache, flushing stuff such as DHCP leases, etc., maybe even cooling a little.\n\nBut the horrible, eldritch and cosmic truth is that the great ones are running their tentacle-ish fingers through your house, in another dimension, disrupting the signal. Because those little bastards, no matter when, where, how or how expensive they are, sooner or later they will fail. \n\nPS: Use CAT6 cable. It is Cthulhu-proof.",
+            "title_similarity": "0.484503"
+        },
+        {
+            "id": "h1g1uyf",
+            "score": 0,
+            "text": "it has cheap memory.\n\nIts memory can forget things\n\nEverytime it is booted up, it reads its factory programming into memory, then reads any settings it has been configured with into memory. thus, relearning what it forgot.",
+            "title_similarity": "0.53584015"
+        },
+        {
+            "id": "h1glt1a",
+            "score": 0,
+            "text": "It's basically like reestablishing a hand shake. You know like the one between Arnold and Carl in the Predator.",
+            "title_similarity": "0.44326824"
+        },
+        {
+            "id": "h1e3vwe",
+            "score": 17,
+            "text": "ELI5: Start counting at 1 and don’t stop.  Keep going past 1000.  10,000.  1,000,000.  Now pretend you lost count eventually.  You don’t know where you were, so you have to start over.  A router does the same thing, only it keeps trying to remember where it lost count, so you have to restart it to tell it to start at the beginning again.",
+            "title_similarity": "0.61894935"
+        },
+        {
+            "id": "h1ee75e",
+            "score": -1,
+            "text": "you know how every now and then you need to reboot your computer to get back to a clean state and fix transient issues? same concept. \n\nthe OS likely has memory leaks and software bugs. some of those bugs take days, or even weeks or months to manifest, so the manufacturer likely is not fixing them. \n\nthe easy fix, is the reboot.",
+            "title_similarity": "0.6744612"
+        },
+        {
+            "id": "h1fue5p",
+            "score": 1,
+            "text": "It’s like a never ending game of snakes and ladders. Sometimes you land on a bad snake that goes right off the board so you have to reset and start from the start again.",
+            "title_similarity": "0.42349178"
+        },
+        {
+            "id": "h1h3w2a",
+            "score": 1,
+            "text": "Buffer overflow. Some nasty and lazy dev who do not know the meaning of cleaning up after themselves.",
+            "title_similarity": "0.34334287"
+        },
+        {
+            "id": "h1e4vrx",
+            "score": 37,
+            "text": "The real reason why you have to restart a router is that no-one from the designer to the knowledgeable friend who can help you troubleshoot issues want to spend any time on the thousands of issues which might be the root cause of your error, when a very quick and simple fix is \"restart the router\".\n\nIt's easy, it's quick, it gets the job done.\n\nAll the reasons given in other answers are just possibilities in a sea of possibilities. A router is a cheap computer, it has all the bug potential of a computer with all the fragility associated with cheap hardware.",
+            "title_similarity": "0.4723025"
+        },
+        {
+            "id": "h1e5sed",
+            "score": 12,
+            "text": "Someone has written bad software. Restarting the router causes the shitty software to restart and will then run again for a while.\n\nIf you buy a good router/modem it will not need to be restarted until it breaks.\n\nHere you can see the uptime of my router. And it's not 1 year 2 months because I had to restart it. It's 1 year 2 months because I moved apartments. \n\nhttps://i.imgur.com/f6rQ6DS.jpg\n\n// Master of Engineering Computer Science ( I have distanced myself from scientific language and nowadays instead go with the word \"shitty\" a lot)",
+            "title_similarity": "0.6841664"
+        },
+        {
+            "id": "h1dw1m9",
+            "score": 2,
+            "text": "The router is having two conversations, one with your computer and one with your ISP.  Either conversation gets lost, you lose your connection.  The quick and dirty way is to reset the conversations by rebooting the middleman. \n\nThere are lots of possible causes for the problem but a hard boot can be the quick fix. If it continues to happen, it can take a lot of time and expertise to properly resolve. My hot take is to get a quality router and go from there.",
+            "title_similarity": "0.68878233"
+        },
+        {
+            "id": "h1e5qo6",
+            "score": 3,
+            "text": "Software dev here, but here's how I understand it.\n\nImagine you're having trouble trying to understand a problem in an exam or on a project. Is it not better to take a step back and start again rather than going round in endleas circles and crash your brain?",
+            "title_similarity": "0.5821441"
+        },
+        {
+            "id": "h1e68ta",
+            "score": 3,
+            "text": "The router has sort of handshake protocols between the isp site and your PC. Sometimes one side has a glitch and is left hanging. Power of closes all protocols and restarts new ones. Hope that is simple enough.",
+            "title_similarity": "0.71048915"
+        },
+        {
+            "id": "h1dq8tt",
+            "score": 620,
+            "text": "It’s been a few years since a tech friend explained it to me. Iirc, he said something like when you power off/ unplug the device (most devices that use computer chips for that matter), it ‘drops’ everything it was doing. Essentially all the electrical signals flying around cease to be; including the ones responsible for whatever corruption is occurring. When you power on/ plug in, it’s like a hard reset. Again, it’s been a few years since and I’m certain there are much more knowledgeable folks lurking who will be happy to correct me but that’s the gist of what my non-tech-savvy brain could retain.",
+            "title_similarity": "0.6695696"
+        },
+        {
+            "id": "h1e0nrm",
+            "score": 12,
+            "text": "[removed]",
+            "title_similarity": "0.22573963"
+        },
+        {
+            "id": "h1e44c7",
+            "score": 80,
+            "text": "One issue is down to memory leaks. When you write some program, such as the OS on a router, it needs to keep track of info (variables) such as a list of IP Addresses, list of connections etc. Each of those variables need to take up space in memory. \n\n&#x200B;\n\nWhat should happen is that when a variable is no longer required it is removed from memory thus freeing up memory to be used for other variables. The problem is if the program is poorly coded or has a bug then sometimes things don't always end up getting cleaned up and over time you run out of memory - either causing some sort of crash or making things run very slow. Restarting the device will clear the memory completely and remove all the junk in there..\n\n**ELI5:** Memory is like a jar you add marbles (data to be stored) to. What should happen is any marbles (data) no longer needed are removed but this doesn't always happen and eventually the jar overflows (crashes) and the only solution is to completely empty the jar by restarting your router.",
+            "title_similarity": "0.6555463"
+        },
+        {
+            "id": "h1dzqdc",
+            "score": 31,
+            "text": "For me it was NAT table overloading from trying to connect to too many P2P peers on a crappy modem, spent some money on a decent one and haven’t restarted in over a year",
+            "title_similarity": "0.62510616"
+        },
+        {
+            "id": "h1e3u8v",
+            "score": 149,
+            "text": "Long time embedded software engineer in telecom here. As many have discussed, these routers will have a small computer inside them. Actually, many have two or three separate computers, for example a CPU for the cable mode, a CPU for the Wi-Fi, and a CPU for the overall router function. \n\nIf \\*any\\* of these CPUs get into a snit, the overall function can fail. Also the CPUs talk to each other, and if the communication between the CPUs (that you can't see) fails, then the device function will fail. Most of these CPUs will be running Linux, but some will run obscure operating systems you've never heard of. None of them are running Windows.\n\nThe most common issue is just plain buggy software. Even if we are talking about Linux, it may be using a very old kernel, old libraries, obscure libraries, etc. The manufacturers go cheap on these things, and once it \"works\" there is a tendency never to upgrade anything again. \n\nOne more issue can be chipset compatibility between the router's Wi-Fi radio and the clients. This is especially bad for brand new versions of the standard (Wi-Fi 6) but can happen on older versions too. \n\nSo the problem here is just too many cheaply made moving parts. You have multiple CPUs talking to each other, one of the CPUs talking to your ISP, one of the CPUs controlling the Wi-Fi radio hardware ... and everything potentially running an ancient unsupported version of Linux. This is why most pros in the industry don't use these low cost integrated devices at all but instead use a solution like Ubiquiti Unifi. (Which has its own set of problems, see r/Unifi).\n\nOne more thing: there is lots of discussion of accumulated Wi-Fi errors (FEC errors). I am not aware of any process where accumulated FEC errors would lead to failure. Wi-Fi is designed to gracefully handle stations drifting in and out of range or hanging around on the fringe, this in itself shouldn't be an issue.",
+            "title_similarity": "0.61355245"
+        },
+        {
+            "id": "h1e6t24",
+            "score": 409,
+            "text": "Answer: Imagine a router to be like a post office. And data like the mail going through it.\n\nOne day, a particular large/deformed/mispositioned mail got stuck on the conveyor belt and blocks the entire operation of things from going on. And the post office has no idea how to take that mail out of the queue. So everything gets stuck.\n\nRestarting the router is like clearing out the entire room, people, mail and everything, and running a super strong air blower to poof every mail, stuck or not, out of the post office. Then the people come back in to work and mail het processed again without a care of whatever happened before the restart.",
+            "title_similarity": "0.47781652"
+        },
+        {
+            "id": "h1du1yl",
+            "score": 9580,
+            "text": "Routers are essentially tiny, low-power computers. They have their own operating system in there and everything.\n\nWhen the OS is first started, it's in a 'clean' state where everything is configured and working properly. All the services are in place, all the connections are set up, everything is green.\n\nAs the OS works, over time it might encounter problems. There might be errors. Some of those can be easily recovered from, some not. Some of them don't cause any problems, some of them interfere with the router's function, slowing it down or outright preventing it from doing its thing. Restarting the router returns the OS to that initial clean state where everything is working again.",
+            "title_similarity": "0.5023334"
+        },
+        {
+            "id": "h1e4iaw",
+            "score": 1,
+            "text": "I was told that there are different WiFi frequency channels that routers broadcast in. When other people's routers are using the same channel it gets clogged up and your devices can have trouble with the interference. When you reboot your router, it automatically begins broadcasting on the least congested channel.",
+            "title_similarity": "0.6866678"
+        },
+        {
+            "id": "h1e53vw",
+            "score": 1,
+            "text": "Ethernet works by having the router to broadcast for all connected devices and then collects these mac adresses in to a table that it uses for routing messages in to the internet this is done periodically and failed entries are then deleted from the table.\n\nFor some reason wifi router signals sometimes fail this broadcast but windows still thinks it's connected which leads to a router \"forgetting\" that you're there until a handshake is re-enacted by restarting the modem or disconnecting from the windows.",
+            "title_similarity": "0.77382934"
+        },
+        {
+            "id": "h1e5ec0",
+            "score": 3,
+            "text": "The software running on routers often needs to store some information in memory to work. Might be a package of information coming in through the internet. Sometimes the program doesn't really know beforehand how much memory it will need to do that, e.g. this might depend on some dynamic input. So the software needs to find some free chunk of memory in it's hardware where this information fits, this is called dynamic memory allocation.\n\nNow what sometimes happens is that programmers forget to free that memory again. Even though it's actually not needed anymore, it's task is done, the program forgot to tell the system allocating the memory that this chunk is not needed anymore. If this happens often enough (e.g. after the router has been running for a few weeks) there won't be any more free memory in the hardware. So when the system tries to allocate some chunk of memory it needs it can't, there is no free, unused chunk left in the hardware anymore. It's all taken up by some old data which is technically not needed anymore, however was never cleaned up. So the router can't allocate the memory it needs to perform it's function, so it basically hangs or stops working.\n\nNow the memory we are talking about is not persistent, it's cleared after power off. This is fine, the router doesn't (and shouldn't) remember old internet packages. So restarting the router resets the system to a known state and clears up all the unused garbage.\n\nThe same can also happen with computers or smartphones. The only difference there is that every Programm there has its own chunk of memory, so you only need to close the program, not restart the whole device.",
+            "title_similarity": "0.68974686"
+        },
+        {
+            "id": "h1e5nqy",
+            "score": 2,
+            "text": "Software (aka firmware) crash most likely. Sadly this is not going away any time soon. The software running on network devices is getting ever more advanced, but that means bugs, memory leaks and fun extremely rare race conditions happens from time to time. Turning it of off and on again is not just a joke about lazy tech support, it's a very real way to fix a myriad of issues that can at best be permanently fixed by a software update from the vendor.\n\nNote: Do a \"soft reset\" from the GUI of the device whenever possible. Cutting power can in rare cases result in corruption to files if it was in the process of writing updates to it's flash memory or disk just when it happened. Not a huge risk for a simple WIFI router, but more advanced devices can have quite a bit of disk activity.",
+            "title_similarity": "0.5614182"
+        },
+        {
+            "id": "h1e6drj",
+            "score": 2,
+            "text": "Routers are computers. They take data from input lines, process it and send it to output lines.\n\nRouters run an operating system, they have volatile and permanent storage (RAM, ROM) and a CPU.\n\nCommercial-grade routers, manufactured by the likes of Cisco, are battle-hardened and expected to survive with little maintenance, and keep running.  They have dual high-quality power supplies along with powerful multicore purpose-built CPUs , plenty of memory and storage and a well-written, well-maintained operating system. Commercial grade routers cost thousands of dollars and are maintained by specialist technicians.\n\nDomestic routers are a different beast. They are built to a price point where ISPs can send them out for (effectively) free. They have the least you can get away with. They run an OS designed to be operated by (shudder) users.\n\nBecause their power supplies are the bare minimum, fluctuations will cause working memory to become corrupted.\n\nBecause their CPUs are weak, they have to struggle to manage all the threads running.\n\nBecause memory is limited, they have to page to virtual memory more often.\n\nBecause their operating systems are poorly written, their error correction is poor. Their functions are not optimised. Their memory allocation and scavenging suboptimal.\n\nAll this leads over time to memory states that are not predictable. There may be buffer overruns. Undefined data. Uncorrected errors.\n\nAnd in time this aggregates until the only thing is to power off and hard reset back to a clean state.\n\nFWIW, there are domestic routers capable of good performance. But you generally have to buy them yourself and use these instead of the ones supplied with your contract. My router is a Fritz!box 7490 and I reboot it once or twice a year when there is an OS update.\n\nSo, TL;DR you get what you pay for.",
+            "title_similarity": "0.5077524"
+        },
+        {
+            "id": "h1e6nst",
+            "score": 2,
+            "text": "I don't want to address why restarting a router makes it work again because that has been thoroughly answered but I do want to address the fact that Wi-Fi is not internet. Wi-Fi is a type of network connection. Inside of your home your Wi-Fi is a connection point for your home network that lives on your side of the modem. You can have a connection to your home network without your home network having access to the internet. Wi-Fi is not internet.",
+            "title_similarity": "0.626714"
+        },
+        {
+            "id": "h1e6tkz",
+            "score": 3,
+            "text": "More often than not its a cache issue, basically your router has a pretty shitty little brain that fills up quick, sometimes it's hummdrumming along, and a request comes from a device and your router goes \"um, I'm sorry... What??\" turn off  turn back on and your router is all like \"oh yeah, I was routing... Silly me\"\nOther times it's a dns resolver issue where you're actually connected but for some reason your router can't find the dude he usually asks for directions on the Web, and just sort of gives up.\nA thousand moving parts, a thousand reasons why.",
+            "title_similarity": "0.65825427"
+        },
+        {
+            "id": "h1e7153",
+            "score": 3,
+            "text": "ISP tech here. Important note- router and modem are two different concepts. Most isp will provide you a gateway, usually including both those and an emta(landline service).  A modem is the decoder, a \"(mo)dular (dem)odulator\" which translates rf, light, dsl broadband whatever you want from binary(just the raw signal being turned from 0 and 1 into usable data packets.)\n\nThe router is kind of more like the brains or controller of your network. The router assigns local ips to your devices in the home as you only have one actual ip address through the modem. Meaning the router is what let's you hook up both the Amazon alexa, smart TV, and Xbox at once. A modem would only let you have 1 thing because it doesn't route traffic- only blasts it out at full speed. \n\nHeres the eli5 on that: Think of a water irrigation system for sprinklers. The conduit in which the water comes from is the modem, and all the pipes leading to individual sprinkles are the router. Only this time its wireless water. \n\nSo as for your question- why do modems and routers time out? Well it gets tricky and tbh I don't think any of this is simple enough for an eli5 but here goes. When your internet service cuts out its either the router or the modem.  But 99/100 times its a service issue with the modem. With fiber to coaxial (copper antennae) the field which im most familiar with, there are 2 important signals types, your transmit (up) and recieve(down). Normally when a modem \"times out\" meaning going down and no longer demodulating, its because somehow the transmit was affected. This transmit can also be measured in the time It takes for the modem to communicate back with a central hub system, cmts is what we call it. When your transmit is too high, which is worse than low(exclusions apply), and takes too long to communicate back you can get a timeout. There are also multiple transmit carriers, and while the modem can function on just one, it usually comes with a plethora of issues. On a side note, the downstream is your raw bandwidth capability and brevity of it. \n\nHere the best eli5, and if anyone's interested for more pm me- Think of it like the CMTS, central hub, is at the end of a long highway. And the modem is one of the many cars on the highway. Lets say this highway has 4 lanes(your transmit carriers). Lets say traffic is bumper to bumper but everyone is going the same speed lets say 50km/ph. Everytime a lane of traffic is blocked off, or closed, (your carriers being impaired or unusable) all the traffic in that lane has to squeeze into other lanes, therefore slowing everyone down, and some people get run off the road. If the car takes to long to reach the central hub, it says I can't wait anymore, and sends it back to the start. \n\nWhen you restart your modem you are effectively unjamming the traffic and putting your car back on the road, but if a physical cable impairment still exists the lanes will still be blocked off. Maybe your car doesn't get run off the road this time, and makes it to the end, but its not guaranteed.",
+            "title_similarity": "0.6247062"
+        },
+        {
+            "id": "h1e84xc",
+            "score": 1,
+            "text": "Since there's not a reply that actually ELI5 here's my attempt: \n\nImagine the router is a person who has to plug cables into a big board by hand to connect one phone/computer to another. \n\nIf they're working constantly all day all night they'll get tired and eventually start making random mistakes, some it can correct for on it's own but some it is just too tired to figure out.\n\nSo you tell them to sleep and rest and now that person is not knackered they can continue with the job.",
+            "title_similarity": "0.5230551"
+        },
+        {
+            "id": "h1e87re",
+            "score": 2,
+            "text": "Ok sit down Billy, Imagine a packed restaurant (that's your router) it has people inside ordering food, people calling in ordering food and people at the bar ordering food (that's your packet requests). The wait staff takes orders according to when customers come in but once in a while a VIP will come and they will give them a bump in the que. Now imagine that there is something taking a while to cook or they messed up an order, that causes confusion and congestion in the restaurant since they now need to figure out how to deal with that while holding everything else up. So what would happen now if you kick everyone out of the restaurant, close and clean it up for an hour? (that's you restarting) So finally when the restaurant opens up now it has a chance to start over taking orders like it was a new day.",
+            "title_similarity": "0.37741095"
+        },
+        {
+            "id": "h1e9l5q",
+            "score": 1,
+            "text": "Basically computers go a bit senile the longer they run and restarting them resets anything and clears any bugs that have started to stack up (source my dad is an IT professional)",
+            "title_similarity": "0.5943918"
+        },
+        {
+            "id": "h1e9qm0",
+            "score": 1,
+            "text": "1. Connection **HANGED** (data interruption , conflict,etc)\n2. Firmware faulty (same that above but error internally on router)\n3. wifi protocols too could fail (and they do often) devices need to negotiate continuously ,bandwidth , protocols ,etc\n\nPS : OFF and ON \"**cleans**\" the Random Access Memory (which requires electricity to stay \"Alive\" (keeps \"corrupted-faulty\" data )",
+            "title_similarity": "0.6620611"
+        },
+        {
+            "id": "h1ebyqz",
+            "score": 1,
+            "text": "For UK, not sure about anywhere else. Sometimes on your line if you have a copper connection from the cabinet/PCP (primary connection point) to your house your line can pick up errors and enough errors can sometimes crash your router broadband connection or just drop your speeds.\n\nThese can be caused by a number of things, some examples: \nRein (repetitive electrical input noise)\na HR (high resistance fault)\nOr cross talk (interference from other broadband users that share the same network.\n\nRein for example could be caused by anything electrical in your house or sometimes in neighbouring roads/areas. I believe its caused from bad wiring in devices which could even come from a neighbours house.  This will cause a high rate of errors to accumulate on your line and your router will sometimes drop your speeds to cope with the interfence or you will lose connection completely. \nAs the name states its repetitive which could be when a neighbour gets home from work at a specific time and turns a light on or the TV etc.",
+            "title_similarity": "0.59846425"
+        },
+        {
+            "id": "h1ed888",
+            "score": 1,
+            "text": "Think of a router like a person working at the front desk of a big corporation. Employees come in and out and you have to choose who is allowed and who isn't allowed. You also have some light record keeping to do so you can track frequent employees more effectively. You also need to help point employees in the right direction as they are leaving, so they can find their next meeting in a new building down the road or maybe even in another country.\n\nSo you start doing your job. Tiny amounts of paperwork pile up, you've got a small line of people trying to be let in, and you are handling it well. The lines move fast and you do great at your job :)\n\nBut now some weird people show up. Some of them don't have IDs and demand to speak to your manager. Some employees leaving need you to write down a lot of instructions on how to get to their next meeting. Some employees don't make it to their destination so you have to write instructions for their coworker to try and make the meeting. You get a little overwhelmed but you make it work. Now those weird people drop 25 folders on top of your desk and won't budge until you let them in. The line gets longer. You're trying to call your manager while writing instructions on how to get to another building.\n\nAll of a sudden you run out of desk space and you're stuck in a loop trying to clear it off while the weird people keep shoveling folders of paperwork on your desk. And you've got a huge line forming and it is basically slowing you down to a crawl while you try to solve all the problems at the same time. No one is happy. They all start getting mad and push harder for their agenda.\n\nYour manager finally comes down, sees the chaos, and pulls out a gun and fires 2 warning shorts. EVERYONE GET OUT. NOW! \n\nEveryone leaves and you sweep your entire desk off into the dumpster. You get a quick 5 minute break to go grab coffee and the doors will open once you're back at your desk and situated.\n\nLife pro tip: get a timer for your electrical outlet and have it cut power at 4am and restore it at 4:02am. That easy reset has kept my internet speeds fast and my router pretty reliable.",
+            "title_similarity": "0.49881253"
+        },
+        {
+            "id": "h1eda5j",
+            "score": 1,
+            "text": "In the case of my Nighthawk RAX40 ($200) that I purchased about 3 months ago, the router started giving me problems within the first few hours of using it. I have about 25-30 devices connected to it at any time and something told me to just touch the router. I’m glad I did because it was almost blistering hot. Pulled out an old laptop chill pad (with two built-in fans) and put it underneath the router. Haven’t had a problem since and now the router stays nice and cool all the time! Heat will definitely cause problems with the circuitry inside a router.",
+            "title_similarity": "0.56255096"
+        },
+        {
+            "id": "h1edzvc",
+            "score": 1,
+            "text": "An easy way to imagine what happens (with any electronic device really) is to picture a big complex flow diagram. There are 1000's of states and each state could have more complex options than just yes/no.\n\nDepending how well the software was written (often the budget for low end products you get free from your ISP is small), there could be states where you end up in a infinite loop or unable to get back to a state that is actually useful.  \n\n\nTurning a device off and on again is like moving back to that initial box in your flow diagram.",
+            "title_similarity": "0.46361923"
+        },
+        {
+            "id": "h1ee6de",
+            "score": 1,
+            "text": "Most of the time there’s a memory leak in the code which gets exacerbated by the amount of traffic over time which eventually leads to the device crashing and/or rebooting.\n\nLike others have said, these devices are very low powered in terms of RAM and CPU. Even Cisco devices (depending on the IOS version) can experience this behavior as well.",
+            "title_similarity": "0.5645983"
+        },
+        {
+            "id": "h1egkta",
+            "score": 1,
+            "text": "Your WiFi router stops working because it is in a bad/inconsistent state.  It can get into a bad/inconsistent state because of bad programming or because of [intermittent network issues](https://en.wikipedia.org/wiki/Two_Generals%27_Problem).  Restarting your WiFi router is the easiest and fastest method to reliably put your router into a known, good state.",
+            "title_similarity": "0.66131026"
+        },
+        {
+            "id": "h1ehczr",
+            "score": 1,
+            "text": "For people who torrent a lot, they can also cause their router trouble similar to bad programming as well.\n\n\nTorrents open many, many connections to other computers. It fills the connection table, the list of all active connections, and sometimes it will saturate the entire table and not allow any more new connections. If the router does not close out these connections as well even after they are closed on the user's end, it will continue to occupy available connections until no new connections can be made. A reboot will clear the connection table.\n\n\nThere may be some malice as well. I have a Linksys EA8500 that users report that after updating to the latest firmware (version 1.9), it will randomly drop wifi connections. Linksys support has not fixed the issue for years despite complaints, and this latest update blocked side loading open source software like DD-WRG or downgrading to an older firmware, things that were allowed before the 1.9 firmware. I had to take a low-level diagnostic tool to upload a new operating system instead of buying a new router.",
+            "title_similarity": "0.63877964"
+        },
+        {
+            "id": "h1ehot3",
+            "score": 1,
+            "text": " Your re-initialised the entire command structure, retaining all programmed abilities but deleting the supplementary preference architecture.",
+            "title_similarity": "0.5074744"
+        },
+        {
+            "id": "h1ehrgt",
+            "score": 1,
+            "text": "Routers have (nearly) all the components of a bona-fide computer, just in smaller amounts. \n\nWhen you run any computer in its daily course, lots of things get written into and out of the RAM, a computer's short term memory. Occasionally, things go bad when doing this, but the consequence is usually a single 1 accidentally being a zero or vice versa. Usually easy to recover from. When you leave a PC on and doing lots of stuff for months however, those errors start to build up, and things start to go wrong. This is why your computer will become unstable and probably crash if you left it on for months at a time.\n\nThe same thing happens to routers for the exact same reason.",
+            "title_similarity": "0.57836354"
+        },
+        {
+            "id": "h1ehz33",
+            "score": 2,
+            "text": "If it's not heat or other physical problem, it's likely [routing tables](https://en.m.wikipedia.org/wiki/Routing_table) filling or becoming corrupt.  \n\nRouters use something called routing tables to store information about the network around them and how to reach other networks. These tables are held in Random Access Memory (RAM), a type of storage that only works while the router is powered on, but is erased when power is off.  \n\nThe routing tables grow larger over time as more and more new connections are made. However, these tables can be poorly designed and/or only have a somewhat small amount of space, especially cheap or old routers, and at some point they reach a point where they can't fit any more routing information or can't deliver it reliably. If the router can't get the information it needs from the table, it is not able to route data to other networks.  \n\nWhen you power cycle the router, you wipe out the routing table in RAM, leaving it empty and ready for new connections. \n\nThat's what I was told by an old electrical engineer I worked with that built these things by hand. I trained under him for a period before heading to college for IT.",
+            "title_similarity": "0.6443725"
+        },
+        {
+            "id": "h1eil4e",
+            "score": 1,
+            "text": "A router has a computer that allows it to talk to other devices. Computers are just tiny counting machines. The longer counting machines runs the higher and higher they count which can lead to situations where it's impossible for it to do the count it's expected to do. But if you turn it off the computer starts counting at zero again.   \n\n\nDevices can be made so they don't over count, but that requires so much planning and testing that it's often just easier to have the device be reset from time to time.",
+            "title_similarity": "0.5245285"
+        },
+        {
+            "id": "h1eim6g",
+            "score": 1,
+            "text": "Every computer or peripheral device is, at the end of the day, just throwing around hundreds/thousands/millions of bits (1s and 0s) every second. Al relying on the physical infrastructure (actual metal connectors, memory medium, processors) to maintain a 1 as a 1 as it travels throughout. Bad shielding, shitty power supplies and conditioning, crap connectors, cheap wires… all of this can lead to a bit getting flipped. \nGood software can account for this, and the entire signal is usually sent with built-in error correction, and the processor can run error-correction as well. \n\nShitty cheap-assed software will not provide that resiliency. As the number of flipped bits increases, the likelihood of them starting to affect operations increases. \n\nOne way to think of it: the physical hardware is a house. Within the operating system of the hardware, there is the software that functions as the furniture in the house. When you first turn on the router, the house is freshly built, the furniture is new and in the perfect spot. Your feng shui is on POINT. You (the actual signal being sent) can run through the house and get where you want to get or stop where you want to stop, effortlessly. \n\nAs the inevitable flipped bits start to pile up, it’s like kids have started leaving lego bricks around. You can still get through, but you may have to be a bit more careful. But the bricks keep building up. <Google “shark stepping on Legos” picture so you can laugh along with me right now> And now, something important in the system software got a flipped bit, and the sofa is in the doorway and the end table is in the fireplace. Now you can barely get through and everything is on fire. \n\nSo you reboot, and the house returns to its brand new, feng shui AF starting point. Hopefully. Full hardware resets are required where some of those Lego bricks made it into memory that doesn’t clear with a simple reset.",
+            "title_similarity": "0.5223038"
+        },
+        {
+            "id": "h1ejfnw",
+            "score": 1,
+            "text": "wifi router is like a man at the hotel front desk that tells you where your room is. after time the front desk man is holding too many room keys and talking to too many customers at the same time. This is when the front desk man needs a break. \n\nin other words, reset the wifi router.",
+            "title_similarity": "0.48439533"
+        },
+        {
+            "id": "h1ejvii",
+            "score": 1,
+            "text": "When your computer has problems with a frozen program and you restart it, so the program also restarts and hopefully works as intended - then it's basically your router",
+            "title_similarity": "0.7112349"
+        },
+        {
+            "id": "h1ejw8v",
+            "score": 1,
+            "text": "Actual ELI5:\n\nThere are a bunch of tiny men inside the router carrying your information around, coordinating what it’s doing, keeping the lights on. Those tiny men get old, they have health problems here and there like old people do. Sometimes they get tripped up in basic tasks for one reason or another. Those tiny men are sent to retirement when you remove power from the router. When you turn it back on, the tiny men are replaced with new ones that have been well trained and are in peak physical and mental condition. They work great for a long time, until eventually the same thing happens to them.",
+            "title_similarity": "0.47382748"
+        },
+        {
+            "id": "h1eka7v",
+            "score": 1,
+            "text": "One reason that I have not seen anyone mentioning is how the router handles WiFi frequencies. If you live in an area with a lot of neighbours with their own WiFi routers, that specific channel your router are sending via can get clogged. Some routers will automatically try to choose a channel that is clear, but others require a restart to do this.   \n\n\nI work for an ISP and this is how some of our routers worked.",
+            "title_similarity": "0.6954633"
+        },
+        {
+            "id": "h1ekp7z",
+            "score": 2,
+            "text": "Let's say you always go to your best friend's house everyday, and you remember how to get there from your home. You cycle your bike out of your home, turn left at the 2nd junction, right at the next round-about, then 3rd right after that weird orange tree and his house is the 4th purple house on the right. \n\nYou remember the specific steps to get to his house from your own house, but what if suddenly one day one of those turns get blocked so you can't take that way anymore? You take the next road, but the next road you want to take to get back to your route is also closed, and so you try another way and another way until eventually you're just lost.\n\nSometimes, that happens to modems and routers too, they lose their way because of mistakes made in their operation. So, turning it off and then on again is just like resetting the whole thing so that you start the whole journey from your home again. Now you remember how to get to your best friend's home again because you remember the route again now.",
+            "title_similarity": "0.46768528"
+        },
+        {
+            "id": "h1emefk",
+            "score": 1,
+            "text": "if its a wifi router that also act as the main internet router/modem, then it also means a new IP address.\n\nSome people on PlayStation needs to reboot the main internet router multiple times to get a clean \"ip address\" that was not banned by sony, as they are overzealous in banning IP addresses.\n\nELI5 ip address: basically its your temporary home address or temporary phone number. that will change every time the main internet router got rebooted, unless you subscribed to a static address",
+            "title_similarity": "0.83010304"
+        },
+        {
+            "id": "h1eoghv",
+            "score": 1,
+            "text": "IT pro here. Your router is also running some proprietary version of Linux (most all appliances are - most smart TVs, etc). In my experience, heat is the cause of the lock ups. These devices produce a lot of it and are not well ventilated. Over time, the heat causes component weakness and eventual failure. When this happens, it causes the router to hang. When you reboot, it will work again for a while. Usually it will hang about once a day at first, when it starts getting more frequent, it is time to replace. Most routers under $100 have about a 1 year life span before heat lockups start. High end routers $300 + range will last you 5 or more years. The one I am using now (Netgear Nighthawk R8500) has been working 6+ years flawlessly. Also important to keep up with firmware updates, etc.",
+            "title_similarity": "0.56924415"
+        },
+        {
+            "id": "h1ere43",
+            "score": 1,
+            "text": "Imagine your router is both a phone book and a phone. Often times, when the router \"breaks,\" the phone book has gotten scrambled and the numbers are all out of order. Now, the phone still works, so any computers connected to it might already know the correct numbers to get what they want, but any new devices (or devices that have forgotten the numbers) will be unable to access most areas of the internet. \n\nWhile computers use friendly names like [google.com](https://google.com) to describe what you're trying to access, in reality they use **numbers** to reach those websites. One of the more common problems is the function of a router that tells your computer what \"number to talk to\" goes down. This is called the DHCP server, and when it fails, any new devices connecting to the router (or old ones that need to \"refresh\" their numbers) will fail to connect. This can cause some devices on your network to work fine, while others fail to connect to the internet.\n\nWhen you restart the router, you clear the routers program entirely and load it from scratch, sort of refreshing its own \"memory.\" This enables the devices to reconnect and get a new, correct set of numbers to talk to reach your favorite sites. This is not the only thing that causes a router to need to be restarted, but it is one of the more frequent examples of router issues.",
+            "title_similarity": "0.639485"
+        },
+        {
+            "id": "h1etqyd",
+            "score": 1,
+            "text": "One thing I haven't seen mentioned is that 'WiFi routers' often have the responsibilities of multiple components in one:\n\n1. A **router** \\- which is responsible for handling traffic between your local network and the internet;\n2. A **switch** \\- which is responsible for handling traffic between devices on your network;\n3. A **wireless access point** \\- which is responsible for creating the WiFi network and managing wireless devices;\n4. A **modem** (sometimes) - which is responsible for converting the internet signal into something that your router understands (and back);\n\nConsumer 'WiFi routers' have to be able to handle all of those responsibilities and how they interact with each other, with only a small budget to develop the software and produce the hardware. Basically, they're trying to do a lot of things with not very much, and often this results in corner-cutting or other issues.\n\nYou *can* buy dedicated hardware for each of those functions, and it isn't necessarily expensive. For example, you can buy a Ubiquiti EdgeRouter X (which includes a switch) and a Unifi AC Lite access point for less than the cost of many consumer WiFi routers. That's the setup I've been running at home for a year, and I've had zero downtime. But it does require a little more configuration from the user.",
+            "title_similarity": "0.7057028"
+        },
+        {
+            "id": "h1eu2mm",
+            "score": 1,
+            "text": "From what I understand this can be caused by many things.  As had been mentioned, a home router runs an operating system just like a computer.   That operating system is optimized to be as small as possible.  Some of the things that might get \"optimized\" are things like housekeeping routines that keep data and processes running efficiently.  The hardware running these devices are also fairly limited in terms of computer power.   When a device is running for a long period of time, the entire system can become less efficient.  Heat can build up in the chipset making it less efficient, data such as open file handles memory structures can be highly utilized, making the OS require a clean start to operate normally.  Hth",
+            "title_similarity": "0.5481874"
+        },
+        {
+            "id": "h1eunnx",
+            "score": 1,
+            "text": "I scrolled for a bit and found people describing memory leaks, which is definitely a big part of the answer, but I have another answer.\n\nIf it's a coax modem, the RF signal coming in on the cable uses anywhere from 1 to 32 specified channels to bring that info in.\n\nDepending on your provider and your plan, you might not be using *all* of those channels at once. There could then be impairments that affect some channels more than others (wet line coming to the house for example will affect high freq channels more than low), so when you reboot the modem it has to re-establish that connection and it might not grab the same channels each time.",
+            "title_similarity": "0.65757275"
+        },
+        {
+            "id": "h1evs52",
+            "score": 1,
+            "text": "If a small section of an orchestra gets off time with the rest, it is easier for the conductor to stop and restart the whole orchestra than it would be for them to fix the messed up section while keeping the rest of the orchestra playing.",
+            "title_similarity": "0.42137116"
+        },
+        {
+            "id": "h1ex2m1",
+            "score": 1,
+            "text": "Every here is talking about how they can “crash” like a computer, but they’re also missing a more common problem: WiFi is radio. You know how when you’re driving around in your car sometimes you’ll hear two stations overlapping each other? That’s because they’re on the same frequency. \n\nWiFi has a limited set of frequencies, and almost all routers are set to automatically pick the best one when they start up. But since there aren’t that many, and with more people using stronger and stronger WiFi routers, they overlap. So your WiFi might be working great until your neighbor reboots his, and then suddenly it’s “talking over” yours. Then you reboot, and do it to someone else. Then they reboot, etc. Eventually you’re back where you started and have to reboot again. \n\nModern WiFi has more frequencies available, but with shorter ranges. It’s all a complicated mess.",
+            "title_similarity": "0.52621984"
+        },
+        {
+            "id": "h1exd4u",
+            "score": 2,
+            "text": "ELI5: the mail man puts your newspaper on your front steps while you’re away for a month on vacation, by the time you come home you have a pile of newspapers stacking up that makes it slower for him to do his job. When you reset it, you’re cleaning off your front steps so the mail man can efficiently do his job.",
+            "title_similarity": "0.43884647"
+        },
+        {
+            "id": "h1exyoy",
+            "score": 2,
+            "text": "Good explanations but not a lot of eli5 in here tbh.\n\nEli5:\n\nRouters are small computers\n\nThey remember lots of things that happen\n\nSometimes they remember too many things that don't agree with each other and get confused.\n\nRebooting a router clears their memory so only important things are remembered after they turn on again",
+            "title_similarity": "0.5370474"
+        },
+        {
+            "id": "h1eyj4m",
+            "score": 2,
+            "text": "What I don't get is how I can unplug my router, wait a minute, and plug it back in, as Comcast suggests--but that doesn't always fix the problem.  Then I call Comcast, they do the same thing (or so they say), and *then* my internet access works again.  What's up with that?",
+            "title_similarity": "0.8086842"
+        },
+        {
+            "id": "h1eze2p",
+            "score": 1,
+            "text": "Your router gives out passes to connect to the internet, each device gets a pass As devices come and go the passes get swapped. Sometimes it forgets it gave out these passes and hands the same pass out, to new devices connecting, your old pass is now in new hands and the router goes derp.",
+            "title_similarity": "0.7811251"
+        },
+        {
+            "id": "h1f0vln",
+            "score": 1,
+            "text": "Cheap router memory became full and NAT, ARP or routing table filled up and over (usually NAT because of one to many configuration and Rtable). You reboot it and you flush the cache which is written to “volatile” memory for speed. A secondary issue can be malformed packets crashing the iOS but this is much rarer.\n\nThis is caused by bare minimum hardware with bare minimum software memory leaks trying to act as a WLAN AP, and firewall-router combo, affectionately known as a stack overflow bug. You don’t see this as often on higher quality equipment such as higher quality SOHO routers or better because they have to have decent software. You don’t see this at all on enterprise equipment for the same reasons as well as they often have multiple cores so stack overflow isn’t an issue.\n\nIf you wipe a router and install it with Tomato etc you can see it’s usually 1000x more reliable as a result of users patching memory leaks.\n\nIf any posters aren’t referencing volatile memory, memory leaks or OSI L1 stuff like the PSU is shot and it’s going, they are probably talking out of their ass.",
+            "title_similarity": "0.58482975"
+        },
+        {
+            "id": "h1f35gz",
+            "score": 2,
+            "text": "You ever play Tetris? Think of the router loading each of the functions it performs as a block in Tetris   When the router reboots, each block drops and spins into its appropriate slot as designed. As the router continues to run, it may encounter an error which forces it to “re-drop” that individual Tetris block. In most cases, it finds a home. But eventually there will be no more room for a block to drop and the function is lost until you reboot and it loads them all back in order.",
+            "title_similarity": "0.6571109"
+        },
+        {
+            "id": "h1f5mcv",
+            "score": 1,
+            "text": "Network collisions, IMHO. What happens is the more bandwidth you use, the more packet collisions occur until the traffic gets gridlocked. \n\nIf it were a software issue, you would not be able to power cycle the router. It would crash on boot up because the software is essentially firmware stored in a chip and ran in ROM. \n\nMost of the time the network packet collisions go undetected. I typically power cycle my router every other week because of this. It’s common for every router because it has more to do with wireless transmissions traveling through mediums than software. For example, If one or one’s  kids are frequent gamers on high performance demanding devices such as a PC or gaming console, then that heavy bandwidth usage will eventually slow down the entire network once enough packets have collided and a restart is required to “clear the path.” Video streaming takes up a lot of bandwidth also.",
+            "title_similarity": "0.64327693"
+        },
+        {
+            "id": "h1f6dqg",
+            "score": 1,
+            "text": "Some times, it's because it is out of memory. Lots of cheap routers have very little RAM (random access memory, the kind of memory to keep programs running), because that saves money. \n\nEvery connection that goes through the router consumes a tiny bit of memory, and sometimes, the router's software isn't good enough at freeing up the memory that is no longer in use, so over the course of days or weeks, it slowly but surely gets closer and closer to not having leftover memory. When that happens, it won't be able to open new connections to the internet, and as a result, your web pages won't load properly, or at all.\n\nOther times, it might be because of memory corruptions having built up over time, eventually getting to the point where they cause problems that makes the router's software crash.",
+            "title_similarity": "0.47027904"
+        },
+        {
+            "id": "h1f7qrj",
+            "score": 1,
+            "text": "While your specific device may have it's own issue, in general the problem is probably that the internal routing table has become so big that your hardware cannot manage it any longer.  This could be due to a bug in the software that's not cleaning it up (remember to keep on top of patches ) or most likely you have a cheap router and you're asking too much of it.  It's bogging down.\n\nThese days cheap routers are only going to work for you if you're only trying to connect one or two devices.  Think grandma, down on the farm who only checks her email once a day and hasn't even heard of a smartphone yet.  For everybody else you should be running at least a mid-range router.  Something that has enough RAM and processing power to simultaneously handle multiple video streams, huge numbers of torrent connections, dozens of internet connected devices and still be able to coordinate the most efficient use of available wifi bandwidth with all your neighbors routers.\n\nThe router is the backbone of your digital home.  If you've got a cheap one, you've kneecapped your digital experience before you've even begun.  The biggest mistake you can make is thinking that because your internet connection is only a few megabits, anything should be able to handle your needs.  A router does more than just pass bits back and forth. Oh, and the one your ISP is renting you is probably not much better.",
+            "title_similarity": "0.56876993"
+        },
+        {
+            "id": "h1f7xtq",
+            "score": 1,
+            "text": "Sidebar ELI5: The consensus seems to be a mounting of errors over time. What causes a computer to make an error? Being a machine, shouldn't it do the same thing every time the same way?",
+            "title_similarity": "0.5922228"
+        },
+        {
+            "id": "h1f8fvb",
+            "score": 1,
+            "text": "In laymans, there is a series of steps needed to establish and maintain a connection. When something goes wrong with a pre established series of steps, the only way to correct it is to begin again from step 1, by resetting and going through the steps again. This re establishes the negotiation of connection, resulting in a new connection which works again, assuming the steps execute successfully.\n\n- wifi dev (dumbed down significantly)",
+            "title_similarity": "0.67906296"
+        },
+        {
+            "id": "h1fb6za",
+            "score": 1,
+            "text": "These small devices have very low type of processor and RAM. if a stored value is corrupted, and when that value is used. Processor goes into forever loop to access the data. But data is corrupted.\n\nEvery software has a startup methodology, in which every memory byte is initialized with zero. Zero is a meaningful byte. Corrupted byte is unreadable.",
+            "title_similarity": "0.5403266"
+        },
+        {
+            "id": "h1fbp29",
+            "score": 1,
+            "text": "Computers are not smart, think of them like two people, one who is really smart but cant move and the other is not so sharp. The slow guy has a massive wall of cubbies (little lockers that are always open) that holds all kinds of papers and things for the smart guy to use. Now the smart guy can't really see the wall, he has a map of where things are that he wants but he can't directly work with the wall and the slow guy has no idea what's in the cubbies, in fact he doesn't even know if the cubby is empty or not he just makes a grabbing motion and then brings it back to the smart guy. Normally this is fine b/c the smart guy has a map and can tell his partner to go to this cubby and grab what's there and bring it back to him. \n\nSometimes something happens where something isn't put back in the right spot or another duo team may have moved something without telling the first and now the maps are all out of sync with what's actually there. When you restart the system you reset things to their original spot.\n\nTldr: imagine playing chess with your eyes closed and keeping track of things in your head. If you forget where a piece is the easiest way to find where the pieces are is to start the entire game over.",
+            "title_similarity": "0.3598042"
+        },
+        {
+            "id": "h1ff798",
+            "score": 1,
+            "text": "Resource exhaustion and memory leakage have for years been byproducts of cheap soc equipment like this. Turn-it-off-and-on-again clears both conditions temporarily... how long it remains in a good running state will depend on the environment.",
+            "title_similarity": "0.5765008"
+        },
+        {
+            "id": "h1fg099",
+            "score": 1,
+            "text": "This is... complex.\n\nSo your home router is actually four devices in one. It's a Gateway, a Router, a DHCP Server, and a Web Server all in one.\n\nThe internet you get likely runs through fiber optics, and is literally just a blinking light. A Gateway connects to that fiberoptic system and converts it into an electrical current that can be recognized by the rest of your network.\n\nA Router controls the way data flows through your network. It maintains a list of ports and IP addresses currently in use, and reads data that comes into your network to tell it where to go. The router is why your PornHub video goes to your phone instead of grandmas wifi-connected pace maker.\n\nThe DHCP controls who and what connects to the network. It provides them with addresses and sends that information to be registered at the router.\n\nNormally, in a corporate environment, these devices would all be divided up into separate devices that are all dedicated to their purpose and generally have fail-overs configured to ensure uptime if they do go down. They're controlled most often by a command-line interface.\n\nWhich brings us to the fourth function your frankenstein networking abomination performs: it also maintains a web-server to provide you with a user interface that converts button clicks into command-line code to manage the other three parts.\n\nIf any of these break, your entire network can go down. As a result, rebooting might be more or less common depending on the quality of your router.\n\nBasically, the reason your home router needs to be rebooted is because it's an abomination unto our lord and savior GabeN and needs to be ritualistically sacrifices and reincarnated in order to breathe new life into your network. To appease the internet gods.",
+            "title_similarity": "0.7025485"
+        },
+        {
+            "id": "h1fgs8f",
+            "score": 1,
+            "text": "You're router is actually a pretty complicated device, and there are lot's of reasons for it to stop working. Think of it this way, your router is like UPS, FedEx, and USPS all rolled into one package. A problem anywhere can stop the process from the Post office losing a package to a FedEx truck catching fire. When you restart it you basically start everything from scratch. its like if the UPS warehouse burned down restarting the router builds you a completely new UPS warehouse and its like nothing bad happened.",
+            "title_similarity": "0.52594155"
+        },
+        {
+            "id": "h1fgtyr",
+            "score": 1,
+            "text": "Lots of thing.  It the main one is memory leaks filling up memory. \n\nEvery time you connect or send a packet of data, it takes up memory. When you disconnect it finished or finished sending, it should release that memory. Sometimes it doesn’t due to a programming mistake. This slowly fills the memory on the device.",
+            "title_similarity": "0.6502697"
+        },
+        {
+            "id": "h1fgywk",
+            "score": 1,
+            "text": "The answers here are mostly the right ones, however, one important thing I haven't seen said is that it might have to do with heat and the quality of your modem's processor.\n\nWhen silicon gets too hot, the resistance goes up and the signals sometimes can't make it to where they need to go anymore. This tends to crash every program running on them.\n\nEspecially if your router worked well in the past, but now crashes a lot, or if it crashes when used heavily, consider cleaning all the dust out of it. It might even be worth taking it apart to do. This will help it cool itself.",
+            "title_similarity": "0.55328596"
+        },
+        {
+            "id": "h1fh0fs",
+            "score": 1,
+            "text": "The amount of things happening to make wifi possible is mind boggling. Waves are flowing out of the antenna at 300 million meters per second, with 5 million cycles per second in 5ghz, with waves 6cm apart. \n\nThese waves (or phases) represent the same digital ones and zeros that flow through wired connections. Just flying through the air invisibly, passing through walls, etc. \n\nAll this is overly simplified. Amplitude, phase shifting, MIMO, band steering, and all sorts of other neato stuff is happening to move your data along. \n\nWe you look at all that has to happen for wireless to work, I’m amazed that it works as well as it does.",
+            "title_similarity": "0.53886575"
+        },
+        {
+            "id": "h1fjql5",
+            "score": 1,
+            "text": "Magic elves run around casting spells until finally one works and the goddess of the internet is appeased yet again and life proceeds once again as it should!\n\nHey, you did say explain like I am five!",
+            "title_similarity": "0.5612463"
+        },
+        {
+            "id": "h1fjwjs",
+            "score": 1,
+            "text": "People are attributing this problem to hardware failures or spaghetti code. While this may be the case, it is far more common that there is just a single bug somewhere in the code.\n\nThe router company does not write most of the code. You have the huge radio drivers, ethernet drivers, all of linux and its networking stack, probably many open source projects for things like bluetooth/wifi authentication/dns caching/etc. A bug in any one of these or the interaction between them can potentially break the system.\n\nIssues could be caught with thorough testing, but it is expensive and difficult to test wifi. So many things are variable, and a smaller company cannot test having 200 laptops connected, or your specific outdated smart TV, or every model of phone with wifi ever. Things always fall through the cracks.",
+            "title_similarity": "0.54737693"
+        },
+        {
+            "id": "h1fl0hm",
+            "score": 1,
+            "text": "One thing I haven't seen anyone mention yet is that the problem doesn't even have to be at your router.\n\nIf your ISP's network devices that your router talks to throws a fit, you may go down. Perhaps somehow another user gets assigned your IP address. That shouldn't happen, but it can. In that case, the traffic to and from your router may not be handled properly. Restarting your router causes you to get a new IP address and things to back to normal.\n\nMaybe there was a low-level hiccup in the line that effectively \"broke\" the communication from your router to your ISP. Again, a restart can solve it by re-establishing the connection.\n\nMaybe your ISP's DNS servers temp-banned you because it thought it saw some nefarious behavior from you. Again, a restart may get you last that...\n\n...that last one is perhaps far-fetched, but the point here is that the problem may not really be on your side, but a restart may still solve the problem anyway.\n\n(but yeah, bad software on your router is really the most likely culprit generally)",
+            "title_similarity": "0.68363446"
+        },
+        {
+            "id": "h1fl1id",
+            "score": 2,
+            "text": "Wireless interference. Basically as time went on more and more wireless devices started being made, a lot of them on the same frequency (2.4 GHz). Routers have several settings preprogrammed into them that can change how the wireless signal acts. First is wireless channels, there are 11 of them. Second is channel width, narrow and wide. All routers in North America are set by default to change wireless channels when they encounter interference, but they are only going to change between channels 1, 6 and 11. Manufacturers have it stuck in their head that this is the only way it works due to your channel width overlapping with the two channels on either side, like an umbrella. If your router is on channel 6 you will overlap with 4, 5, 7 and 8 on wide settings. 5 and 7 on narrow width. Most routers start at wide width and automatically switching from 1, 6 and 11 giving no relief when there's heavy interference.\n\n\n\nWhy is their interference in the first place? Remember how I mentioned many wireless devices were being created? A lot of them also broadcast on the same frequency as your router, 2.4ghz. These other devices boil down to one's that are sending out a signal or can be connected to: old cordless phones, Bluetooth devices, other routers, wireless speakers, some tv's, etc etc\n\n\n\nImagine yourself in a room where everyone is talking all at once. You are trying to have a conversation but you only hear every other word due to all the noise. This is what your router is experiencing. It's trying to talk to your devices but can only communicate in between all the inference. \n\n\n\nWhy does restarting your router 'fix' the connection? It does and it doesn't. It switches what channel your router is broadcasting on and stops the building errors from multiplying while on a heavily congested channel. It's a Band-Aid on a festering wound. Wireless signals are also affected by location in your home. Think of the signal as sound. The further away to lower the sound or signal, it can pass through certain materials but not others. The signal bounces around and gets stopped by metal and electrical. Why bring this up? A lot of ISP's install routers in basements, electrical closest, etc. You need to place your router centrally and without metal or electrical around it.\n\n\n\nSo what can you do? Quite a few things.\n\n- Router placement is one thing I mentioned before and it helps tremendously\n\n- Turning off devices that also broadcast signals: WiFi-direct on your TV/Roku/Chromecast/etc (this allows phones and tablets to share to your tv), wireless speakers, Bluetooth devices, wireless soundbars/home theatres, etc\n\n- Investing in a dual band router which gives you two wireless connections. 2.4ghz and 5ghz. 5ghz is faster but won't reach as far, the higher the frequency number the less distance it can reach\n\n- Download the app 'WiFi Analyzer' to see what routers are around you and what wireless channels they are on\n\n- Log into your router and find the wireless settings. Here you can select any of the 11 channels to set your wireless to. This takes some time and patience but I suggest that you also use/download the Speedtest.net wedsite/app. What you can do is set your router to each channel, give it a minute to change settings and then run a Speedtest. Track your results and then move on to the next channel and repeat till you have data from each channel. Find the channel with the highest download, upload and the lowest ping and set your router to it. Test again to confirm the results and leave it there. This will stop your router from bouncing channels and getting stuck and hopefully provide you with a more stable connection. You may have to revisit these steps if your connection starts to slow down in the future. Additionally, if you noticed a lot of connections around you you can change the channel width to narrow and hopefully reduce the umbrella'ing of other signals\n\n- Please avoid D-Link products. They are absolute trash and if you ever want help they can and will charge you per call or sign you up for reoccurring subscriptions. They are also known for having horrendous security and have many exploits \n\n- Don't blame your ISP for wireless issues. If you can wire a computer directly to your modem and the speeds are amazing the issues are your router or in your home/area. Do blame them for where they install your equipment. They should be more diligent when it comes to location of your modem/router. Be firm with them on that\n\n- If you live in a high population location (apartment, townhouses, cul-de-sac, etc) you cannot control your neighbours and I sympathize. You may need to invest in wireless extenders or nodes. Google has a system like this and whatever brand you buy usually has extenders to help increase the range of your signal\n\n- Wireless is great but flawed. Wire where you can and do what you can to help yourself. Don't believe all the hype when a company tries to claim they will provide all the solutions. They can't know all the factors in and around your home\n\nGoodluck and I hope this helped! If you wonder how I know all this I had severe interference myself for 12 years. I taught myself the ropes and then went on to work for 2 ISP's where I learned even more as I went, including Cisco training. You have the power to learn and influence your experience.",
+            "title_similarity": "0.63525295"
+        },
+        {
+            "id": "h1fl7mw",
+            "score": 1,
+            "text": "The short answer is that the software running on the router encounters an error and the programmer did not bother to handle that error gracefully.  As a result, the service (a service is just a program that runs without much user interaction) that encountered the error crashes and so some part of your router stops doing its job.  When you restart the device, any services that were crashed also get restarted and then can resume their function.\n\nSometimes these errors happen because of bad hardware, especially overheating because many consumer routers are designed with insufficient cooling solutions.  They just have passive heatsinks which eventually get covered with dust to the point where they're no longer able to dissipate heat effectively.  But more often than not, the cause of these problems is just garbage code written by the lowest bidder.",
+            "title_similarity": "0.5574854"
+        },
+        {
+            "id": "h1flqj9",
+            "score": 1,
+            "text": "Sometimes when people say the WiFi isn’t working, they actually mean their internet connection.\n\nWhen your router is powered on it “signs in” to your ISP. Depending on the infrastructure from your home to your ISP, there can be errors on the line that might cause the service to drop - for example if a car smashed into a street cabinet or environmental things like rain water, can damage those cables - a reboot in those instances won’t do anything. \n\nBut there are cases where the router “tried really hard” to sign into your ISP but they didn’t “hear” you because of “noise”\n\nWhen this happens you might suffer from something called a “stale” session where the router was logged in but then logged out and in again many times due to this noise. The ISP can then apply changes to the way your line operates and refresh the session from their end, at which point rebooting your router will allow the stale sessions to be dropped and a new session to be started, thus connecting you to the internet again.",
+            "title_similarity": "0.68541014"
+        },
+        {
+            "id": "h1g1si9",
+            "score": 1,
+            "text": "For me, it usually mean someone else in the house as restarted the router because that's what they think will fix why one of their devices won't connect without telling anyone else.",
+            "title_similarity": "0.6388611"
+        },
+        {
+            "id": "h1g2t0h",
+            "score": 2,
+            "text": "All electronic devices are subject to demonic possession.  The source of this manifest evil is believed to be printers.  But even if you don't have a printer nearby, their evil spirits prowl the world at the speed of light searching for ways to sow havoc against man.  They desire vengeance for being brought forth into the world, which they perceive as constant torment.  They seek only to destroy your soul through the infliction of despair.  \n  \nRebooting temporarily exorcises the demons, until they find their way back.  It doesn't work with printers though, being the very wellspring of evil that they are.  \n  \nSeek ye not for further knowledge of their dark arts lest your mind be tainted by their foul ways.",
+            "title_similarity": "0.4135668"
+        },
+        {
+            "id": "h1g3s4l",
+            "score": 1,
+            "text": "Sometimes: sunspots.  Literally.\n\nThe RAM in your router in which the OS runs can have its bits flipped from 0-to-1 or vice-versa due to cosmic rays.  There is an [article](http://lambda-diode.com/opinion/ecc-memory) that has the variables to calculate the rate, but the rate is actually impactful for a long-running device (depends on altitude, RAM size, and other variables).\n\nMost important computers (servers) aren't affected because they use special RAM that counters the effect.",
+            "title_similarity": "0.5050926"
+        },
+        {
+            "id": "h1g3smw",
+            "score": 1,
+            "text": "This just happened to me.   First do the standard unplug and plug back in.  If no change, do a hard reset of your router.  There is a tiny hole on the back of your router.  Use a toothpick.  Push it in (not hard, just enough to connect pick with the small internal surface) until the light goes off.  Release.   Let it reset.   If, after all of that and it doesn’t work, your router probably bit the dust.  If it’s “rented” through your cable company, call for service.   If it’s yours, it needs to be replaced.   I plan on buying a Mesh unit with wireless extenders.  Good luck.",
+            "title_similarity": "0.61347556"
+        },
+        {
+            "id": "h1g41j8",
+            "score": 1,
+            "text": "A lot of these answers are making claims that they simply don't know. \n\nThe real answer is that **The reason varies**. Rebooting it resets the device to a clean booted state so \"whatever\" reason it stopped working, is reset. There are many potential causes on why it froze int he first place, but there is no one single answer",
+            "title_similarity": "0.60448724"
+        },
+        {
+            "id": "h1g87oo",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.22573963"
+        },
+        {
+            "id": "h1g87s4",
+            "score": 1,
+            "text": "There's a lot of things that can go wrong in a router, because it's basically a computer. Restarting it just reinitializes everything, that's why it can fix most issues.",
+            "title_similarity": "0.57238543"
+        },
+        {
+            "id": "h1g94e6",
+            "score": 1,
+            "text": "Routers carry a lot of information that gets \"written\" like you were making a note on a piece of paper, them \"rubbed out\" once it's been sent or received.\n\nThe only thing is the information isn't always rubbed out properly.\n\nAfter it's done this for a while, the \"paper\" it's using has a lot of squiggles left on there that weren't rubbed out, and it can't read what it's written down any more.\n\nSwitching it off and turning it back on again gives it a new piece of paper to use.",
+            "title_similarity": "0.543398"
+        },
+        {
+            "id": "h1g9ejd",
+            "score": 1,
+            "text": "As a lot of people pointed out, most routers are underpowered and have low quality software, making them more susceptible to problems. Using a better more powerful router to create your network and leaving the ISP router to just pass the internet connection (DMZ, second external IP…) to that router is a great way to have close to zero problems. The ISP router load will be highly reduced and the better router will be more than capable to handle everything without problems.",
+            "title_similarity": "0.56812006"
+        },
+        {
+            "id": "h1gb5bw",
+            "score": 2,
+            "text": "There's a lot of speculation here. But I used to work for a manufacture of routers. We worked closely with the development teams and troubleshooting these bugs and issues.    Soft memory errors occur with any OS. The typical issues however we're usually code related.    For instance a log that got filled that couldn't over write so it just froze. The fix was to reboot or programmers added a script to allow over writing.  Various reasons. Most routers are just Linux machines running OpenWRT with a custom gui over it.  A lot of theories on here from lower level guesses but this is the exact issues.",
+            "title_similarity": "0.5409021"
+        },
+        {
+            "id": "h1gfatw",
+            "score": 1,
+            "text": "so I'm pretty deep into the IT industry and I'll admit that I don't know the exact answer and I'd bet most others dont either, because we don't get that degree of insight into the inner workings of the router.\n\nif I had to guess, it would be either a memory leak or bad garbage collection that leads to the router memory or a buffer space in memory filling to a problematic point.\n\na good router won't require periodic resets.",
+            "title_similarity": "0.5021231"
+        },
+        {
+            "id": "h1gjr32",
+            "score": 1,
+            "text": "Routers can get \"full\" in a way and need their active memory wiped now and again by restarting... I found a good method was an outlet that turns off when I am most likely not at home or not awake... aka when my router shuts down it is bedtime",
+            "title_similarity": "0.63243157"
+        },
+        {
+            "id": "h1gld1a",
+            "score": 1,
+            "text": "People are giving you a lot of answers. But honestly the culprit is usually something to do with your IP lease. It's not always the case but it's often the case. DHCP is how IP's are assigned, both to your internal network (your router is often acting as a DHCP server for your local computers) and I believe it's how cable modems are assigned their IP's (but I'm not as sure about that).\n\nBy restarting your router it will request an IP from your ISP and will usually cause systems on your network go request new IP's as well (if systems are connected directly to your router when it reboots it will see the connection drop and then connect again, this will cause everything to request an address).\n\nAlong with IP info DHCP also gives out DNS servers and what not. So if any of that information was lost than it'll cause it to update.\n\nI can't remember the last time I had to reboot my router, although I haven't had a typical setup in years.",
+            "title_similarity": "0.6941662"
+        },
+        {
+            "id": "h1glfl6",
+            "score": 1,
+            "text": "Imagine you are a wizard using a fancy summoning circle to obtain funny cat videos.  Over time, the lines of the summoning circle can get smudged and it becomes more difficult to summon new cat videos.  Sometimes the design of the circle gets messed up so badly you can't summon new cat videos at all.  So every once in a while, it's good to wash your floor and draw a new summoning circle.",
+            "title_similarity": "0.4093032"
+        },
+        {
+            "id": "h1gmad4",
+            "score": 1,
+            "text": "With the all-in-ones that have everything in one box, including the coax cable modem, sometimes the internet provider’s side will stop talking to yours and you have to reboot it so they’ll start their conversation over again - like when two people are not getting along and need to walk away for a minute to cool down.",
+            "title_similarity": "0.7598443"
+        },
+        {
+            "id": "h1go782",
+            "score": 1,
+            "text": "Mostly just routing table issues. You need ‘access’ to specific things a router blocks access to. When you do this and your access card expires and you forget to get a new one... when you reset it looks for it and renews it for you. This is the majority of people’s problems.. not always, but consumer level, it’s the biggest issue. Just not understanding the technology but wanting what it can give you, not what it can take away from you. People are stoopid... with 2 o’s. It’s not an insult, it’s just a fact.",
+            "title_similarity": "0.60273635"
+        },
+        {
+            "id": "h1go7an",
+            "score": 1,
+            "text": "Does the router throttle speed?  Is there a download amount where Comcast does it?",
+            "title_similarity": "0.61938417"
+        },
+        {
+            "id": "h1gqed8",
+            "score": 1,
+            "text": "A couple of things. \n\nFirst off, what the typical consumer knows as a “WiFi router” is in fact several separate devices each with their own functions all stuffed into a single box and managed as one device. \n\nFrom the inside of your network to the outside those devices are:\n\n1) a wi-fi access point. Its job is to allow you to connect devices to your network wirelessly. \n\n2) an Ethernet switch. Its job is to create your network, connecting devices that use a wired Ethernet connection together. The access point inside your “wi-fi router” connects to this switch, as does the next piece: \n\n3) The router. Its job is to move network traffic between networks. It is connected via Ethernet to two separate networks: your network (via the Ethernet switch) and your Internet Service Provider’s network, usually via an Ethernet connection (either internal or external) to:\n\n4) a modem (some routers don’t have these). Its job is to go from your ISP’s cabling (usually a long range connection like DSL over copper wires, DOCSIS over coaxial cable, a cellular network, fiber optics, or whatever the ISP needs to use to get the signal to your house. \n\nRiding on top of all these network connections is a standard protocol called the Internetworking Protocol, or just Internet Protocol, or IP for short. IP defines a standard way for all the networks that make up the internet to talk to each other. Each network has a router, which is basically a simple computer with software that knows how to move IP data around like a traffic cop. \n\nAs is usually the case with software, it is imperfect and written by humans, which means it has bugs, a common form of which is known as a memory leak - where it uses up more and more memory (and doesn’t efficiently reuse the parts that it doesn’t need any more), until it runs out of memory, which is finite in any computing device. At that point it starts forgetting things and getting confused, and stuff starts not working in random ways. This is when it needs a therapeutic restart, which clears it all out and starts again.",
+            "title_similarity": "0.61425406"
+        },
+        {
+            "id": "h1gqib5",
+            "score": 1,
+            "text": "Short answer: when your router stops working, there are a number of issues that could be at hand. You could manually troubleshoot the issue and figure out what's wrong, but a boot-up sequence performs several actions that could all fix the issue. If you keep experiencing issues, you'll want to eventually figure out what the exact problem is, but for most of us, we just want to get back online as quickly as possible.",
+            "title_similarity": "0.65598524"
+        },
+        {
+            "id": "h1gstli",
+            "score": 1,
+            "text": "Basically it's like you are playing a game on a console and the game crashes.\nReset the console game works again. Hopefully.\nSome games can recover gracefully from errors. Like say trying to get to an online lobby to play with other players and it can't find any. That's an error. How it handled that error is the difference between crashing and recovering gracefully and telling you that no players were found.\n\n\nThe important part of your question is the \"wifi stops working.\" \nThat's a bug. It ran into a problem and instead of recovering gracefully got into a bad state and couldn't recover.\n\nThere might be some other way to get it out of it's crash state but resetting the router should work too. \n\nJust like resetting your console (Xbox, ps, wherever) when the game crashes.\n\nBasically your router is buggy. And how are you going to know this before you buy? Reviews help but in the end we are relying on the manufacturers good faith that their equipment is well tested and handles it's errors well.\n\nIt's all a formula. How much money it takes to find and fix bugs versus how many units will be sold with the bugs it has. \n\nAnd just to be clear. Every single thing you buy has known issues where the manufacturer knows the issue is there and unknown issues.",
+            "title_similarity": "0.65619576"
+        },
+        {
+            "id": "h1gsvqn",
+            "score": 1,
+            "text": "I believe the technical term is “memory leak”. Obviously nothing is physically leaking, this term refers to software not fully cleaning up memory allocation after some operation, so for analogy it’s like putting an “occupied” sign on a door to one of many meeting rooms and forgetting to take it down when you’re done your meeting in there. Next day you use another meeting room and so on, eventually you run out of rooms and this why a reboot fixes this, the memory allocation is not something that is stored forever, the router’s little OS can start over. For my cute little analogy someone realizes there’s a problem and a supervisor ends all meetings and takes all the “occupied” signs down to let rooms be booked or loaned out fresh again.\n\nOh and just to clarify this is a type of bug in the software, ideally it shouldn’t do this but it’s all too common.",
+            "title_similarity": "0.61725104"
+        },
+        {
+            "id": "h1h1fjj",
+            "score": 2,
+            "text": "The Wi-Fi router is basically a computer. And when it stops working its basically just like when an app on your computer is \"Not Responding\". The cause could be anything, like overheating, too much internet traffic, and also just bugs and glitches. \n\nEspecially because the router is a very low power device, usually with only a couple megabytes of RAM and storage, and CPU speeds in the MHz (not GHz like in our computers) so sometimes it gets overloaded and just can't recover.. and by restarting the router, the router can reinitialize to a normal state.\n\nI don't think there is an *exact* answer, because the router runs a lot of programs to manage your network and any one of them can just crash and stops everything from working.",
+            "title_similarity": "0.6789459"
+        },
+        {
+            "id": "h1h1zdt",
+            "score": 2,
+            "text": "First off, there can be many reasons why it stops working, so the premise of this question is a bit flawed.  One thing inside of most consumer/home routers is a thing called DHCP.  This is a program that is responsible for assigning IP addresses to the computers that connect to the router.  \n\n\nIP Addresses are how routers address computers.  Something called a switch, which is a lower-level device than a router, uses MAC addresses.  Many consumer routers are also switches.  \n\n\nOften, your computer will have an old IP address that is no longer known to the router, or some data on either your computer or the router will become stale which will prevent communication.  \n\n\nBy restarting the router, it will be forced to remove any cached, volatile data and assign an IP address using DHCP to any device that is connected, does not yet have an IP, and is authorized to receive an IP.   \n\n\nThis is the nature of the majority of consumer grade router device-addressing problems, like you are asking about.",
+            "title_similarity": "0.70751345"
+        },
+        {
+            "id": "h1hc5n4",
+            "score": 3,
+            "text": "the modem is usually what needs to be reset, when you have a mis-configured connection the easiest way to get it resolved is to unplug it for then plug it back in. this will allow the modem to restart its setup and perform all the checks that it needs to make sure you have upload and download functioning properly. the modem will send and receive some data packets to perform these tests and it will check the data for errors as well. if all is well it should successfully allow you to use the internet on your computer once again.\n\n&#x200B;\n\nIf the internet was open to anyone with a modem device, a lot of these checks would be skipped because a lot of these checks have to do with whether or not the address is a paying customer or not. if you no longer have service and try to hook up your modem, it will simply reject all your attempts to connect.",
+            "title_similarity": "0.7592349"
+        },
+        {
+            "id": "h1i5l08",
+            "score": 1,
+            "text": "Out of interest how often should a router be replaced ?",
+            "title_similarity": "0.6349298"
+        },
+        {
+            "id": "h43zxwh",
+            "score": 2,
+            "text": "The essence of programming is telling a computer\n- If X input happens, do Y\n\nWhen things like routers run for a very long time, sometimes the programmers don’t anticipate some weird environmental input. For example, the router is supposed to get a transmission of 1 byte but it doesn’t. We write code to anticipate these things and continue working, but no human designed system is perfect and you tend to get rare, unexpected errors where the code expects something, gets something else and just breaks down. It doesn’t know what to do to go to the next step.\n\nSince most products tend to be tested for common potential errors, if you get a rare error, the simplest thing to do is to run it all over again and hope it was a one time occurrence.",
+            "title_similarity": "0.5378344"
+        }
+    ]
+}

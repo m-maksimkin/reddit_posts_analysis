@@ -1,0 +1,100 @@
+{
+    "When eyeballs are donated by an organ donor, does the left eyeball have to be put in the left eye socket of the new body, and vice versa?\n": [
+        {
+            "id": "hl9jrmk",
+            "score": 319,
+            "text": "[removed]",
+            "title_similarity": "0.06716895"
+        },
+        {
+            "id": "hl9y9t1",
+            "score": 67,
+            "text": "There's no such thing as an \"eye transplant\". Because we can't hook up the optic nerve tk work.(and even if we could) \n\nBut if there was, it would *probably* have to be right eye to right eye, left to left, as (afaik) the vascular, muscular, and nervous structures have a strong \"handedness\" to them.\n\nWe only donate the corneas, iirc.",
+            "title_similarity": "0.5697385"
+        },
+        {
+            "id": "hl9nyfo",
+            "score": 1177,
+            "text": "Eye researcher here who gets boxes of eyes delivered weekly. Eyes have a handedness to them, your optic nerve isn’t directly at the center of the eye but shifted slightly towards the nose since that’s an easier path to the brain. So you would have to do a 180 degree rotation on an eye to put it in correctly. This isn’t a real surgery, so I don’t know how it would change the vision, but you definitely have to put the eye in “upside down” if you moved a right eye into the left socket.",
+            "title_similarity": "0.6410194"
+        },
+        {
+            "id": "hl9og70",
+            "score": 153,
+            "text": "It's the retinal connections going to the eye that make left/right relevant. The parts of the eye transplanted do not affect that. We don't know how to make retinas reconnect with the brain in humans yet.\n\nhttps://en.wikipedia.org/wiki/Visual_system#/media/File:Human_visual_pathway.svg",
+            "title_similarity": "0.6069901"
+        },
+        {
+            "id": "hl9f7eg",
+            "score": 3953,
+            "text": "[removed]",
+            "title_similarity": "0.06716895"
+        },
+        {
+            "id": "hlb39tk",
+            "score": 63,
+            "text": "Assuming that with \"eyeball\" you mean the whole eye with everything it contains, the answer is that there are no eyeball transplants. The cornea and the sclera (which are the outer layers of the eyeball, so to speak) can be transplanted from one person to another, but the eye itself is so complex that, as of now, it's impossible to do.\n\nHowever, just for the sake of answering, and imagining that we manage to do whole eye transplants someday... yes, absolutely. The left and right eyes aren't interchangeable, since they're mirror images of each other, and their connections to the brain through the nerves are built that way. If you did it otherwise, the brain would go bonkers.",
+            "title_similarity": "0.5847322"
+        },
+        {
+            "id": "hlaioce",
+            "score": 5062,
+            "text": "As others have suggested, transplantation of complete, intact eyes is not done because it's not within our current capabilities to reattach all of the nerves.\n\nDonor eyes are essentially \"parted out\" for structural elements like the cornea, which can be used to replace deficient parts in the patient's eye.",
+            "title_similarity": "0.60628664"
+        },
+        {
+            "id": "hlc1e6w",
+            "score": 425,
+            "text": "Corneal transplant surgeon here. The cornea is the main tissue that is transplanted to a recipient. Left or right eye is not a factor when planning a corneal transplant, meaning a cornea from a left eye can be transplanted to a right eye and vice versa without problems.",
+            "title_similarity": "0.6377734"
+        },
+        {
+            "id": "hl9v7xx",
+            "score": 10,
+            "text": "Hooking up the optic nerve so that it's functional would be quite the accomplishment.  Aside from that, the eyes are mirror images of each other, with the fovea lateral to the optic cup.  So they are side-specific.",
+            "title_similarity": "0.43102694"
+        },
+        {
+            "id": "hla1rgk",
+            "score": 7,
+            "text": "[removed]",
+            "title_similarity": "0.06716895"
+        },
+        {
+            "id": "hlbvf54",
+            "score": 12,
+            "text": "Former certified eye bank technician here. 👋 \nNo, the left eyeball does not have to be put in the left eye socket. Also, we cannot transplant whole eyes as of yet. Corneas are transplantable. There are also partial thickness transplants like DSAEK or DMEK. \nUsually, the cornea is the only portion of the human eye that is transplanted. \n\nThe retina cannot be replaced. Whole eyes are used for research and education most times. \nHope this all helps!",
+            "title_similarity": "0.59396863"
+        },
+        {
+            "id": "hlbyldi",
+            "score": 12,
+            "text": "Ophthalmologist. The whole eye is taken from the donor but the whole eye is not transplanted (or even delivered to the hospital). You can request corneal or scleral (white of eye) tissue for grafts. A ring of tissue with the cornea and a rim of sclera comes for corneal transplants. This tissue will be either pre cut by the eye bank or cut further by the surgeon - shape, size, thickness. The handedness doesn't matter (I can't recall off the top of my head if that's even information we get when the eye is delivered).",
+            "title_similarity": "0.67090964"
+        },
+        {
+            "id": "hlch2ez",
+            "score": 1,
+            "text": "In pharma, we rely on rare matrices such as Aqueous & Vitreous Humor which is extracted from the eyes of cadavers in order to conduct certain studies.",
+            "title_similarity": "0.57695496"
+        },
+        {
+            "id": "hlczs0n",
+            "score": 5,
+            "text": "If it were medically possible, I'd say it'd be more like a plug and play type of deal. Connect the video cable to the correct video input slot and it should work fine. Man, can you imagine having this done and somehow end up with both eyes crosswired? That'd be so trippy.",
+            "title_similarity": "0.5537015"
+        },
+        {
+            "id": "hld7uzi",
+            "score": 1,
+            "text": "I don’t think eyes work like that. It’s the wiring into the brain that I would imagine does all that stuff. Your eyes just collect the info and the brain works out what you’re seeing. If it was possible to switch your eyes around, I don’t think youd notice a difference",
+            "title_similarity": "0.491565"
+        },
+        {
+            "id": "hldaad1",
+            "score": 8,
+            "text": "I used to take out eyeballs as a job in college! “Cornea recovery technician”. Now I’m a doctor. \n\nOnly the middle portion of the cornea is retrieved and transplanted and sewn into the recipient. The outer portion and the sclera is left. It doesn’t matter which cornea goes into which because they are interchangeable.",
+            "title_similarity": "0.61594"
+        }
+    ]
+}

@@ -1,0 +1,2777 @@
+{
+    "TIL NASA only uses 15 digits of pi for calculating interplanetary travel. At 40 digits, you could calculate the circumference of a circle the size of the visible universe to an accuracy equal to the diameter of a hydrogen atom.\n": [
+        {
+            "id": "htjknll",
+            "score": 1,
+            "text": "Pi is a fascinating number to me.  It should be 3 if this were a logical universe.  But noooo...\n\nPi and the Golden Ratio both blow my mind.",
+            "title_similarity": "0.39303446",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "htky8qf",
+            "score": 0,
+            "text": "Reasons why the moon landing is fake",
+            "title_similarity": "0.44626704",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "htjmxoe",
+            "score": 0,
+            "text": "Seems like we could save some fuel no ?",
+            "title_similarity": "0.28389812",
+            "sentiment_compound": 0.5423
+        },
+        {
+            "id": "htjsr4q",
+            "score": 0,
+            "text": "This does nothing to account for the size of the i̵̩͖̊n̵̪͓͕͋v̴̦̝̒͊͜i̵̼̗̮̅s̸̻̕͘ͅỉ̶̢͙̀͜b̶͇̦͒̑̚l̶͉͚̲̋̒̑e̸͈͆ universe though.",
+            "title_similarity": "0.36152518",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjvhsm",
+            "score": 0,
+            "text": "In my astrophys courses, it wasn't uncommon to just round off pi completely. At the scale you work at in astrophysics, pi is too small to matter most of the time",
+            "title_similarity": "0.5818128",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "htjrsfk",
+            "score": -5,
+            "text": "What does that even mean",
+            "title_similarity": "-0.028858155",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjfb7d",
+            "score": 3,
+            "text": "More digits could cause calculations to take more time.",
+            "title_similarity": "0.18370278",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk0p7h",
+            "score": 1,
+            "text": "3.141592653549 is the furthest I can get",
+            "title_similarity": "0.29688847",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk5q8c",
+            "score": 1,
+            "text": "15 digits is standard PC/Unix precision.",
+            "title_similarity": "0.65368116",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk7btq",
+            "score": -1,
+            "text": "Most engineers I know ust call it an even 3",
+            "title_similarity": "0.37439412",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkvafx",
+            "score": -1,
+            "text": "You see, 666 is a doubling of 33 and 33 is pi!",
+            "title_similarity": "0.5262711",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjtl5b",
+            "score": -3,
+            "text": "The whole atom, or just the nucleus? Because if it's the whole atom, well, that's just frickin' HUGE.",
+            "title_similarity": "0.39242813",
+            "sentiment_compound": 0.6626
+        },
+        {
+            "id": "htl3j3c",
+            "score": -2,
+            "text": "You guys know pi is exactly equal to 22/7 right?",
+            "title_similarity": "0.35367504",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlvgfb",
+            "score": -2,
+            "text": "[deleted]",
+            "title_similarity": "0.022310058"
+        },
+        {
+            "id": "htjnh88",
+            "score": -4,
+            "text": "So if Indiana conservatives got their way and made it 3.2, would this let us peep alternative dimensions 🤔",
+            "title_similarity": "0.49851707",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htj5ruo",
+            "score": 24,
+            "text": "I suppose that makes sense. Each digit is 10x more precise.",
+            "title_similarity": "0.36106014",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjricm",
+            "score": 13,
+            "text": "3.14159265358979323846264338327950288419716939937510582097494459230781640628620899862803482534211706798214808651328230664709384460955058223172535940812848111745028410270193852110555964462294895493038196442881097566593344612847564823378678316527120190914564856692346034861045432664821339360726024914127372458700660631558817488152092096282925409171536436789259036001133053054882046652138414695194151160943305727036575959195309218611738193261179310511854807446237996274956735188575272489122793818301194912983367336244065664308602139494639522473719070217986094370277053921717629317675238467481846766940513200056812714526356082778577134275778960917363717872146844090122495343014654958537105079227968925892354201995611212902196086403441815981362977477130996051870721134999999837297804995105973173281609631859502445945534690830264252230825334468503526193118817101000313783875288658753320838142061717766914730359825349042875546873115956286388235378759375195778185778053217122680661300192787661119590921642019893809525720106548586327886593615338182796823030195203530185296899577362259941389124972177528347913151557485724245415069595082953311686172785588907509838175463746493931925506040092770167113900984882401285836160356370766010471018194295559619894676783744944825537977472684710404753464620804668425906949129331367702898915210475216205696602405803815019351125338243003558764024749647326391419927260426992279678235478163600934172164121992458631503028618297455570674983850549458858692699569092721079750930295532116534498720275596023648066549911988183479775356636980742654252786255181841757467289097777279380008164706001614524919217321721477235014144197356854816136115735255213347574184946843852332390739414333454776241686251898356948556209921922218427255025425688767179049460165346680498862723279178608578438382796797668145410095388378636095068006422512520511739298489608412848862694560424196528502221066118630674427862203919494504712371378696095636437191728746776465757396241389086583264599581339047802759009946576407895126946839835259570982582262052248940772671947826848260147699090264013639443745530506820349625245174939965143142980919065925093722169646151570985838741059788595977297549893016175392846813826868386894277415599185592524595395943104997252468084598727364469584865383673622262609912460805124388439045124413654976278079771569143599770012961608944169486855584840635342207222582848864815845602850601684273945226746767889525213852254995466672782398645659611635488623057745649803559363456817432411251507606947945109659609402522887971089314566913686722874894056010150330861792868092087476091782493858900971490967598526136554978189312978482168299894872265880485756401427047755513237964145152374623436454285844479526586782105114135473573952311342716610213596953623144295248493718711014576540359027993440374200731057853906219838744780847848968332144571386875194350643021845319104848100537061468067491927819119793995206141966342875444064374512371819217999839101591956181467514269123974894090718649423196156794520809514655022523160388193014209376213785595663893778708303906979207734672218256259966150142150306803844773454920260541466592520149744285073251866600213243408819071048633173464965145390579626856100550810665879699816357473638405257145910289706414011097120628043903975951567715770042033786993600723055876317635942187312514712053292819182618612586732157919841484882916447060957527069572209175671167229109816909152801735067127485832228718352093539657251210835791513698820914442100675103346711031412671113699086585163983150197016515116851714376576183515565088490998985998238734552833163550764791853589322618548963213293308985706420467525907091548141654985946163718027098199430992448895757128289059232332609729971208443357326548938239119325974636673058360414281388303203824903758985243744170291327656180937734440307074692112019130203303801976211011004492932151608424448596376698389522868478312355265821314495768572624334418930396864262434107732269780280731891544110104468232527162010526522721116603966655730925471105578537634668206531098965269186205647693125705863566201855810072936065987648611791045334885034611365768675324944166803962657978771855608455296541266540853061434443185867697514566140680070023787765913440171274947042056223053899456131407112700040785473326993908145466464588079727082668306343285878569830523580893306575740679545716377525420211495576158140025012622859413021647155097925923099079654737612551765675135751782966645477917450112996148903046399471329621073404375189573596145890193897131117904297828564750320319869151402870808599048010941214722131794764777262241425485454033215718530614228813758504306332175182979866223717215916077166925474873898665494945011465406284336639379003976926567214638530673609657120918076383271664162748888007869256029022847210403172118608204190004229661711963779213375751149595015660496318629472654736425230817703675159067350235072835405670403867435136222247715891504953098444893330963408780769325993978054193414473774418426312986080998886874132604721569516239658645730216315981931951673538129741677294786724229246543668009806769282382806899640048243540370141631496589794092432378969070697794223625082216889573837986230015937764716512289357860158816175578297352334460428151262720373431465319777741603199066554187639792933441952154134189948544473456738316249934191318148092777710386387734317720754565453220777092120190516609628049092636019759882816133231666365286193266863360627356763035447762803504507772355471058595487027908143562401451718062464362679456127531813407833033625423278394497538243720583531147711992606381334677687969597030983391307710987040859133746414428227726346594704745878477872019277152807317679077071572134447306057007334924369311383504931631284042512192565179806941135280131470130478164378851852909285452011658393419656213491434159562586586557055269049652098580338507224264829397285847831630577775606888764462482468579260395352773480304802900587607582510474709164396136267604492562742042083208566119062545433721315359584506877246029016187667952406163425225771954291629919306455377991403734043287526288896399587947572917464263574552540790914513571113694109119393251910760208252026187985318877058429725916778131496990090192116971737278476847268608490033770242429165130050051683233643503895170298939223345172201381280696501178440874519601212285993716231301711444846409038906449544400619869075485160263275052983491874078668088183385102283345085048608250393021332197155184306354550076682829493041377655279397517546139539846833936383047461199665385815384205685338621867252334028308711232827892125077126294632295639898989358211674562701021835646220134967151881909730381198004973407239610368540664319395097901906996395524530054505806855019567302292191393391856803449039820595510022635353619204199474553859381023439554495977837790237421617271117236434354394782218185286240851400666044332588856986705431547069657474585503323233421073015459405165537906866273337995851156257843229882737231989875714159578111963583300594087306812160287649628674460477464915995054973742562690104903778198683593814657412680492564879855614537234786733039046883834363465537949864192705638729317487233208376011230299113679386270894387993620162951541337142489283072201269014754668476535761647737946752004907571555278196536213239264061601363581559074220202031872776052772190055614842555187925303435139844253223415762336106425063904975008656271095359194658975141310348227693062474353632569160781547818115284366795706110861533150445212747392454494542368288606134084148637767009612071512491404302725386076482363414334623518975766452164137679690314950191085759844239198629164219399490723623464684411739403265918404437805133389452574239950829659122850855582157250310712570126683024029295252201187267675622041542051618416348475651699981161410100299607838690929160302884002691041407928862150784245167090870006992821206604183718065355672525325675328612910424877618258297651579598470356222629348600341587229805349896502262917487882027342092222453398562647669149055628425039127577102840279980663658254889264880254566101729670266407655904290994568150652653053718294127033693137851786090407086671149655834343476933857817113864558736781230145876871266034891390956200993936103102916161528813843790990423174733639480457593149314052976347574811935670911013775172100803155902485309066920376719220332290943346768514221447737939375170344366199104033751117354719185504644902636551281622882446257591633303910722538374218214088350865739177150968288747826569959957449066175834413752239709683408005355984917541738188399944697486762655165827658483588453142775687900290951702835297163445621296404352311760066510124120065975585127617858382920419748442360800719304576189323492292796501987518721272675079812554709589045563579212210333466974992356302549478024901141952123828153091140790738602515227429958180724716259166854513331239480494707911915326734302824418604142636395480004480026704962482017928964766975831832713142517029692348896276684403232609275249603579964692565049368183609taco0032380929345958897069536534940603402166544375589004563288225054525564056448246515187547119621844396582533754388569094113031509526179378002974120766514793942590298969594699556576121865619673378623625612521632086286922210327488921865436480229678070576561514463204692790682120738837781423356282360896320806822246801224826117718589638140918390367367222088832151375560037279839400415297002878307667094447456013455641725437090697939612257142989467154357846878861444581231459357198492252847160504922124247014121478057345510500801908699603302763478708108175450119307141223390866393833952942578690507643100638351983438934159613185434754649556978103829309716465143840700707360411237359984345225161050702705623526601276484830840761183013052793205427462865403603674532865105706587488225698157",
+            "title_similarity": "-0.028941914",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htljkuc",
+            "score": 0,
+            "text": "I'm not smart enough to understand this unfortunately... today I learned nothing...",
+            "title_similarity": "0.19111827",
+            "sentiment_compound": -0.6134
+        },
+        {
+            "id": "hto3zlv",
+            "score": 0,
+            "text": "What ?!",
+            "title_similarity": "-0.06937815",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htwxamn",
+            "score": 0,
+            "text": "Yea but how many digits of green screen do they use for the ISS footage",
+            "title_similarity": "0.6082946",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjuogm",
+            "score": -9,
+            "text": "Pi repeats.\n\n\n\nAfter about 10^9000 digits, but it repeats. You humans will discover, eventually.",
+            "title_similarity": "0.4412573",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk0e8y",
+            "score": 1,
+            "text": "This si the way!",
+            "title_similarity": "-0.0363182",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk58ma",
+            "score": -1,
+            "text": ">The accuracy equal to the diameter of a hydrogen atom\n\nWtf does this mean. You can measure it the same as you could measure a hydrogen atom? What? This sentence makes no sense.",
+            "title_similarity": "0.5818512",
+            "sentiment_compound": -0.7171
+        },
+        {
+            "id": "htlbchj",
+            "score": 1,
+            "text": "Love it when I have to read a sentence 4 times so I can understand half of it.",
+            "title_similarity": "0.3456182",
+            "sentiment_compound": 0.6705
+        },
+        {
+            "id": "htlfmau",
+            "score": 1,
+            "text": "Nobody know how large the universe really is🤔\n... And aksi how many digits has it been calculated to?",
+            "title_similarity": "0.5419502",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjdegw",
+            "score": 2,
+            "text": "Isn’t that like, kind of the point of pi?",
+            "title_similarity": "0.17460038",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htjhkjv",
+            "score": 2,
+            "text": "This is blowing my ever loving mind. That’s so accurate my brain short circuited comprehending it.",
+            "title_similarity": "0.1907134",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "htjkgp5",
+            "score": 2,
+            "text": "Yeah bit did you know long snappers in NFL know how to throw the ball with as much spin it takes to allow the holder to catch it laces out?",
+            "title_similarity": "0.31279188",
+            "sentiment_compound": 0.4767
+        },
+        {
+            "id": "htk9e04",
+            "score": 2,
+            "text": "What about 42 digits?",
+            "title_similarity": "0.33797488",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk9gvi",
+            "score": 2,
+            "text": "The last 3 digits used are 979, which makes it super accurate. That's why it's the cut off. It's a super close aproximation to the true number.",
+            "title_similarity": "0.44328624",
+            "sentiment_compound": 0.8689
+        },
+        {
+            "id": "htj8fvu",
+            "score": 3,
+            "text": "They are waiting for computers to catch up",
+            "title_similarity": "0.10669039",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjpfbn",
+            "score": -3,
+            "text": "This universe is all information everything that blast from a black hole, supernova everything is all information.\n\nMeaning there must be a equation for everything that is.\n\nLike the ripples in sand the dunes everything has a mathematical equation, to deadly for my very own mind to comprehend.\n\nEven before we knew anything or know about a black hole Einstein was right he never saw one but his information he had knew how it looked, and its exactly that, only if we understood the singularity.",
+            "title_similarity": "0.5726959",
+            "sentiment_compound": 0.1901
+        },
+        {
+            "id": "htjw3ay",
+            "score": 3,
+            "text": "This is just a bunch of words with no meaning.  I understand nothing",
+            "title_similarity": "0.1314925",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "htjjjxs",
+            "score": 6,
+            "text": "How many digits is enough for say, a football stadium? \n\nI imagine someone cutting corners and ending up with a meter gap between concrete blocks or something. A real egg on the face when it happens.",
+            "title_similarity": "0.44000274",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "htjft4d",
+            "score": 5,
+            "text": "Imagine sitting in the board meeting that decided how many digits they would use.  2 days later someone still wants to use 16...",
+            "title_similarity": "0.5306463",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htj9i0e",
+            "score": -6,
+            "text": "I wonder why they don't use more digits. All the NASA people are already a bunch of math nerds, so what's a few more digits of Pi to them?",
+            "title_similarity": "0.59611356",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjrfql",
+            "score": -8,
+            "text": "> At 40 digits, you could calculate the circumference of a circle the size of the visible universe to an accuracy equal to the diameter of a hydrogen atom.\n\nExcept that pi is not a constant.",
+            "title_similarity": "0.8670161",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjiynk",
+            "score": 59,
+            "text": "Just to give a smaller visual of how pie doesn't really need more than 2 decimals:\n\nIf you are making a 30\" diameter pipe (I won't give allowances for connection) then you need 30 × PI to get the length of material to roll into a pipe\n\n30\" x 3.14 = 94.2\"\n\n30\" x 3.141 = 94.23\"\n\n30\" x pi = 94.2478\"\n\n(1/16 = .0625)\n\nSo you would be off by less than 1/16\" with your length of material for making a 30\" pipe (the diameter would be even closer). Anything over 2 decimals is getting extremely nit picky for most uses.",
+            "title_similarity": "0.63297707",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjrial",
+            "score": 7,
+            "text": ">*At 40 digits, you could calculate the circumference of a circle the size of the visible universe to an accuracy equal to the diameter of a hydrogen atom.”*\n\nWell who the fuck would want to do that?!? I’m just trying to make this cock ring (I ordered online) work because I can’t send it back and don’t want to spend the money for a new one!!",
+            "title_similarity": "0.77741814",
+            "sentiment_compound": -0.584
+        },
+        {
+            "id": "htjceyf",
+            "score": 67,
+            "text": "This is actually the most interesting, and surprising TIL I've ever read on here.",
+            "title_similarity": "0.3014633",
+            "sentiment_compound": 0.6549
+        },
+        {
+            "id": "htj93bm",
+            "score": -9,
+            "text": "Okay, now do the circumference of my anus",
+            "title_similarity": "0.18539274",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "htjabyz",
+            "score": 52,
+            "text": "Egyptians used 22/7, which was good enough for all practical purposes.",
+            "title_similarity": "0.26562035",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "htj9gii",
+            "score": 19,
+            "text": "thanks for sharing, I *figure* this is *significant*",
+            "title_similarity": "0.039183494",
+            "sentiment_compound": 0.7579
+        },
+        {
+            "id": "htj7sz6",
+            "score": 61,
+            "text": "Yeah, the reason computer scientists and mathematicians calculate pi to billions of digits is to show off specialized hardware and algorithms.  It is like running a faster marathon or climbing Mt Everest faster.  There is no practical application to having many digits of pi.",
+            "title_similarity": "0.5770254",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htj2nw2",
+            "score": 67,
+            "text": "I'm impressed. I have no idea what I'll do with this information but impressed nonetheless.",
+            "title_similarity": "0.1041948",
+            "sentiment_compound": 0.6808
+        },
+        {
+            "id": "htj8vab",
+            "score": 289,
+            "text": "15 digits = 64 bits. Any more would likely increase the cost & complexity of any computer code.",
+            "title_similarity": "0.53099054",
+            "sentiment_compound": 0.3744
+        },
+        {
+            "id": "htjacn9",
+            "score": 37,
+            "text": "I had a computer science prof in college who used to work for NASA in the 60’s. He said they had a competition where everyone would recite the digits of pi each morning to see who had memorized the most, even though they only used like 8 digits for the Apollo mission as it was “close enough.”",
+            "title_similarity": "0.66350305",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htjrmiw",
+            "score": 1226,
+            "text": "For those that dont want to click, here is a reason NASA listed\n\n1) The most distant spacecraft from Earth is Voyager 1. It is about 12.5 billion miles away. Let's say we have a circle with a radius of exactly that size (or 25 billion miles in diameter) and we want to calculate the circumference, which is pi times the radius times 2. Using pi rounded to the 15th decimal, as I gave above, that comes out to a little more than 78 billion miles. We don't need to be concerned here with exactly what the value is (you can multiply it out if you like) but rather what the error in the value is by not using more digits of pi. In other words, by cutting pi off at the 15th decimal point, we would calculate a circumference for that circle that is very slightly off. It turns out that our calculated circumference of the 25 billion mile diameter circle would be wrong by 1.5 inches. Think about that. We have a circle more than 78 billion miles around, and our calculation of that distance would be off by perhaps less than the length of your little penis.",
+            "title_similarity": "0.86413705",
+            "sentiment_compound": -0.5942
+        },
+        {
+            "id": "htj4y11",
+            "score": 846,
+            "text": "3 is close enough, right?",
+            "title_similarity": "0.029885212",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjd3hy",
+            "score": 171,
+            "text": "Meanwhile George Clooney who always fought for 17 digits is floating away in space and Matt Damon who thought 3 digits was safe gets rescued day in and day out. Ugghh. What an unfair world.",
+            "title_similarity": "0.5275494",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "htj5fio",
+            "score": 2930,
+            "text": "Or in other words, they use double precision binary floating point (precision of 53 bits, IEEE 754), which is pretty much the standard in a lot of technical work. Before 2003, some specialized work was done with 60-bit precision.\n\nSo it's not only NASA that uses 15 digits of pi ... it's just about everybody!",
+            "title_similarity": "0.7420379",
+            "sentiment_compound": 0.5411
+        },
+        {
+            "id": "htj90jb",
+            "score": 96,
+            "text": "Good enough is good enough",
+            "title_similarity": "-0.014581179",
+            "sentiment_compound": 0.7003
+        },
+        {
+            "id": "htj8hde",
+            "score": 244,
+            "text": "PI IS EXACTLY 3!",
+            "title_similarity": "0.23760493",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjb99l",
+            "score": 510,
+            "text": "That’s because double precision has 53 binary digits for a number, or about 15 decimal digits.",
+            "title_similarity": "0.66847867",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "htj3v68",
+            "score": 1924,
+            "text": "[How many digits have you memorized?](https://www.smbc-comics.com/?id=1777)",
+            "title_similarity": "0.40374288",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htj6lkk",
+            "score": 7042,
+            "text": "If I hold my phone landscape the calculator gives me 25 digits.  That seem unecessary now",
+            "title_similarity": "0.6198958",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htj4qq4",
+            "score": 11316,
+            "text": "Imagine what 41 digits would do",
+            "title_similarity": "0.40992317",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjbtv1",
+            "score": 8,
+            "text": "Ok, mathcrunchers, so for the same accuracy (within the diameter of a hydrogen atom) how many digits of pi would we need to calculate any circle equal or smaller than the accepted circumference of earth?\n\nIn other words, for any earthly uses, up to how many digits of pi do we need?",
+            "title_similarity": "0.77085525",
+            "sentiment_compound": 0.3527
+        },
+        {
+            "id": "htjbvpi",
+            "score": 2,
+            "text": "[deleted]",
+            "title_similarity": "0.022310058"
+        },
+        {
+            "id": "htjelvn",
+            "score": 9,
+            "text": "What about the surface area of a sphere? The visible universe is 3D.",
+            "title_similarity": "0.3564735",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjesre",
+            "score": 1,
+            "text": "SCIENCE!!!",
+            "title_similarity": "0.22198437",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjgmay",
+            "score": 1,
+            "text": "So why don't we do 42?",
+            "title_similarity": "0.32717448",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjgnxz",
+            "score": 1,
+            "text": "That's pretty wild.",
+            "title_similarity": "0.019051097",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "htjh0ed",
+            "score": 1,
+            "text": ".",
+            "title_similarity": "-0.07664339",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjj0up",
+            "score": 1,
+            "text": "The historical approximation for pi used among tradesmen and masons was 22/7\n\nhttps://en.wikipedia.org/wiki/Proof_that_22/7_exceeds_%CF%80\n\nI imagine the Romans had some system more elegant than Roman Numerals that they used for calculating their engineering needs, perhaps orally transmitted, that has been lost to antiquity... or maybe they just contracted out to initiates...",
+            "title_similarity": "0.551366",
+            "sentiment_compound": 0.2716
+        },
+        {
+            "id": "htjj19c",
+            "score": 1,
+            "text": "Hmm.",
+            "title_similarity": "-0.08987273",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjjtdc",
+            "score": 1,
+            "text": "Wouldn’t “r” value be more important? You could use 1000 digits of pi, but your accuracy would be more dependant on what measurement you use for radius",
+            "title_similarity": "0.5848591",
+            "sentiment_compound": 0.3064
+        },
+        {
+            "id": "htjlbsi",
+            "score": 6,
+            "text": "Smart people are good at efficiency. Good enough is good enough. If you wanna do a PhD, you should do it \"good enough\". It's not an insult.",
+            "title_similarity": "0.25927418",
+            "sentiment_compound": 0.9552
+        },
+        {
+            "id": "htjlgxc",
+            "score": 1,
+            "text": "We're gonna need a wider calculator...",
+            "title_similarity": "0.19581819",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjmhi6",
+            "score": 1,
+            "text": "So what’s at the end of the universe",
+            "title_similarity": "0.20284995",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjn1kb",
+            "score": 1,
+            "text": "Woah.",
+            "title_similarity": "-0.06757285",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjn50v",
+            "score": 2,
+            "text": "As a kid watching Neil & Buzz land on the moon, I remember learning that NASA rounded π to the 12th decimal to fly them there.",
+            "title_similarity": "0.6300502",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjnpfa",
+            "score": 3,
+            "text": "[deleted]",
+            "title_similarity": "0.022310058"
+        },
+        {
+            "id": "htjnuir",
+            "score": 1,
+            "text": "If you converted the numbers 0-9 into pixels of different colors and lined the pixels up side by side, within pi you could find a sequence of numbers that would convert into a movie showing every moment of your life. (or you know, the world, universe, whatever)",
+            "title_similarity": "0.40285432",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjo19d",
+            "score": 3,
+            "text": "Are mathematical concepts bound by physical reality? For example, if we discovered the definitive and provably-smallest possible size of a 'thing' in our universe, maybe it's currently the Plancke length (?), but whatever it is let's say we discover the absolute smallest thing, would that throw the concept of pi and infinity out the window? You'd be able to bisect a circle using the smallest possible slices physics permits, so it wouldn't be irrational or infinite anymore, right? 🤔 At least not in practical/real world terms?\n\nYeah I don't understand anything about physics or maths, as if that wasn't already abundantly clear!",
+            "title_similarity": "0.6338774",
+            "sentiment_compound": 0.59
+        },
+        {
+            "id": "htjo73b",
+            "score": 1,
+            "text": "I've got my 15 digits why is it not calculating planetary travel yet. Should I leave and come back and see if they do something",
+            "title_similarity": "0.7189855",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "htjopjt",
+            "score": 1,
+            "text": "[Me reading the title](https://youtu.be/_eRRab36XLI)",
+            "title_similarity": "0.18738854",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjp3zb",
+            "score": 3,
+            "text": "This is the natural resolution of PI provided by a programming type called the \"double\" a fairly common standard in every language and with significant support from the CPU manufacturers.   \n\n\nIt is significantly slower than using the other common decimal number the \"float\" that can only hold 7 decimals of PI, but not super slow in modern computing standars",
+            "title_similarity": "0.5361674",
+            "sentiment_compound": -0.2661
+        },
+        {
+            "id": "htjp5a9",
+            "score": 1,
+            "text": "Slackers.",
+            "title_similarity": "0.027603528",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjp63w",
+            "score": 1,
+            "text": "“15 Digits of Pi” is a hipster band. That is all.",
+            "title_similarity": "0.6182086",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjpicn",
+            "score": 4,
+            "text": "Anything more than that is just mathturbatory",
+            "title_similarity": "0.3175273",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjpql5",
+            "score": 5,
+            "text": "So I shouldn’t have wasted my time learning 51 digits of PI in middle school? (I still know them lol)",
+            "title_similarity": "0.51885104",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "htjpsnk",
+            "score": 4,
+            "text": "Due to floating point arithmetic/double precision perhaps?",
+            "title_similarity": "0.40276307",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjpz4e",
+            "score": 1,
+            "text": "I’ll confess I don’t really understand the significance of either point …",
+            "title_similarity": "0.0692248",
+            "sentiment_compound": 0.3321
+        },
+        {
+            "id": "htjq1pn",
+            "score": 1,
+            "text": "Ouch.....my brain......",
+            "title_similarity": "0.07253369",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjq3cv",
+            "score": 1,
+            "text": "So that kid who memorized it to 100 places in junior high was an idiot and not the smart kid.",
+            "title_similarity": "0.45246",
+            "sentiment_compound": -0.6765
+        },
+        {
+            "id": "htjq3w8",
+            "score": 5,
+            "text": "I had a similar discussion with one of my college teachers in EE. She wanted our results to be 8 decimals correct and I was arguing that there is no voltmeter so precise in the whole world.",
+            "title_similarity": "0.52250487",
+            "sentiment_compound": -0.6369
+        },
+        {
+            "id": "htjq4zc",
+            "score": 1,
+            "text": "Close enough for government use.",
+            "title_similarity": "0.06357388",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjq7vg",
+            "score": 2,
+            "text": "A double.",
+            "title_similarity": "0.12750125",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjqalu",
+            "score": 2,
+            "text": "What else could you measure with 16 digits?",
+            "title_similarity": "0.48087886",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjqbr4",
+            "score": 1,
+            "text": "I don’t understand pi.  Why specifically does this number work the way it does?  Why not 5.23?  Or 7.34?",
+            "title_similarity": "0.4775247",
+            "sentiment_compound": 0.2299
+        },
+        {
+            "id": "htjqfdv",
+            "score": 22,
+            "text": "Why does the idea of a circle the size of the Universe scare the actual shit out of me?",
+            "title_similarity": "0.3855886",
+            "sentiment_compound": -0.7783
+        },
+        {
+            "id": "htjqvk1",
+            "score": 1,
+            "text": "I'm not even smart enough to understand why that's impressive.",
+            "title_similarity": "0.180467",
+            "sentiment_compound": 0.2598
+        },
+        {
+            "id": "htjr7xd",
+            "score": 1,
+            "text": "Amazing. What does that even mean?",
+            "title_similarity": "0.068052836",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "htjr8oj",
+            "score": 1,
+            "text": "And the machinists who build their rocket parts only use 3-4 decimal places",
+            "title_similarity": "0.7267251",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjr94z",
+            "score": 1,
+            "text": "I don’t even know what this means",
+            "title_similarity": "0.044565797",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjrjuo",
+            "score": 1,
+            "text": "I want 42 digits!",
+            "title_similarity": "0.3406902",
+            "sentiment_compound": 0.1511
+        },
+        {
+            "id": "htjrr3n",
+            "score": 36,
+            "text": "If you read the Signal In Space document for the USA's Global Positioning System (GPS) in the section where it describes the symbols in use, you'll see there is one constant labeled something like PI_GPS. \n\nIt is the value for pi that you MUST use if you're going to calculate your position on the globe based on GPS signals. It is not exactly pi. It is, IIRC, 8 or 9 significant digits long. It's not that the more values you use, the more accurate your answer will be. No. This truncated value is what was used to calculate some of the orbital parameters of the satellites' orbits. The satellites are continuously transmitting those orbital parameters to your hand-held GPS receiver (though if you're using a phone, you probably downloaded those same tables of values from the cell phone network because it is faster). To reconstruct the satellite orbits, thereby allowing it to figure out where the satellites are, and thus where YOU are, your GPS receiver must use that same value of pi. \n\nFailure to do this, and doing something like using a value of pi that you would get from wikipedia or any math program will cause your position estimate to be off by hundreds of meters, possibly a few kilometers. The sensitivity of the position fixes to differing precision on pi was large enough that it was determined that a pi-like number that was exact in base-10 was necessary. \n\n\nSo yeah, there is such a thing as unnecessary precision. There's another thing the concept of specified precision. PI_GPS is not pi. It is just a constant that is fairly close to pi. \n\n\nIf any one is curious and wants to read the GPS Signal In Space Interface Control Document (ICD), it is publicly available, and makes for interesting reading. Anyone wanting to know more about the radio signals that travel from 20 million meters above you, down to your handheld receiver should... honestly look for other sources, because the ICD is dry AF.",
+            "title_similarity": "0.65032053",
+            "sentiment_compound": 0.9806
+        },
+        {
+            "id": "htjrsy6",
+            "score": 4,
+            "text": "This is a little misleading because NASA doesn't calculate a trajectory for a space mission one time. They have to do repeated calculations and course corrections during the mission in order to hit the target. So while they only use 15 digits, they use 15 digits a bunch of times to get it right.",
+            "title_similarity": "0.7115932",
+            "sentiment_compound": -0.3415
+        },
+        {
+            "id": "htjs1i8",
+            "score": 1,
+            "text": "Always been a 3.1416 man myself.",
+            "title_similarity": "0.30499172",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjs1kk",
+            "score": 1,
+            "text": "I read this, I think about it... I read more, WHAT?!",
+            "title_similarity": "0.04475242",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjs3hd",
+            "score": 1,
+            "text": "You can never be 100% sure just 99.9999999999999999999999% sure",
+            "title_similarity": "0.44414034",
+            "sentiment_compound": 0.0869
+        },
+        {
+            "id": "htjs7gd",
+            "score": 1,
+            "text": "How many digits to a Planck length?",
+            "title_similarity": "0.46981835",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjsfuu",
+            "score": 1,
+            "text": "Excuse me",
+            "title_similarity": "-0.05800795",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "htjsjnv",
+            "score": 1,
+            "text": "imagine what we could do with 69 digits.",
+            "title_similarity": "0.34832585",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjsjwr",
+            "score": 1,
+            "text": "Damn bro",
+            "title_similarity": "0.014306255",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "htjsw0e",
+            "score": 1,
+            "text": "I have mild discalculi \"How I wish I could reccolect pi\" was my go-to\n is that 3.141592?",
+            "title_similarity": "0.3072123",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "htjsweo",
+            "score": 5,
+            "text": "And if you use 75 digits, you could calculate the circumference of a circle the size of Dave's Mom.",
+            "title_similarity": "0.5926024",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjsx2e",
+            "score": 1,
+            "text": "This is a true wtf fact. Thanks for sharing",
+            "title_similarity": "-0.0013689473",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "htjt3ka",
+            "score": 41,
+            "text": "To be fair, 15 digits is extremely precise too. That’s like saying your glass is 50.0000000000001% full.",
+            "title_similarity": "0.57956487",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "htjta6w",
+            "score": 1,
+            "text": "Wut?",
+            "title_similarity": "-0.039635025",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjtb4g",
+            "score": 2,
+            "text": "Doesn’t matter most of the other figures are only 6-9 figures precision. Things like the distance to mars or mass of Venus",
+            "title_similarity": "0.6507448",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "htjtjo7",
+            "score": 2,
+            "text": "So why don't they use 40?",
+            "title_similarity": "0.46658024",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjtouf",
+            "score": 1,
+            "text": "Cool as shit!",
+            "title_similarity": "0.045438513",
+            "sentiment_compound": -0.3802
+        },
+        {
+            "id": "htjtqdo",
+            "score": 1,
+            "text": "I use 20 but I've always been a bit of a stickler.",
+            "title_similarity": "0.23807128",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htju1td",
+            "score": 1,
+            "text": "Uhh… what?",
+            "title_similarity": "-0.0624765",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htju2vp",
+            "score": 1,
+            "text": "Uhh so what does that mean in English, exactly?",
+            "title_similarity": "0.08918256",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjub2i",
+            "score": 1,
+            "text": "How did they even figure the out like….🤯",
+            "title_similarity": "0.12800455",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjuccw",
+            "score": 1,
+            "text": "I've read that there is no real world case we can imagine were more than 100 significative digit can make sense. More realistically we don't expect to ever need more than 50 significative digit... (like Plank length precision of known universe volume )",
+            "title_similarity": "0.6864911",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "htjuib1",
+            "score": 1,
+            "text": "You're just showing off",
+            "title_similarity": "-0.03783468",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjuk19",
+            "score": 1,
+            "text": "I just round to 4.",
+            "title_similarity": "0.2647705",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjuoe0",
+            "score": 2,
+            "text": "Otherwise known as \"double precision floats\", or what most of science uses.",
+            "title_similarity": "0.5079428",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjuq3k",
+            "score": 1,
+            "text": "I just drop in 22/7 for pi.",
+            "title_similarity": "0.32126892",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "htjuzk0",
+            "score": 1,
+            "text": "Precision* not accuracy",
+            "title_similarity": "0.08235833",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjuzvs",
+            "score": 1,
+            "text": "Yeah ok whatever the hell that means",
+            "title_similarity": "-0.01861284",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "htjv4i3",
+            "score": 1,
+            "text": "I memorized 50 digits of pi in college, you're telling me that has no practical value?",
+            "title_similarity": "0.6403022",
+            "sentiment_compound": -0.5
+        },
+        {
+            "id": "htjv5r9",
+            "score": 2,
+            "text": "I love this sentence.",
+            "title_similarity": "-0.008044302",
+            "sentiment_compound": 0.6783
+        },
+        {
+            "id": "htjvafl",
+            "score": 1,
+            "text": "But how many times does the mission plan say \"rotate by a half turn\" (equivalent to a good size more digits in accuracy ;)",
+            "title_similarity": "0.57912064",
+            "sentiment_compound": 0.7351
+        },
+        {
+            "id": "htjvewd",
+            "score": 1,
+            "text": "The difference between engineers and mathematicians. Yes more decimals would be more precise, but there comes a point where it becomes unnecessary.",
+            "title_similarity": "0.40214592",
+            "sentiment_compound": 0.2144
+        },
+        {
+            "id": "htjviea",
+            "score": 1,
+            "text": "What does this even mean?",
+            "title_similarity": "-0.027714916",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjvjdt",
+            "score": 2,
+            "text": "IIRC, there even a few digits past 40.",
+            "title_similarity": "0.5196223",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjvlmm",
+            "score": 1,
+            "text": "Math scares me",
+            "title_similarity": "0.14778632",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "htjvogx",
+            "score": 1,
+            "text": "When people say something like \"15 digits of pi\" are they talking about right of the decimal or including the 3?",
+            "title_similarity": "0.61543286",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htjw1vo",
+            "score": 1,
+            "text": "This is a awesome fact",
+            "title_similarity": "-0.014399478",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "htjw2g3",
+            "score": 1,
+            "text": "Her him",
+            "title_similarity": "0.010603195",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjw4o4",
+            "score": 1,
+            "text": "Cool.",
+            "title_similarity": "-0.03208346",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "htjwun3",
+            "score": 1,
+            "text": "🤯",
+            "title_similarity": "-0.07471655",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjwv27",
+            "score": 1,
+            "text": "Aside from precision, most computer's double precision limit, called Epsilon, is the 16th digit. So 15 digits is just shy of that.",
+            "title_similarity": "0.733837",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "htjwvif",
+            "score": 1,
+            "text": "They should do 40 digits then I guess",
+            "title_similarity": "0.5189018",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjwvm9",
+            "score": 1,
+            "text": "They asked a director a simple question and got an expectedly spinner answer. Should have asked an engineer, not a buraucrat.\n\nWhy 15 digits, not 14, not 16? Simple.\n\nThe most popular 64-bit format for floating point calculations (ieee754) has 52-bit mantissa, which translates into 16 significant digits.\n\nThey can't use more without changing a lot of soft.\nAnd they don't need to use fewer, because it's free.\n\nBasically, they use what their standard computers support.\n\nSource: work with systems that support up to 40 significant digits.",
+            "title_similarity": "0.6688864",
+            "sentiment_compound": 0.9245
+        },
+        {
+            "id": "htjwvp4",
+            "score": 1,
+            "text": "I'm confused. Doesn't the pi button on a calculator have the exact value of pie, the fullness of which just can't be displayed? But more than 15 digits seemed like what we're all enjoying. What gives?",
+            "title_similarity": "0.6696154",
+            "sentiment_compound": 0.8504
+        },
+        {
+            "id": "htjwwtw",
+            "score": 1,
+            "text": "If you're using 40 digits of pi, assuming you're storing the angle as 0 to 2*pi, the data size required to increment one hydrogen atom at a time at this scale would require 133 bits to store the angle variable in binary without rounding errors.\n\nThat's 16.625 bytes. For comparison, most coding languages have a highest standard number data size of 64 bits, or 8 bytes. Most 3D models save positions of vertices with 32 bit numbers per axis, or 4 bytes per axis.\n\nIt's crazy to me how you only need to slightly double the size of a 64-bit floating point number to be able to precisely handle 40-digits-of-pi angles on a computer.\n\n(For those curious, I took 6282, and tacked on 9s until it was 40 digits long, and converted that to base 2, and counted out the resulting digits to find bit length.)",
+            "title_similarity": "0.7930759",
+            "sentiment_compound": 0.7184
+        },
+        {
+            "id": "htjwzxz",
+            "score": 1,
+            "text": "how many digits would be necessary to have an accuracy equivalent to a plank length?",
+            "title_similarity": "0.39299107",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjx0ic",
+            "score": 1,
+            "text": "The significant numbers of a fundamental constant determines is only ONE number to determine how accurate to positioning of a spacecraft.\n\n\nIf you can have 12 figures of accuracy with Pi, a 1 in a TRILLION accuracy, with all others being better, you can determine to one METER where  craft is within the inner solar system.\n\nEven the planets themselves are not know to around 100 km.",
+            "title_similarity": "0.7942157",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "htjx2yb",
+            "score": 1,
+            "text": "Only tangential to the post but at this level of accuracy what would the relevance of a mathematically accurate and complete value of pi be?\nIs there any situation where the value of pi in it's entirety would be relevant?",
+            "title_similarity": "0.40249938",
+            "sentiment_compound": 0.7622
+        },
+        {
+            "id": "htjx43j",
+            "score": 1,
+            "text": "I'm not smart enough to understand what any of this actually means",
+            "title_similarity": "0.13545068",
+            "sentiment_compound": -0.3089
+        },
+        {
+            "id": "htjx553",
+            "score": 3,
+            "text": "I had this exact same debate with my own engineers. We were doing analysis on GPS and our precision goes to 30 decimals. Given the storage costs involved I helped push a proposal through that would go from 30 down to 8 by showing that 8 decimals is precise to 0.05 inches which is at the point past the precision of the gps devices itself (they weren't that great, precise to maybe a foot I think). \n\nAs part of that presentation I made the comment that 30 decimals gets you precision to the atomic level which I thought would get a laugh and make everyone realize how silly 30 decimal GPS was. \n\nIt didn't get a laugh and that debate continued on for the rest of the week. I freaking hate engineers XD",
+            "title_similarity": "0.61949885",
+            "sentiment_compound": -0.54
+        },
+        {
+            "id": "htjx5uv",
+            "score": 1,
+            "text": "So, in other words, 40 is a tad over-engineered?",
+            "title_similarity": "0.46222484",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjx7tr",
+            "score": 1,
+            "text": "At 61 digits you can calculate it to the plank length.\n\nBy our current understanding of physics everything beyond the 62nd digit is extraneous.",
+            "title_similarity": "0.6526954",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjxa94",
+            "score": 1,
+            "text": "Bullshit.  The size of the known universe is only known to about 5 sig figs.\n\n1. Diameter (D)= 93.016 billion light years\n2. Circumference (C) = pi*D\n3. C ~ 292.22 +/- 0.01 billion light years\n\nTherefore, You can only calculate a circle the size of the known universe to an accuracy of about 10^7 light years.",
+            "title_similarity": "0.78248036",
+            "sentiment_compound": -0.5859
+        },
+        {
+            "id": "htjxebt",
+            "score": 1,
+            "text": "I'm a Math teacher, and I will NEVER understand the fondness for making kids memorize digits of pi for Pi Day on 3/14. Such a useless expenditure of mental effort.",
+            "title_similarity": "0.4729373",
+            "sentiment_compound": -0.6858
+        },
+        {
+            "id": "htjxfeo",
+            "score": 1,
+            "text": "So, the question is, who's done the calculations out to 40 digits? If no one, why?",
+            "title_similarity": "0.6215805",
+            "sentiment_compound": -0.3736
+        },
+        {
+            "id": "htjxh57",
+            "score": 1,
+            "text": "Anyone have a comma or two? \n\nBut also I'd absolutely loathe, to the see formula for that calculation",
+            "title_similarity": "0.31324485",
+            "sentiment_compound": -0.6946
+        },
+        {
+            "id": "htjxhtt",
+            "score": 1,
+            "text": "This is fucking insane",
+            "title_similarity": "0.0045489855",
+            "sentiment_compound": -0.4576
+        },
+        {
+            "id": "htjxj28",
+            "score": 1,
+            "text": "This is the type of TIL stuff I need to know.\n\nI knew it already. Gonna drink another.",
+            "title_similarity": "0.18158084",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjxj5a",
+            "score": 1,
+            "text": "me at this title: those sure are.... words",
+            "title_similarity": "0.034529336",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "htjxk84",
+            "score": 1,
+            "text": "This is a pretty convoluted way of saying the universe is 40 orders of magnitude bigger than an atom.",
+            "title_similarity": "0.6934308",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "htjxnvw",
+            "score": 1,
+            "text": "you didnt learn this today you used it for karma today",
+            "title_similarity": "0.26764405",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjxpqr",
+            "score": 1,
+            "text": "I just use 22/7. No wonder my moonrocket missed the moon!",
+            "title_similarity": "0.62752736",
+            "sentiment_compound": -0.5707
+        },
+        {
+            "id": "htjxuta",
+            "score": 1,
+            "text": "I had the same teacher for a few of my math classes in high school and he had a banner with the digits of pi that ran the perimeter of the top of the room’s walls. I used to pass time by seeing how many digits I could memorize. I don’t remember what my peak number was, but it’s been more than two decades since I’ve stared at that banner, and I could still manage about 11. I only need to calculate the circumference of my dick so I’ve still got it.",
+            "title_similarity": "0.5859682",
+            "sentiment_compound": -0.5994
+        },
+        {
+            "id": "htjxxyk",
+            "score": 1,
+            "text": "Why don’t they calculate it then? What’s the answer?",
+            "title_similarity": "0.16261175",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjxz18",
+            "score": 1,
+            "text": "With 41 digits your mom might finally find cloths that fit right.",
+            "title_similarity": "0.4020037",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htjxzu6",
+            "score": 1,
+            "text": "The VISIBLE universe…. I can only see for maybe a few miles (from the top of a building or something)",
+            "title_similarity": "0.49224764",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "htjy1mc",
+            "score": 1,
+            "text": "yeah well Phineas and Ferb just use 22/7",
+            "title_similarity": "0.3421169",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "htjy45a",
+            "score": 1,
+            "text": "someone gave me latitude-longitude data for something once and it had enough decimals to differentiate between individual blood cells",
+            "title_similarity": "0.49011138",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjy8y2",
+            "score": 1,
+            "text": "I memorized it to 25 digits when I was young, it may have been around when Carl Sagan's Contact came out.",
+            "title_similarity": "0.5418092",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjyb5e",
+            "score": 1,
+            "text": "Makes sense too as I'm pretty sure 15 digits of pi fits in a double. Makes it nice and easy for floating point calculations.",
+            "title_similarity": "0.618109",
+            "sentiment_compound": 0.8807
+        },
+        {
+            "id": "htjyesv",
+            "score": 2,
+            "text": "What",
+            "title_similarity": "-0.082788095",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjypx7",
+            "score": 1,
+            "text": "Space time is non-Euclidean, probably not much use in adding extra digits to pi for calculations where changes in gravitational fields are in play. The circumference of the universe does not equal pi multiplied by its diameter, if that’s what is implied here.",
+            "title_similarity": "0.60387933",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "htjyzn5",
+            "score": 1,
+            "text": "Must be like a #def clause on the first code that got adapted subsequently",
+            "title_similarity": "0.26347893",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htjz1rx",
+            "score": 1,
+            "text": "So, I had a friend who used to joke I knew everything including the last digit of pi. I always retorted that I didn't but theoretically there is one because eventually you reach a precision that becomes meaningless to calculate because nothing in the observable universe could be more precisely measured by another digit. I'm surprised to learn that only 40 digits is pretty close to that standard.\n\nIf I were to come up with such a point, it would be the point at which you could calculate the circumference of the *known* universe to within a planck length. At that precision, you would have the last digit of pi before any further digits are superfluous.",
+            "title_similarity": "0.70975095",
+            "sentiment_compound": 0.6858
+        },
+        {
+            "id": "htjz497",
+            "score": 1,
+            "text": "Five digits is enough precision for most practical applications. Space travel is clearly an exception.\n\nBtw, they still don't use the \"right\" math for this. They use Newtonian gravity instead of relativity for computations because it's *far* faster for the probes to compute and still has enough precision to do what they need. Every cpu cycle is precious out there.",
+            "title_similarity": "0.6454277",
+            "sentiment_compound": 0.7506
+        },
+        {
+            "id": "htjz4gt",
+            "score": 1,
+            "text": "That’s assuming the hydrogen atom has a definable diameter …",
+            "title_similarity": "0.46193364",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htjz9pi",
+            "score": 1,
+            "text": "If the Universe is 40, then my 4 doesn't sound so bad anymore...",
+            "title_similarity": "0.5802469",
+            "sentiment_compound": -0.6696
+        },
+        {
+            "id": "htjza9e",
+            "score": 1,
+            "text": "Good thing the Indiana state legislature from 1897 isn’t running NASA since the state representatives unanimously passed a bill in 1897 decreeing pi=3.2, not 3.14159… Smh\n\nThe bill almost passed the Senate at the time as well until one lone state Senator and a Purdue professor spoke up and said the General Assembly did not have the power to define mathematical truth.",
+            "title_similarity": "0.603297",
+            "sentiment_compound": 0.7321
+        },
+        {
+            "id": "htjzt6a",
+            "score": 1,
+            "text": "Okay nerds",
+            "title_similarity": "0.059768304",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "htjzxwq",
+            "score": 2,
+            "text": "I know what some of those words mean.",
+            "title_similarity": "-0.073566295",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk012u",
+            "score": 1,
+            "text": "Hmm, that's almost accurate enough to calculate the diameter of OPs peepee.",
+            "title_similarity": "0.31677973",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk01vq",
+            "score": 1,
+            "text": "Only if you had the same accuracy for  measurement of the radius",
+            "title_similarity": "0.33648783",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk0845",
+            "score": 1,
+            "text": "That’s sum powerful pi!",
+            "title_similarity": "0.18787006",
+            "sentiment_compound": 0.4753
+        },
+        {
+            "id": "htk0evp",
+            "score": 1,
+            "text": "Sounds like an efficiency of math coprocessing speeds.",
+            "title_similarity": "0.30933484",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "htk186m",
+            "score": 2,
+            "text": "15 is a surprising number as IEEE 754 double-precision is equivalent to 13 decimal digits.",
+            "title_similarity": "0.63265836",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "htk1ed8",
+            "score": 1,
+            "text": "My friend has pi tattooed on his arm. The first time I saw it, I was like oh SWEET and started reciting, and got to maybe 30 or 40 (I forget?) digits in where I said oh jeez, there was an error. He was like, \"oh crap I KNOW I can't believe they did it wrong! I have to LIVE with this.\" But then we laughed because, well, how many people know pi to more than a few digits?!\n\nI bet he'd appreciate this. haha",
+            "title_similarity": "0.45341963",
+            "sentiment_compound": 0.9486
+        },
+        {
+            "id": "htk1rn4",
+            "score": 1,
+            "text": "So?",
+            "title_similarity": "-0.07882097",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk1rqg",
+            "score": 1,
+            "text": "in engineering they teach you to measure things with a percentage degree, with 15 digits im only guessing here but the error percentage is probably less than 0.01%",
+            "title_similarity": "0.72323716",
+            "sentiment_compound": -0.5499
+        },
+        {
+            "id": "htk248v",
+            "score": 1,
+            "text": "But my phone's built-in calculator can do better? Why don't they just use a phone?",
+            "title_similarity": "0.4302171",
+            "sentiment_compound": 0.6381
+        },
+        {
+            "id": "htk275b",
+            "score": 1,
+            "text": "FYI, most programming languages and computers use double precision floating point numbers as the \"default\" real number representation in binary. These numbers take 64 bits of memory, with 1 sign bit, 11 bits for the exponent, and 52 bits representing the significant digits. Note that 52 binary digits is equivalent to between 15 and 16 decimal digits.\n\nSo, NASA is probably just using the value of pi contained within the standard math libraries of whatever programming languages they use, which happens to have 15-16 digits of precision.\n\nIt's possible to write programs that can compute math in arbitrary precision, but these will run much slower than programs using standard floating point formats, since your computer's CPU has a logic unit which can compute with standard floating point numbers, but the program would not be able to use these. The only time you really need arbitrary precision is to calculate deep zoomed fractals, or perhaps some crypto calculations.",
+            "title_similarity": "0.68995345",
+            "sentiment_compound": 0.4618
+        },
+        {
+            "id": "htk2ced",
+            "score": 1,
+            "text": "Which 15 do they use?",
+            "title_similarity": "0.46525702",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk2jsg",
+            "score": 2,
+            "text": "[deleted]",
+            "title_similarity": "0.022310058"
+        },
+        {
+            "id": "htk2k2c",
+            "score": 3,
+            "text": "the joke among engineers is that pi = e = 3",
+            "title_similarity": "0.36730248",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "htk2mdn",
+            "score": 1,
+            "text": "Given our computational power today, this is very *irrational*.",
+            "title_similarity": "0.24631852",
+            "sentiment_compound": -0.4005
+        },
+        {
+            "id": "htk2uuh",
+            "score": 1,
+            "text": "What if you went out to 314 digits?",
+            "title_similarity": "0.28528494",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk33ne",
+            "score": 1,
+            "text": "That second sentence means so little to me it’s embarrassing",
+            "title_similarity": "0.16930696",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "htk399y",
+            "score": 1,
+            "text": "Me a big brain engineer: [pi = 3](https://c.tenor.com/XLgjtpfHcK8AAAAC/pepo-g-pe.gif)",
+            "title_similarity": "0.37071088",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk3b3m",
+            "score": 1,
+            "text": "The power of exponential growth, but hiding in a logarithm :-)",
+            "title_similarity": "0.33424613",
+            "sentiment_compound": 0.2382
+        },
+        {
+            "id": "htk3fl6",
+            "score": 2,
+            "text": "My hugh score of 12 memorized digits seemed frivolous when I got to physics and 1 was accurate enough to do estimates",
+            "title_similarity": "0.6055558",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk3ogk",
+            "score": 1,
+            "text": "What would 69 digits give you?",
+            "title_similarity": "0.2824784",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk3t53",
+            "score": 1,
+            "text": "I’ll donate a million to the first person who can tell me the last digit of pi",
+            "title_similarity": "0.48803052",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk45ay",
+            "score": 1,
+            "text": "Brother Maynard.....consult the Book of Armaments.....",
+            "title_similarity": "0.26215348",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk4e0m",
+            "score": 1,
+            "text": "This is the most interesting TIL I've seen since I started using Reddit.",
+            "title_similarity": "0.36165392",
+            "sentiment_compound": 0.4576
+        },
+        {
+            "id": "htk4i43",
+            "score": 1,
+            "text": "Observable universe size: 46.5 billion light years, or 4.4 x 10^26 meters\n\nHydrogen atom size: 120 pm or 1.2 x 10^-10\n\n10 + 26 = 36, which I can confirm is in fact less than 40. Story checks out.\n\n15 digits (aka double precision floating point) is enough, but not a ton of extra. The earth is 40,000 km around, and if you want to deal with millimeters that's 4 x 10^10, so you're using most of that. Of course there's a limit to how perfect you can get your orbit, you'll *always* need to do mid course adjustments. If your math is better than your ability to do something about it, that's good enough.",
+            "title_similarity": "0.8890265",
+            "sentiment_compound": 0.9528
+        },
+        {
+            "id": "htk4t9b",
+            "score": 1,
+            "text": "[deleted]",
+            "title_similarity": "0.022310058"
+        },
+        {
+            "id": "htk4y06",
+            "score": 1,
+            "text": "That’s crazy, I could have never guessed that",
+            "title_similarity": "0.13975456",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "htk53cr",
+            "score": 1,
+            "text": "They getting lazy there at NASA, so it seems.",
+            "title_similarity": "0.42244387",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "htk5qpl",
+            "score": 2,
+            "text": "In middle school I memorized pi out to 11 digits. It's literally never come in handy but this post made me recite them lol.",
+            "title_similarity": "0.5672766",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "htk6bng",
+            "score": 1,
+            "text": "\"Only 15 digits of Pi? I'm just gonna have to eyeball it\"",
+            "title_similarity": "0.72820187",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk6cbv",
+            "score": 1,
+            "text": "I'm too dumb to follow the title",
+            "title_similarity": "0.20455456",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "htk6lp3",
+            "score": 1,
+            "text": "But how many digit does it take to understand god?",
+            "title_similarity": "0.41950983",
+            "sentiment_compound": 0.3919
+        },
+        {
+            "id": "htk6ncs",
+            "score": 1,
+            "text": "Do what now",
+            "title_similarity": "-0.037104364",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk6qp3",
+            "score": 1,
+            "text": "So what you're telling me is, any digit of pi past the 16th one is just a flex on the universe itself.",
+            "title_similarity": "0.60593164",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk6rsq",
+            "score": 1,
+            "text": "Why is pi so significant in so many equations?",
+            "title_similarity": "0.32771447",
+            "sentiment_compound": 0.3327
+        },
+        {
+            "id": "htk6u46",
+            "score": 1,
+            "text": "OK you fucking nerd",
+            "title_similarity": "0.08318137",
+            "sentiment_compound": 0.1129
+        },
+        {
+            "id": "htk6ynp",
+            "score": 1,
+            "text": "Words",
+            "title_similarity": "-0.10328743",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk71w0",
+            "score": 1,
+            "text": "Oh here we go. Y2K all over again",
+            "title_similarity": "0.24332303",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk7693",
+            "score": 1,
+            "text": "Thats a nice way of nasa saying yes technically youre smarter than a 5th grader.",
+            "title_similarity": "0.60010064",
+            "sentiment_compound": 0.8176
+        },
+        {
+            "id": "htk7ffx",
+            "score": 1,
+            "text": "Well, maybe you could...",
+            "title_similarity": "-0.043493815",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "htk7gbx",
+            "score": 2,
+            "text": "Then why did I have to memorize 50 digits in middle school?",
+            "title_similarity": "0.52757984",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk7oh4",
+            "score": 1,
+            "text": "How many digits do we have to before we can get them to declare Pluto is a planet again?",
+            "title_similarity": "0.6206112",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk7zoo",
+            "score": 3,
+            "text": "Shut up and take my upvote",
+            "title_similarity": "0.079680815",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk8c82",
+            "score": 1,
+            "text": "well then",
+            "title_similarity": "-0.11535746",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "htk8ehv",
+            "score": 3,
+            "text": "Teaser: how big is a number like 10^(100,000)?\n\nLet me take you on a journey.\n\nIf the sun was 1 micron in diameter, Pluto would be about 1/8 of an inch away, and the nearest star would be maybe around 50 feet away or so. (I calculated this all once, but its from memory right now, so please bear with me, im sure some of these are off a bit). At this scale, the Milky Way would be maybe Wisconsin-sized.\n\nVoyager I, a probe we launched into the great unknown 50 years ago into our Wisconsin-sized galaxy at 17 km/s, would be about half an inch away.\n\nBut I'm getting ahead of myself. I haven't introduced you to Sammy yet.\n\nMeet Sammy the Snail. Sammy is no ordinary snail, he's an explorer! And today he set out to explore your street. Moving at 1 millimeter per second (sprint mode!), Sammy sets off. About halfway through the day, Sammy looks back, and he can see your house, and its a good half a football field away. Not bad, Sammy, not bad! But Sammy isn't done. By the end of the month, he's gone about a mile. Impressive! Now let's say Sammy wants to explore your ENTIRE street. His left tentacle, to be precise. After heading out a mile, Sammy turns around, moves one millimeter over, and heads back. After returning to your house, he moves another millimeter over, and heads out again. And he does this until his left tentacle has explored your entire street, one square millimeter at a time. That would take a long time, wouldn't it?\n\nBut forget that. Sammy wants to explore the nearest star. (yes, Sammy is omnipotent, except for his speed.) So he starts chasing Voyager I. You know, the probe that's gone half an inch towards a star that's 50 feet away in 50 years? That one. That would take a long time, wouldn't it?\n\nBut forget that. The closest star is only 4 light years away. Sammy wants to explore all the stars. There's at least 10 billion of them in the galaxy, and most of them are tens of thousands of light years away. So that's gonna take awhile, but he's determined.\n\nYou know what? this galaxy aint big enough for Sammy. He wants to explore the nearest galaxy. Its not thousands of light years away, but millions. So this is his biggest trip yet, but he's not intimidated. So he sets off, at 1 millimeter a second, to find the nearest galaxy.\n\nBut forget about that. He wants to explore all the galaxies. there can't be more than a 100 billion galaxies out there, right? that might take a while, but Sammy is immortal, so he has time.\n\nYou know, no one thinks about the spaces in between the stars and the galaxies... but Sammy does! That's why he wants to visit them, too. So Sammy takes off and he literally travels to the end of the universe, 13 billion light years away. And when he gets there, he moves over one millimeter, and heads back. When he gets back, he goes the other way, 13 billion light years, turns around, and heads back. Like a 3D lawn mower, Sammy goes out and comes back, moving over 1 millimeter each time, and sometimes up 1 millimeter, and sometimes down 1 millimeter, until he's visited every single corner of our universe. Now THAT would take a long time.\n\nWhich brings me to the big question that I think you all knew was coming.\n\nHow many seconds would it take Sammy to complete this colossal cosmic journey?\n\nThe answer is about 10^(90) seconds.\n\nSo.... yeah. I can't really explain how big 10^(100,000) is, my teaser was just to throw you off (sorry). But hopefully now you have a feeling for how big 10^(90) is at least.\n\nTL;DR Exponents are powerful.",
+            "title_similarity": "0.80116034",
+            "sentiment_compound": 0.9949
+        },
+        {
+            "id": "htk8gkt",
+            "score": 1,
+            "text": "It's all relative",
+            "title_similarity": "-0.031157356",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk8sqw",
+            "score": 1,
+            "text": "Sounds like Pi in the sky!",
+            "title_similarity": "0.2818411",
+            "sentiment_compound": 0.4199
+        },
+        {
+            "id": "htk8w5b",
+            "score": 1,
+            "text": "Huh?",
+            "title_similarity": "-0.094949104",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk8wn1",
+            "score": 1,
+            "text": "NotASpaceAgency...",
+            "title_similarity": "0.08455053",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk9eih",
+            "score": 1,
+            "text": "No idea what I learned today",
+            "title_similarity": "0.13952866",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "htk9n5o",
+            "score": 1,
+            "text": "Can someone translate what I had just read? Like I'm five.....",
+            "title_similarity": "0.30704522",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htk9ncm",
+            "score": 1,
+            "text": "Maybe you could write a song about that?\n\nhttps://youtu.be/57dKgjxgai4",
+            "title_similarity": "0.23145746",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htk9o8r",
+            "score": 1,
+            "text": "Anything in there about interstellar travel? 15 enough? I am too lazy to read sorry…",
+            "title_similarity": "0.7005431",
+            "sentiment_compound": -0.4329
+        },
+        {
+            "id": "htk9ohb",
+            "score": 1,
+            "text": "It's not really that interesting because they probably don't have any other measurement that's accurate to better than 15 digits anyhow.  Nor can you control anything with that level of precision.  In the end, you need to make observations over time and/or course corrections anyhow.",
+            "title_similarity": "0.59675914",
+            "sentiment_compound": 0.1119
+        },
+        {
+            "id": "htk9rg1",
+            "score": 1,
+            "text": "My boss asked me to report to that sigma level (I am in finance).  I told him this analogy. Still said he would like to know.",
+            "title_similarity": "0.2504295",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htk9u2v",
+            "score": 1,
+            "text": "That would be precision, not necessarily accuracy...",
+            "title_similarity": "0.100546464",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htka4ky",
+            "score": 1,
+            "text": "While eating a slice of apple pie the size of the titantic..",
+            "title_similarity": "0.3638849",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htka9nn",
+            "score": 1,
+            "text": "Reminds me of the old joke with the theoretical physicist and the mechanical engineer being directed toward a hallway where at the other end some sexy woman would be waiting for them but the only hitch was every time they moved forward in the hallway they could only go half the length that was remaining.  The theoretical physicist was upset saying they’d never get to the end that way but the mechanical engineer was unfazed and set down the hallway saying that he’d get close enough for things to work.",
+            "title_similarity": "0.37422147",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "htkafcj",
+            "score": 2,
+            "text": "So 3.141592654 off my TI-84 will almost always be precise enough?",
+            "title_similarity": "0.29365268",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkahgz",
+            "score": 1,
+            "text": "1.5 inches is a big difference to your mom",
+            "title_similarity": "0.351081",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkamg5",
+            "score": 1,
+            "text": "This absolutely has to be a completely made up approximation. There’s no way this description is understandable or meaningful",
+            "title_similarity": "0.21428245",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "htkarm5",
+            "score": 2,
+            "text": "\\*sphere (not circle)\n\n\\*diameter (not circumference)\n\nA hydrogen atom does not have a fixed diameter. It has a probability field that varies with temperature.",
+            "title_similarity": "0.560968",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkavak",
+            "score": 1,
+            "text": "What the hell are all the other numbers for then?",
+            "title_similarity": "0.29865393",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "htkawbw",
+            "score": 1,
+            "text": "Which 15 do they use?",
+            "title_similarity": "0.46525702",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkb9s3",
+            "score": 1,
+            "text": "What",
+            "title_similarity": "-0.082788095",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkbd5t",
+            "score": 3,
+            "text": "You can figure out the change of circumference of any body by the digit of Pi.   \n\nFor example, the inverse: if there was a line around the Earth at sea level (assuming circular/spherical shape), how much would the circumference have to increase to raise the line 1m off the ground? 2*Pi meters, obviously.   \n\nSimilarly, if you increase some digit of Pi by 1, the change in circumference is easy to calculate. The surprising bit is that the size of the universe is only ~40-ish orders of magnitude larger than a hydrogen atom. You'd expect more, right?",
+            "title_similarity": "0.80423",
+            "sentiment_compound": 0.8385
+        },
+        {
+            "id": "htkbgud",
+            "score": 1,
+            "text": "I'm not even going to pretend to understand how the hell Pi is used in calculating my horoscope.",
+            "title_similarity": "0.30943483",
+            "sentiment_compound": -0.7184
+        },
+        {
+            "id": "htkc6x9",
+            "score": 1,
+            "text": "But why tho",
+            "title_similarity": "-0.044795733",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkcgrz",
+            "score": 1,
+            "text": "Not learned from 👽🛸",
+            "title_similarity": "0.10088761",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkchws",
+            "score": 1,
+            "text": "Some calculations in my job I can use just ‘3’\nI’m also not sending folks to the moon.",
+            "title_similarity": "0.51806456",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkcmbm",
+            "score": 1,
+            "text": "So is there ANY use in practice at this stage for knowing more than 15 digits of Pi?",
+            "title_similarity": "0.6764538",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkcnvy",
+            "score": 2,
+            "text": "What’s crazy is that if you took that ring of hydrogen atoms the size of the universe and added a metre more of atoms to the circumference…. The ring would be about a foot wider.",
+            "title_similarity": "0.6601487",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "htkcvfr",
+            "score": 1,
+            "text": "Sometimes I use big words I don’t understand to make myself sound more photosynthesis. \n\n(In other words, ELI5?)",
+            "title_similarity": "0.34122235",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkcvym",
+            "score": 2,
+            "text": "A hydrogen atom is about 10 trillion trillion Planck lengths across (10,000,000,000,000,000,000,000,000), so if the universe is pixelated at the Planck scale, you’d need a ‘couple’ more digits of pi for perfect accuracy…",
+            "title_similarity": "0.77741253",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "htkd0zy",
+            "score": 2,
+            "text": "If pi is infinite, does that mean that the universe itself - from large to small - is also infinite? Even smaller than Planck lengths?",
+            "title_similarity": "0.55963707",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkd44k",
+            "score": 1,
+            "text": "Mmmmm…. Pi…..",
+            "title_similarity": "0.016480284",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkd7mh",
+            "score": 1,
+            "text": "So what is the circumference of the visible universe.  I assuming it expands as time goes on.",
+            "title_similarity": "0.3015235",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "htkdycc",
+            "score": 1,
+            "text": "I've actually had a problem with this when it comes to online resources because some places use different digits and you get a slightly different answer from them. \n\n\nArea of a circle is 𝜋*r². \n\n3.1x15² = 697.5\n\n3.14x15² = 706.5\n\n3.141 = 706.725\n\n3.1415 = 706.8375\n\n\nSome of the math courses i took had a required element to be taken in Khan Academy or similar and will give you a wrong answer if you don't use 2 or 3 or 4 digits of Pi exactly. If you're used to 3 and are required to only use 2, you'll get a wrong answer as a result and will fail said problem.",
+            "title_similarity": "0.47049865",
+            "sentiment_compound": -0.9337
+        },
+        {
+            "id": "htke0dv",
+            "score": 1,
+            "text": "Once I got into an argument with a mathematician about this very fact. Worked on an engineering project which had a rover with very cheap sensors for estimating translational and rotational movement. I made the comment as a joke that we could use just the value of 3 for pi as a joke since the error in the measurements were so bad that the error introduced by rounding off pi would be insignifigant. This was a mistake because the mathematician disagreed and talked about how wrong I was for the whole day. This post reminded me of one the silliest arguments I have ever gotten into.",
+            "title_similarity": "0.5009163",
+            "sentiment_compound": -0.9359
+        },
+        {
+            "id": "htkea1j",
+            "score": 1,
+            "text": "Fucking knew it!!! Every atom is a universe. That's why they explode so huge.",
+            "title_similarity": "0.39041698",
+            "sentiment_compound": 0.595
+        },
+        {
+            "id": "htkec2v",
+            "score": 1,
+            "text": "They'd have to go to 50 digits to calculate the size of OP's mom.",
+            "title_similarity": "0.50110054",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkedkz",
+            "score": 2,
+            "text": "You’re throwing too many big words at me. Because I don’t understand them, ima take em as disrespect.",
+            "title_similarity": "0.15939885",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "htkeh4b",
+            "score": 1,
+            "text": "Never heard this. Interesting, 15 digits is massive when you think about though. 15 digits added to my bank account would verify that.",
+            "title_similarity": "0.639356",
+            "sentiment_compound": 0.481
+        },
+        {
+            "id": "htkeqfm",
+            "score": 2,
+            "text": "high school students: \"I better include a few more just in case\"",
+            "title_similarity": "0.24901238",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "htkeqs3",
+            "score": 1,
+            "text": "I only remembered pi down to 3.1415927. To be honest, you only really needed 3.142 for pi in engineering school. Everyone else used a clusterfuck of significant distance, so the right answer ended up being a range rather than a precise number.",
+            "title_similarity": "0.6092162",
+            "sentiment_compound": 0.6597
+        },
+        {
+            "id": "htkewcs",
+            "score": 1,
+            "text": "What a horrible sentence to read.",
+            "title_similarity": "0.06323765",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "htkexva",
+            "score": 2,
+            "text": "As a physicist I was like, ONLY 15 digits? Can't remember the last time I used more than 4 digits of anything",
+            "title_similarity": "0.77122104",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htkey6s",
+            "score": 1,
+            "text": "I use 100 digits of pie. Beat that, genieus!",
+            "title_similarity": "0.54908085",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkf5yy",
+            "score": 1,
+            "text": "Well when you think about it, 0.00000000000000000000000000000000000000001 is really really fucking small so that makes sense.",
+            "title_similarity": "0.39482203",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "htkf9gw",
+            "score": 1,
+            "text": "Nice! :) I really don’t like these comparisons though. „At 50 digits, it would take 5 quadrillion baboons on treadmills to generate the energy that was needed for producing all coffee and sandwiches consumed by NASA scientists after 8 Oct 1952.“",
+            "title_similarity": "0.6665795",
+            "sentiment_compound": 0.8741
+        },
+        {
+            "id": "htkfnzk",
+            "score": 1,
+            "text": "How many digits of Pi to find out who tf asked?",
+            "title_similarity": "0.43896118",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkfom2",
+            "score": 1,
+            "text": "Great. Now I have to Google \"size of hydrogen atom\". \nThanks for nothing.",
+            "title_similarity": "0.59714687",
+            "sentiment_compound": 0.7906
+        },
+        {
+            "id": "htkg7qu",
+            "score": 1,
+            "text": "Go caps",
+            "title_similarity": "0.033951767",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkgfhj",
+            "score": 1,
+            "text": "I have no idea what that whole sentence means",
+            "title_similarity": "0.12401014",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "htkgg0f",
+            "score": 1,
+            "text": "I was surprised they used that many. I would have thought that the uncertainty in calculations of gravity wells for the solar system would make precise calculations impossible and you would always need to course adjust.",
+            "title_similarity": "0.46465442",
+            "sentiment_compound": 0.128
+        },
+        {
+            "id": "htkghsa",
+            "score": 1,
+            "text": "Oof bad move. The cheat code for invulnerability starts at digit 16.",
+            "title_similarity": "0.36312371",
+            "sentiment_compound": -0.7579
+        },
+        {
+            "id": "htkgjmu",
+            "score": 1,
+            "text": "r\\uslessfacts",
+            "title_similarity": "0.045397624",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkgm93",
+            "score": 1,
+            "text": "I use 4 digits and one thumb to eat pie.",
+            "title_similarity": "0.41229975",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkgy1e",
+            "score": 1,
+            "text": "*heavy breathing from the spice guild",
+            "title_similarity": "0.11967349",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkh8gg",
+            "score": 1,
+            "text": "What does pi have to do with space travel? This is a genuine question please answer it like why pi? PS I'm not great at math",
+            "title_similarity": "0.58253133",
+            "sentiment_compound": 0.2182
+        },
+        {
+            "id": "htkhapj",
+            "score": 1,
+            "text": "So they are not using 8 byte 'double' floating point numbers?",
+            "title_similarity": "0.4087492",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkhdxb",
+            "score": 1,
+            "text": "So 40 is the practical limit. 🤔",
+            "title_similarity": "0.48955256",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkhf3d",
+            "score": 1,
+            "text": "I sure hope it’s the first 15 digits!",
+            "title_similarity": "0.5402902",
+            "sentiment_compound": 0.6696
+        },
+        {
+            "id": "htkhfoj",
+            "score": 1,
+            "text": "I know the first 16 digits please hire me nasa I am poor",
+            "title_similarity": "0.6350472",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "htkhgoa",
+            "score": 1,
+            "text": "How many to get down to the Planck length?",
+            "title_similarity": "0.4723823",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkhsua",
+            "score": 1,
+            "text": "Also, for the Moon, NASA used Newtonian physics. They did the calculations for one maneuver in both Newtonian and general relativitistic physics and found a discrepancy of 1.3 cm - and Newtonian is a LOT less work/computation. I don't know whether that's still the case for other planets though.",
+            "title_similarity": "0.7337812",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htki05z",
+            "score": 1,
+            "text": "good thing i memorized 50 digits after the decimal when i was 13 because i thought it was cool that the 50th digit is a 0",
+            "title_similarity": "0.55872893",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "htki0fw",
+            "score": 1,
+            "text": "How do we calculate pi ? Can someone ELI5?",
+            "title_similarity": "0.40523553",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htki0iq",
+            "score": 1,
+            "text": "People on reddit usually get pretty worked up when someone says that for many hand calculations assuming pi = 3 is enough. The difference to pi is less than 5% underestimation after all.\n\nIf you take the \"standard\" pi = 3.14 you're already in the sub 0.05% range. And if you want to take it one step further use 22/7 (which is claimed to be used by ancient Egyptians) you're at 0.04%. \n\n377/120 is accurate to 3 decimal places, or 0.02%, although it would be easier to just remember 3.14159 which is the same amount of digits but accurate to 5 decimal places, or 0.0008%.",
+            "title_similarity": "0.56374156",
+            "sentiment_compound": 0.6428
+        },
+        {
+            "id": "htki5qc",
+            "score": 1,
+            "text": "And to think I memorized the first 70 digits of pi",
+            "title_similarity": "0.5070393",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htki7gx",
+            "score": 1,
+            "text": "Wow, this title says exactly fuckall",
+            "title_similarity": "0.08821851",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "htki99k",
+            "score": 1,
+            "text": "1 digit. Take it or leave it.",
+            "title_similarity": "0.2390221",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "htkis9k",
+            "score": 2,
+            "text": "Let me teach you 'bout the number pi. 3 point 1 point 3 point 5. I changed the number so it would rhyme.",
+            "title_similarity": "0.35537556",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "htkiupk",
+            "score": 1,
+            "text": "Now, if based on quantum physics, the smallest length is the plank length. How many digits would we need to compute at plank length precision the size of the visible universe?\n\nI asked myself this months ago, sadly I’m too stupid to make that calculation :(.",
+            "title_similarity": "0.6686921",
+            "sentiment_compound": -0.7351
+        },
+        {
+            "id": "htkj0no",
+            "score": 1,
+            "text": "This post got more mindblowing with every word.",
+            "title_similarity": "0.023590812",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkj773",
+            "score": 2,
+            "text": "At 42 digits you could calculate the circumference of THIS DIIIIIIIIIIIIICK.",
+            "title_similarity": "0.45711887",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkj9ig",
+            "score": 1,
+            "text": "I guess key here is speed of calculation. It probably hits all in some 64/128 bit data type with 15 digits  and with 40 digits it wouldn't fit well so they would have much slower results.  This is probably and example of engineer decision that makes perfect sense but precision still can be improved if needed for certain region.",
+            "title_similarity": "0.6175313",
+            "sentiment_compound": 0.8013
+        },
+        {
+            "id": "htkjkzd",
+            "score": 1,
+            "text": "Let’s do 42 just to be sure.",
+            "title_similarity": "0.2827344",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "htkjos6",
+            "score": 1,
+            "text": "How many required to get down to a Planck length?",
+            "title_similarity": "0.47846472",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkk3ac",
+            "score": 1,
+            "text": "Definitely read this as NASCAR first time 'round.",
+            "title_similarity": "0.36328036",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "htkk4j9",
+            "score": 1,
+            "text": "My math professor: no, use 50 digits",
+            "title_similarity": "0.6151971",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkkdyq",
+            "score": 1,
+            "text": "The trick is that they use the *last* 15 digits of pi.",
+            "title_similarity": "0.6568163",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "htkkxax",
+            "score": 1,
+            "text": "I like how he low keyed said that the question was such a great question that it was the same exact one he had asked while he was in the 6th grade.",
+            "title_similarity": "0.3171534",
+            "sentiment_compound": 0.6705
+        },
+        {
+            "id": "htklhwh",
+            "score": 1,
+            "text": "I understood nothing",
+            "title_similarity": "0.07676341",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htklmg9",
+            "score": 1,
+            "text": "Mean while mathematicians are calculating the billionth digit of pi for shits and giggles",
+            "title_similarity": "0.61007345",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "htklmrc",
+            "score": 1,
+            "text": "Boring",
+            "title_similarity": "0.039419867",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "htklq2u",
+            "score": 1,
+            "text": "How many digits does it take to get to the accuracy of a Planck length? Then wouldn’t that define a perfect circle?",
+            "title_similarity": "0.6127523",
+            "sentiment_compound": 0.6199
+        },
+        {
+            "id": "htkmowp",
+            "score": 1,
+            "text": "Makes sense. Each digit is about 1/10^th of impact of digit preceding it.  Getting the 12^th digit off will mess up the value of pi by one 100,000,000,000^tj as much as messing up the first digit.",
+            "title_similarity": "0.575515",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "htkmr6k",
+            "score": 1,
+            "text": "\"Visible\" universe. Beyond that it looks like Nickelodeon Gak",
+            "title_similarity": "0.2617079",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htkmu91",
+            "score": 1,
+            "text": "OK.  Now we only have to measure the radius of the universe to 40 significant digits, and we can get started !",
+            "title_similarity": "0.8013272",
+            "sentiment_compound": 0.2714
+        },
+        {
+            "id": "htkmuz1",
+            "score": 1,
+            "text": "I actually knew this but only because my father is a retired nasa engineer/scientist",
+            "title_similarity": "0.49412397",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkn3cz",
+            "score": 2,
+            "text": "15 digits is the accuracy of the standaed 'double' float variables used in scientific computation. Would make sense that almost all institutions use only 15 digits of pi",
+            "title_similarity": "0.79666185",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkndc2",
+            "score": 1,
+            "text": "*** assuming you can measure the radius of the universe to even more significant figures than how many you have for pi. Which, incidentally, we can't.",
+            "title_similarity": "0.6528162",
+            "sentiment_compound": 0.2716
+        },
+        {
+            "id": "htknofo",
+            "score": 1,
+            "text": "Ignorant-as-F person here, so is there any viable reason to ever use more than 40 digits of pi (or 15 for that matter) when using it to calculate anything for mundane or scientific purposes?  Taking it further, what’s the value of calculating as many digits of pi as possible?  I mean, I’m sure there’s competitive people or just pure number nerds that want to capture more and more digits for pi with a super-computer.  Beyond that, is there any scientific learning or accuracy gained by pursuing more digits of pi?",
+            "title_similarity": "0.6778836",
+            "sentiment_compound": 0.8496
+        },
+        {
+            "id": "htkoovf",
+            "score": 1,
+            "text": "Wat",
+            "title_similarity": "-0.021546597",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkovll",
+            "score": 2,
+            "text": "I memorized pi to the 40th digit back in high school because I was bored in math class one day. I still know it.",
+            "title_similarity": "0.498118",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "htkoz30",
+            "score": 1,
+            "text": "This is the first kick ass TIL I've seen in awhile. Most are like \"TIL Mitch McConnell is a republican\".",
+            "title_similarity": "0.44579974",
+            "sentiment_compound": -0.1832
+        },
+        {
+            "id": "htkpncy",
+            "score": 2,
+            "text": "But my web app will break if I use less than 26.",
+            "title_similarity": "0.4264053",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkpu8e",
+            "score": 1,
+            "text": "I'll.. take your word for it",
+            "title_similarity": "-0.07391736",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkpzj7",
+            "score": 1,
+            "text": "Eh, just move to Indiana and they will round it up for you.",
+            "title_similarity": "0.3328288",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkq6dh",
+            "score": 3,
+            "text": "15 digits is already the equivalent of throwing a dart at the moon and being able to accurately choose the grain of dust that it hits.",
+            "title_similarity": "0.66836774",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkqiw3",
+            "score": 1,
+            "text": "This statement is kind of dumb. It essentially amounts to, “NASA does this thing that works well enough for interplanetary travel. If you did it a billion billion billion times better, you could do this other useless thing…”",
+            "title_similarity": "0.6195314",
+            "sentiment_compound": -0.3384
+        },
+        {
+            "id": "htkr4va",
+            "score": 1,
+            "text": "Well I'm glad I stopped memorizing it at 16 digits in 8th grade algebra class... Turns out that was all I needed!",
+            "title_similarity": "0.5056471",
+            "sentiment_compound": 0.5411
+        },
+        {
+            "id": "htksai1",
+            "score": 1,
+            "text": "You can also use it to cross a giant checkerboard safely without triggering the lasers.\n\n*Diabolical ingenuity.*",
+            "title_similarity": "0.37928",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "htkse7u",
+            "score": 2,
+            "text": "Somehow, I think this relates to post death and reeducated Spock's uncertainty in Star Trek IV, when he had to \"guess\" at the calculations needed to return the Klingon vessel and the whales through time to Earth. He could only be certain about the first 274 digits of Pi.",
+            "title_similarity": "0.62708545",
+            "sentiment_compound": -0.6369
+        },
+        {
+            "id": "htksfd2",
+            "score": 1,
+            "text": "They don’t need to land on a hydrogen atom though.",
+            "title_similarity": "0.38166952",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htksg3i",
+            "score": 1,
+            "text": "imagine learning 100 of pi, I was a night picker, i had the time, can also do alphabet backwards, or by ever third, yes i was that bored.",
+            "title_similarity": "0.48712754",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "htkso4u",
+            "score": 1,
+            "text": "As I recall, 15 digits at the orbit of Pluto is accurate to the width of your thumb.",
+            "title_similarity": "0.76909244",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkstn9",
+            "score": 1,
+            "text": "So it's not only NASA that uses 15 digits of pi ... it's just about everybody!",
+            "title_similarity": "0.726182",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkt0pi",
+            "score": 1,
+            "text": "and here i am thinking what should i do with 3.14",
+            "title_similarity": "0.18819341",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htktks8",
+            "score": 2,
+            "text": "I guess it really was pointless of me to memorize 100+ digits when I was young..",
+            "title_similarity": "0.4389771",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htktlou",
+            "score": 2,
+            "text": "What do you mean only 15 digits? That's very fucking precise",
+            "title_similarity": "0.5689992",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htku8kq",
+            "score": 1,
+            "text": "I’m way to stupid to understand this headline.",
+            "title_similarity": "0.16302682",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "htkucqj",
+            "score": 1,
+            "text": "How on earth did they discover pi?",
+            "title_similarity": "0.29578298",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkul5h",
+            "score": 1,
+            "text": "Nasa doesn't even need 15 digits. It's just the computing standard.",
+            "title_similarity": "0.60981464",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkv55o",
+            "score": 1,
+            "text": "Yeah 40 seems like over egging the pudding",
+            "title_similarity": "0.47326395",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "htkv8ub",
+            "score": 1,
+            "text": "What",
+            "title_similarity": "-0.082788095",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkv9gf",
+            "score": 1,
+            "text": "What does it mean 🥺",
+            "title_similarity": "-0.041136805",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htkvyd7",
+            "score": 5,
+            "text": "They used 3 to get to the moon... Not 3 digits, just the number 3.",
+            "title_similarity": "0.59370136",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "htkxw1x",
+            "score": 1,
+            "text": "Honest question, is the 3 in the ones place counted as one of the 15 digits",
+            "title_similarity": "0.6392478",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "htky3me",
+            "score": 2,
+            "text": "Hmm\n\n40 digits of Pi gets us 10^(-40) relative error\n\nSize of visible universe afaik 46 * (10^9) light years\n\nSo error will be 46 * 10^9 * 86400 * 365 * 3 * 10 ^ 11 * 10^(-40) m\n\nGoogle says it is 4*(10^-11) m\nOk\nWikipedia says Bohr hydrogen atom radius is about 5*(10^-11)",
+            "title_similarity": "0.8151903",
+            "sentiment_compound": -0.6113
+        },
+        {
+            "id": "htkyizs",
+            "score": 1,
+            "text": "Only it says....",
+            "title_similarity": "0.068789415",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htl26fx",
+            "score": 1,
+            "text": "I have no idea what you just said",
+            "title_similarity": "0.05789412",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "htl2mh4",
+            "score": 2,
+            "text": "And How many digit You need to use to calculate that with a precision smaller than a plank lenght? 😉\n\nWait... i found a bug in the simulation?",
+            "title_similarity": "0.47937876",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htl3xls",
+            "score": 5,
+            "text": "At 100 digits, you could accurately calculate the waist size of OPs Mom.\n\nEdit: Some say too much pi while others argue too much pie.",
+            "title_similarity": "0.620375",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "htl6vev",
+            "score": 1,
+            "text": "I love Pi!",
+            "title_similarity": "0.08567362",
+            "sentiment_compound": 0.6696
+        },
+        {
+            "id": "htl7zf1",
+            "score": 1,
+            "text": "I used to know it to 100, only to 30 now. Seems like a good compromisem.",
+            "title_similarity": "0.4710725",
+            "sentiment_compound": 0.6597
+        },
+        {
+            "id": "htl855j",
+            "score": 1,
+            "text": "OK so pi is not infinite it's 40 digits",
+            "title_similarity": "0.5597887",
+            "sentiment_compound": 0.4466
+        },
+        {
+            "id": "htl8a77",
+            "score": 1,
+            "text": "Is there an excel formula for that?",
+            "title_similarity": "0.19126163",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "htl8dzm",
+            "score": 1,
+            "text": "So NASA is half assing?",
+            "title_similarity": "0.46435353",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htl9dmh",
+            "score": 1,
+            "text": "I feel like every measurement we believe until we learn more and found out what we thought was wrong. \n\nChances they are computing this incorrectly and in 10 it’s something else",
+            "title_similarity": "0.3928137",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "htlboph",
+            "score": 1,
+            "text": "What will AI do with the rest of the numbers?",
+            "title_similarity": "0.28964326",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlbq7g",
+            "score": 1,
+            "text": "Yeah I was surprised when I learned error propagation. For most everyday calculation, using anything more than 3 is overkill.",
+            "title_similarity": "0.3701082",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "htlbva6",
+            "score": 1,
+            "text": "Did you know the digit zero does not appear in pi until the 32nd digit after the decimal point?\n\n3.141 592 653 589 793 (NASA stop here) 238 462 643 383 279 50",
+            "title_similarity": "0.65503937",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "htlbvbc",
+            "score": 1,
+            "text": "Good enough for government work!",
+            "title_similarity": "0.14010437",
+            "sentiment_compound": 0.4926
+        },
+        {
+            "id": "htlcor8",
+            "score": 1,
+            "text": "Cool but what’s the point when your initial numbers to work with are a guesstimate in the first place",
+            "title_similarity": "0.3080715",
+            "sentiment_compound": 0.1655
+        },
+        {
+            "id": "htldo3d",
+            "score": 1,
+            "text": "And two decimal places got us to the moon and back a few times. Only as many significant digits as the least significant input.",
+            "title_similarity": "0.6986288",
+            "sentiment_compound": 0.0536
+        },
+        {
+            "id": "htlhsl8",
+            "score": 1,
+            "text": "Can you repeat the part about the stuff where you said all the things?",
+            "title_similarity": "0.114773795",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlhtd3",
+            "score": 1,
+            "text": "Because 15digits is 99.9999999999999% accurate",
+            "title_similarity": "0.51307184",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htliilx",
+            "score": 1,
+            "text": "🤯, that reminds me...i am going to watch that largely unknown film Pi tonight!",
+            "title_similarity": "0.25001103",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlijnp",
+            "score": 1,
+            "text": "1 of the coolest til I ever 'led",
+            "title_similarity": "0.2979238",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlikqq",
+            "score": 1,
+            "text": "many people here jumping on the idea that this corresponds to the precision of floating point numbers in 64 bits processors, but with 0 evidence or proof that NASA doesn't just custom libraries or such for operations that could be a lot more precise.",
+            "title_similarity": "0.62497973",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htliq2w",
+            "score": 1,
+            "text": "Slackers. I use 5 digits to calculate the circumference of myself.",
+            "title_similarity": "0.47849572",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlj6w5",
+            "score": 1,
+            "text": "Ngl I still don’t understand why this (number?) is so overpowered",
+            "title_similarity": "0.22482376",
+            "sentiment_compound": 0.0964
+        },
+        {
+            "id": "htll8vf",
+            "score": 2,
+            "text": "A lot of engineering disciplines can just use 3 because that it accurate enough.",
+            "title_similarity": "0.26212",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlmmx7",
+            "score": 1,
+            "text": "The lines still don't touch!",
+            "title_similarity": "0.085015304",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlo2vg",
+            "score": 1,
+            "text": "Of course they can only afford 15 digits, have you seen their budget?",
+            "title_similarity": "0.70273936",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlr5oo",
+            "score": 1,
+            "text": "*throws book 1 Million Digits of Pi into trash*",
+            "title_similarity": "0.55990964",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlrkzb",
+            "score": 1,
+            "text": "So what is the equivalent example of accuracy of 15 digits?",
+            "title_similarity": "0.5476955",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlsics",
+            "score": 2,
+            "text": "Always makes me laugh when I see a news article when they write things like \"...blah blah blah about 100 meters (109.361 yards)...\" You can just say \"about a 100 yards\" then, because the original was only \"about\" to begin with. No point in useless pseudo accuracy.",
+            "title_similarity": "0.52991575",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "htlt3jb",
+            "score": 1,
+            "text": "[deleted]",
+            "title_similarity": "0.022310058"
+        },
+        {
+            "id": "htltyih",
+            "score": 2,
+            "text": "I didn't get what the text said but cool",
+            "title_similarity": "0.15906115",
+            "sentiment_compound": 0.4497
+        },
+        {
+            "id": "htltyn3",
+            "score": 1,
+            "text": "That, of course, assumes you know the diameter of the circle to an accuracy equal to (2π)^(-1) hydrogen atom diameters.",
+            "title_similarity": "0.60899097",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htlyyvp",
+            "score": 2,
+            "text": "355/113 is good to 6 decimal places.",
+            "title_similarity": "0.41248304",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "htm02h9",
+            "score": 1,
+            "text": "Pi is either equal to 22⁄7 or equal to 3, depending on how much math I feel like doing.",
+            "title_similarity": "0.5276992",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "htm3mur",
+            "score": 2,
+            "text": "They need to watch that metric conversion though.",
+            "title_similarity": "0.038443394",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htm63wv",
+            "score": 5,
+            "text": "So what you are saying is that NASA is being lazy!  Damn millennials ruining everything!\n\nI say we force NASA to use pi to the 100th digit!  Teach those millennials a lesson!  \n\n/s\n\nFYI I am a millennial.  ;)",
+            "title_similarity": "0.52233946",
+            "sentiment_compound": -0.604
+        },
+        {
+            "id": "htmcb22",
+            "score": 1,
+            "text": "https://youtu.be/wtYNf2UH6DY",
+            "title_similarity": "0.04996196",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htmdtbp",
+            "score": 1,
+            "text": "I still don't understand pi. Like, I understand how it's used and how it works relative to other variables, but the actual essence of pi has never clicked in my head. How was it discovered? Why does it go on forever? Isn't there such a thing as a discrete number that can fill the same role?",
+            "title_similarity": "0.41103828",
+            "sentiment_compound": -0.1643
+        },
+        {
+            "id": "htmgikt",
+            "score": 1,
+            "text": "3.14159 is the most 99.999999% of us need in our life.",
+            "title_similarity": "0.5505573",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htmh65r",
+            "score": 1,
+            "text": "Makes sense as each additional digit increases precision by a factor of 10, so you very quickly get into insane precision.\n\nReminds me of this from XKCD: https://xkcd.com/2170/",
+            "title_similarity": "0.40676504",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "htmice4",
+            "score": 1,
+            "text": "It read beautifully like a poem but i couldn't comprehend the math :(  why did i hate math as a kid.",
+            "title_similarity": "0.32077342",
+            "sentiment_compound": -0.7783
+        },
+        {
+            "id": "htmkms6",
+            "score": 2,
+            "text": "So to do the calculation\n2 x π × 46.508×10^(9) light years × 9.461×10^(15) m/light year ÷ (31\n×10^(−12)atoms/m) = 8.918 x 10 ^ 37 atoms\n\nUsing the covalent radius.(note defining atom boundaries gets real fuzzy).\n\nSo think 38 digits will do but 39 is probably safer to avoid rounding the wrong way in the last atom.",
+            "title_similarity": "0.6991416",
+            "sentiment_compound": -0.5023
+        },
+        {
+            "id": "htmmar2",
+            "score": 1,
+            "text": "Yet the scope of relevance is still limited to our ability of observation.   \n\n\nMeaning it's great, but still universally only good enough. :P",
+            "title_similarity": "0.2702163",
+            "sentiment_compound": 0.8807
+        },
+        {
+            "id": "htmnir9",
+            "score": 1,
+            "text": "Astronomers are notorious for rounding.\n\nOne of my lecturers rounded a quarter up to 1.",
+            "title_similarity": "0.6057689",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "htmqtvo",
+            "score": 2,
+            "text": "So the diameter of a hydrogen atom is really accurate I take it",
+            "title_similarity": "0.3988586",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htmrkkx",
+            "score": 1,
+            "text": "I'd be a fucking wiz at NASA then, I know Pi to about 40 digits by memory.\n\n3.14159265358979323846264338327950288419716939937",
+            "title_similarity": "0.7308817",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htmvmtd",
+            "score": 2,
+            "text": "In times of war, pi is equal to 3.",
+            "title_similarity": "0.3438589",
+            "sentiment_compound": -0.5994
+        },
+        {
+            "id": "htmynmy",
+            "score": 1,
+            "text": "Okay i'll be the one..im vibing with it but i dont know what that means.",
+            "title_similarity": "0.11942017",
+            "sentiment_compound": 0.1154
+        },
+        {
+            "id": "htn026x",
+            "score": 1,
+            "text": "Newton discovered the fast algorithm for π which have us digits 11-16 so his work wasn't in vein.",
+            "title_similarity": "0.58461165",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htn056o",
+            "score": 3,
+            "text": "Everyone at NASA can only remember 15 digits of pi, that's why.",
+            "title_similarity": "0.8039628",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htn62zl",
+            "score": 3,
+            "text": "15 is actually a fair few digits",
+            "title_similarity": "0.5080769",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "htname6",
+            "score": 1,
+            "text": "Slackers.",
+            "title_similarity": "0.027603528",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htne71g",
+            "score": 3,
+            "text": "I only need the first digit to measure the length of my penis.",
+            "title_similarity": "0.43843734",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htnjfcd",
+            "score": 3,
+            "text": "I used to program for a high precision software that \"produced\" pacemakers, they used 3.1415 as pi cause the guy who wrote the first version of the code just remembered that and was too lazy to look for some more digits",
+            "title_similarity": "0.5370964",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "htnlho3",
+            "score": 2,
+            "text": "How and why do you know this?",
+            "title_similarity": "-0.07307033",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htnmwz8",
+            "score": 3,
+            "text": "just use 3 and get over it.",
+            "title_similarity": "0.039597914",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htnqbt5",
+            "score": 2,
+            "text": "Mechanical and Civil Engineers use 1 digit of pi lmao",
+            "title_similarity": "0.57137096",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "hto0cqd",
+            "score": 1,
+            "text": "https://rocketmortgagesquares.com/Squares/61ea1bc9d47b62c611069cc0?lang=en-US",
+            "title_similarity": "0.4646633",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hto3qoe",
+            "score": 1,
+            "text": "Whoa",
+            "title_similarity": "-0.059910655",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "huffjb8",
+            "score": 1,
+            "text": "I wonder how many digits would be required to obtain an accuracy equivalent to a Planck length.",
+            "title_similarity": "0.4855507",
+            "sentiment_compound": 0.0
+        }
+    ]
+}

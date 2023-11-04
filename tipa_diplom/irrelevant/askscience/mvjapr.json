@@ -1,0 +1,112 @@
+{
+    "India is now experiencing double and triple mutant COVID-19. What are they? Will our vaccines AstraZeneca, Pfizer work against them?\n": [
+        {
+            "id": "gvf6wkw",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvf1qni",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gverq4q",
+            "score": -7,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvf53mr",
+            "score": 10,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvetdo1",
+            "score": -37,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvekv19",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvdvpyx",
+            "score": 19,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvdsp9q",
+            "score": -6,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvcoouo",
+            "score": 94,
+            "text": "Do you have sources for these new mutants? I only know about the UK, South Africa, and Brazil variants of concern so far. \n\nTo address your question, it depends on where the mutations are. The vaccines are mainly based around the spike receptor binding domain, so mutations outside of that will have limited effects on vaccine (Please feel free to correct me if I’m wrong, only an immunology graduate student).\n\nEdit: \n\nVariants Source: https://www.cdc.gov/coronavirus/2019-ncov/transmission/variant.html\n\nVaccine Paper: https://jbiomedsci.biomedcentral.com/articles/10.1186/s12929-020-00695-2\n\nImpact of Mutation in S: https://www.cell.com/cell/pdf/S0092-8674%2820%2930877-1.pdf\n\nRemoved self source (Only lurked here, not familiar with rule).",
+            "title_similarity": "0.70548034"
+        },
+        {
+            "id": "gvdbiwl",
+            "score": -22,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvex3pp",
+            "score": 17,
+            "text": "Short answer, yes. Mutations occur all the time (it's how all organisms, even us, evolve). Since COVID reproduces quickly, it will mutate faster (so a 'mutation' is not an inherently bad thing). There is a slim chance, however, that a mutation of the genome will yield positive traits for the virus (e.g. UK/Kent Strain: larger and more spike proteins, so 'locks-in' to more receptors and spreads faster throughout the body). But even these changes have not been significant enough to 'stop' the vaccines from working.\n\nAll COVID variants are listed here (with a statement on vaccines) [https://www.who.int/news-room/feature-stories/detail/the-effects-of-virus-variants-on-covid-19-vaccines?gclid=CjwKCAjwmv-DBhAMEiwA7xYrd1y0Qiywo9vBCHmLHrVgl-QPLpXfkLynmBF-W-HIwqwDx8ubqCoX8RoCmUUQAvD\\_BwE](https://www.who.int/news-room/feature-stories/detail/the-effects-of-virus-variants-on-covid-19-vaccines?gclid=CjwKCAjwmv-DBhAMEiwA7xYrd1y0Qiywo9vBCHmLHrVgl-QPLpXfkLynmBF-W-HIwqwDx8ubqCoX8RoCmUUQAvD_BwE).\n\nAlso the scientific community is very active on this (in fact a new vaccine model was proposed a few days ago from Stanford [https://www.nature.com/articles/s41586-021-03530-2](https://www.nature.com/articles/s41586-021-03530-2)).",
+            "title_similarity": "0.60320354"
+        },
+        {
+            "id": "gvdi1im",
+            "score": -30,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvdc3hx",
+            "score": 192,
+            "text": "Novavax is ready to launch their version of the vaccine shot, and it may be an important tool to fight the variants.  It has been shown to be effective vs the UK variant.  [https://www.cnbc.com/2021/03/05/how-the-different-covid-vaccines-will-handle-variants.html](https://www.cnbc.com/2021/03/05/how-the-different-covid-vaccines-will-handle-variants.html)",
+            "title_similarity": "0.72287285"
+        },
+        {
+            "id": "gvdo4xq",
+            "score": 26,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvdher7",
+            "score": 948,
+            "text": "Since the question has been answered already, this is just a reminder: COVID mutates slower than the flu.  We are seeing these mutations because of the high numbers of cases in various regions.  The more people it reaches the more chances it has to mutate.  Getting vaccines out to vulnerable areas and encouraging mask-wearing should help slow the spread and thereby reduce mutations.",
+            "title_similarity": "0.6233905"
+        },
+        {
+            "id": "gvdpfhp",
+            "score": 735,
+            "text": "Indians do not have access to the Pfizer vaccine yet. The indigenously developed COVAXIN by Bharat Biotech has shown efficacy against the variant found in India as well as B.1.1.7 (the UK variant), B.1.1.28 (Brazil variant) and B.1.351 (South Africa variant) as per ICMR.\n\nhttps://mobile.twitter.com/ICMRDELHI/status/1384762345314951173",
+            "title_similarity": "0.6937282"
+        },
+        {
+            "id": "gvevevt",
+            "score": 55,
+            "text": "[removed]",
+            "title_similarity": "0.11246865"
+        },
+        {
+            "id": "gvdf6bf",
+            "score": 6866,
+            "text": "The double mutant name is a highly inaccurate media garbage. Most variants have more than two mutations.\n\nThis variant is concerning because it has two mutations on the RBD, which is a binding site for antibodies. It has an E484Q mutation which is very similar to E484K and confers some antibody resistance, and L452R which is known to increase transmissibility moderately and confer a very minor amount of antibody resistance (its like N501Y on the B.1.1.7/UK variant). This combination of mutations hasn’t been seen before, although a combination of similar mutations (E484K and N501Y) is found on the B1.135/South African variant and the P.1/Brazilian variant (the South African variant has some other mutations on it too that make it particularly resistant to antibodies).\n\nIt’s worth noting that the South African variant actually already has 3 mutations on the RBD as well, technically also making it a “triple mutant”. For some reason some media outlets decided to start calling this variant from India a double mutant, and then people just ran with it, irresponsibly might I add. \n\nWe don’t know how vaccines will perform because it hasn’t been tested, but given those mutations and what we know about the SA variant, likely vaccines will still be effective but less so.",
+            "title_similarity": "0.66787297"
+        }
+    ]
+}

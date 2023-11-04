@@ -1,0 +1,916 @@
+{
+    "cmv: Planned obsolescence is the same as deliberately selling a defective product and the timeframe should be disclosed to the purchaser.\n Firstly, planned obsolescence is different to using poor quality components materials for cost saving. Planned obsolescence (P.O) is deliberately including design flaws to ensure a product stops working or has reduced performance after a certain amount of time. It does not include items that need to stop working for safety reasons such as an expired gas detector.\n\n As an example, there are two very similar phones that cost $500 each, one has a P.O date of 2 years, and the other has a P.O date of 5 years.  As each phone gets nearer to it’s P.O date it’s value approaches zero, so after 1 year the first phone is worth less than the second. The second phone represents a better investment. \n\nIt’s not possible for consumers to make the best decision for their financial circumstances without knowing the P.O date and the manufacturer should have to disclose it.": [
+        {
+            "id": "gyjuyfq",
+            "score": 1,
+            "text": "/u/guessishouldjoin (OP) has awarded 1 delta(s) in this post.\n\nAll comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/nf6o8o/deltas_awarded_in_cmv_planned_obsolescence_is_the/), in /r/DeltaLog.\n\nPlease note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.\n\n^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)",
+            "title_similarity": "0.53765523",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "gyijrh7",
+            "score": 2,
+            "text": "i dont think planned obsolescence is real. no company builds something they know will break. but they build things with inferior parts because it's cheaper. it's not the same thing.",
+            "title_similarity": "0.675798",
+            "sentiment_compound": -0.631
+        },
+        {
+            "id": "gyi9gjr",
+            "score": 2,
+            "text": "Ah yes, the lightbulb conspiracy. I love this one. Putting an expiration date on products already exists, however, it is unreasonably hard to find. Usually, it is right before the time the warranty expires. Companies are going to skate this line until the ends of the earth to keep profits high. Here's a nice read if you ever have the time: https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1591&context=jbl",
+            "title_similarity": "0.6148418",
+            "sentiment_compound": 0.8316
+        },
+        {
+            "id": "gyimnj4",
+            "score": 3,
+            "text": "Are you saying there really are two $500 phones, \"one has a P.O date of 2 years, and the other has a P.O date of 5 years\"?  Please name them.\n\nBecause Phone A would not compete.  Word of mouth would see to that, and that company would be driven out of business.\n\nBack to my rebuttal,\n\nThere is no such thing as planned obsolescence, only a balance of priorities between product life, features, cost, and market size.   A product that lasts a long time and resists breakage will cost significantly more.  Anything that consistently delivers poor quality for the price of admission will again have word of mouth work against it.  Consumers are not dumb.\n\nConsumers are primarily concerned with price, on the average.  They won't buy the Cadillac option.",
+            "title_similarity": "0.8621251",
+            "sentiment_compound": -0.0767
+        },
+        {
+            "id": "gyirk62",
+            "score": 1,
+            "text": "At the end of the day, almost every product has an expected lifespan, or at least a range. The difference between planned obsolescence and designing for a particular standard of lifespan/durability is nonexistent. \n\nFor example, if research shows the customer rarely uses a device for more than two years at a time before replacing it, then there’s no point in spending extra money to design it to last for 10 years.",
+            "title_similarity": "0.69077516",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "gyj1vgl",
+            "score": 10,
+            "text": "Planned obsolescence is a myth shoved at you by bloggers, for the most part.\n\nThere was once a conspiracy about lightbulbs to do that. And hey it got found out because people tracked it and found it out! And I'm not saying it can't happen again. But happening in \"the majority\" of products today? Complete fucking bullshit. Especially phones, do you have any idea how fucking competitive phones are? There are companies straining at losing millions, tens of millions, more a year just in the hopes of one day making any money at all off it. Do you really think they have the time to \"planned obsolescence\" shit, let alone being able to somehow guarantee you'll buy the same brand of phone next time?\n\nFighting right to repair, that's a conspiracy, that's right in front of your face for everyone to see. Fixing insulin prices in America, that's a conspiracy, again right in front of your face for everyone to see. Even fighting awareness and action on climate change, again right in your face, as much as possible, everyone knows the oil companies do it. Secret \"Planned Obsolescence\" cabals meeting to make your shit not work for highly competitive businesses?  Might as well say the lizard people are teaming up with the Jews to control you through the vaccine chips. \n\nAlways remember that conspiracies exist, and that they pretty much always get outed one way or another because people just fucking talk about shit. Thus the tried and true tactic of \"just shove the conspiracy in peoples faces and try to make it so they can't do anything about it\" is vastly preferred to some secret underground meeting in the shadows.",
+            "title_similarity": "0.694131",
+            "sentiment_compound": -0.9887
+        },
+        {
+            "id": "gyint8m",
+            "score": 48,
+            "text": "The timeframe is disclosed, it's called the warranty period.",
+            "title_similarity": "0.21122828",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyie94j",
+            "score": 29,
+            "text": "> Firstly, planned obsolescence is different to using poor quality components materials for cost saving. Planned obsolescence (P.O) is deliberately including design flaws to ensure a product stops working or has reduced performance after a certain amount of time.\n\nI think you're trying to draw a clear line where none exists.  Apart from lightbulbs, I've never heard of any company using anything remotely that specific.  But that doesn't mean a company might not choose a particular part that might work solidly for anywhere from 6 months to 2 years and then fail suddenly \nin some percent of cases even if that part is more expensive. Its not just cost savings.  Its considering the failure curve and trying to target something that works well for just enough time but then starts to break down. That doesn't mean the amount of time is specific and known though.  Or that they'll all fail.  Or that it'll always be the same part that causes the failure.  What about a non-critical part failing, such as the car radio or the AC or something which doesn't make it unusable.\n\nThe only way I can think of to really capture that for the consumer would be to require the company to do a lifespan analysis of each part of the device or machine and provide average lifespans for all of those.  Which is extremely hard to do in cases like a brand new type of thing that maybe hasn't been out for 5 years yet, so they really have no idea how many of them might make it to 10 years.",
+            "title_similarity": "0.8016419",
+            "sentiment_compound": -0.9733
+        },
+        {
+            "id": "gyir819",
+            "score": 14,
+            "text": "That's not how planned obsolescence works. They don't make a fridge and say \"this will die exactly 2 years after you plug it in\" they say \"this has been created to last at minimum two years from plugging it in\". The former is illegal, the latter is generally thoroughly communicated through warranty standards. Take a brand fridge. When you buy it, depending brand and retailer, let's say it comes with a 5 year warranty. That is the manufacturer expressly telling you \"we are guaranteeing that this appliance has been made to last for at least 5 years and we will insure that it does.\"\n\nI really don't know how much more communication you could want.",
+            "title_similarity": "0.7032845",
+            "sentiment_compound": -0.7351
+        },
+        {
+            "id": "gyiqi5a",
+            "score": 6,
+            "text": "A product isn’t created with an internal countdown that breaks the product when it reaches 0. A product is made with materials that might only have a certain expected life expectancy under a certain amount of usage. \n\nA company could give their product an expected lifespan based on the things used to make a product, but that wouldn’t change much. They could use materials that last longer, but that would drive up the price. \n\nIs IKEA wrong for selling cheaper furniture that won’t last as long as a expensive furniture? Should it have to come with a disclaimer that, relative to certain standards, this chair is subpar? Who would collect data on all the different types of chairs on the market and aggregate it into something that can be used to judge individual chairs? \n\nIn Apple’s case, they slowed down older phones, but claimed it was the ease the load on those old phones’ old hardware. iOS updates are built with the more current generations of iPhone in mind, and the phones are getting better processors and batteries with each generation. At a certain point, old hardware just won’t be able to keep up with modern software. With the in mind, is what Apple is doing by slowing down phones actually “planned obsolescence”? Their logic behind doing it is that running the software at full performance on the old hardware is itself damaging to the lifespan of the phone.",
+            "title_similarity": "0.7839257",
+            "sentiment_compound": 0.755
+        },
+        {
+            "id": "gyja9mg",
+            "score": 4,
+            "text": " This is just a **Rules Reminder for All Users.** \n\n---\n\n**All users, (including mods, OP, and commenters) are required to follow the rules of this sub at all times.** If you see a user violate the rules of the sub, please report that comment/post and a human moderator will review it. We understand that some topics posted here may touch on sensitive or contentious issues. We ask that all users **remember the human** and **assume good faith**. \n\n**Notice to all users:**\n\n1. Per **Rule 1**, [**top-level comments must challenge OP's view.**](https://www.reddit.com/r/changemyview/wiki/rules#wiki_rule_1)\n\n2. Please **familiarize yourself with** [**our rules**](https://www.reddit.com/r/changemyview/wiki/rules) **and the** [**mod standards**](https://www.reddit.com/r/changemyview/wiki/modstandards). We expect all users *and* mods to abide by these two policies at all times. \n\n\n3. This sub is for changing OP's view. We require that **all** [**top-level comments**](https://www.reddit.com/r/changemyview/wiki/rules#wiki_rule_1) **disagree with OP's view**, and that **all other comments** [**be relevant to the conversation**](https://www.reddit.com/r/changemyview/wiki/rules#wiki_rule_5).\n\n4. We understand that some posts may address very contentious issues. Please **report any rule-breaking comments or posts.**\n\n5. **All users must** [**be respectful**](https://www.reddit.com/r/changemyview/wiki/rules#wiki_rule_2) **to one another.**\n\nIf you have any questions or concerns regarding our rules, please message the mods through [modmail](https://www.reddit.com/message/compose/?to=/r/changemyview) (*not PM*).",
+            "title_similarity": "0.40927562",
+            "sentiment_compound": 0.6086
+        },
+        {
+            "id": "gyims4o",
+            "score": 0,
+            "text": "The problem isn't with planned obsolescence, the problem is your perspective on the lifetime of products.\n\nIn the case of your example, if the phone company releases a new phone with the latest technology every 2 years, how could they possibly test it & tell you the lifespan of the phone is 5 years, before any phone has actually existed that long? It would, at best, be an informed guess.\n\nHere's my take on the problem: Everyone keeps track of reliability. Almost all products are made from multiple parts. Each part can be tracked separately for wear and tear, performance degradation, accidental breakage, manufacturing defects, and other issues. When I go to buy a product that has been on the market for awhile, I should be able to look up the part reliability history of that product. It *should* be publicly available information. \n\nFor example the iPhone 6S is a great overall phone, but the battery is barely enough when brand new but starts wearing out quickly, and has statistically high failure rates. Being able to look at the reliability history across all Apple Phone batteries should give a consumer a certain amount of confidence that a new version of the product will have similar characteristics, preventing manufacturers from cheating on the success of their past products. (of course the manufacturer could market any generational improvements through advertising - but the proof will be in the reports).\n\nThis need is *sort of* being fulfilled by per-product webstore reviews, but honestly it is a manipulable system that requires a lot of careful reading to get real data from.\n\nBasically, if every company would just publicly reveal all product reliability data (and by that I mean internal testing results, third party testing, user feedback & reports, et cetera), that would be great, society needs it to be able to judge you (and you DO stand to gain: if you truly make a great product, the market will trend towards you, you may even become a natural monopoly until a better product comes around)!",
+            "title_similarity": "0.75914097",
+            "sentiment_compound": 0.9929
+        },
+        {
+            "id": "gyimt6q",
+            "score": 4,
+            "text": "I mean, ok... as *you* have *defined* the term, maybe that makes sense... but it's really not what most people are talking about in most cases of \"planned obsolescence\". \n\nThey're talking about things like designing a product where you know that technology is going to march on and make your product obsolete (e.g. PCs/phones go bad after a few years, because users always put a lot of shit on them, device drivers don't get updates, the OS changes, batteries degrade, app memory requirements increase, etc., etc.). \n\nLike the classic case of Apple think last year: phones with batteries that the manufacturer knows are going to degrade (like all batteries), so they give you maximum performance now, but slow down the CPU automatically as the battery degrades to prevent it from shutting down due to a \"brown out\" when the battery can't source that much juice anymore. It's a *usability* tradeoff, not a designed \"failure\". \n\nEven though that's *not* \"planned obsolescence\" as you've defined it, they still got shit for it. \n\n\n\nOr cars that have a \"design lifetime\" of 10 years, but aren't intentionally designed to *fail* explicitly after that time, just that this is the expected lifetime for normal wear and tear, and they don't make much effort to make it last longer than that. \n\nOr the crappy quality vs. price tradeoff you mention. \n\nAnd ultimately, stuff like that is where any actual enforcement of your policy would essentially go off the rails into unenforceability. \n\nBasically... you're just using the term for a tiny corner that almost never happens... because generally companies *already* get in trouble for it.",
+            "title_similarity": "0.68067825",
+            "sentiment_compound": -0.9793
+        },
+        {
+            "id": "gyiuxy3",
+            "score": 0,
+            "text": "By far the most common kind of Planned Obsolescence is in styling. It makes the product visibly distinguishable as \"new\" for a period of time which allows for social pressure to drive sales. And eventually for it to be visibly distinguishable as \"old\" to make it undesirable as a product and drive more new sales.\n\nThat's why cars have a model year and new styling every few years. It's why phones have numbered models that are visually distinct. It'd be way cheaper to just keep a style forever, but then it wouldn't punish people socially for buying used.\n\nWhen it comes real designs they don't rig it to fail in a certain period of time. They just cheap out in construction, using material that only last a decade instead of a century. For most purposes this is fine. Most people won't keep a phone for ten years, so going through the time and added expense of ensuring all the parts last for ten years would be bad on the company's part. Generally speaking, they're really only interested in keeping a thing working for as long as the average person will continue to use it.\n\nAsking companies to disclose the point at which planned obsolescence wouldn't go nearly as far as you think it would. Some devices would fail much earlier, and others would last much longer. They don't have a kill switch in there. That's just the point at which they expect half of the devices would have failed with normal wear and tear. Lightly used devices would last much longer and those handled roughly or have unplanned faults would last much less.\n\nYou would create an expectation that the devices wouldn't be able to live up to. It's not a warranty, where they promise that the device would work for that long or they would pay for its repair or replacement. It's a estimated timeframe at which parts begin to wear out and fail. It's not uncommon for devices to last substantially longer or shorter than corporate estimations. So, in reality all this would end up being is arbitrary marketing numbers.",
+            "title_similarity": "0.7678469",
+            "sentiment_compound": -0.8295
+        },
+        {
+            "id": "gyizh4y",
+            "score": 0,
+            "text": "In the case of phones and other computing devices that run operating systems and other software, supporting the hardware indefinitely with software updates may mean that future products aren't as capable or feature rich as they would be otherwise. These timelines may not be known at the time a given product is released to the market. Maybe a hardware or production breakthrough makes something possible on a future generation of a device. Or maybe the market moves in a different direction and prioritizes features a company didn't anticipate having to support. Having well defined PO dates would require predicting this or similar sorts of thing. This could add costs which could hamper innovation.\n\nProviding minimum time of software support is a very fair request by consumers purchasing computing devices.",
+            "title_similarity": "0.6200119",
+            "sentiment_compound": 0.8928
+        },
+        {
+            "id": "gyj0a34",
+            "score": 0,
+            "text": "While I agree with you it is getting harder and harder to prove whether it was planned or an innovation was made in the field that made the former product obsolete, computers for example are really hard to ensure it will be \"future proofed\" to the point where subreddits like pcmasterrace routinely make jokes about buying a \"future proofed\" only to hear another product came out and makes the last PC a joke.\n\nIt doesnt even need to be equipment or hardware just look at operating systems they routinely bump into this issue, where 1 operating system needs XYZ capabilities because all the other ones do so in order to accommodate that demand they rewrite their operating system, but in doing that they might just make the issue worse for the older hardware PCs becasue they are lacking the hardware to provide that capability to the level newer hardware PCs can run easier, although this argument is a bit weaker as you can just have different version Operating systems for different levels of hardware but where that line is drawn is consistently different. I guess a disclaimer claiming you miles may vary depending on innovation but thats like every field if you think about it.  \nEdit:Grammer",
+            "title_similarity": "0.67303646",
+            "sentiment_compound": 0.4999
+        },
+        {
+            "id": "gyj0gug",
+            "score": 0,
+            "text": "I wouldn't be so quick to separate materials quality from planned obsolescence. This can be the mechanism.\n\nSticking with the phone example, if your product lifecycle is planned around the majority of users updating to the next model every two years, you would benchmark your component QA around average cycles consistent with two years. You're not putting a kill switch in the phone, you're building it to last exactly as long as the target market will have it. \n\nThis may not even be in the service of outright cost saving, but allocating production budget to performance. User experience during the two years is more likely to lead to repeat sales when your customers do upgrade.\n\nNow of course this does hurt the consumer who only plans to buy a new phone every five years. But is it unethical in and of itself? Without going into the environmental externalities of deliberately manufacturing for short lifecycles, that's another kettle of fish entirely.\n\nDisclosing that if you expect five years out of something, this isn't for you, would definitely be an ethical move. But this isn't the contention.\n\nIf planned obsolescence is aligned with market expectations, it can be as much of a feature as a defect.",
+            "title_similarity": "0.75202763",
+            "sentiment_compound": -0.4178
+        },
+        {
+            "id": "gyj7a8m",
+            "score": 0,
+            "text": "Let's imagine a phone company creates a phone that will (without major physical damage) work for 5 years. Now let's imagine it starts to work slower by year 2. Now let's imagine there are fixes to speed it up but the cost is high enough that one may as well but a new phone anyway at year 2. \n\nThe phone still works but a vast majority of consumers are not content with working, they want it to work at it's best. And now there's a new phone on the market that works better than the first phone ever did, which makes it's year 2 dip look massively worse. People compare it to new technologies and it comes off very poorly, it's worth a lot less not because it itself cannot do it's job anymore but because new phones do it better.\n\nNow let's say the first phone can, brand new, play the latest video game. And it plays the game really well. But if you play every day it takes it's toll on the phone components and ages it faster. The game is not designed by the phone's maker and while they allow the game to be played on their phone, it is not actually designed to play games. It's designed to be a phone, and the phone company is transparent and honest about the fact that the game will change the lifespan of the phone but that is purely up to the individual customer. The wear and tear this game causes is user fault not the manufacturer, as how one uses a device will change it's lifespan if it's not what it is specifically designed to do.\n\nBut wait, the phone makers have released yet another a new phone. This one has a new battery design and requires a new charging cable. It sells like hotcakes and now everyone is using this new cable. The manufacturer slows production on the old cable and third party designers stop making the old design too. Your phone is working fine, a bit slow at it's 2 year mark, just not brilliant. You see all these new phones, that can run cooler games and even have much better charging cables... everyone else is upgrading and leaving you behind (devaluing your phone along the way) and what's this? The dog just chewed through your cable. The phone still works but it needs a new cable, which are in short supply so they're expensive or also old and damaged. \n\nAll of these possibilities are calculable methods of planned obsolescence, and all of the the manufacturer can evade blame on. Creating laws that would lock designers into designing products that won't become outdated is simply not feasible. And as for your property losing value? A seller is under no obligation to have their wares retain the market value they sold. Hell, dildos can be like $100. No one's buying them second hand at $70 (or at all I hope).",
+            "title_similarity": "0.7602456",
+            "sentiment_compound": 0.9913
+        },
+        {
+            "id": "gyjcd39",
+            "score": 0,
+            "text": "The lifespan of products typically associated with planned obsolescence, like phones and electronics, typically become obsolete because of external reasons. You upgrade your old phone because it is no longer able to run new apps, or is not compatible with new cellular network. Because software and infrastructure is designed with the assumption that technology, and the average device they operate with, will improve constantly. 2gb of RAM on a 2010 laptop would have been more than sufficient, but now you're lucky getting chrome to open a second tab. The laptop was not designed to fail after a certain amount of cycles. It was designed for current requirements and price constraints.",
+            "title_similarity": "0.7740409",
+            "sentiment_compound": 0.8916
+        },
+        {
+            "id": "gyjdfkj",
+            "score": 0,
+            "text": "The thing is, \"planned obsolescence\" is nearly impossible to prove.  \n\n\nAll electronic parts have finite lifespans. Some parts do have much longer lifespans than others, but they are still finite. They experience decay at different rates depending on operating temperatures, load, frequency of use. Considering the \"just in time\" nature of the supply chains for modern electronics manufacturing, it's impossible to 100% predict the expected lifespan of any given batch of any given component.  \n\n\nThere is, however, one significant exception.  \n\n\nBatteries.  \n\n\nBatteries are testable, rateable, knowable. The latest and greatest Lithium Ion batteries are capable of being tested, while in operation, and tell you not only the current charge of the battery but also a prediction of its overall \"health\" and remaining lifespan.  \n\n\nUp until a few generations ago, even the flagship and high-end cell phones ubiquitously had removable, replaceable batteries. If your battery stopped performing correctly, you could replace it. If your phone experienced a fault but would not turn off, you could power cycle it by popping out the battery. A few popular phones with non-removable batteries later and suddenly all except the cheapest or simplest phones now have non-removable batteries. This is either planned obsolescence or at least anti-maintenance design. Both of which are predatory practices when coupled with a complete lack of disclosure with regards to predicted product lifespans by the developers.",
+            "title_similarity": "0.6099659",
+            "sentiment_compound": 0.6486
+        },
+        {
+            "id": "gyjgumt",
+            "score": 0,
+            "text": "While I agree that it is unethical and your suggestion is useful, with an iPhone for instance you are not receiving defective products. Your phone is completely in working shape hardware wise. What slows that shape down is the software you choose to install and update it with. \n\nAs a consumer, you have the option of taking your perfectly capable iPhone and not updating it to the point where it becomes slow and laggy. You also have the ability to restore your phone to a spot where it didn’t run that way. But you are encouraged to the point where you are afraid not to. It is like a pick your poison scenario as your phone gets older. Also, technology development drives this trend. Any piece, not just phones, of tech you buy is outdated by current standards within 6 months to a year. Your obligation is to always maintain (like choosing what you let access it) it as the customer to use it longer.",
+            "title_similarity": "0.71306705",
+            "sentiment_compound": 0.9178
+        },
+        {
+            "id": "gyi9jiw",
+            "score": 778,
+            "text": "If I make a fence cheaper by using lower quality wood and it *happens* to break more, is that planned obsolescence or reducing overhead?\n\nLet's assume it *is* deliberately calculated. Don't you think that's fairly easy to cover up using the above logic?",
+            "title_similarity": "0.7141145",
+            "sentiment_compound": 0.264
+        },
+        {
+            "id": "gyib5zv",
+            "score": 1,
+            "text": ">It does not include items that need to stop working for safety reasons such as an expired gas detector.\n\nThe term \"Safety reasons\" could be interpreted so broadly to make any regulation meaningless. A fridge could fail after 5 years for \"safety reasons\" because there is a ***very*** remote chance of fire or electrical shock  after that  time.\n\nIn fact, I would say that planned obsolescence and safety often already overlap.",
+            "title_similarity": "0.7694783",
+            "sentiment_compound": -0.0314
+        },
+        {
+            "id": "gyibqst",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.070369676"
+        },
+        {
+            "id": "gyicpio",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.070369676"
+        },
+        {
+            "id": "gyid2zk",
+            "score": -1,
+            "text": "While i agree with you, i would dispute the idea that phones specifically are sold with planned obsolescence in mind.  (Apple's degraded battery phone throttling shenanigans aside.)",
+            "title_similarity": "0.6764031",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "gyijabd",
+            "score": 1,
+            "text": "Planned obsolence has been argued for in the technology field this way: \n\nIts pointles making certain products (smartphones or pcs) very durable because their technology advances so quickly that the products would become a bad solution for the customer, or they would even become obsolete by the time their planned obsolecence was up.\n\nEdit: Just read your post description. My argument is specially true when purchasing any mid-to-low quality products, just like the scenario you described with phones.",
+            "title_similarity": "0.73633254",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "gyilqst",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.070369676"
+        },
+        {
+            "id": "gyiunji",
+            "score": 1,
+            "text": "I would challenge your view in that most of the time with costly purchases, the planned obsolescence of the product \\*is\\* disclosed in the form of a warranty/guarantee. \n\nThis isn't always the case, but nearly everything over a certain price point has \\*something\\*. \n\nA knife made from cheap metal that's not designed to be used regularly for more than a year or two might have a very limited warranty. Usually strictly covers manufacturer defects. A better quality knife might have a more robust warranty that will replace a knife if you break it within ten years of purchase. A better knife still would have all that, a longer or indefinite timeframe, and they might sharpen it for you for free if you mail it to them. \n\nI know it sucks to read all the fine print, but that's why it's there. For people who need to make a more educated decision about their purchase. This applies to appliances, home improvement projects, electronics, all kinds of stuff. Pretty much everything that costs enough that you don't want to replace it. You just gotta know where to look.",
+            "title_similarity": "0.80016387",
+            "sentiment_compound": 0.9631
+        },
+        {
+            "id": "gyivx1q",
+            "score": 1,
+            "text": ">  Planned obsolescence (P.O) is deliberately including design flaws to ensure a product stops working or has reduced performance after a certain amount of time.\n\n2 things. \n\n* What are you defining as planned obsolescence?\n* How exactly are you going to prove it's planned obsolescence? \n\nEven items that people frequently complain about (like phones) are still quite repairable. For example: Does the fact that a battery is a consumable part (and thus wear out before a circuit board) mean it's PO? Or is that simply a limitation of current hardware combined with consumer use?",
+            "title_similarity": "0.80956477",
+            "sentiment_compound": 0.4329
+        },
+        {
+            "id": "gyj2g0y",
+            "score": 1,
+            "text": "> As an example, there are two very similar phones that cost $500 each, one has a P.O date of 2 years, and the other has a P.O date of 5 years. \n\nDo you have any real examples, or only hypothetical ones?\n\nIs this problem only a hypothetical one?",
+            "title_similarity": "0.6996788",
+            "sentiment_compound": -0.54
+        },
+        {
+            "id": "gyj61b7",
+            "score": 1,
+            "text": "Pro tip. Before you buy a product, check the free/cheap warranty offered. The manufacturer has calculated a warranty length that favors them. You can treat the warranty length as the best estimate (plus or minus a few months) for how long the product will last.",
+            "title_similarity": "0.69818985",
+            "sentiment_compound": 0.836
+        },
+        {
+            "id": "gyjiisp",
+            "score": 1,
+            "text": "Its called warranty. There's a reason why manufacturers will only provide 2 years warranty on a lot of things that should last you 5+ years. The amount of stuff that'll go wrong further down the line increases, and they don't want to take responsibility.\n\nIf you're buying something you expect to last 5 years and the warranty only lasts 1-2 years, buy the extended warranty. Account for that in your calculation of whether it's worth it.\n\nHonestly a lot of products, especially appliances and electronics, should have the warranty duration clearly labeled on it.",
+            "title_similarity": "0.7937964",
+            "sentiment_compound": 0.507
+        },
+        {
+            "id": "gyiv8rt",
+            "score": 14,
+            "text": "You can’t make something that literally lasts forever. Some component will eventually fail, right? It makes some sense to literally then plan for and time all your components to likely fail at around the same time (you wouldn’t make a screen to last 80 years on a phone that only lasts 10).\n\nOn the opposite side, I think I like the idea of them telling me how long they expect each component and the whole thing to last. They have that data, they should be open and honest and share it with consumers",
+            "title_similarity": "0.7627014",
+            "sentiment_compound": -0.0
+        },
+        {
+            "id": "gyik0cd",
+            "score": 8,
+            "text": "For me, planned obsolescence is most obvious and useful in the automobile industry. Engineers work hard to calculate the life of a vehicles components. In many ways this makes a lot of sense. There is no reason to build a part into a car that is designed to last a hundred years when the majority of the vehicles parts may not last longer than 20 years.\n\nThe items in a vehicle that relate to safety often have a calculated lifetime much longer than the rest of the vehicle.  And with automobiles the expected lifetime of the vehicle is indeed published. Usually not in years but in miles.\n\nI do agree with you that some items seem to be manufactured intentionally to last a short time. To me this is more of a discussion of poor quality versus built in obsolescence.\n\nEdited for grammer",
+            "title_similarity": "0.68865156",
+            "sentiment_compound": 0.0726
+        },
+        {
+            "id": "gyj0u04",
+            "score": 2,
+            "text": "“Planned obsolescence” generally isn’t part of a design, per se. Rather, it’s the assumption of how long the parts will last or the tech will be compatible. In terms of parts, there’s always a balance between price and quality. If you want to make a phone cost 100 less, you have to sacrifice on quality, therefore on lifetime. With tech it’s more complicated, since you have to base the calculation on an extrapolation of how quickly you think processors will develop within 5-ish years. With both of these considerations, a company can make a good guess for when a product will become obsolete. I think you would have a hard time finding a true example of planned obsolescence by design.",
+            "title_similarity": "0.81872404",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "gyj7qie",
+            "score": 2,
+            "text": "Are you expecting items to last forever?  Declination of something depends on wear and tear, frequency of use, type of use, etc…. But basically, all items do have a lifespan, yes.  Do I expect my coffeemaker to last 12 years? No. Do I expect to get 7-10 out of a clothes washer, yes. \n\nObsolescence has to be planned for to allow for new technologies to emerge in every sector.  Otherwise we’d be forced to use the original versions of (insert item here,) and therefore no innovations could occur.",
+            "title_similarity": "0.6634812",
+            "sentiment_compound": 0.7149
+        },
+        {
+            "id": "gyjrnnu",
+            "score": 2,
+            "text": "Your very first assumption is wrong; planned obsolescence isn't designing things to break after a certain amount of time. \n\nPlanned obsolescence works the other way around. If 99% of people who buy your product only use it for X number of years (regardless of whether it still works) then what is the point engineering it to work for 5X years? You can make a product that lasts for 1.5X instead which is cheaper/lighter/smaller/whatever instead. \n\nPhones and software updates work this way too. What is the point spending time developing an update for a phone that almost everyone has already relegated to the back of a junk draw? If there are two equivalent phones; Phone A costs $500 and will have software support for at least 3 years, Phone B costs $750 and will have support for 10 years. Which one is the better buy for the typical user who will use it for 2 years then upgrade?",
+            "title_similarity": "0.775046",
+            "sentiment_compound": 0.7987
+        },
+        {
+            "id": "gyin5ar",
+            "score": 16,
+            "text": "The counter-argument is that engineering things to a certain standard is a significant cost, which of course is going to be passed on to consumers. And everything only needs to be designed to the standards that they expect to use it to. Naturally, market logic is going to dictate that the company that spends all its time and money manufacturing things to a standard that is higher quality, more expensive, and takes longer and is more complicated to build than your average product is probably going to fail to make the same money as the company that didn't do that. Of course, where that falls down is where companies manage to produce a superior product for not much more than a standard price, such that people will spend that extra on the name-brand version. Also, when companies design things too well, and don't charge enough, they often find that they can't make more money from that person, because that person has all of what they needed. As such, it loses them money to over-engineer. Also, people often don't pay for better, even if it's available, because they don't value the services they're using. \n\n It therefore just doesn't make any economic sense to design things with parts that are designed to last twice as long as the actual thing. We're not going to pay for it, it's not going to give us better use of that product, and the reality is that it's not a good idea on an economic basis. Products do not need to be better than they have to be, and if we won't pay for better than it has to be, then it just doesn't make any sense to make that. Especially in something like a car, where we don't appreciate any one individual part. We appreciate having a car. \n\nBut I think you have touched on a place where it seems to be kind of dishonest and disrespecful. Namely, computers and smartphones. A lot of planned obsolescence is actually much more \"We just didn't design it any better than it wanted to be\". Where it gets genuinely corrupt is where it seems like things are being designed to break. And that's what we see in this technology. Apple devices seem to consistently have flaws in them that have been inherited from previous designs, that were known about, and were breaking devices that just never got fixed. The means of fixing their devices is deliberately limited. The way they \"fix\" their devices gets a lot of criticism from device repair companies, who largely make their money from fixing thing that were supposed to be ridiculously expensive or unrepairable. For some reason, they're getting rid of things like headphones, while simultaneously releasing shitty headphones. It's not really on.",
+            "title_similarity": "0.6846902",
+            "sentiment_compound": -0.8257
+        },
+        {
+            "id": "gyia636",
+            "score": 191,
+            "text": "So two things here - firstly, consumer disclosure isn’t really the best way to ensure the knowledge is disseminated. Would you, for instance, be okay with a small line in the user manual of a PC somewhere saying “the date of PO is 3 years from X”? It would probably go unread or unnoticed by the majority of consumers. Better, as the European governments are doing, to take punitive actions against companies that engage in the practise.\n\nBut I think more critically, planned obsolescence can be so much more than just selling a defective product and manifests in very insidious ways that make a timeframe a poor way of communicating lifespan to a consumer. With technology it might be simpler, where you explain that certain features may grow outdated at such and such time, but outdated is not the same as obsolete, so where do we draw the line? Likewise, fashion industries use planned obsolescence by rule - why else have seasonal catalogues except to arbitrarily restrict when a product is considered “functional”. That timespan is clearly announced, and I doubt anyone would consider selling clothes that go out of fashion to be the same as a defective article. It is a topic that I think is far more difficult to be categorical on than a timespan disclosure would require.",
+            "title_similarity": "0.74597114",
+            "sentiment_compound": -0.954
+        },
+        {
+            "id": "gyin7do",
+            "score": 271,
+            "text": "I really want to agree with you, but planned obsolescence does not actually follow the logic of \"this phone *must break* in 2 years\". It follows the logic of \"we don't care if this phone *only lasts* 2 years\". They don't intentionally design it to fail by a certain date (that's actually illegal), they just don't design it to last *beyond* a certain date and if it does, it's just a happy coincidence. They also ignore critical design flaws from time to time.\n\nPlanned obscelescence also revolves around making products difficult or prohibitively expensive to repair. For example, sealing the phone with glue, \"no user servicable parts\", \"warranty void if removed\"(also illegal but never really enforced), serializing chips, requiring custom proprietary tools for repairs, and only making parts/software available to OEM manufacturers. The legality of all this is currently being debated(look up louis rossman on Youtube).",
+            "title_similarity": "0.7547611",
+            "sentiment_compound": -0.951
+        },
+        {
+            "id": "gyijc73",
+            "score": 90,
+            "text": "I have a more direct suggestion, which I think would achieve the same goal of consumers being empowered, which is right to repair.\n\nPlanned obsolescence and their disclosures or lack thereof wouldn’t be a problem (or as much of a problem) if the ability to affordably repair the product in a timely manner was possible and supported.\n\nApple throttling older phone’s performances in the name of preserving battery life wouldn’t be an issue if the batteries were easily replaceable.\n\nIf Apple went back to the removable battery like their older MacBook Pros, I wouldn’t have to plan out 3 weeks of time where I wouldn’t be able to use my laptop because I had to ship it off to get the battery replaced.\n\nAnd so on and so forth. Even if companies had to disclose planned obsolescence, that would only help consumers realize when they need to replace their product. One could argue that this might indirectly lead to companies developing products with longer service lives to be competitive, but I don’t really think that would happen because of perceived obsolescence. Instead, the ability to easily repair something that doesn’t cost almost as much as totally replacing it would be much better for the life of the product, the user, and the environment.",
+            "title_similarity": "0.7425321",
+            "sentiment_compound": 0.8957
+        },
+        {
+            "id": "gyicyx5",
+            "score": 4,
+            "text": "In your example, what is the feature that makes one phone obsolete before the other? Sometimes the market changes and a new component becomes the industry standard- there’s no way to predict that.  Wi-Fi routers are a great example.  Mine is from 2017.  It’s getting kinda slow... not because the manufacturer planned it that way, but because tech has advanced since then.  Some of my other items that connect to it aren’t dialed in for its bandwidth.",
+            "title_similarity": "0.68108815",
+            "sentiment_compound": 0.431
+        },
+        {
+            "id": "gyif7za",
+            "score": 1,
+            "text": "So I agree with most of your points but it does leave one major hole. Cost of innovation. For improvements on any item the market needs to continue to exist for said item. If the business incentive disappears then so will innovation for said product. Now this doesn't mean all items require planned obsolescence but some do. Do we need constant innovation in razors? Probably not. Do we need innovation in technology? Most certainly yes.",
+            "title_similarity": "0.6971003",
+            "sentiment_compound": 0.9789
+        },
+        {
+            "id": "gyijaoo",
+            "score": 4,
+            "text": "Well, that's kind of a hard thing since someone who abuses phones, laptops, cars etc... will get less of a life with the thing than someone who cares for their item so giving them a timeframe would be quite difficult. \n\nSometimes electronics just crap out for no reason while the same product just runs longer (YLOD, RROD, BSOD) its such a huge variant that putting a time would be kind of hard for manufactures.",
+            "title_similarity": "0.6655462",
+            "sentiment_compound": -0.7719
+        },
+        {
+            "id": "gyiqpvl",
+            "score": 1,
+            "text": "Look at the warranty length that comes with the expensive product; there’s your indication of when something is going to fail.",
+            "title_similarity": "0.5988096",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gyishft",
+            "score": 1,
+            "text": "What gets ne is that people know.  They know which companies do this, they know how to change this (buy from better companies), and they just don't care .  \n\nBeyond  \"oh, look, shiny...\" most people just don't care.",
+            "title_similarity": "0.5843644",
+            "sentiment_compound": -0.3304
+        },
+        {
+            "id": "gyit3yj",
+            "score": 1,
+            "text": "Can you give any real world cases of the types of planned obselence you’re thinking of?",
+            "title_similarity": "0.24585535",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyiuzjn",
+            "score": 1,
+            "text": "I agree with you, though I'm adamantly against PO I also understand it's a part of tech manufacturing we'll likely never be able to back off from at this point. So yeah, Apple should just tell us how long it'll be before they force a firmware update that intentionally bricks your phone. they won't. but they should.",
+            "title_similarity": "0.6507107",
+            "sentiment_compound": 0.0043
+        },
+        {
+            "id": "gyivhgt",
+            "score": 1,
+            "text": "I have a question. How does your definition of planned obsolescence account for anticipated life expectancy given the product can only use materials up to a given cost? If a company can afford to sell a $15 motor only if it has bronze bushings instead of sealed bearings that motor will have a different life expectancy but it's not necessarily planned obsolescence.",
+            "title_similarity": "0.75491416",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyixu85",
+            "score": 1,
+            "text": "This is one of those many many post on the sub where all I can say is “why the fuck would you want to change your opinion?”",
+            "title_similarity": "0.34144828",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "gyiyg4p",
+            "score": 1,
+            "text": "I agree with you OP.",
+            "title_similarity": "0.03272254",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gyizqw5",
+            "score": 1,
+            "text": "Ever wondered why many electronic products, especially in the EU break after about 2.5 years, because warranty on electronic products is 2 years (you want some wiggle room so that most break within the 2-3 year window).\n\nBasically this could be fixed partially with warranties but companies aren't fans of them. Consumers don't make the rules, big corporations and governments do (mostly), they just let consumers believe they do so that they won't complain too much or enough for there to be change.\n\nAlso for some products it's really hard to determine a timeframe.",
+            "title_similarity": "0.7730973",
+            "sentiment_compound": 0.1963
+        },
+        {
+            "id": "gyizrjw",
+            "score": 3,
+            "text": "Might not contribute much to the argument, but I remember the McDonald's ice cream machine being constantly broken issue - there was this [this great video about it ](https://youtu.be/SrDEtSlqJC4) it's a bit long so here's a TL;DR (ah shit it went long) \n\nMcD and Taylor (the company that makes the ice cream machine) have had a very long partnership and Taylor is the Only maker from which franchises can purchase ice cream machines, and the company (Taylor), although it sells Icecream machines to all the major fast food outlets, has like a \"special unit\" reserved for McD which, when something goes wrong (usually when the workers \"clean\" it after work at night) *does not* tell anything to the worker (it just displays a error code) about what's gone wrong and the franchise needs to call the official technician to fix it, which usually costs a lot of money.\n\nNow here's the thing - there's a separate \"technician's menu\" in the machine (that technically could be accessed by the workers but is no where in the owners manual) which tells everything about the error to the technician, which is usually a small thing and an easy fix, which still costs a lot of money.\n\nThere's also this third party accessory now, which tells the workers what has gone wrong and how to rectify it but McD recently (basically) banned it, and is now working to make a similar device, that *doesn't* help the workers that much.\n\nAnd here's the final nail in the coffin - Taylor (the maker), while it was negotiating a sale (of the company) to another company, boasted in it's, I guess it's called, revenue report that 25% of it's revenue came from Services and Repairs and.....all the ads from the company ONLY boast about how good its technicians are in repairs :O\n\nTl;Dr of the Tl;Dr - McD and the ice cream maker have had a very long partnership ; the machine when it breaks down, doesn't offer any clue to the workers, has a hidden \"technician menu\", and the technician costs a lot of money with Taylor (the maker) going on to boast about how it gets 25 % of it's revenue from Services and Repairs.\n\nSo, basically, Moral of the Story is The Ice Cream Machine was made to break down and bring in revenue for the maker of the Machine and McD doesn't care cause it's the franchises that suffer.",
+            "title_similarity": "0.54451996",
+            "sentiment_compound": -0.9702
+        },
+        {
+            "id": "gyizt80",
+            "score": 1,
+            "text": "Unless you can find some kind of explicit deliberate smoking-gun conspiracy to create \"planned obsolescence\" - then it would be almost impossible to distinguish between regular market forces and a concerted effort to make something obsolete.",
+            "title_similarity": "0.6258602",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gyj09bc",
+            "score": 1,
+            "text": "The doctor actually made the same disclosure to my mom when I was born, “Congratulations, you’ve got a beautiful boy! Given his demographics and assuming continued medical advances, he should be good for 90 years. But, you know, exogenous factors and what not, so caveat emptor.”",
+            "title_similarity": "0.5258878",
+            "sentiment_compound": 0.5707
+        },
+        {
+            "id": "gyj26j0",
+            "score": 1,
+            "text": "They do disclose the time frame, it’s called the “warranty”",
+            "title_similarity": "0.23205486",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyj3isf",
+            "score": 1,
+            "text": "I agree that it's the same as selling a defective product, but I disagree that the solution is to disclose the timeframe. The solution is structure society in a way where planned obsolescence isn't incentivized/required. Planned obsolescence is an environmental disaster (it takes a lot of raw materials to make a computer) and a waste of everyone's free time. We need a societal structure where profit isn't the reason we work, but the public good is. Socialism is one example. Under such a system, longevity is clearly incentivized.",
+            "title_similarity": "0.74515325",
+            "sentiment_compound": 0.8248
+        },
+        {
+            "id": "gyj70ub",
+            "score": 1,
+            "text": "You ask engineers and product designers, this isnt ever the case. They get asked to make sure a product last for X amount of time. They never get asked to make a product Fail at x number of time.",
+            "title_similarity": "0.501548",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "gyj7paa",
+            "score": 1,
+            "text": "The timeframe *is* disclosed. It's called guarantee period",
+            "title_similarity": "0.18093628",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "gyj8wws",
+            "score": 1,
+            "text": "planned obsolescence? sounds a lot like my last marriage.",
+            "title_similarity": "0.36396003",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gyjbttj",
+            "score": 2,
+            "text": "Ehhh... The time frame is already disclosed: it is the default warranty!\n\n😉\n\nThat said: MTBF for particular components is known, more or less. Some aggregate of that can be used to come up with a product lifetime...\n\nI like the idea.",
+            "title_similarity": "0.43500477",
+            "sentiment_compound": 0.4199
+        },
+        {
+            "id": "gyjc3bb",
+            "score": 1,
+            "text": "How about we just make planned obsolescence illegal.",
+            "title_similarity": "0.38588798",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "gyjdjl9",
+            "score": 1,
+            "text": "I don't want to change your view. haha",
+            "title_similarity": "0.22189787",
+            "sentiment_compound": 0.4172
+        },
+        {
+            "id": "gyjebut",
+            "score": 1,
+            "text": "There is an upper cost limit that research can have on certain key and irreplaceable parts in a complex product; there is usually no point in trying to make those last longer.  Improving other non-key/more replaceable parts to last beyond that is not good business even if it would be cheap to do so.  Arranging loans, warranties, etc around the life of those irreplaceable key parts is good business.\n\nIt looks like a conspiracy, and might be so, but ...also could just be the cost limit of research & engineering on a few key components.",
+            "title_similarity": "0.73667896",
+            "sentiment_compound": 0.1648
+        },
+        {
+            "id": "gyjej0v",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.070369676"
+        },
+        {
+            "id": "gyjgqcg",
+            "score": 1,
+            "text": "It's so difficult to prove, major companies could easily come up with strategies to avoid or circumvent any regulation and small companies would be fucked.",
+            "title_similarity": "0.57305336",
+            "sentiment_compound": -0.7737
+        },
+        {
+            "id": "gyjh56l",
+            "score": 1,
+            "text": "Mean time to failure is a routine statistic for expensive parts and components.  Itd be easy to put that requirement on consumer products as well, since its not a guarantee but keeps the consumer informed.",
+            "title_similarity": "0.7196877",
+            "sentiment_compound": -0.0052
+        },
+        {
+            "id": "gyji9hz",
+            "score": 1,
+            "text": "The vaccines are form of this as well.  Like they can't make permanent vaccines that scientists hundreds of years ago made.  Ok.",
+            "title_similarity": "0.52970123",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "gyjimzn",
+            "score": 1,
+            "text": "Planned obsolescence isn’t just making things break on a timeline by building in deliberate design flaws. \n\nIn fact that’s barely what it is, it’s harder than you think to make something break on a timeline, any built in flaw will just break early when the user manhandles the product. Mostly things are built to last because you don’t know how badly people are going to treat their own product and a broken product is bad for word of mouth. \n\n\nPlanned obsolescence is mainly about a timeline of releasing upgrades. New special edition speaker system is built, but they don’t include noise cancelation technology, even though that already exists. You have to get the new special edition speaker system *pro* which won’t be released until next year. \n\n\nOr another example would be screen size. This jumped out at me about the Nintendo Switch when I first got it. The screen includes these absurd bezels around the edge of the device. There is no reason for those to be there except that at some point they will release an upgraded version with a larger screen and slightly better graphics. They could have included the larger screen right from the get go. But an upgrade that is bigger screen and better graphics is better than an upgrade with just the better graphics. That is planned obsolescence.",
+            "title_similarity": "0.73178726",
+            "sentiment_compound": 0.9332
+        },
+        {
+            "id": "gyjk8na",
+            "score": 1,
+            "text": "Not a new concept, just way more prevalent today with the unchecked corporate greed.  American cars in the 1980's were designed to self destruct post 100,000 miles.  First issue, Aluminum headers on a iron block.  My 1985 Ford t bird died from this obviously planned flaw.",
+            "title_similarity": "0.6801977",
+            "sentiment_compound": -0.9118
+        },
+        {
+            "id": "gyjkfhj",
+            "score": 1,
+            "text": "Isn't planned obsolescence illegal in the EU? Difficult to regulate, I seem to recall EU taking on this issue. \nI'm not here to change your mind. I'm here to add: planned obsolescence should be illegal. (It's not the same as materials/technology changing or wearing out over time. A certain fruit- logo company is notorious for using planned obsolescence to sell more product every two years.)",
+            "title_similarity": "0.7321907",
+            "sentiment_compound": -0.6093
+        },
+        {
+            "id": "gyjmu6y",
+            "score": 1,
+            "text": "Isn't like phones is the worst example for it? You can't update it forever because hardware is outdated.",
+            "title_similarity": "0.54668987",
+            "sentiment_compound": -0.7359
+        },
+        {
+            "id": "gyjneva",
+            "score": 1,
+            "text": "There are already tons of replies arguing about your definition of \"planned obsolescence\" or feasibility of it prevention, but I am going to actually defend that planned obsolescence in your particular sense is good. Otherwise what's the point of posting it at this sub, right? Throughout comment I am going to say \"PO\" exactly in sense of deliberately making product to break after some time even if it makes product more expensive.\n\nSuch PO is widely criticized by customers who treat the problem like there is a choice between getting 3 year phone vs 5 year phone for the exact same amount of money. But that is simply wrong. Even if we take same quality of components and overall design, shorter life span of the product mean that customers would pay more frequently. So companies can reduce cost of the product and still keep similar amounts of a revenue. This is also a big win for a customer buying easily breakable products: if you have to buy new phone after breaking it display, it doesn't matter how long it should have lasted in ideal conditions but lower cost is surely more attractive. And after that we have to consider that many products around us like phones, tablets, computers, cars and etc are beast of innovations. PO makes it more financially sensible to invest money in R&D instead of support for already sold old models. If you think that all these new features are meaningless, that is just your opinion and people are different. I found that many times my resistance to changes robbed me of noticeable improvements in my quality of life. New features will always look meaningless until people start actually using them and find their productive application in their own lives.\n\nAnd if we look at proven lightbulb conspiracy. Would it really have been better for anyone to have durable lightbulbs lasting for around hundred of years? In order to keep factories still functional and products ready for customers, the price would have to be astronomically high. And if they chose to sell it close to cost of production, they would quickly go out of business and there would have been constant shortage of lightbulbs.",
+            "title_similarity": "0.797767",
+            "sentiment_compound": 0.7677
+        },
+        {
+            "id": "gyjonl7",
+            "score": 1,
+            "text": ">Firstly, planned obsolescence is different to using poor quality components materials for cost saving. Planned obsolescence (P.O) is deliberately including design flaws to ensure a product stops working or has reduced performance after a certain amount of time. It does not include items that need to stop working for safety reasons such as an expired gas detector.\n\nUsing cheaper materials is not deliberately including a design flaw - it's literally using cheaper materials because it allows a product to be produced and sold more cheaply. Your premise itself further fails because ALL products stop working and has reduced performance after time - it's called *normal* obsolescence, and just standard wear and tear.\n\n>\rAs an example, there are two very similar phones that cost $500 each, one has a P.O date of 2 years, and the other has a P.O date of 5 years. As each phone gets nearer to it’s P.O date it’s value approaches zero, so after 1 year the first phone is worth less than the second. The second phone represents a better investment.\n\nThis is a bad example. Assuming that the difference is quality of materials and not technical performance, both phones will be equally obsolete from a ***technical performance*** standpoint 2 years after release regardless of its ability to meet its original level of performance, because the world will have moved on. As an example, consider the indestructible Nokia 3310. It's still obsolete, even if it works exactly as well as it did in 2000.\n\nFor a more relevant example, a mobile with 3G internet would be obsolete today too, even if it still works \"perfectly\" because people expect phones to be able to have enough bandwidth to access media on the internet that's now higher quality and a 3G connection is no longer sufficient.\n\nTo use the converse - the iPhone is probably one of the most often mentioned devices when it comes to planned obsolescence, and yet even the lawsuit was on shaky reasoning: Apple deliberately throttled the performance of older iPhones in its iOS software with newer releases, because it wanted to preserve the battery life of those older iPhones. \n\nIt's an inescapable problem - lithium ion batteries deteriorate at rates set by science, short of increasing battery capacity (which will still deteriorate at the same rate) - you either reduce performance to preserve battery life, or you maintain iOS performance and older iPhones now have unusably short battery lives.\n\nApple doesn't plan for its iPhones to die so fast - one of the best features of iPhones are its extremely high resale value. But technological progress means newer software tends to use more power, batteries deteriorate with age, and you need software updates to keep up with changing cyber threats. \n\n>\rIt’s not possible for consumers to make the best decision for their financial circumstances without knowing the P.O date and the manufacturer should have to disclose it.\n\nConsumers aren't stupid. Everyone knows that you get what you pay for. If nothing else, more expensive products come with longer warranty periods, and those are ALREADY explicitly set out and known when you make a purchase. Something with a 10 year warranty period (in the same product) will cost more than something with a 2 year warranty period.",
+            "title_similarity": "0.83508766",
+            "sentiment_compound": 0.8778
+        },
+        {
+            "id": "gyjppgh",
+            "score": 1,
+            "text": "How do you prove planned obsolescence so that you can legislate for it?",
+            "title_similarity": "0.40410587",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyjqg8v",
+            "score": 1,
+            "text": "I agree with you but for the sake of argumentation I will try.\n\nThink of lightbulb market, it is possible to make lightbulb that would last a life time. Now what would that mean for the lightbulb market ? It would crush. This is what happened at the beginning of the 19th century, so they made a cartel agreeing to never sell lightbulbs that would light for more than 2000 hours or something. Same for the ink printer market, smartphones etc...\nWhy would it crush ? People buy a product for a function. In marketing we say \"the customer wants a hole in the wall, not a drill\". Now if I sell you a product that will assure this function for a life time without real big technical improvements possible in the future, you'll never buy from me again. \n\nConsequences of it can results in higher prices, the demand is lower, but it still exists things will still break at least by accident. For the company to still function it will have to sell their products at a much higher price. \nNow ask yourself this question : would you rather buy your lightbulbs every few years at less than 5€ or pay it every fifty years at 200€ ? \n\nSo planned obsolescence can be useful for both the company, and consumers.",
+            "title_similarity": "0.78783536",
+            "sentiment_compound": 0.4922
+        },
+        {
+            "id": "gyjrly6",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.070369676"
+        },
+        {
+            "id": "gyjrsdt",
+            "score": 1,
+            "text": "I think the EU is planning to pass a law where manufacturers need to mark products with the expected lifespan on the packaging.",
+            "title_similarity": "0.4814716",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyjy1jq",
+            "score": 3,
+            "text": ">As an example, there are two very similar phones that cost $500 each, one has a P.O date of 2 years, and the other has a P.O date of 5 years. As each phone gets nearer to it’s P.O date it’s value approaches zero, so after 1 year the first phone is worth less than the second. The second phone represents a better investment.\n\n&#x200B;\n\nBut this isn't an example, because you've just invented it. \n\n&#x200B;\n\nWhat people call \"planned obsolescence\" is, in almost all modern cases, a result of deliberate design decisions not to hamper the product, but rather to prioritise one aspect at the expense of another - such as making a device thinner, knowing that the thermal impact will reduce its life but considering the smaller size to be worth it. Now it's entirely plausible that this compromise isn't fully understood by the customer, but there's a great deal about the product that isn't fully understood to the customer. But the more important aspect is that, once you acknowledge that these compromises are what cause the shorter life span, you also have to acknowledge that there's no \"default\" position. \n\n&#x200B;\n\nWe see this play out all the time in laptops, where two can have identical processors but provide different levels of computational ability because one manufacturer has decided that making it thinner, lighter and with quieter fans is worth the throttling cost. I's also possible to make a laptop with water cooling if your goal is primarily to extend the life of the product as much as possible as the expense of portability - but this is exactly the sort of  'deliberate design decisions' that I'm referring to.  There's no default. There's no correct length of time.",
+            "title_similarity": "0.8155676",
+            "sentiment_compound": 0.9394
+        },
+        {
+            "id": "gyjyfqh",
+            "score": 1,
+            "text": "You completely made up your examples.  How about come back with actual items that exist this way to support your argument.  Without concrete, real world examples your whole position is just speculative.  People rail against planned obsolescence but never have Ibseen anyone provide real examples from the market.  Until you can provide that your view doesn't even matter.  It's like saying you'd never like to go to another planet, whichbdoesnt matter because you'd never have the chance anyway.",
+            "title_similarity": "0.55257136",
+            "sentiment_compound": -0.048
+        },
+        {
+            "id": "gyjyssg",
+            "score": 1,
+            "text": "Are there any actual cases of planned obsolescence and not just a product being designed to a certain price which causes it to fail eventually? Or also for electronics it makes sense that eventually the company will stop providing software updates to focus on new products which make them money, that's still not planned obsolescence.",
+            "title_similarity": "0.7488165",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "gyjz2hg",
+            "score": 1,
+            "text": "How about just making things properly so they last as long as possible? Crazy concept? I don't care about company profit margins.",
+            "title_similarity": "0.54560006",
+            "sentiment_compound": -0.3586
+        },
+        {
+            "id": "gyk0b6j",
+            "score": 1,
+            "text": "1) At the time of sale, the product is functional, and therefore not defective. \n\n2) There's no guarantee how long a product will last. The best you can estimate is saying X% of products will remain functional after Y number of years/uses/etc. This is not PO. PO would be a product that is intentionally designed to cease functioning after a certain period (like if all printers of a particular model stop working after 500 prints), not just if a part happens to break after 507 prints.",
+            "title_similarity": "0.7803323",
+            "sentiment_compound": 0.9008
+        },
+        {
+            "id": "gyk2bd9",
+            "score": 1,
+            "text": "Let me answer with a question.\n\nWould you like an expensive product which survives the apocalypse or a super cheap one which lasts 2 years tops? Both of them are of the same effectiveness during their life time.\n\nAre you a dog person? Do you know how many headphone my furry friend runied already?\n\nOr are you an environmentalist, tired of all the additional recycling due to planned obsolence?",
+            "title_similarity": "0.72424734",
+            "sentiment_compound": 0.8992
+        },
+        {
+            "id": "gyk3whk",
+            "score": 1,
+            "text": "IMHO the solution to this is to establish a waste-tax. It requires a well regulated recycling/waste management system but in effect it would work by taxing consumers an additional £10/£15/£20 on things like electricals, which they could claim back upon receipt of proper disposal which the govt. could use to track how many Mtn per year of plastics/rare earth metals etc. each company's products are resulting in and taxing them accordingly. It would take a lot of work to implement, and might drive slight price increases but the environmental effects of consumerism are catastrophic and ultimately will be much more expensive to combat.",
+            "title_similarity": "0.76699895",
+            "sentiment_compound": -0.518
+        },
+        {
+            "id": "gyk4haf",
+            "score": 1,
+            "text": "Planned obsolescence is major part of the reason we \"need\" electirc cars. Old cars from 80s-2000s were reliable, inexpensive and fuel efficient. Cars today are marketed as being fuel efficient and reliable but in reality they consume +10l/100km of fuel (hybrid or conventional, 0 difference), and have faulty functions within 1st year of use. With new low volume engines new cars wont make it past 250000 km range, while old cars with minimal maintenance go way past 350000km",
+            "title_similarity": "0.7530644",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "gyk517r",
+            "score": 1,
+            "text": "Oooor... It should not be legal. How about that",
+            "title_similarity": "0.17751697",
+            "sentiment_compound": -0.0951
+        },
+        {
+            "id": "gyk5bz9",
+            "score": 1,
+            "text": "Somehow i was thinking of this term a few days ago, but couldn’t remember the term. Thanks. \n\nIt’s definitely something that’s crept into the market over the decades and normalized.",
+            "title_similarity": "0.5073355",
+            "sentiment_compound": 0.8126
+        },
+        {
+            "id": "gyk6thh",
+            "score": 1,
+            "text": "Planned obsolescence has been discussed in environmental circles for many years. \n\nThe only thing that could be done is for manufacturers to guarantee that product for a set number of uses or duration. \n\nFor example, washing machines could be more easily compared if manufacturers advertised the following:\n\nWe guarantee this machine for 2000 cycles over 3 years. \n\nCompetition would force manufacturers to build products with greater durability and offer ever greater warranties. \n\nAn argument in favour of planned obsolescence is that it supports the economy through consumer spending.",
+            "title_similarity": "0.69244355",
+            "sentiment_compound": 0.9168
+        },
+        {
+            "id": "gyk79sq",
+            "score": 1,
+            "text": "Planned obsolescence is actually the lack of disclosure of the shelf life of the components that make up the device. It’s not a deliberate design flaw, it’s a lack of transparency. So youre are right but your definition of what’s happening is wrong.",
+            "title_similarity": "0.600664",
+            "sentiment_compound": -0.7543
+        },
+        {
+            "id": "gykajlc",
+            "score": 1,
+            "text": "It can be a matter of economics. Sure, it might be possible to build a smart phone that will last 20 years, but it'll cost a lot more, and it'll be outdated technologically within a matter of years anyway. When technology evolves at such a rapid pace, it makes sense to save money by removing elements that would allow it to last longer than it otherwise would need to last. \n\nYes, devices are still quite expensive, but imagine if you tried to make a smart phone upgradable, how much extra material would need to go into it, and how much third party infrastructure would be needed. The costs outweigh the benefits.\n\nAre there cases where planned obsolescence is abused to generate more profit? Sure, but to say that all planned obsolesce is bad is incorrect.",
+            "title_similarity": "0.7638865",
+            "sentiment_compound": 0.9677
+        },
+        {
+            "id": "gykd0tg",
+            "score": 1,
+            "text": "Jesus, arguing semantics in the comments is kinda cringe. Jail time for folks who deliberately contribute to landfill which is all that making a product from anything less than the best available (ie doesn’t have to be perfect but can’t have any in-built flaws) materials there are. Don’t wanna pay to make a washing machine that lasts 100+ years (which is not only possible but apparently easy, Cubans have been driving the same cars since the 50s) and doesn’t require perpetual software integration and updates that force you into spending more money on further products? Fine, don’t sell it in my country. Fuck apple, Hyundai, Dyson, any tech company that engages in this thought process. Simple.",
+            "title_similarity": "0.773097",
+            "sentiment_compound": 0.6147
+        },
+        {
+            "id": "gykd2pl",
+            "score": 1,
+            "text": "I got taught about it in school, I expect every item I buy to stop working shortly after the warranty has run out.",
+            "title_similarity": "0.50154203",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "gyke2i1",
+            "score": 1,
+            "text": "Planned obsolescence is one of the main arguments against capitalism. For the economy to thrive you literally need to exploit all resources.",
+            "title_similarity": "0.5581688",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "gyke7um",
+            "score": 1,
+            "text": "Like selling a horse by a car lot?",
+            "title_similarity": "0.33103883",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gykguja",
+            "score": 1,
+            "text": "4-6 years for phones. 6-8 years from last date of manufacture for computers. This is Apple which I find acceptable. I can’t find new seals for my fridge after 4 years so.... better",
+            "title_similarity": "0.61941004",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "gykh6et",
+            "score": 1,
+            "text": "Agreed!",
+            "title_similarity": "-0.07700686",
+            "sentiment_compound": 0.3382
+        },
+        {
+            "id": "gykj7di",
+            "score": 1,
+            "text": "Not really. The Automotive Industry is entirely a “planned obsolescence” one. That goes for even the best and most cost effective life of ownership makes. For example Toyota - lowest cost of ownership and the factory that will literally replace your transmission free if it fails at 7 years 65k and not under the 5/60 warranty period, because they didn’t build the vehicle or engine or transmission to come even close to failing under 1 or 2 hundred thousand miles. \n\nYet that will never stop someone from trading in or leasing a new vehicle in 3 years (the average is 3 years and not 6 for the average buyer/driver) \n\nAll that to say no ones building anything defective or planning a defect on purpose in fact most, when it comes to auto factories, have even gone above and beyond to prevent that and reduce repair and maintenance costs on the fixed OP’s side (service and parts) by not only including free needed maintenance services during that first 3 year interval and also changing those necessary to repair or replace over the lifetime of the vehicle mechanisms like going from necessary to replace timing belts to should never need to be replaced timing chains. \n\nYou can take a few industries and apply this too. For instance industries like scented candles. Companies that make and sell soaps, shampoos and such. \n\nIt isn’t possible to change these industries from a planned obsolescence one. \n\nWith cars; customers will always want the next best shiny thing and even if they don’t we are quite a bit away from inventing a lifetime lasting, safe, energy saving, and environmentally efficient vehicle. Not to mention peoples needs change too they may need a pick up truck for work now or be starting a family and have to go from that compact car to a mid size sedan, a van, or want an SUV or any other litany of rational reasons one would need a new vehicle. Not to mention when companies and industries need to change and update their fleets for whatever reasons. \n\nWith Candles, Soaps, Detergents, and so on; there’s no way to make any of the sort that will last a lifetime and transition this industry to not being a planned obsolescence one. \n\nThere’s plenty of others too like for instance food and agriculture.\n\nNone of which are or have “planned obsolescence” because of defects, safety reasons and so on.\n\nAnd with all of these industries the life of the product timeframe is known, disclosed, and expected by the customer.\n\nEdit-  words.",
+            "title_similarity": "0.733901",
+            "sentiment_compound": 0.9136
+        },
+        {
+            "id": "gykn7wz",
+            "score": 1,
+            "text": "There are 2 kinds of planned obsolescence:\n1. Greedy, scummy, 'I want my product to break so I can make more money <evil laugh>'. I don't think anyone will disagree with you that this is bad.\n\n2. Safety based planned obsolescence. You see this all the time in civil engineering where things like bridges have an obsolescence date dependant on the weakest part of the bridge. This is so they don't collapse when you're not expecting it.\nThe same can be true for consumer items like phones; Li-ion batteries can only last so long before they inflate and eventually explode. Better to make a phone that stops working before this point for safety, save some money, and pass on savings to consumers.\n\nOf course, most PO in consumer markets is type 1, but 2 exists too.\n\nAlso, screw you for making me spell obsolescence so many times, I just can't get it right :D",
+            "title_similarity": "0.79628104",
+            "sentiment_compound": 0.7861
+        },
+        {
+            "id": "gykoyvt",
+            "score": 1,
+            "text": "Link to one of many of apples lawsuits: https://9to5mac.com/2021/03/01/apple-lawsuit-portugal-planned-obsolescence/\n\nJust another reason not to buy apple. Other phone companies do it to but android phones are usually left in usable condition. Apple updates and tweeks you phone into the ground.",
+            "title_similarity": "0.7068042",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "gykr0n4",
+            "score": 1,
+            "text": "I dont know if youre from the EU, but as a citizen of the EU you should write to the commission and argue your case. If not, you could use the citizens initiative to make this come into effect. Its very aligned with the intention of the EU to make a free market for their populace. Destroying information asymmetries is one thing that a truly free market is all about and its easy support your argument that consumers should be allowed the knowledge of an intended expiration date.\n\n&#x200B;\n\nEdit: link to citizens initiative program: https://www.europarl.europa.eu/at-your-service/en/be-heard/citizen-s-initiative",
+            "title_similarity": "0.59994507",
+            "sentiment_compound": 0.872
+        },
+        {
+            "id": "gykr6gd",
+            "score": 1,
+            "text": "> deliberately including design flaws to ensure a product stops working or has reduced performance after a certain amount of time.\n\nAll products have design flaws, and all products have reduced performance after a certain amount of time.  How do you show any of that is deliberate versus naturally occurring?",
+            "title_similarity": "0.704206",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "gyktxc6",
+            "score": 1,
+            "text": "Yep",
+            "title_similarity": "-0.15998147",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "gykv290",
+            "score": 1,
+            "text": "Literally everything wears out and deteriorates over time. Some things quicker than others.",
+            "title_similarity": "0.3466645",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gykyber",
+            "score": 1,
+            "text": "As others have noted, you can't expect anything to last forever. By that reasoning, every product you are being sold is defective simply because it will break at some point. Also, your perception of value is flawed.\n\n\nCompare your example to food. The warranty of a product (good untill/best before) is the guarantee the firm will give. That immediately *is* the timeframe the seller gives. You are making it out to be that the firm *plans* a literal date, which is not true. It is in essence, building goods cheaply as such that they last just beyond the warranty - urging consumers to buy a new goods and reducing costs. Just as you don't find it unreasonable that your tomatoes don't last five years beyond their expiry date, it shouldn't be unreasonable that a phone doesn't (necessarily) either.\n\n\nThis is also why your example is fundamentally flawed. The result of cheaper inputs namely is cheaper products. Yes, Nokia phones would last longer than Samsungs, but Samsungs can do a lot more for a similar/cheaper price. If you then assume that you bought two $500 phones, the utility you get from the better phone which will break earlier is subjective, and you may find it a better deal than the more durable model.",
+            "title_similarity": "0.74557793",
+            "sentiment_compound": 0.7896
+        },
+        {
+            "id": "gyl1iw1",
+            "score": 1,
+            "text": "How is this an unpopular opinion lol",
+            "title_similarity": "0.24832031",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "gyl3777",
+            "score": 1,
+            "text": "There's a problem with your definition of P.O. here. Imagine the planned obsolescence of a car. After about 10 years, it is understood that the car is not as good as it used to be. But the quality of maintenance can **radically** improve or destroy your car. Is it the manufacturer's fault if most of their cars are dead in the water after 5 years, but those that receive even the barest of maintenance outlast other cars of their age and price point? No.\n\nYou're specifically looking at the planned obsolescence of cell phones, I think, and it's causing you some problems when abstracted out.\n\nI agree with you that putting in an arbitrary time lock after which the performance of the phone arbitrarily degrades should be illegal, but I think that is a more specific problem than just planned obsolescence. I would be looking more at \"people should have the right to maintain and repair things they own\" than \"companies should not decide how long a product should last.\" That is where most planned obsolescence comes from, not evil engineers putting a time bomb in your phone.",
+            "title_similarity": "0.78494513",
+            "sentiment_compound": -0.9814
+        },
+        {
+            "id": "gyl3a2a",
+            "score": 1,
+            "text": "What you really need to understand is the decision between PO and performance/cost. \n\nDeliberate PO is actually illegal (in the US) and very few companies participate in this schema. \n\nMinimizing cost while maximizing performance is how you sell product. You don’t engineer your perfect, you engineer to good enough. You also cannot get around naturally degrading materials. \n\nYou use the example of cellphones. PO does not exist. Your product naturally degrades. Batteries is the biggest headache; sure there is tech to make a battery last a sustained lifetime 3x yours but it’s incredibly expensive and not what you need.",
+            "title_similarity": "0.74593747",
+            "sentiment_compound": -0.8316
+        },
+        {
+            "id": "gyl4p72",
+            "score": 1,
+            "text": "It's not necessarily that items are planned to fail at x, but are designed to last at least until x. If you get beyond that great.\n\nYou can always make a higher quality product, but that usually increases cost, often exponentially. There is also economics to think about. The item needs to be priced at a certain point (or within a certain band) to sell enough of them to be profitable. \n\nIf you want longer lasting products, spend more money.\n\nOften products (like engines) that undergo stress cycles (and will fail because if fatigue) are given rated lifetime.\n\nIf you are thinking of the Apple debacle, I'm pretty sure they got sued to hell and back",
+            "title_similarity": "0.7100866",
+            "sentiment_compound": 0.7311
+        },
+        {
+            "id": "gyl6x5s",
+            "score": 1,
+            "text": "Can you give a concrete example of planned obsolescence as you describe it? I have always thought the expression didn't mean exactly what you say.",
+            "title_similarity": "0.4459539",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyl798k",
+            "score": 1,
+            "text": "The real solution to Planned Obsolescence is common sense Right to Repair. If companies had to make things like phones repairable by third parties, using common fasteners, and common cables, with parts available to replace things like screens and batteries then PO doesn't matter anymore. Software will always outstrip the hardware eventually, there is no way to plan that or prevent it, so the need for newer equipment will always be there.",
+            "title_similarity": "0.6799807",
+            "sentiment_compound": 0.3597
+        },
+        {
+            "id": "gyl9hbo",
+            "score": 1,
+            "text": "I think you're defining planned obsolescence fairly narrowly and in a way that simplifies the argument. In real life, planned obsolescence can play on the progress and change in supporting technology. In other words, your iPhone 6 doesn't have to break to be obsolete, it just has to no longer be able to run a supporting operating system. But how do you regulate that? Do you keep operating systems from evolving? They also have handle changes in every other part of the techno-environment in which that device operates. You can create devices that are far more resistant to obsolescence and you can focus a lot on 'backward compatibility' but how do you pull those things out and make them enforceable?",
+            "title_similarity": "0.7174494",
+            "sentiment_compound": 0.6946
+        },
+        {
+            "id": "gyla6ut",
+            "score": 1,
+            "text": "Could not agree more but unfortunately this will never happens. P.O plays a major role in consumism so unless we manage to destroy captalism this practice will be the norm",
+            "title_similarity": "0.5083865",
+            "sentiment_compound": -0.8986
+        },
+        {
+            "id": "gylcd88",
+            "score": 1,
+            "text": "Yes, it absolutely should be made clear to the buyer if obsolescence is planned for the product.  \nWe “expect” it for things like phones, but the ambiguity should be removed and the onus should be put on the manufacturer to disclose this info.",
+            "title_similarity": "0.6434119",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "gyld9nc",
+            "score": 1,
+            "text": ">Planned obsolescence (P.O) is deliberately including design flaws to ensure a product stops working or has reduced performance after a certain amount of time.\n\nVirtually no one actually does this. What reddit frequently calls \"planned obsolescence\" is actually this:\n\n>using poor quality components materials for cost saving\n\nThe time frame you're asking to be disclosed doesn't actually exist. There's no such thing as a \"planned obsolescence date.\" It's an oversimplification of a more complex problem.",
+            "title_similarity": "0.7242825",
+            "sentiment_compound": -0.7334
+        },
+        {
+            "id": "gyle5zx",
+            "score": 1,
+            "text": "It’s happening to video games a lot. And it’s starting to annoy me.\n\nThey release the game half-baked because they know the fans will always buy it no matter what, and when people realize how trash it is they refuse refunds. \n\nEA and their sports titles are the pioneers and prime examples of this.",
+            "title_similarity": "0.6412092",
+            "sentiment_compound": -0.6339
+        },
+        {
+            "id": "gylfhig",
+            "score": 1,
+            "text": "> and the manufacturer should have to disclose it.\n  \nIt's called the warranty period.",
+            "title_similarity": "0.3366639",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gylfohe",
+            "score": 1,
+            "text": "I think part of the issue is a company might not know exact dates for ending of support. \n\nIf a product is really popular and still in use, then the company might keep supporting it. If almost nobody is using the product, they might see it as not beneficial to keep supporting it.\n\nIf consumers cared about these kind of things then I think they would seek out products from companies that have a history of keeping products around for a long time.\n\nIf the consumer wanted they could look at Apple products and see when support ended for various items. So the company doesn’t need to say how long they will be supported, the consumer can get a general idea.\n\nI don’t know if a requirement for PO would be practical. Just in general it would be nice if updates for computers and phones made them more optimized, but performance usually seems to degrade with each update.\n\nIf enough consumers cared, then I think companies would make technology that lasted longer. The typical consumer probably updates their products before they become obsolete, so, a requirement might not do much good.",
+            "title_similarity": "0.6847795",
+            "sentiment_compound": 0.4242
+        },
+        {
+            "id": "gylkx6x",
+            "score": 1,
+            "text": "I think it's complicated to equate PO across everything that can be bought. I will try and show that without PO the cost of consumerism increases over time in a negative way. I am arguing in favor of PO and that posting a timeframe is also negative.\n\nSay you buy a car. With PO you must address the end of life of a product. Will it be recycled or end in a landfill? Will it leak hazardous materials overtime. If a car is sold under the guise that it will last forever we know that 1, it won't, and 2 the manufacturer is absolved from end of life planning because this car will \"last forever\".\n\nYou might imagine the cost per producing something decreases with quantity of the thing produced. You invest in new machines and recoup the cost over time. A little of the cost is a recovered with each product sold basically. But what about the cost of producing the next thing? Should the car manufacturer have to keep the press that makes fenders for your car? What about making the next car? Buy a new building, a new press and new fittings? Or replace the fitting on the same press and keep it in the same building with the same staff etc..\n\nMaybe a good compromise is to make a bunch of extra fenders before replacing the machine. How many do you make and store? Not infinity. Maybe not 100,000. Too much adds cost, you are trying to predict how many you will ever need, or likely need to maximize profit. If not you have to build in the cost of the extra parts into the sales of the replacement vehicle. You have to store the fenders, and as fewer and fewer are needed (as cars are totaled and become unroadworthy) you end up shipping single fenders instead of freighting them in bulk. The cost of the repair goes up over time, regardless of whether you made the fenders, acquiring them gets more expensive and the cost to store them continue over time. This results in a buy new vs repair cost analysis consumers have to consider and you are trying to run a business.\n\nThe next thing is giving an EOL date. Let me ask, how do you shop for items? Do you go by star ratings, price, warranty period? Doesn't the promise make more of an impact than the actual end result? If a retailer lies, it may succeed in tricking you (this is opportunity cost to the reputable companies that don't lie) and as a result you become a one time buyer of that brand. Maybe you hope regulation punishes them out of business. But in the mean time the company you would want to buy from loses sales to the lying company. The company must wait for the second time you buy a product they offer and hope you choose them as a reward for their honesty. But guess what. Is that how you bought the item in the first place? You need an item and research the history of the company, do a product life analysis (😂😂😂) and then go against reviews to buy the higher prices product? You think different when buying something new then when you have already bought a thing and are disappointed in it. Maybe you never shop that brand again but how do you know a larger parent company doesn't own them and half of their \"competitors\"? You don't. \n\nSo which kind of company do you want? You say a large, reliable honest company. But the one you perpetuate into existence is the big promise, lower price, highly upvotes/stared companies by buying from them. Economically how do you control this? Remember the larger company isn't some charity. They wouldn't mind eliminating ALL competition so they can price higher. If pissing you off about the thing your already mad about buying helps you support a carefully crafted plan to legislate these other companies out of existence, you both might fight for that. Then after the large company can say (it lasts X years) and you'll know it will last X years like you wanted. But it doesn't mean you won't over pay for that item. It doesn't mean that the EOL will be what you want. After all this time most car warranties won't cover things like door handles or window motors breaking after only 3 years and it's hard to argue that average vehicles are EOL at that time.\n\nMaybe that's the solution. Offer a warranty period and then you're on your own. Oh wait, that's what is done for most of this stuff already.\n\nI think a better solution is to invigorate companies that push back the EOL date and having right to repair laws are important. People should own what they own. If there are options to extend the life of what you own vs buying another new thing (maybe from a different brand even) then the new things have to compete in price against this market. The problem becomes economic. It doesn't mean one day a cell phone won't be invented that lasts 1 year and is disposable, and if the price is right and the new phone totally recyclable it might be nice to have a new and fresh piece of tech yearly. But getting there requires an economic reason and if taking your view, passing legislation to punish lying companies is a better economic choice for the company, then that's what they will do and you won't have addressed the issue (product waste and value ambiguity), they will have just handed you the gun to kill their price competition.\n\nI wanted to address the solutions to the problem you pose and some situations that might arise from those choices. I hope that you don't feel PO is selling a defective product or that posting the EOL date is the solution without addressing enforcement and the situations those choices might result in.",
+            "title_similarity": "0.7810003",
+            "sentiment_compound": 0.9781
+        },
+        {
+            "id": "gyloqt8",
+            "score": 1,
+            "text": "Nothing lasts forever and no one owes you anything. Signal to vendors that you care for durability by voting with your money.\n\nAlso buy bitcoin, because it's the only durable, deflationary money that holds and grows in value, instead of fiat which Always. Dies.",
+            "title_similarity": "0.6703803",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "gylpguy",
+            "score": 1,
+            "text": "I'd see it more as renting something to ultimately never own it. This would be an interesting conversation in r/buyitforlife",
+            "title_similarity": "0.5204193",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "gylqtc6",
+            "score": 1,
+            "text": "Case in point: printers, especially overpriced ink cartridges.",
+            "title_similarity": "0.45657742",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gylyzag",
+            "score": 1,
+            "text": "Maybe PO can be good for instances in equipment that can be dangerous. I’m think along the lines of, this bolt in this elevator must be replaced every 2 years as it is being worn down, so there’s no point in making a bolt that lasts 10 years if it is only going to be used for 2.",
+            "title_similarity": "0.7667626",
+            "sentiment_compound": -0.8486
+        },
+        {
+            "id": "gym0em9",
+            "score": 1,
+            "text": "It's not *planned* obsolescence, it's *inevitable* obsolescence. Technology keeps moving forward.\n\n> Planned obsolescence (P.O) is deliberately including design flaws to ensure a product stops working or has reduced performance after a certain amount of time.\n\nThis isn't a thing. It just has reduced performance relative to ever-increasing expectations, and apps may not support old hardware with new versions. And yeah, battery life degrades over time.",
+            "title_similarity": "0.7529111",
+            "sentiment_compound": -0.015
+        },
+        {
+            "id": "gym0ssh",
+            "score": 1,
+            "text": "In Norway there is a right to claim, within 5 years of purchase for products more expensive than $100 (estimate) - or if they are expected to last atleast 5 years.\n\nSo most electronics, cars, furniture etc.\nClothes and shoes etc has 2 years.\n\nThe seller has to repair or replace the product, if it has been used normally.\n\nThis is to prevent low quality products to be sold.\n\nSo yeah, Norway agree with your statement.",
+            "title_similarity": "0.78462577",
+            "sentiment_compound": 0.5618
+        },
+        {
+            "id": "gym0yta",
+            "score": 1,
+            "text": "Worked as an engineer for an American car company. Theres no \"planned obsolescence\". Theres just using the cheapest parts we can get to maximize our profits, and eventually those parts break down. Very simple. No secret timelines or conspiracy",
+            "title_similarity": "0.6989815",
+            "sentiment_compound": -0.6344
+        },
+        {
+            "id": "gym4v82",
+            "score": 1,
+            "text": "The economic model in capitalistic countries will never be able bridge that gap. Nokia initially made basically an indestructible phone. Because it lasted so long sales went down, so R&D did as well. Some can argue newer technology changed and out did them but.......",
+            "title_similarity": "0.691773",
+            "sentiment_compound": 0.0387
+        },
+        {
+            "id": "gymh956",
+            "score": 1,
+            "text": "Biden is SOOOOO MUCH BETTER then the other GOP moron that was in office.\n\nSo you are 100% correct.\n\nAlso, republicans can go fuck themselves.  Lying ass Nazi vote stealers.",
+            "title_similarity": "0.5754623",
+            "sentiment_compound": -0.9212
+        },
+        {
+            "id": "gz03vg3",
+            "score": 1,
+            "text": "Sidestepping hardware PO here, do you feel the same way about design based, or psychological PO?\n\nAn example would be releasing a new phone with a new design for no apparently reason, knowing people will see it as the new, shiny model, and feel that the older phone is obsolete.\n\nWhile I'm against building your products to shit themselves and die in a year, tricking people into buying new crap by abusing human psychology is fair game, imo.",
+            "title_similarity": "0.7522769",
+            "sentiment_compound": -0.9609
+        },
+        {
+            "id": "h02s8ln",
+            "score": 1,
+            "text": "Yup. Also shouldn't be too much to ask.",
+            "title_similarity": "0.25053117",
+            "sentiment_compound": 0.0
+        }
+    ]
+}

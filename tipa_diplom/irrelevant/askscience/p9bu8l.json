@@ -1,0 +1,82 @@
+{
+    "How much does a covid-19 vaccine lower the chance of you not spreading the virus to someone else, if at all?\n": [
+        {
+            "id": "h9wl9ho",
+            "score": -4,
+            "text": "[removed]",
+            "title_similarity": "0.18557075"
+        },
+        {
+            "id": "h9wook1",
+            "score": -5,
+            "text": "[removed]",
+            "title_similarity": "0.18557075"
+        },
+        {
+            "id": "h9wx964",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.18557075"
+        },
+        {
+            "id": "h9z4414",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.18557075"
+        },
+        {
+            "id": "h9yw3ww",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "0.18557075"
+        },
+        {
+            "id": "h9x015v",
+            "score": -6,
+            "text": "[removed]",
+            "title_similarity": "0.18557075"
+        },
+        {
+            "id": "h9wnh13",
+            "score": 229,
+            "text": "Vaccination is likely to substantially reduce virus transmission by reducing the pool of people who become infected, and reducing virus levels in people who get infected.(11 May 2021 – by Jennifer Juno and Immunity and Adam Wheatley)\r  \n\r  \nSince COVID-19 vaccines began rolling out across the world, many scientists have been hesitant to say they can reduce transmission of the virus.\r  \n\r  \nTheir primary purpose is to prevent you from getting really sick with the virus, and it quickly became clear the vaccines are highly efficient at doing this. Efficacy against symptoms of the disease in clinical trials has ranged from 50% (Sinovac) to 95% (Pfizer/BioNTech), and similar effectiveness has been reported in the real world.\r  \n\r  \nHowever, even the best vaccines we have are not perfect, which means some vaccinated people still end up catching the virus. We call these cases “breakthrough” infections. Indeed, between April 10 and May 1, six people in hotel quarantine in New South Wales tested positive for COVID-19, despite being fully vaccinated.\r  \n\r  \nBut how likely are vaccinated people to actually pass the virus on, if they do get infected? Evidence is increasing that, not only do COVID-19 vaccines either stop you getting sick or substantially reduce the severity of your symptoms, they’re also likely to substantially reduce the chance of transmitting the virus to others.\r  \n\r  \nBut how does this work, and what does it mean for the pandemic?\r  \n\r  \nVACCINATED PEOPLE ARE MUCH LESS LIKELY TO PASS ON THE VIRUS\r  \nEarly evidence from testing in animals, where researchers can directly study transmission, suggested immunisation with COVID-19 vaccines could prevent animals passing on the virus.\r  \n\r  \nBut animals are not people, and the scientific community has been waiting for more conclusive studies in humans.\r  \n\r  \nIn April, Public Health England reported the results of a large study of COVID-19 transmission involving more than 365,000 households with a mix of vaccinated and unvaccinated members.\r  \n\r  \nIt found immunisation with either the Pfizer or AstraZeneca vaccine reduced the chance of onward virus transmission by 40-60%. This means that if someone became infected after being vaccinated, they were only around half as likely to pass their infection on to others compared to infected people who weren’t vaccinated.\n\n&#x200B;\n\nReference: https://www.gavi.org/vaccineswork/mounting-evidence-suggests-covid-vaccines-do-reduce-transmission-how-does-work",
+            "title_similarity": "0.7669672"
+        },
+        {
+            "id": "h9xtiup",
+            "score": 9,
+            "text": "[removed]",
+            "title_similarity": "0.18557075"
+        },
+        {
+            "id": "h9wzalv",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "0.18557075"
+        },
+        {
+            "id": "h9xa75q",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "0.18557075"
+        },
+        {
+            "id": "h9xnp5j",
+            "score": -7,
+            "text": "[removed]",
+            "title_similarity": "0.18557075"
+        },
+        {
+            "id": "h9wp00z",
+            "score": 8782,
+            "text": "Before you can pass the virus on to someone else, you must first become infected.Vaccines reduce this massively, with efficacies between 60 and 90%.  \n\n\n[https://www.nature.com/articles/d41586-021-02261-8](https://www.nature.com/articles/d41586-021-02261-8)\n\nOnce a person is infected, the adaptive immune system means the infection is cleared from the body more quickly in a vaccinated/previously infected person than someone with no existing immunity. This leaves a shorter period of time when the viral load is high enough to infect others. And this is borne out by the data.  \n\n\n[https://www.gavi.org/vaccineswork/mounting-evidence-suggests-covid-vaccines-do-reduce-transmission-how-does-work](https://www.gavi.org/vaccineswork/mounting-evidence-suggests-covid-vaccines-do-reduce-transmission-how-does-work)\n\n>immunisation with either the Pfizer or AstraZeneca vaccine reduced the chance of onward virus transmission by 40-60%\n\nPut the two together and a vaccinated person is between 76% and 96% *less* likely to infect another person than someone unvaccinated.\n\nEdit - this is based on the data/studies we have done so far. There's evidence that protection against infection is a bit lower for Delta and a possibility that immunity to *infection* may wane over time. However, it's also been shown that a booster improves the efficacy against Delta.\n\nSo the takeaway shouldn't the absolute figures, which are prone to margins of error anyway. It's that **vaccines do a LOT to reduce the spread of infection** as well as protecting individuals against severe outcomes, but it's important that we keep our eye on the ball and be ready to use boosters and new vaccines to maintain our edge in this fight against covid.",
+            "title_similarity": "0.7114833"
+        },
+        {
+            "id": "h9ylg2a",
+            "score": 47,
+            "text": "It’s also important to note that high viral load does not tell you how many infectious viral particles are being produced (viral titre). Not all viral particles or RNA copies are infectious. The infectious dose has not been defined in humans for Sars-cov-2.",
+            "title_similarity": "0.77012956"
+        }
+    ]
+}

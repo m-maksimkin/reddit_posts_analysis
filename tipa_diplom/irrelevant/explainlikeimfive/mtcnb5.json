@@ -1,0 +1,232 @@
+{
+    "ELI5: Are gas giant planets gassy? As in could I land on a gas giant and like poke my finger through?\n": [
+        {
+            "id": "guz1xvy",
+            "score": 2,
+            "text": "Several good answers, but not ELI5 enough for me.\n\nThink of a cloud, or fog. Can you land on a cloud? If you were superman and you could fly in fog and you poked the fog would you really notice you were poking anything? That's the gassy part of a gas giant.",
+            "title_similarity": "0.6838443"
+        },
+        {
+            "id": "guyu9q8",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "0.19901168"
+        },
+        {
+            "id": "guztxlf",
+            "score": 0,
+            "text": "TL;DR gas is less thick water; treat gas giants and space ships like oceans and submarines / boats\n\nConsider the relevant XKCD \"What If\", about space submarines. I won't recap it here but it's great for this question.\n\nStarting with regular submarine at our regular surface in regular water, that's 1 atmosphere of pressure. It starts diving, gets greater and great until they're about 2000 feet down. At 60 atmospheres the sub still stays in place. It's still floating above some water, and below other water. Why do submarines float? While diving down it's brought water in and it weighs more, but doesn't weigh as much as the water it's pushing out of the way at that pressure.\n\nBasic submarine stuff out of the way, lets land in space and in another fluid.First, floating in space...it's 0 atmosphere your sub stays together. (had previously written -1, this effectively is because the internal of your ship pushes outward, none the less your 60atmoshpere capable ship barely noticed) There's no gravity here either, which means we need no external forces, fluid or otherwise to act on to keep \"floating\" so this scenario isn't exciting. (this ignores orbits, and that gravity is every so slightly everywhere. If you add that in then you're ever so slightly not floating after all again because there's no fluid to act on you even ever so slightly)\n\nFlying our submarine to a gas giant, we start to get gravity as we approach a cloud. Great, so we have the potential to actually float on a fluid that's not water. If you're submarine is light enough (or gravity is not pulling as much) then the fluid gas will hold it up just like water. It uses EXACTLY the same rules as water. How much gas is around you to displace? If the atmosphere is too thin then there's not enough fluid to make this workable. If the atmosphere is thicker then all that gas weighs more and you weigh less, you float.\n\nIf you dive deep enough this gas gets pressed so close together is actually is a liquid, still the same rules for floating.\n\nHere's the real life trick, gas giants are very very thick and the atmosphere will corrode anything we could build and send there. If it doesn't corrode it'd be melted by heat, if it doesn't melt it'll be crushed, if it doesn't get crushed...you get the point. Assuming your ship doesn't corrode, melt, get crushed or otherwise; Yes you can float on gas Just like a shallow submarine or a boat. If you yourself aren't likely to melt, be crushed, or otherwise...you could poke your head out the window and reach down further into the gas / fluid.\n\nWhile I focused on the point that fluid is the same all around. We already have ships that float on gas; our atmosphere is gas and is fluid. Consider weather balloons, hot air balloons, parachutes (controlled sinking).",
+            "title_similarity": "0.5537287"
+        },
+        {
+            "id": "guzm0h5",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.19901168"
+        },
+        {
+            "id": "gv1uhwa",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.19901168"
+        },
+        {
+            "id": "gv0fjx3",
+            "score": -4,
+            "text": "ELI5: what the hell is a \"gas giant\"? 🤣",
+            "title_similarity": "0.786083"
+        },
+        {
+            "id": "guzr6my",
+            "score": 5,
+            "text": "You can't land on a gas planet any more than you could land on a cloud. If you tried to, you'd just fall until either the increasing pressure crushes you, or you reach the point where the planet's density matches yours, and you'd just float there.",
+            "title_similarity": "0.64464384"
+        },
+        {
+            "id": "guzln2m",
+            "score": 18,
+            "text": "There's an interesting phenomenon that happens with gases around gravitational cores (a.k.a. planets). It's called pressure.\n\nThe deeper you go, the higher the gas pressure is. The average ambient air pressure in Death Valley, CA (86 m below sea level) is consistently higher than in Denver, CO (\\~1700 m above sea level). So, can you land a spacecraft on the \"surface\" of a gas giant? No. It would implode from the crushing external pressure long before it reached any notional surface and your rendered self and craft would continue to crash down until it reached a level where the density of the constituents roughly matched the density of the surrounding planetary media, be it gaseous or solid in nature.",
+            "title_similarity": "0.7318704"
+        },
+        {
+            "id": "guyveq0",
+            "score": 6,
+            "text": "[removed]",
+            "title_similarity": "0.19901168"
+        },
+        {
+            "id": "guytx8j",
+            "score": 170,
+            "text": "The structure of gas giants isn't well understood yet and likely won't be until we can send probes into the atmosphere. \n\nIt's very likely that under the atmospheric layer lies a comparatively thin ocean of liquid helium and trace amounts of other liquids. This ocean will be contantly boiling off as more liquified gases rain down from above.\n\nUnder the ocean lies a huge rocky planet structure far larger than the inner planets. This rocky core will have a very thin crust that will be contantly broken apart, melted and reformed by the huge amouts of nuclear decay in the core and by the tidal heating of the orbiting moons.\n\nDespite the fact that there's an ocean of liquid helium sitting on top, the planet's core is generating so much heat that the crust can't remain solid. This core heat is what's boiling the oceans and causing the incredible storms in the planet's atmosphere, such as the famous giant red spot on Jupiter.",
+            "title_similarity": "0.7422726"
+        },
+        {
+            "id": "guysab2",
+            "score": 595,
+            "text": "[removed]",
+            "title_similarity": "0.19901168"
+        },
+        {
+            "id": "guyul1m",
+            "score": 198,
+            "text": "[deleted]",
+            "title_similarity": "0.20905691"
+        },
+        {
+            "id": "guzud4a",
+            "score": 1112,
+            "text": "Not exactly an eli5, but this is my favorite reddit post ever, which describes what we believe would happen if you  tried to land on jupiter. \n\n\nhttps://www.reddit.com/r/askscience/comments/12eggw/seeing_as_how_jupiter_is_a_gas_giant_what_would/c6ulszb",
+            "title_similarity": "0.70480573"
+        },
+        {
+            "id": "guyu142",
+            "score": 14179,
+            "text": "Gas giants are weird.\n\nIf you tried to land on a gas giant, you'll first encounter an atmosphere, similar to what you would expect on earth. \n\nIt would start very very thin and becomes more substantial as you go down.\n\nAs you get deeper the pressure would increase to very high levels, the temperature would rise, then the gas would turn into liquid.\n\nUnlike earth, where the transition between the atmosphere and the ground happens at a very defined point, gas giants transition smoothly. So the atmosphere would become thicker, then soupy-er, until it's basically a liquid.\n\nYou would be very dead long before this point, but if you somehow continue to dive deeper, you would encounter another smooth transition, from the liquid mantle made of mostly hydrogen to the solid and rocky core. \n\n\n> and like poke my finger through?\n\nNot really. The atmosphere doesn't start at a set altitude. Vacuum just become less and less void as you get closer to the planet, and there is no point where the change is abrupt enough that it would feel like poking something.\n\n\n****************\n\n**[edit]** Many people are asking why we can see gas giants so sharply if their atmospheres doesn't have a clearly defined boundary. This happens because the transition zone from hard vacuum to dense atmosphere, while being several hundred kilometers in height, is very small compared to the overall planet (like a fraction of a % of the radius). The decrease in pressure is also exponential, so only the very lower layers are dense enough to see. [You can actually see the fuzzyness in some close up photos.](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/pia23445.jpg) [The same is true for earth's atmophere.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.h5A_ipnNExM-HRgJxB7k0AHaE7%26pid%3DApi&f=1)",
+            "title_similarity": "0.69732094"
+        },
+        {
+            "id": "guzk8le",
+            "score": 15,
+            "text": "[removed]",
+            "title_similarity": "0.19901168"
+        },
+        {
+            "id": "guzl3as",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.19901168"
+        },
+        {
+            "id": "guzqwsv",
+            "score": 38,
+            "text": "[removed]",
+            "title_similarity": "0.19901168"
+        },
+        {
+            "id": "guzsdgy",
+            "score": 1,
+            "text": "Consider the gas more like water. With higher pressure the gas has surface tension, on top of that the gas is being pressurized to such a high level that it would create a huge amount of friction and heat entering it. Gas, liquids and solids can all be in a completely different state depending on temperature and pressure. For instance there's a state where water can both boil and be frozen. As you got farther into the atmosphere and thru the gas the temperature and pressure would increase until the gas changed states. Not sure what state it turns into as I'm not super well versed on gas giants. On top of that it would depend on the chemical make up of said gas giant. There's a gas giant in a different galaxy we believe to be mostly xenon which is so dense it floats in water.",
+            "title_similarity": "0.5829556"
+        },
+        {
+            "id": "guzsndf",
+            "score": 1,
+            "text": "Whatever you might land on would have to be dense enough to hold your ship in place, which is likely more dense than you could stick your finger through.\n\nOhh, and you would be crushed by gravity if you managed to get down far enough where you would have something solid to land on.",
+            "title_similarity": "0.5315699"
+        },
+        {
+            "id": "guzuwxg",
+            "score": 1,
+            "text": "Jupiter and Saturn may have hard cores, but we don’t know for sure. We do know there is immense pressure just before the fires, a 1000x one earth atmosphere. This is the same as being a mile down in the ocean.",
+            "title_similarity": "0.5848845"
+        },
+        {
+            "id": "guzzufj",
+            "score": 1,
+            "text": "no they are not fluffy to poke through. This much gas still has weight and the deeper you go the bigger the pressure gets.  The pressure will be so great, before you could land on something non-gassy, you would already be crushed. The pressure is even that high, that the differences between gassy, fluid and “hard” are vanishing. \nNow with more gas, the pressure will rise that high, that the atoms are “sqished” so hard together that they will react and nuclear fission is started.",
+            "title_similarity": "0.6616934"
+        },
+        {
+            "id": "gv01ii0",
+            "score": 1,
+            "text": "Ok. How are these gas giants formed? Is it like, there's a single point of gravity and it attracts nearby gaseous elements and later with high pressure and all, lead to form the inner liquid and solid elements, or an already solid element is releasing its body to its liquid and gaseous form as the pressure decreases?\n\nWhich formed first? the outer gas or the inner solid?\n\nEdit: Grammar",
+            "title_similarity": "0.7602861"
+        },
+        {
+            "id": "gv04wb6",
+            "score": 3,
+            "text": "They are gassy. But it's much more gradual than you make it seem. Think of how clouds just a few kilometers up have more or less perfectly defined shapes, but if they're at ground level in the form of fog, they look very thin and are hard to pinpoint exactly where they start and end.\n\nReally the gas on a gas giant is just their atmosphere, and like in earth, it gets very thin over a very long distance before proper space starts. On earth for example the edge of space is usually put at 100 km above sea level (this is somewhat arbitrary, just roll with it), but you would lose consciousness at less than 10 km up, and the edge is similarly blurry on gas planets.",
+            "title_similarity": "0.5855946"
+        },
+        {
+            "id": "gv07rhl",
+            "score": 15,
+            "text": "There's no 'surface' to a gas giant, although that's not technically true, its true enough for colloquial use. \n\nPerhaps the best way of thinking about it is like with deep sea diving, only the water is a few thousand miles deep instead of just a couple. There will be a point you can 'land' although instead of being land it's the point your craft is buoyant. Given the nature of gas giant weather and tides this will change both depending on where you are and the configuration of the planets moons and possibly its sun(s). Once at this point you *could* extend your arm beyond that point, but it wouldn't feel any different than say holding your arm underneath you while diving, the pressure is higher, but not noticably so. You don't come to a surface, per se, but instead the atmosphere smoothly transitions into the planet.\n\nGas giants do have a solid core, so technically you could call that a surface and the rest of it an atmosphere, but an important thing to remember is that the 'gas' in the planet makes up the majority of its volume and mass. As mentioned elsewhere, too, the pressure would continuously increase until, even if warm enough to be a gas, that gas will become a compressed liquid, superheated.",
+            "title_similarity": "0.6266296"
+        },
+        {
+            "id": "gv09a3h",
+            "score": 3,
+            "text": "You would never land on one, as there is no land upon which to do so. Theoretically, you could fly right through one, but the pressure and severe storms would really makes that functionally impossible.\n\nSome are even more extreme than Jupiter or Saturn. For instance, scientists discovered one very close to its star with storms creating 1,000+ mph winds with molten glass rain.",
+            "title_similarity": "0.58773375"
+        },
+        {
+            "id": "gv0cal1",
+            "score": 1,
+            "text": "I remember reading a science book when I was a kid that specifically said Saturn had the consistency of a milkshake.",
+            "title_similarity": "0.49398166"
+        },
+        {
+            "id": "gv0l46c",
+            "score": 14,
+            "text": "Gas giants are quite strange, and  there's no real short answer\n\nThe outer atmosphere of gas giants are, well, gas. Jupiter for example is swirling masses of hydrogen, helium, ammonia gas, methane, water vapor amongst a few other things\n\nAs soon as you enter the atmosphere you'd feel the intense winds, winds that can reach well above 1000mph near the equator. If you survive that and kept plummeting towards jupiter's center you'd begin to enter thicker and thicker clouds, as the pressure increases. \n\nThe hydrogen, under enough pressure, would become a liquid (although this boundary is considered to be ill-defined),  the hull of your spacecraft would start creaking under the immense pressures \n\nBasically, you could fly a very sturdy aircraft (that accounts for the aerodynamics of the planet's atmospheric composition) through the upper layers of the atmosphere, but as soon as you get anywhere close to the \"surface\" (liquid hydrogen) the pressure would be far too great for any human or likely any man made craft -- at least that we could make right now -- and crush it\n\nJupiter is frickin amazing though, if you were to continue down far enough you'd reach an area of jupiter's hydrogen core than was so dense a s under such immense pressure that it would literally be **metallic hydrogen** \n\nJupiter is sick af and you could write dozens of volumes of books about it , and we learn more every day!",
+            "title_similarity": "0.78659564"
+        },
+        {
+            "id": "gv0mp6c",
+            "score": 3,
+            "text": "Follow up question, can I use a lighter and ignite the entire planet since it's made of gas?",
+            "title_similarity": "0.78657824"
+        },
+        {
+            "id": "gv0t9rt",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.19901168"
+        },
+        {
+            "id": "gv0xagz",
+            "score": 4,
+            "text": "Yes, gas giants are gassy. No you can not poke your finger through it. It is generally accepted to believe that gas giants have a solid core.",
+            "title_similarity": "0.64361036"
+        },
+        {
+            "id": "gv12gak",
+            "score": 5,
+            "text": "I've only seen it tagentially mentioned, so I'll add this small point to the already excellent answers.\n\nAs you descend through the atmosphere the pressure will get greater and greater. At some point the gases will become liquid.\n\nGiven you are in some sort of craft, somewhere around here is where the average density of your craft and the density of the surrounding gas/liquid equalise, and you simply float, unable to escape or descend further through the planet.\n\n\nThis is how some people think we could live on - or at least visit - Venus, with craft that float on top of the fairly dense atmosphere. At those altitudes it's believed the temperature would be fairly pleasant.",
+            "title_similarity": "0.66024363"
+        },
+        {
+            "id": "gv1j1hz",
+            "score": 3,
+            "text": "Can’t speak to all of the, but iirc Jupiter has a solid metal inner core followed by a liquid metal hydrogen core. The remaining layers are gases layered by density. Thought you’d never reach close the core due to the deathly pressures and temperatures \n\nSource: what I vaguely recall from my an Astro class I took as an elective in the fall lol",
+            "title_similarity": "0.6420357"
+        },
+        {
+            "id": "gv1zr0n",
+            "score": 1,
+            "text": "You wouldn't be able to land on them. I mean, you could, but you'd travel through the planet for a bit.",
+            "title_similarity": "0.53629595"
+        },
+        {
+            "id": "gv2114e",
+            "score": 3,
+            "text": "It gets thicker as you descend, until you cannot descend anymore, becoming solid at the core.  Also, there is so much more mass, that the gravity would be unbearable long before you reached the core, and could never survive poking through to the other side even if there was a tunnel.",
+            "title_similarity": "0.44867307"
+        },
+        {
+            "id": "gv25u6z",
+            "score": 1,
+            "text": "You can't land because there's no land, you'd just sink until the density in your body and your surroundings equalized. Not counting the million ways you'd die first.",
+            "title_similarity": "0.41840214"
+        },
+        {
+            "id": "gv2kzj9",
+            "score": 1,
+            "text": "I wonder if there was ever an Oxygen/Nitrogen Earth-like atmosphere on a gas giant if we could setup a Cloud City style floating colony at a set altitude?",
+            "title_similarity": "0.68744975"
+        },
+        {
+            "id": "gv2lcj4",
+            "score": 1,
+            "text": "By the way, this video https://vimeo.com/108650530 has a pretty good mockup what it would look like just \"above\" Saturn at the 3:00 minute mark.",
+            "title_similarity": "0.5725323"
+        },
+        {
+            "id": "gvd8fw1",
+            "score": 2,
+            "text": "You'd be instantly crushed by the pressure and sucked in.\n\nBut if you had a magic spacesuit, yes. It is gaseous matter so it would be like a cloud. A very very dense cloud",
+            "title_similarity": "0.7271097"
+        }
+    ]
+}

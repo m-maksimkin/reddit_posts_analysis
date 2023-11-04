@@ -1,0 +1,1024 @@
+{
+    "ELI5: If math is a such a definite subject with solid answers, how are there still unsolved math problems? How do people even come up with them?\nEdit: y'all have given me a lot to think about. And I mean a lot, especially as someone who has failed more than one math class lmao. I appreciate the thoughtful responses!\n\nEdit 2: damn, I'm glad my offhanded question has sparked such genuine conversation. Thought I'd touch on a sentiment I've seen a lot: tons of people were wondering how I'd come to conclusions that would bring me to ask this question. I'm sure it's not just me, but at least in my experience vis-á-vis the shitty american public education/non math major college, math ain't taught very well. It's taught more as \"you have these different  shaped blocks, and they each have a firmly defined meaning and part of that meaning is what they can do to the other blocks. Therefore we know everything the blocks can do, or can at least theorize it\" and less \"the blocks can be held and put together in infinite ways and be applied to infinite things that have yet to be fully imagined or understood and we're still coming up with new blocks every now and then\". Buuut now I know that thanks to reddit!": [
+        {
+            "id": "gwpvnqt",
+            "score": 3,
+            "text": "Mathematics is just a language for describing and/or predicting reality. As long as there are unanswered questions about reality -- such as how fast a black hole swallows a planet, for instance, or how effective a new kind of therapeutic drug will be under certain circumstances -- there will be mathematical problems to solve. Trough the calculations, we create a model or \"translation\" of the actual problem, which can then be dealt with in a precise, universal \"language\". This is often referred to as applied mathematics. Then, as in many other disciplines, there is also \"math for math´s sake\", but this is more like depth studies of the \"language of mathematics\" as such.",
+            "title_similarity": "0.70977694"
+        },
+        {
+            "id": "gwqdti6",
+            "score": 0,
+            "text": "If we can build a building, why can’t we build a building with a million floors that reaches to the moon.",
+            "title_similarity": "0.23132743"
+        },
+        {
+            "id": "gwqsrr2",
+            "score": -3,
+            "text": "Better question: why do we keep having students buy new editions of  textbooks when math has been the same for 1000 years.",
+            "title_similarity": "0.6238477"
+        },
+        {
+            "id": "gwqlap7",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "-0.0316602"
+        },
+        {
+            "id": "gwqn9z7",
+            "score": 5,
+            "text": "Different types of math can or cannot be \"solved\" completely.\n\nFor example, calculating PI, which is half of the number of radii that could be fitted into the circumference of a circle, if the radii were squished out to the sides, can't be solved to perfect precision.(The answer isn't 3.0, it's 3.141<a bunch of decimals>.) This would be an example of something that can be solved, but not completely. You can always be more correct with effort and time.\n\n&#x200B;\n\nOn the other hand, calculating the number of apples in a bag if Percy the horse eats 2 is easy.\n\na=apples\n\np=percy's share\n\nx=how many apples we have\n\nx=a-p\n\nIf we know percy ate 2 and we bought 10, x=10-2 therefor x=8\n\nI think this is called \"discrete math\" but I'm no mathematician so I may be corrected on that.\n\n&#x200B;\n\nI hope this helps. Sorry if it doesn't.",
+            "title_similarity": "0.72233933"
+        },
+        {
+            "id": "gwqaqmq",
+            "score": -3,
+            "text": "Math is invented and we haven't invented it all yet. For example, the math we use to predict how planets moved wasn't invented until Isaac Newton and Gottfried Leibniz invented it in the mid-1600's (that type of math is called Calculus, by the way).\n\nJust like there are some things like antigravity machines or cures for the common cold that haven't been discovered or invented yet, there are things in math that we are still working on.",
+            "title_similarity": "0.6665666"
+        },
+        {
+            "id": "gwq9nec",
+            "score": 0,
+            "text": "> How do people even come up with them?\n\nA lot of times, an unsolved math problem is just a slightly more general version of a solved one. For example, we know of lots of whole numbers a, b, and c such that a^2 + b^2 = c^2 . What about if we change the power to be 3? Or 4? Or anything else bigger than 2? Do any exist then? We can’t find any, but maybe they exist and are just really big. You get Fermat’s last theorem, which was unsolved for hundreds of years and motivated tons of peoples’ research.\n\nOr a common pop culture theorem because it has a funny name: the hairy ball theorem, which states that you “can’t comb the hair on a ball.” Can you comb the hair on a donut? Yes! What about two donuts smashed together? No! How can you tell when this is or isn’t possible? New math!\n\nLots of math takes the form of “is there something like this? Why or why not?” And the following questions are often “well there is/isn’t something like this, but what about like that?” Answers lead to more and more and more questions.",
+            "title_similarity": "0.73428124"
+        },
+        {
+            "id": "gwqkxh7",
+            "score": 0,
+            "text": "Einstein didn't come up with the atomic bomb, he simply came up with a mathematical equation to split an atom . Other scientist took his breakthrough and applied it to there field of study.",
+            "title_similarity": "0.52084446"
+        },
+        {
+            "id": "gwqlsej",
+            "score": 0,
+            "text": "I think to put it in plain language that people assign math values to an everyday/huge problem and Tye to solve it with math. The math problem is created.",
+            "title_similarity": "0.79341584"
+        },
+        {
+            "id": "gwqmmmo",
+            "score": 0,
+            "text": "Book: [The Joy of X : A Guided Tour of Math, from One to Infinity by Steven Strogatz](http://www.worldcat.org/oclc/772100958)\n\nBook: [The Mathematical Experience by Philip J. Davis & Reuben Hersh](http://www.worldcat.org/oclc/427265195)\n\nVideo: [The Joy of X : A Guided Tour of Math (Lecture)](https://youtu.be/lmL8RKB7mlE?t=205)\n\nVideo: [Steven Strogatz: Have We Got Math All Wrong?](https://youtu.be/3uHwVc1F0cE)",
+            "title_similarity": "0.72333896"
+        },
+        {
+            "id": "gwqnhiq",
+            "score": 0,
+            "text": "If you can find it, check out \"The Story of Maths\" from the BBC. It's really fascinating and not crazy heady stuff, it'll put a lot into context for you! \n\nIt's one of my favourites and I rewatch it a few times per year!",
+            "title_similarity": "0.68620783"
+        },
+        {
+            "id": "gwqnymb",
+            "score": 0,
+            "text": "Honestly I think your a genius for even coming up with this question. That you for the wonderful question and thanks to all the commenters explaining it so well.",
+            "title_similarity": "0.605206"
+        },
+        {
+            "id": "gwqqgnk",
+            "score": 0,
+            "text": "The simplest answer to your question is: \n\nThe definiteness is an illusion. It is just a helpful device to get you to understand some working concepts to conduct your life.\n\nYou can yourself detect this lack of definiteness by extrapolating your “solid” concept of numbers and reasoning about infinity. (Like, what does it mean when someone says I am naming the biggest number as infinity and another person says, my number is bigger with infinity+1? — a common game played by kids, but hiding a profound mathematical concept!)\n\nOr the first time most people are introduced to infinity/lack of solid answer when they do division by 0. \n\nOr when irrational numbers are introduced by square root of 2.\n\nAnother one of lack of definiteness evidence is that **you can** geometrically make square root of 2 on paper with a simple compass **even though the number is irrational and infinite in length!**\n\nAll of the above **are clues** that tell you that the definiteness and solid answers are just a carefully constructed illusion.\n\nMost **interesting questions** in Math are on these carefully hidden crevices lying in plain sight masquerading as a definite subject.",
+            "title_similarity": "0.79265255"
+        },
+        {
+            "id": "gwqs9n3",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "-0.0316602"
+        },
+        {
+            "id": "gwqt531",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "-0.0316602"
+        },
+        {
+            "id": "gwquj0d",
+            "score": 0,
+            "text": "The best one is the traveling salesman problem.  You've got 10 cities, you've got to hit each one, and then return to your starting city. What is the fastest route?\n\nYou can check every route, which is 9*8*7*6*5*4*3*2 routes, and know for sure what is the right answer. But that's a lot of routes.\n\nBut what if there are 100 cities? Now it's a lot of time to check all of those routes.  Maybe there is a faster way to check. Nobody knows.",
+            "title_similarity": "0.5285507"
+        },
+        {
+            "id": "gwqvq8z",
+            "score": 0,
+            "text": "Y’all are saying some crazy smart people, huh? Cause I have no idea what you’re saying.",
+            "title_similarity": "0.52736676"
+        },
+        {
+            "id": "gwr3wk9",
+            "score": 0,
+            "text": "My question...why do I have to retake it after 7 years for some degrees that I'll never use it in....looking at you nursing",
+            "title_similarity": "0.41838712"
+        },
+        {
+            "id": "gwr5te4",
+            "score": 0,
+            "text": "According to Kurt Godel, math is not a definite subject with solid answers. Those \"solid answers\" are only as true as the assumptions you make about mathematics itself. The same is true about any philosophy. Your political ideology can only be as correct as the assumptions you make about politics.",
+            "title_similarity": "0.68247044"
+        },
+        {
+            "id": "gwrg98i",
+            "score": 0,
+            "text": "Truth is, math is not definite at all. I always find it hilarious that math looks like it's so strict, but it has (or used to have) a lot of handwaving and such (read on peano arithmetic, Gödel).\n\nBut this is exactly because of what math is:a formal way to play with (often abstract) ideas.\n\nYou can have a practical angle - \"How many sacks of grain do I have? How do I calculate this more quickly? How do I grow more?\". This is often one way things happen. \n\nBut another angle is pure curiosity and fun. \"Is there something that's true for every line?\" \"What happens if I try connect 3 points?\" \"How do I calculate this area?\". And the best thing is - nothing will explode in your face!",
+            "title_similarity": "0.8022628"
+        },
+        {
+            "id": "gwqld6d",
+            "score": -1,
+            "text": "There are two kinds of math. Finite math with answers that have an exact answer and discreet math that has less exact questions and answers. Much of cutting edge math is discreet. Finding these answers doesn't give you a number, but rather a process of finding an answer. Computers, networks, manufacturing, shipping, and many other industries have advanced because of discreet math.",
+            "title_similarity": "0.7663083"
+        },
+        {
+            "id": "gwqlmej",
+            "score": 1,
+            "text": "Only part of Mathematics is a definite subject with \"solid\" answers. \n\nYou can count things, man has developed systems of numbers for counting things, but counting large numbers of things brings to mind (eventually, to some) the idea that there are numbers too large to count. So someone invents the idea of \"infinity\" and starts to play with the idea that some counting has no end. That's a construct, not physical thing anyone can experience.\n\nYou can measure things, and eventually notice that certain things about circles are constant regardless of the size of the circle. Studying that can give rise to the entire field of trigonometry, of angles and functions on those angles, and other things that are VERY useful for construction of various sorts. But the mathematical operations are just constructs to help us understand how the math (and the counting) will work out, and in our medium-sized world (between those macro and micro things that we've also studied), they work out very well. That doesn't mean we've understood all of it.\n\nSomewhere in there you'll run across the idea of two parallel lines -- lines in one plane that will never cross. That's a construct, we can visualize it but we cannot prove they'll NEVER cross, but the construct -- the approximation, if you will -- is very useful for deriving other medium-world things that, again, are useful for many of our real-world problems. So they teach us these parts of it and we use it for useful things - but about the time you think you've got that subject down, someone mentions \"non-Euclidean geometry\" and it's off to the races again.\n\nMathematics has, I think, the largest number of \"levels\" like this -- from counting to arithmetic to trig to calculus, etc., etc., etc. The great majority of us do not ever delve into it far enough to see the levels with unsolved problems, and in fact the constructs those people use in discussions would sound utterly foreign to us, we'd have a better chance of understanding someone speaking Urdu (if we didn't already). I have a Master's Degree in Computer Science, and so have had classes which included some higher-level Math, and realized that it is not my lot in life to study those things. Perhaps I could understand them if given enough time, but I've studied many things over many years, and it was not clear to me that I had enough time in this life to give to understanding Math beyond what I've done so far. It's a little like not having enough time to become a concert pianist, or a grandmaster chess player.",
+            "title_similarity": "0.735564"
+        },
+        {
+            "id": "gwqlrxn",
+            "score": 1,
+            "text": "Math is not a definite subject with solid answers.  Math is a language for communicating about things you can count.  Like any language, it has ideas that haven't been spoken yet and questions that haven't been answered.  Here's an unsolved question: why is math so successful at describing the way the universe works?  Is the universe made of numbers somehow, or is it just a really good tool we made up?",
+            "title_similarity": "0.7903005"
+        },
+        {
+            "id": "gwqow0h",
+            "score": -1,
+            "text": "Correct me if I'm wrong, but the math problems you are referring to all deal with infinities which is why they can't be solved.",
+            "title_similarity": "0.6703607"
+        },
+        {
+            "id": "gwqs1p6",
+            "score": -1,
+            "text": "[deleted]",
+            "title_similarity": "-0.005131766"
+        },
+        {
+            "id": "gwqwx1y",
+            "score": 1,
+            "text": "There’s an older TV show called NUMBERS that is about an FBI agent who recruits his younger brother, a mathematical genius/ professor, to help solve cases using math. It sounds silly and I honestly have no idea how accurate it is, however watching it when I was younger it gave me a new appreciation for math even if the math was not accurate it seemed likely a true mathematician may be able to do something similar. \n\nDespite my response not answering OP’s question, I thought it’d be worth mentioning!",
+            "title_similarity": "0.79526687"
+        },
+        {
+            "id": "gwr1y2o",
+            "score": 1,
+            "text": "the thing is you can't solve it because the math doesn't work anymore like for say 2x=y but 2y=x it cancels themself out",
+            "title_similarity": "0.51605374"
+        },
+        {
+            "id": "gwr6qm4",
+            "score": 1,
+            "text": "I know you asked about math, but is like to say something about physics.\n\nEverything we do is an approximation, we had Newton's laws which were approximations. Shrodinger and Einstein expanding into these but their equations are also only approximations.\nThe universe is actually very complicated and math, as well as it seems to work in any instance, can only approximate the real world. \nI was truly fascinated that we could describe the eigenvalues of hydrogen energy states using the same math I've always known. However, when you take this to bigger atoms and include electron electron interactions your math just doesn't hold up.",
+            "title_similarity": "0.71324885"
+        },
+        {
+            "id": "gwrbn2g",
+            "score": 1,
+            "text": "Math problems are definitive and solved by rules. The questions in math that need solving are \"does this rule work?\"",
+            "title_similarity": "0.7385441"
+        },
+        {
+            "id": "gwrmfyn",
+            "score": -1,
+            "text": "Also things like imaginary numbers such ,1i= -1, or 5i,=-25. These numbers don't exist. They're important for things like electricity and quadratic equations. For example, pi is an irrational number that keeps going on forever, and it contains every single number possible ever, things like your birthday, your phone number. And if you convert it into letters every word in the dictionary would be there. Also in computer science there is such a thing called a fizz buzz test, if a number is divisible by 3 print fuzz, if divisible by 5 print buzz, and if it's divisible by both print fizzbuzz, then you go all the way to a 100. Sounds simple but it's incredibly difficult, when I was taking compsci in school it took me 20 hours to do, 3 days straight of coding.",
+            "title_similarity": "0.693707"
+        },
+        {
+            "id": "gwqlc87",
+            "score": 2,
+            "text": "I recommend you watch this video about ONE such unsolved problem (the most important one if you ask me personally) and why in general it is hard to solve such problems: [https://www.youtube.com/watch?v=YX40hbAHx3s](https://www.youtube.com/watch?v=YX40hbAHx3s)",
+            "title_similarity": "0.5646082"
+        },
+        {
+            "id": "gwqznsu",
+            "score": 2,
+            "text": "Why did we have to learn cursive writing?",
+            "title_similarity": "0.46715808"
+        },
+        {
+            "id": "gwse6eh",
+            "score": 2,
+            "text": "I'd argue with the premise here that math is a definite subject with solid answers. \n\nAt the more primary levels, it's true that you're learning a lot of basic algorithms that you can just follow to get \"the answer\". 9x6 is 54 -- that's a true statement you can learn and learn the general principle that makes it true, and you can then apply that to answer other similar questions in a way that's easily determined to be right or wrong.\n\nAt the level that professional mathematicians are working (and therefore where you're dealing with open questions), this isn't what mathematics really is anymore. Math is the study of systems of principles and rules to determine how you can derive true statements from them.\n\nLet's take an example here. We know that there are rational numbers and irrational numbers. Rational numbers can be represented as a ratio of integers (like 3, 0.5, 0.33333..., which can be represented as 3/1, 1/2, and 1/3 respectively). Irrational numbers can't be. You can further assume that those integers cannot have any common factors, because if they do, you can just simplify the ratio. That is, while the rational number 4 can be represented as 32/8, 32 and 8 have 8 as a common factor and we can just divide both by 8 to get 4/1.\n\nIs the square root of 2 rational or irrational? The answer, one way or the other, is a fact. It's a defined solid answer. But you don't know whether the answer is yes or no. How would you figure that out? \n\nThe famous proof that sqrt(2) is irrational goes roughly as follows. Assume sqrt(2) is rational. Therefore, there must exist integers p and q with no common factors such that sqrt(2) = p/q. Let's square both sides of this equation to get 2=p^(2)/q^(2) or 2q^2 = p^(2). Since p^2 equals 2 times something, p^2 must be even, which means p must be even. But if p is even, then p=2k for some k, and p^2 = (2k)^2 = 4k^(2), which means p is divisible by 4. Now for q. We have that 2q^(2) = p^(2), so q^2 = p^(2)/2. We have that p=4k for some integer k, so we can write this as q^2 = (4k)^(2)/2 = 16k^(2)/2 = 8k^(2). This tells us that q^2 must be even, because it equals 8 times something. Which means q must be even. \n\nBut now I know that both p and q are even, which means both are divisible by two, and that violates my original assumption that I had sqrt(2) = p/q with no common factors between p and q.\n\nOne of two things has happened here. Either I've made a mistake somewhere in my argument, at which point the entire conclusion is suspect, or else my assumption was invalid from the beginning, and there really can't exist those numbers p and q such that p/q = sqrt(2), making the idea that sqrt(2) is rational provably false. How does anyone know which of the two things has happened here? \n\nThe answer is that math is full of this kind of thing, and the solution is that tons of other mathematicians pore over your arguments trying to find any mistake you might have made. Maybe I was wrong when I said that because p^2 is even, p must be even. Can you convince the rest of the mathematical world that I wasn't allowed to make that leap under the rules of the standard arithmetic system we all use? If so, then we'll all agree that my proof was invalid and we don't in fact know whether sqrt(2) is rational or not yet. But if enough people agree that they can't find any errors, then we all agree that I've solved the problem of determining whether sqrt(2) is rational -- it's not, and I've provided the proof of that fact.\n\nThis is what mathematics really is. It's a bunch of people trying to build arguments to convince other knowledgeable people that they've come up with a way to answer a question that no one really knows the answer to yet. And that process is absolutely not just a set of easily defined facts like 9x6 = 54. It's a creative process. Nothing told the first greek a couple thousand years ago that he should start by assuming sqrt(2) = p/q. That was a leap that person took on the hunch that by exploring that idea, he could solve the open problem of whether the diagonal of a 1x1 square was a rational number or not.\n\nAn open problem is one where no one has yet found the right creative leap to make that led to an argument the rest of the mathematical world can agree is a correct proof answering that problem one way or the other.",
+            "title_similarity": "0.8306023"
+        },
+        {
+            "id": "gwr5h6n",
+            "score": 13,
+            "text": "The best explanation I ever heard was this:\n\nImagine you're brought into huge, dark mansion. It's impossible to see so you fumble around the main entrance before finding a light switch. Ah, ok. There is a hall before you that stretches off into darkness. You decide to open the first door you can see and begin searching this new room. More darkness. You carefully walk inside, trying to use the little light from outside that you can. You hit your knee on strange furniture, reach out into the blackness for anything to steady yourself on. After a long time, you find the switch and AH HA! The room looks almost how you imagined it in the dark.\n\nYou keep doing this for hours, days, weeks... years. The mansion is unending.\n\nThe rooms and branches of the mansions are like branches of mathematics. Many are already known, studied, and understood. You can continue to analyze these if you wish, but there are more rooms, more branches, that are barely understood. Some are still unknown. Good luck.",
+            "title_similarity": "0.58286643"
+        },
+        {
+            "id": "gwr8vqi",
+            "score": 4,
+            "text": "I asked that question in high school. My teacher was an amazing guy.\n\n His answer: To get it really right, you need 2 things. 1 The right answer and 2 the right question.  We don't always know enough to know what we need to know.\n\nMay not be the answer you for you, but he really made an impression on me that day. I still think of his class when I think about how far humanity still needs to go.",
+            "title_similarity": "0.7588629"
+        },
+        {
+            "id": "gwqkko3",
+            "score": 32,
+            "text": "Surprised nobody has mentioned Goedel's incompleteness theorem: https://en.m.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems\n\nIt was established almost 100 years ago that there must be at least some mathematical theorems which are true but unprovable.",
+            "title_similarity": "0.6315892"
+        },
+        {
+            "id": "gwr4wce",
+            "score": 25,
+            "text": "Your question could be replaced by \"if alphabet, vocabulary and grammar are so well defined, how are there new books written every year?\".",
+            "title_similarity": "0.54072666"
+        },
+        {
+            "id": "gwprmcx",
+            "score": 27,
+            "text": "Just because a solid answer exists (which may not always be true) doesn’t mean we have the methods to find it or more importantly prove it. There are a lot of problems which are very easy to formulate but we don’t yet have the techniques to solve.",
+            "title_similarity": "0.57238084"
+        },
+        {
+            "id": "gwqkjzd",
+            "score": 96,
+            "text": "While you might think that this is a simple question because you don't understand math, you have actually just stumbled on one of the most incredible and complex mathematical topics to exist!\n\nSee, back in the day, starting from some of the original Greek mathematicians, there was an idea of how to solve math problems. Not just one or two math problems, but all of them. The idea is that you start with a few base assumptions that you know are true but aren't really provable called axioms. A proof is then built up out of some combination of these axioms. The idea is that you could go through every combination of these axioms to find every possible proof out there and solve everything that can be solved. This concept is called completeness and was embraced by many, if not most, mathematicians.\n\nHowever, as recently as 1931, the mathematician Godel proved that mathematics was not complete. In other words, Godel's incompleteness theorem mathematically proves that you cannot prove everything that is true in mathematics. So not only are there still unsolved math problems, but there will always be unsolved math problems, even with infinite computing power.\n\nOn a related note, soon after that, an impossible math problem was also found. It was proven that you cannot build a program to detect whether a program has an infinite loop in it!",
+            "title_similarity": "0.8009276"
+        },
+        {
+            "id": "gwqkyrv",
+            "score": 24,
+            "text": "A great YouTube channel for starting to think about math in a more general way and appreciate the beauty in the field is 3Blue1Brown. Highly recommend.",
+            "title_similarity": "0.7083547"
+        },
+        {
+            "id": "gwqa8f7",
+            "score": 88,
+            "text": "The math most of the world learns and the math that academics studying math study are completely different maths. The vast, vast majority of us learn \"how\" math works. We learn the methods and formulas that explain the world around us, the ones we've known and understood for, for the most part, hundreds of years. It's what we need to navigate a 3 dimensional world with an economy. Sometimes we learn slightly newer fun tricks you can do with math, without really going deeper than the surface level of the trick. \n\nAcademics are studying \"why\" math works. They look into the rules governing math and what it takes to break them, and what breaking the rules tells us about math. Unsolved problems in mathematics aren't the same as the algebra homework you forgot to do. They're things that either work or don't, and we're still trying to figure out *why.*",
+            "title_similarity": "0.8047122"
+        },
+        {
+            "id": "gwqdezl",
+            "score": 357,
+            "text": "You are thinking about math as the set of tools needed to solve a specific problem that has to do with numbers. That's an accurate description of the math that people are taught in school.   \n\n\nHowever, when you are doing math in university (\"real math\", if you will), you understand that the scope of the subject is very different. One thing worth noting - most mathematicians will disagree on what even is a proper definition of mathematics. For what it's worth, I will give you my own definition: math is the process of deriving properties from axioms and definitions. In more ELI5 terms: math is about creating rules and definitions, and seeing what interesting consequences follow from those rules when applied to those definitions.   \n\n\nIf you think about it in these terms, then you can see how open ended the subject is. You can come up with your own definitions or rules, see how they fit in the existing rules or definitions that other people agree upon, and see if using your own stuff creates any interesting results. As an example of this happening in real life - mathematicians used to think that infinity was just an absolute concept. But Cantor showed that if you looked at two different infinite sets and tried to match their items one by one, you could come up with some sets that would have infinitely many \"unmatched\" items left over even after you ran out of items on the other side. So he came up with a definition for two different types of infinity, based on whether you could match items of different sets with one another without running out of items on either side. So then lots of questions crop up - can you find some properties that only one type of infinite sets have, but the other one doesn't?   \n\n\nI hope this gives you a sense of how and why the subject is open ended - mathematicians can come up with interesting new definitions and ideas, and then as they apply existing rules to them there is a whole host of questions that crop up about what general statements can be made.",
+            "title_similarity": "0.82936084"
+        },
+        {
+            "id": "gwpwgly",
+            "score": 529,
+            "text": "Unsolved math problems aren't just difficult equations that you can solve with algebra. They are questions that require creativity to solve. A well known unsolved problem is the Goldbach Conjecture: prove that every even whole number over two is the sum of two prime numbers. People have been working on that one for 250 years.",
+            "title_similarity": "0.757337"
+        },
+        {
+            "id": "gwpris2",
+            "score": 458,
+            "text": "Sometimes, even if there is a solid answer, we don't have the ability to get to it.\n\nTake Chess for example. What's the best move at the start? There has to be an answer, even if that answer is \"multiple opening moves lead to a draw/win\". However, we do not have the computing power to go through all the possible moves that could prove the answer to this question. That's an unsolved problem. \n\nWe can come up with many of these very easily, just by asking \"given a set of rules, is a statement true?\" And if that question hadn't been asked and answered, then presto, you have just found an unsolved math problem.",
+            "title_similarity": "0.5912428"
+        },
+        {
+            "id": "gwqqv3k",
+            "score": 53,
+            "text": "Somebody just asked the $64 bazillion question.  I love this, and it's so far beyond ELI5 (and I'm late to the game) that I'd like to take a long-winded stab at it!\n\nLet's start with a simple example.  \"What does 1 + 1 equal?\"  You might emphatically say \"two!\"  It's obvious, right?  Not so fast!\n\nIt turns out we have to define 1 (One) first.  Like, philosophically.  It might seem obvious what \"1\" is but we must remember that in all the time that the concept of \"1\" has existed, *most of the time the number 0 had not been conceptualized*.  That point aside, we must now, if we wish to define \"1 + 1\", decide what \"+\" means.  This is called an \"algebra\" and was philosophically pioneered by some brilliant folks quite a while ago.  We *could* create an algebra wherein 1 + 1 = 5, and that's been done before.  But it turns out that it's not very useful.  It turns out that 1 + 1 = 2 is correct only because it *works* and is *proved* to work.\n\nSomething like 50 pages of *Principia Mathematica* (a philosophical treatise) are dedicated just to establishing through logical proof that 1+1=2.  So, please feel free to go read through that rigorously (I haven't done that myself, by the way, I just take its word for it).\n\nNow, that being said, next comes say, 2 + 2 = 4.  Based on 1 + 1, can we prove that 4 is correct?  How so?  If we multiply all three numbers by 2, does everything work out?  It does!  That's cool!\n\nCan Pythagoras prove that a^2 + b^2 = c^2?  Moreover can we say that a^n + b^n = c^n if and only if n = 2?\n\nAt each branch, more questions come up, more proofs are needed, and more discoveries can be made.  Algebras and Calculi have cropped up for various purposes.\n\nAnd here I am.  I made it through Calc 2 and Linear Algebra, and when friends of mine have talked about their Doctorate theses I just smile and nod because I have no idea how n-polytopes tesselate in parabolic n-spaces.\n\nOr, for that matter, why 1+1=2",
+            "title_similarity": "0.6968171"
+        },
+        {
+            "id": "gwpy6z4",
+            "score": 6650,
+            "text": "There's a big difference between solving a math equation and solving a generalized math problem\n\nIf you have 2 + X = 7 you can solve for X this one time and know that right here, right now, it must be 5\n\nBut the unsolved problems are wayyy harder than that.  Fermat's Last Theorem was unsolved for a few hundred years it goes \"For any integer n>2, the equation a^n + b^n = c^n has no integer solutions\"\n\nYou're probably already familiar with the case of n=2, that's a^2 + b^2 = c^2 or Pythagoras's Theorem.  But how do you prove that for n>2 there are no integer solutions?  You could try brute forcing it but what if it works out when n=51,437?  You'd have to try literally every combination of numbers which is, by definition, infinite\n\nIts problems like these that you can't just set a computer to and crush through the numbers, you have to fall back onto the basic properties of math and other postulates and theorems to show that there is no way that any n>2 results in a, b, and c all being integers.  These are the hard ones that require people and hundreds of sheets of paper to prove.",
+            "title_similarity": "0.723266"
+        },
+        {
+            "id": "gwpzbjz",
+            "score": 2156,
+            "text": "My favorite unsolved problem, because it's so easy to understand, is the Collatz Conjecture. We have a game that goes like this:\n\n1) Pick any number and check if it's even or odd.\n\n2) a) If it's even, divide by 2\n\n2) b) If it's odd, multiply by 3 and add 1\n\n3) Take your new number and go to step 1.\n\nFor example, if you start with 10:\n\n10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1 -> 4 -> 2 -> 1...\n\nStarting with 10, you end up going to 1 and then getting stuck in a loop between 4, 2, and 1. If you start with 9, it takes 20 steps (and goes all the way up to 52 at one point), but it also goes to 1. The conjecture is:\n\n**Every positive whole number eventually reaches 1 when using this pattern.**\n\nTo _disprove_ this, all you have to do is find some starting number that gets stuck in a different loop. We've tried that, though - we've tried every number up to 20 digits long, and they've _all_ hit the 4,2,1 loop. To _prove_ this is true, though, you'll need to come up with some creative insight about the way that numbers relate to each other.",
+            "title_similarity": "0.71771055"
+        },
+        {
+            "id": "gwqn4lu",
+            "score": 202,
+            "text": "Here is a fun concept for you. Gödel's incompleteness theorems basically prove that there are things which are mathematically true which can never be proven to be true.  \n\nWhat a concept!  We know that there things where not only does no proof exist, but no proof can exist, despite them being true. Given this, there will always be things we can never prove to be true or false.",
+            "title_similarity": "0.6305305"
+        },
+        {
+            "id": "gwq9jdf",
+            "score": 89,
+            "text": "One thing to consider is that all the math you've learned had to be discovered by people who came before you. At some points in the past, people knew how to do some geometry but hadn't figured out the quadratic formula, for example.\n\nWe have a similar situation now. There are things we know already and things we'll discover in the future and things that will never be discovered.",
+            "title_similarity": "0.7728754"
+        },
+        {
+            "id": "gwq2fsr",
+            "score": 9736,
+            "text": "A pattern you'll notice with a lot of the examples given in this thread: often times the trouble is with **infinity**. If you ask for example, does the Fibonacci sequence contain any square numbers besides 144 (12x12)? I can write out the first couple numbers in the sequence, or have a computer generate the first billion - and each one is trivial to check if it's a square - but it's fundamentally impossible to check ALL of them, because the sequence is infinite.\n\nThe only way to solve such a thing is come up with a mathematical argument - a proof - that employs some clever logic to prove something about an infinite set. As a very simple example, consider the question, \"are there any even prime numbers besides 2?\". We can answer this by saying, *suppose there were such a number. Then since it's even, it can be divided by two - and since it can be divided by 2, it can't be a prime!* So we have proven something about ALL numbers, even though we never had to check them individually. A slightly harder problem in this vein, *is there a biggest prime number?*\n\nProblems like this arise all the time when mathematicians are just playing around - exploring patterns, asking questions, finding neat arguments that then lead to other natural questions. Some of the most famous unsolved problems are famous because, if we knew the answer, it would unlock truths about a lot of other related questions. (An example is the [\"P vs NP\" problem](https://en.wikipedia.org/wiki/P_versus_NP_problem) in computer science).\n\n**EDIT**: Wow this blew up! Thanks everyone for the comments / awards.",
+            "title_similarity": "0.73460585"
+        },
+        {
+            "id": "gwqmpwj",
+            "score": 1,
+            "text": "Kurt Gödel proved two “incompleteness theorems” in the early 1930s that, among other things, prove that any formal, rule-based, consistent system capable of encapsulating arithmetic has theorems that cannot be proven (but are true). This completely revolutionized mathematics and philosophy, refuting the deterministic view (that all knowledge was theoretically obtainable) that dominated.",
+            "title_similarity": "0.76166546"
+        },
+        {
+            "id": "gwqne9t",
+            "score": 3,
+            "text": "The same way you physically exist and are real and definite. Yet we know next to nothing about how humans evolved or why the universe exists.",
+            "title_similarity": "0.3304649"
+        },
+        {
+            "id": "gwqnkdd",
+            "score": 7,
+            "text": "Generally speaking, most high-level math problems are proofs.\n\nProofs are far less like finding solutions and more so like discovering the laws of mathematics itself. Solving one, depending on it's implications, is akin to discovering Newton's laws of physics.  We don't tend to say we have solved a proof. Instead we prove it.\n\nHence many are unsolved and are, for lack of a better word, hypothesis waiting to proved right.",
+            "title_similarity": "0.7541798"
+        },
+        {
+            "id": "gwqnxx3",
+            "score": 1,
+            "text": "Just because math is a \"definitive subject\" (i.e. a problem has well-defined rules), it doesn't mean that they've already solved everything there is to solve.\n\nAs best as I can tell (and I'm really going ELI5 here), just by writing down all the rules of a problem, and then thinking about what new patterns or rules you can get from those, helps you think about and explore all of the solutions to your original problem. It helps you think about what the solutions look like, what they can't look like, what conditions they are valid under, and if it's even solvable.\n\nThis usually means that *when* a solution is found, it's pretty solid. However, you're not guaranteed to have a solution or even if you know one exists, that you can find it.\n\nI would go into further detail, but the other top-level answers have already covered some unsolved math problems, why they are there, and how people come up with new math problems.",
+            "title_similarity": "0.8371668"
+        },
+        {
+            "id": "gwqo7mr",
+            "score": 2,
+            "text": "Some answers are very difficult to find. \nQuestions usually come easier and before answers.",
+            "title_similarity": "0.47780645"
+        },
+        {
+            "id": "gwqo8b2",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "-0.0316602"
+        },
+        {
+            "id": "gwqomkw",
+            "score": 1,
+            "text": "Is arithmetic and algebra two different maths?",
+            "title_similarity": "0.47235283"
+        },
+        {
+            "id": "gwqoolu",
+            "score": 1,
+            "text": "Goedel's Incompleteness theorom suggests math is infinite, which enters ontology and I will let you take over from there :)",
+            "title_similarity": "0.6261799"
+        },
+        {
+            "id": "gwqp8za",
+            "score": 1,
+            "text": "Math is a toolkit. When you have a problem to solve, you hope to rely on your tools. But...\n\n* You may not know how to use all my tools *together* to solve the problem. Nobody has done it before, so there are no instructions.\n* You're not sure *if the current tools are able* to solve the problem.  Perhaps you need new tools that don't yet exist.\n* The problem cannot be solved by your tools, nor can it be solved by any tools that your tools can make. Ever. The problem may have an answer, but you can never reach it. (And maybe you don't know the problem is unsolvable!)\n\n---\nFor those wondering about point three, *yes*, it was proven in 1931 that in any mathematical system, some problems are unsolvable. These are [Godel's Incompleteness Theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems).",
+            "title_similarity": "0.63112843"
+        },
+        {
+            "id": "gwqpo3t",
+            "score": 3,
+            "text": "“Unsolved math problems” would be better described as “unproven theories”. These theories need to be proven in order to be “solved”. Once it is proven/solved, then it absolutely is a “definite subject”, as *that* is the answer and the only correct answer. That correct proof can’t, obviously, be incorrect. This isn’t to say something can’t be proven in multiple ways, as they definitely can be.  \n  \nThe reason these theories need to be proven is math builds on itself. Similar to how learning what multiplication is would be impossible without knowing addition. Or learning what powers are without knowing what multiplication is. It can’t just seem to be right — it has to be proven to be right.",
+            "title_similarity": "0.7366324"
+        },
+        {
+            "id": "gwqq7an",
+            "score": 1,
+            "text": "That's a little like asking if math has solid answers, how come I still don't have solutions for half my math exam questions. (especially trig proofs)",
+            "title_similarity": "0.78566307"
+        },
+        {
+            "id": "gwqrb3z",
+            "score": 1,
+            "text": "0 with an exponent of 0 is 1 according to most mathematicians. \n\nThat always blew my mind. Multiply nothing by nothing enough and you get 1. \n\nMaybe that 1 was the big bang?",
+            "title_similarity": "0.6959559"
+        },
+        {
+            "id": "gwqsp0x",
+            "score": 1,
+            "text": "Mathematics is a language; a way to communicate to other people ideas that have to do with numbers or shapes. For example the idea \"John is two years older than Mary\" is simple enough that you probably don't need the equation \"j = m + 2\". But when you're trying to guess how two more months of COVID lockdown will affect food prices, or describe the shape that air takes over an airplane wing, suddenly it's easier to use the language of math than English.\n\nLike any language, just because you speak the language well does not mean you have read every book or know the answer to every riddle.",
+            "title_similarity": "0.68764746"
+        },
+        {
+            "id": "gwqv3i4",
+            "score": 1,
+            "text": "Just because there definitely is an answer, and whether or not the answer is correct can be clearly defined, doesn’t mean the answer is easy to arrive at.",
+            "title_similarity": "0.49752215"
+        },
+        {
+            "id": "gwqv4hl",
+            "score": 1,
+            "text": "Regarding the latter half of your question (how do people come up with them), the Couch Problem is really interesting!\n\nBasically, it boils down to: what is the largest sofa you can move around a corner. It's a question I'm sure plenty of people have thought of to some degree (ie. will this thing fit thru that doorway without fucking up the paint) but mathematicians inverted the question and then didn't settle for approximations or shrugs so we end up with this fascinating question! They just ask keep asking \"What If?\".",
+            "title_similarity": "0.73785245"
+        },
+        {
+            "id": "gwqva29",
+            "score": 1,
+            "text": "A roll of the dice is definite. Yet answering the question: \"what will the toll of the dice be?\" can be definite and worthlessly obvious: e.g. it will be a number between 1 and 6, and also mathy and more precise: with equal probability of 1/6 it will be either 1, 2, 3, 4, 5 or 6.\n\nSo tell me what is more \"definite\" to you: knowing it will be, 100%, a small positive even number less than 7, or is the more definite answer: we don't know, we just can tell you probabilities.",
+            "title_similarity": "0.6096953"
+        },
+        {
+            "id": "gwqw348",
+            "score": 1,
+            "text": "Check this: take any positive integer and divide it by 2 if it's even. If it's odd, multiply it by 3 and add one.\nIf you repeat this over and over, eventually you always get to 1.  Well... at least for every positive integer we have ever tried.  But there is no proof that this works for all integers.\nCan you prove it?",
+            "title_similarity": "0.66514134"
+        },
+        {
+            "id": "gwqwbgl",
+            "score": 1,
+            "text": "Just watch GIFTED and there are really people into solving these problems. Dedication and Discipline at its best.",
+            "title_similarity": "0.5554148"
+        },
+        {
+            "id": "gwqx2n7",
+            "score": 3,
+            "text": "Sometimes, what seems simple and clear in one context becomes difficult and muddied in an other. This change in context creates new problems to be solved. As an example, a paper that came out of my graduate work extended the idea of finding eigenvectors and eigenvalues to 8-dimension, using the octonions. In 3-dimensional space, eigenvectors and eigenvalues are well understood, as is the process of finding them. Moving to the octonions complicates algebra in basic ways, making the eigenvector and eigenvalue operations a new, more challenging problem. There are many examples like this, making for an endless list of things to learn.",
+            "title_similarity": "0.68535507"
+        },
+        {
+            "id": "gwqxtuh",
+            "score": 2,
+            "text": "Am i the only one that skips math stuff because i think im stupid and never really focused on school and get mad at myself for not trying harder?",
+            "title_similarity": "0.60361886"
+        },
+        {
+            "id": "gwqy7vf",
+            "score": 1,
+            "text": "Math is just a logical argument that's been reduced to symbols for easier manipulation.  You start with a question (is \"X\" true?), then make a statement (\"X\" is true), and then use the agreed upon logic to argue for or against the statement.  You can make any statement you want (1=2), doesn't matter how ridiculous.  Once you have a conclusion you can then add the statement to your argument toolbox to help reach conclusions for other statements.  The trick is to find useful statements that have achievable conclusions so that you can continue adding to the toolbox.  This is how math is invented.  There are unsolved math problems because there are literally an infinite number of questions and statements that can be made and most of them require the conclusions of other statements before they can even be argued for.  You get \"definite\" answers in math because the logic only allows for true or false conclusions.",
+            "title_similarity": "0.7375432"
+        },
+        {
+            "id": "gwqzas0",
+            "score": 1,
+            "text": "One thing to come into mind is the question about prime numbers and how often they occurred.\n\nPrime numbers are pretty dang hard to find out as they get larger. They're important for cryptography (privacy). \n\nAnother thing is when you deal with a number line where you can split it into a infinitely smaller and smaller pieces such as fractions between 0 and 1. Real Analysis deal with infinity of sequences and series and how they behave at that level (usually if they converge to a number or not). This is actually useful for statistic distribution where we deal with probability. Integration is actually adding up tiny areas to find the total area (there's a lebegues integration view point too but I never got my Phd to care).",
+            "title_similarity": "0.66232765"
+        },
+        {
+            "id": "gwqzgug",
+            "score": 3,
+            "text": "Lots of answers have been given so far, but I'd like to share a bit about how we think of these problems to begin with. As an example I'll explain the context behind [Hilbert's 13th problem](https://en.wikipedia.org/wiki/Hilbert%27s_thirteenth_problem), because it's accessible to anyone with a high-school level of education.\n\nI'm sure you remember from school, learning the quadratic formula to find the roots of equations of the form ax^(2)+bx+c=0. From here, we can ask a harder question - what's the formula for equations of the form ax^(3)+bx^(2)+cx+d=0? This was solved in late medieval Italy, as was the case of the degree 4 (highest exponent is x^(4)) equation. The, for some centuries, it remained an open problem as to the formula for the degree 5 case.\n\nEnter Evariste Galois, a French mathematical genius living in the 1830s. If you think that rock stars live interesting lives, look into Galois - he'll give most of them a run for their money, and he beat the 27 club by most of a decade. Anyway, he invented a field of math called \"abstract algebra\", and used it to prove that there is no formula for degree 5 or larger equations in terms of addition, subtraction, multiplication, division and nth roots. An example of such an equation is x^(5)+x+7=0.\n\nSo, how do we find the roots of degree 5 equations? Returning to x^(5)+x+7=0, we can define the [Bring radical](https://en.wikipedia.org/wiki/Bring_radical) to be the root of that equation; that is, BR(7)^(5)+BR(7)+7=0, or more generally for any number *a*, BR(*a*)^(5)+BR(*a*)+*a*=0. This is part of a larger class of functions called \"algebraic functions\" - an algebraic function returns the root of a polynomial equation.\n\nIt turns out that degree 6 equations can also be solved using a class of algebraic functions, called [Kampe de Feriet functions](https://en.wikipedia.org/wiki/Kamp%C3%A9_de_F%C3%A9riet_function), which I am not qualified to speak about.\n\nThe problem that I mentioned, Hilbert's 13th, which is still an open problem, is whether degree 7 equations can be solved in terms of algebraic functions of 2 variables. That is, if you know the roots of (say) x^(7)+*a*x+*b*=0 for some *a* and *b*, can you use that to solve any degree 7 equation?",
+            "title_similarity": "0.7522514"
+        },
+        {
+            "id": "gwqzu0v",
+            "score": 1,
+            "text": "It's like colors and art. We can know all the colors and how to make them, but people keep making new art. Math has a broad creative side.",
+            "title_similarity": "0.7012329"
+        },
+        {
+            "id": "gwr038i",
+            "score": 3,
+            "text": "In early 20th century, mathematicians tried to create a system to systematically prove any theorem, and compute any function (see Hilbert's problems). They were only able to come up with theorems which proves that the above tasks are **not** always possible.\n\n1. Godel's incompleteness theorem- Not all theorems can have a proof. This means that even statements which are true may not have a proof (This is quite unintuitive, and also shook the mathematics at that time).\n2. Turing computability theory- There are functions that can not be possibly computed/evaluated.\n\nBoth these theorems are simplified, but capture the idea well in my opinion :)\n\nSo to answer your question, mathematicians asked themselves the same question around 100 years ago and realised that it is not even possible to solve all problems!",
+            "title_similarity": "0.71422267"
+        },
+        {
+            "id": "gwr0hen",
+            "score": 1,
+            "text": "Wow, I've been stuck in the comments for about an hour.  So many fascinating replies. You guys are awesome!",
+            "title_similarity": "0.56800807"
+        },
+        {
+            "id": "gwr0lh4",
+            "score": 1,
+            "text": "Lots of problems are crazy hard like people have mentioned. But not all are. There is an equation for the circumference of a circle. However, there isn’t one for the circumference of an ellipse.",
+            "title_similarity": "0.5012562"
+        },
+        {
+            "id": "gwr0wcs",
+            "score": 1,
+            "text": "> How do people even come up with them?\n\nA big source of math problems come up in the same way they come up in other sciences: the quest for classification.  In basic biology you classify organisms (KPCOFGS), in basic chemistry you classify the atoms (periodic table and its groupings).\n\nIn math, you have natural mathematical objects that you want to classify.  In fact, every time you're introduced to a new mathematical object, you want to classify them.\n\nOf course, classification is just a beginning (as in the examples biology and chemistry: with classification you can REALLY begin to understand or study the science), but it's a start.\n\nHere's an approachable example:\n\nA \"group\" is a collection of objects where \n\n* each object can interact with each other through \"multiplication\": a * b = some other object in this collection,\n* associativity: (a * b) *c = a* (b * c) .. in other words multiplying a * b, then multiplying the result to c is the same as multiplying a by the product: b * c.\n* there is a special \"identity\" object often denoted \"e\" such that anything multiplied with \"e\" is that thing itself:\na * e = e * a = a\n* every object \"a\" has an \"inverse\" (let's call it \"b\") so that\na * b = b * a = e.\n\nAn example: the set of all non-zero real numbers (complex works as well) is a group where \"multiplication\" is what we usually think of as multiplication.  The identity element in this example is 1.  Note that \"non-zero\" is necessary because 0 has no inverse.\n\nAn example: the set of integers with \"multiplication\" being the usual addition of numbers.  The identity in this example is 0.\n\nAn example: the set of two objects \"a\" and \"b\", where we DEFINE a * b = b, a * a = a, b * a = b, and b * b = a.  The identity in this example is \"a\".  This is the ONLY group that has exactly 2 objects in it.\n\nYou do: find a \"multiplication\" table for a group of 3 elements.  There is only one such group -- classification!\n\nGroups of 4 elements: there are 2 groups of 4 elements -- classification!\n\nThe general version of the classification above you'd probably learn in a 1st semester grad class in Abstract Algebra.\n\nThe power of this is that because a group is so simple, many mathematical \"things\" are groups so classifying them gives you insight into many different fields of math (and other sciences -- group theory is used in chemistry to study crystals.. group theory is also used to find the general solution to the rubix cube).\n\nBy the way, notice that for a group, you DON'T require a * b = b * a!  In fact one of the 4 element groups has elements where this is not satisfied!\n\n*Actual* math that mathematicians do is nothing like what regular people think it is: I personally think every university should offer an Abstract Algebra class as a class to teach logic and introduce non-math people to a different side of math.  Plus, you need zero prerequisites to learn it.",
+            "title_similarity": "0.70443743"
+        },
+        {
+            "id": "gwr0wda",
+            "score": 1,
+            "text": "I think it might have to do with barely understanding the 3D nature of our perception.\n\nAnd a lot of math might need a next level thinking process?",
+            "title_similarity": "0.63740045"
+        },
+        {
+            "id": "gwr1axe",
+            "score": 1,
+            "text": "I don't think math is a definite subject... It's found everywhere in the world, and out of our world, it feels indefinite... And many remain unanswered but... As of now some things are unsolved... Maybe in the future we will have solutions... It really depends on trial and error and the certain people who work on them etc etc.",
+            "title_similarity": "0.70764613"
+        },
+        {
+            "id": "gwr1tbj",
+            "score": 6,
+            "text": "The beauty of Math is that if it says something, you can trust it. Math doesn't lie and the biggest pre-requisite to being good at Math is to be able to handle it pointing out your lies ruthlessly. The downside of that is, it makes it difficult to say everything which might be true because we don't know if it is true yet. \n\nThe most common example of this is Fermat's theorem, it was really easy to say, a lot of people assumed it to be true but nobody could say that it was true until we proved it, fair and square. \n\nNow, as to how are there still unsolved math problem, the answer are the damned 'for all' operators - the difference between propositional and predicate calculus. Propositional calculus is solved, but just adding the ability to say something for all elements in an infinite set is hard, really hard. In fact, for any Mathematical system, there will always be a proof which is beyond its capabilities, it's own correctness. (It's proof is beautiful! Have a look around if you are interested- https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems. Also https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach )\n\n> How do people even come up with them? \n\nThey dream stuff up. Imagine a full ass grown up man sitting on a table with a paper and a pencil and dreaming about higher dimensions. That is probably how most  Math problems were born.",
+            "title_similarity": "0.8051497"
+        },
+        {
+            "id": "gwr2lk9",
+            "score": 2,
+            "text": "/u/Brusheer if you want to see how math has changed over the years, I highly suggest watching this youtube video to show how Isaac Newton pummeled math giants with calculating pi. It's truly breathtaking.\n\nhttps://www.youtube.com/watch?v=gMlf1ELvRzc",
+            "title_similarity": "0.71036905"
+        },
+        {
+            "id": "gwr2p19",
+            "score": 1,
+            "text": "Well not everything in life is mathematically possible right ? Usually people come up with it by just wondering if shit are possible or not.\n\nImagine you're in front of a wall and you have a certain number of paints and for the laughs you are like \"Oh, I wonder if it's possible to paint the entire wall using all of the different colours but each area must touch another colour\" and bam, you have a map problem. It can or cannot have a solution. Or you could just be playing on your notebook, drawing several points and be wondering if you can connect the dots using only straight lines and passing only once on each dot.\n\nMath is basically creating games for fun and looking for a solution. The more experience you get, the more you can create similar games by saying \"ok this one worked, but what if we take this problem ?\" and so on",
+            "title_similarity": "0.6911902"
+        },
+        {
+            "id": "gwr2rpr",
+            "score": 1,
+            "text": "Real ELI5: Math is a language. It let's you say things very clearly. Math is not \"hard\", it's the world that is complicated.\n\nYou presumably speak and understand English. Can you imagine seeing something that you could not describe, even though you know English? It is kind of like that. More precisely, if I told you part of what something looked like, could you tell me what makes sense for the rest of it to look like. The best questions in math is where it makes sense you should know the rest of the picture only to find it is actually really hard and nobody can agree on anything except that there can only be exactly one possible answer.",
+            "title_similarity": "0.780067"
+        },
+        {
+            "id": "gwr34bl",
+            "score": 1,
+            "text": "Often times, the hypothetical is that there is a complex formula for a seemingly false simple statement. However, numbers are extremely tricky so we can do several weird things with them. It is these \"weird\" things that suggest we did not invent math, rather we discovered it.",
+            "title_similarity": "0.70169073"
+        },
+        {
+            "id": "gwr3wk8",
+            "score": 1,
+            "text": "Sometimes it's little practical things that can be surprisingly tricky. You pack cylinders in a box, say pieces of water pipe. How do you get the most of them in the box? By stacking them directly on top of each other, or by moving half a pipe-width over and putting the next layer in the dip between the pipes? Sheer instinct says the second option, if you shake the box they'll settle down like this on their own.\n\nBut why is this the densest packing option? What is the formula to describe this for every size of cylinder and space to pack them in? What about balls in a box? I heard something that it was only solved some 15 years ago. Something that is so easy from an everyday life aspect can be hard to describe in mathematical terms.",
+            "title_similarity": "0.4943706"
+        },
+        {
+            "id": "gwr3x5j",
+            "score": 3,
+            "text": "You know how to walk right? When I tell you to move 5 steps forward and 2 to the left, you can manage.\n\nNow walk to the holy grail.\n\nYou neither know the solution nor if there is one at all.",
+            "title_similarity": "0.4336241"
+        },
+        {
+            "id": "gwr47tv",
+            "score": 1,
+            "text": "Some things in math are really easy to do in one way but really hard to in reverse.Example take two prime numbers like 3 and 5.\nMultiply them and get 15. Easy, right? Try finding 3 and 5 from 15.\n\nWell you might say,we can factorise 15, by checking numbers from 1 to the Square root of 15...but thats painfully slow for large numbers (a million digits)\n\nIs there a \"secret formula\"? (I hear you plankton)\n\nWell, you might ask what's the point?\n Short answer? **all bitcoin/crypto will be yours instantly\n\nLong answer, the fact there is no quick formula/algorithm to do this is the basis of most encryption and digital wallet (public key methods). Though i have to add bitcoin  uses a slightly different method of public keys. But mathematically have the same problem. Easy one way (1 nanosecond), very hard to do in reverse (billions of years, basically guessing)\n\nAlso checkout shor's algorithm",
+            "title_similarity": "0.70142215"
+        },
+        {
+            "id": "gwr4abe",
+            "score": 15,
+            "text": "Math is the study of what's true. You start with a few obvious things that you know are true, and from them you prove new things, which are also true. You can use those new truths to prove more things, and so on. It never stops, unless you want it to.",
+            "title_similarity": "0.78959244"
+        },
+        {
+            "id": "gwr4twe",
+            "score": 1,
+            "text": "'Why is a raven like a writing desk?'\n\nAnyone can posit any theory. Proving them is the hard/impossible part.",
+            "title_similarity": "0.54868853"
+        },
+        {
+            "id": "gwr7qgu",
+            "score": 1,
+            "text": "An even number times an even number is even\n\nSeems simple, but how do you prove that that's true for ALL even numbers? You can't just test a few, what if the one that breaks it is some gigantic even number?\n\nSo we have to think more abstractly. We're dealing with even numbers, it might help to figure out exactly what \"even\" means.\n\nAn even number is a number that is divisible by two.\nWe can make do with that, however, it'll be easier if we think of even numbers as numbers that can be \"rewritten\" as 2 * (some number), for example:\n\n8 is even because we can rewrite it as 2 * 4.\n\nNow we can talk about \"all even numbers\" by using 2n (read: 2 times n) where n is just a stand-by for ANY number (or more specifically, any integer). The ANY is very very important here, we CANNOT assume anything about \"n\" unless it's something shared by all integers, that keeps our proof applying to ALL even numbers, which is what we wanted.\n\nLet's now rewrite our original statement using this definition, and since every time we say \"even number\" in that statement we mean a (possibly) different even number, I'm going to use different letters in place of \"n\" each time, just to make sure we don't think that it's all the same number!\n\n\"2n times 2k always equals 2h\"\n\nThis is much more useful now. We know that n and k have to be integers, so to make sure that we'll always get an even number, we need to prove that we can ALWAYS show that the result of 2n * 2k can be rewritten as 2 * h (2 times SOME integer)\n\n2n times 2k = 4nk\n\nBut wait, we can rewrite 4nk!\n\n2 * 2nk\n\nThe 2nk in the expression is just 2 * some integer * some other integer, we know for sure that that's gonna be an integer!\n\nSo we can rewrite 2 * 2nk as 2 * h, and blam, we have our proof.\n\nThis is what most high level math is like. For context, this is an introductory problem that you'd do within the first few weeks for an intro course.",
+            "title_similarity": "0.6174578"
+        },
+        {
+            "id": "gwr88ey",
+            "score": 1,
+            "text": "Gödel is the answer. With or without understanding the proof, if you can understand the claim of Gödel's incompleteness theorem, you will have your answer.",
+            "title_similarity": "0.56824243"
+        },
+        {
+            "id": "gwr8kc6",
+            "score": 1,
+            "text": "Some problems are truly convoluted. For example, Fermat's last Theorem. It is a simple statement that there are no positive integers solutions to x^n + y^n = z^n for n 3 or more. It took over 200 years to prove the result. Sometimes, a problem is solved by first showing it 8s equivalent to another problem, then solve that problem instead. Some results can be truly complicated, using different results from different math areas. Mathematicians piece together these jigsaw puzzles and produce a proof",
+            "title_similarity": "0.747168"
+        },
+        {
+            "id": "gwr8q6m",
+            "score": 7,
+            "text": "Mathematics is a Hydra. Everytime we solve a problem, we see at least 2 new rising up from that.",
+            "title_similarity": "0.6705977"
+        },
+        {
+            "id": "gwr90zf",
+            "score": 1,
+            "text": "It mostly a question of playing a song vs. composing a song. building from a blueprint vs. planning/optimizing a blueprint and so on. The latter is infinitely harder.\n\nMaybe it is easier to compare it to engineering, which, in a sense, is grabable maths.\n\nYou have tools and components and you can build cool stuff with those things. Pretty much an infinite amount of things. You can build a plane for example. There are probably a good number of different sets of tools and components right now to do this, from paper plane to Boeing 747, just choose one that works and build it. That's solving a math problem that you might be familiar with.\n\n&#x200B;\n\nNow, did you built the fastest plane possible? The lightest? The sturdiest? Did you build the plane in 20 years? Could you possibly do it in a week? How?\n\nThose are questions that are much harder to answer. Maybe you haven't found a material yet that improves upon one of those parameters. Maybe there is a tool that let's you reach an area faster and more efficiently. Maybe, in a seemingly completely unrelated area of science they experimented with some spider silk that could help you make your plane lighter and sturdier. All of a sudden you need to study a completely different field or at least consult people from there.\n\n&#x200B;\n\nThat's what happens in maths. You can solve stuff that is proven \"trivially\" as a lot of university professors infamously say, which mostly means \"given enough time and effort, anyone could potentially do it\". But finding a proof is much much harder and funnily enough, also often depends on discovering the right \"tools\" (you might be familiar with induction from college, which is one such tool to proof a class of mathematical statements easily which would be much trickier to proof without it.)",
+            "title_similarity": "0.6396059"
+        },
+        {
+            "id": "gwr9sf1",
+            "score": 1,
+            "text": "Since a lot of examples are already given here, I would suggest following youtube channels like 3blue1brown.\nThere is so much ingenuity to solve a maths problems and looking at things from different sides and using completly different problems to solve something.",
+            "title_similarity": "0.681038"
+        },
+        {
+            "id": "gwra348",
+            "score": 1,
+            "text": "When professional mathematicians solve one problem, them propose even more.\n\neg https://arxiv.org/pdf/2006.03180.pdf\n\nThis solves one problem, but the authors come up with Problem 3.1 is a new unsolved problem.\n\nHere's [250 pages of unsolved problems](https://arxiv.org/pdf/1401.0300.pdf).",
+            "title_similarity": "0.7842734"
+        },
+        {
+            "id": "gwra45w",
+            "score": 1,
+            "text": "Simply, because we're still discovering math. We don't have total comprehension of mathematics, so we don't have a complete set of tools by which to prove every math problem.\n\nLook how long Euclidean geometry existed before we realized \"Hey, we can change the way space works!\". Euclid's work stood the test of time for 2000 years before Gauss came along and messed it all up.",
+            "title_similarity": "0.7126813"
+        },
+        {
+            "id": "gwrb1p0",
+            "score": 1,
+            "text": "Surprisingly Mathematics has a theory which says that Maths will always be incomplete given a set of rules. You will always have to add new rules to accomodate more theories; inshort it is infinite. This is a crude explanation of Godel’s Incompleteness theorem.",
+            "title_similarity": "0.681135"
+        },
+        {
+            "id": "gwrbnif",
+            "score": 1,
+            "text": "If I read any further I'm going to have a stroke. I'll stick to just basic addition an subtraction",
+            "title_similarity": "0.43698084"
+        },
+        {
+            "id": "gwrbsh0",
+            "score": 1,
+            "text": "Because cutting edge maths is practically unrelatable to common day mathematics like 5x5 and 90/2 etc.\n\nInfact, very little of advanced maths even has ‘sums’ in with written numbers. It uses complex algebra, and even more complex ‘functions’ and beyond that, relationships between two totally different areas of maths.\n\nThe types maths that are unsolved are so abstract that they are hard to actually describe in WORDS. \n\nThings like the topology (shape) of surfaces, the patterns of prime numbers, relationships between ‘sets’ (types of numbers), assessments of the ‘proveability’ of problems etc.\n\nCheck out the list of unsolved maths problems - such as the Millennium Prize,\n\nFor example - here is the question of the Hodge Conjecture...\n\nLet X be a non-singular complex projective manifold. Then every Hodge class on X is a linear combination with rational coefficients of the cohomology classes of complex subvarieties of X.\n\nAs someone else mentioned, Fermats Last Theorem was ‘recently’ solved after centuries of people trying. The proof by Andrew Wiles was HUNDREDS of pages long and took him over ten years to write. And it was only possible because someone had discovered a totally unrelated area of maths in the previous years - Wiles discovered they WERE related, and could prove Fermats if he proved something in the other area of maths.",
+            "title_similarity": "0.6955973"
+        },
+        {
+            "id": "gwrd4sx",
+            "score": 1,
+            "text": "There are 913 comments already so this may offer nothing new, but here's a simple lil example\n\nSomeone claimed over 250 years ago that every even number is the sum of 2 prime numbers\n\nAs you can tell, this is very simple and straight forward\n\nBut Math doesn't really care about how simple the question is. The answer may be (and probably is) hidden in areas of Math not yet developed/discovered.\n\nSince Someone claimed that, over 10 thousand papers of new Math were released, just trying to find an angle to approach this claim from. \n\nIf you try it yourself, you'll very quickly enter the realm of sums of primes. That realm is so chaotic and hard to navigate that after all those years and all those papers, we still don't have a simple approach to it.\n\nVery cool question btw, Cheers 🙂",
+            "title_similarity": "0.7438757"
+        },
+        {
+            "id": "gwrebhv",
+            "score": 1,
+            "text": "Math is a tool that we use to solve problems. The issue is figuring out how to use that tool to solve the problems we have.",
+            "title_similarity": "0.65747887"
+        },
+        {
+            "id": "gwrh2hf",
+            "score": 1,
+            "text": "This question makes me think of Ted Chiang's short story [Division by Zero](https://fantasticmetropolis.com/i/division). He's the author of the short story the movie Arrival was adapted from.",
+            "title_similarity": "0.44736198"
+        },
+        {
+            "id": "gwri4wi",
+            "score": 1,
+            "text": "Also can connect 4(genuinely done know) not end up with all slots filled but no 4 in a rows?",
+            "title_similarity": "0.43454623"
+        },
+        {
+            "id": "gwrjk7d",
+            "score": 1,
+            "text": "Mathematics has a framework that is well-defined. But, actually solving a problem by means of a proof requires a certain level of intelligence or creativity.",
+            "title_similarity": "0.63137233"
+        },
+        {
+            "id": "gwrjwm3",
+            "score": 1,
+            "text": "It's been 10 hours, yet none of the top comments seem to have captured the essence of the question, in my opinion. They start off by comparing how someone would solve equations, pointing that it has a clear, step by step procedure, and then pointing out that there are Maths problems where there aren't any clear step by step procedure for solving them. The thing is, this isn't obvious at all. And in practice, it's not even true for most problems!\n\nHere's what you can do: get a person (or a machine) to randomly write out letters on paper, so they eventually write down every combination of sentences. Get another person to read what they write, and whenever they write something coherent and sensible —something that starts with things we *know* are true, and only shows that more things are true using sensible deductions—then put those sheets of paper on a stack somewhere (well, okay, there's only so much paper and ink that we can make, and humans aren't immortal, but I digress). The papers in the stack will eventually contain any possible proof for any provable statement. And if you get a third person to read through the stack and put only the ones with a specific conclusion in a second stack, then you can find a specific proof for any specific statement that's provable.\n\nFor example, if you tell the third person to only find proofs with conclusions that \"for all whole numbers n > 2, a^(n) \\+ b^(n) = c^(n) has no whole number solutions for a, b, c,\" then you will eventually get Wiles' proof of Fermat's Last Theorem in this second stack. But what happened? There is no ingenuity or creativity in this process; it's tedious, but it seems to be as mentally challenging for each of the three people as solving equations. To put it another way, it's an algorithm, one that even a machine can perform.\n\nThere are four big reasons why doing the above won't help us solve the currently unsolved problems.\n\n1. It's tedious and computationally demanding. There is no garauntee that a short statement will have a short proof (Wiles' proof of Fermat's Last Theorem spans over a hundred pages). We might have to wait for eons, until all the stars in the universe dies of light, before we get anything.\n2. It's not clear what should be \"true\", what should be \"sensible deductions.\" That's completely up to the second person. Right now, most Mathematicians use the \"collection of true things and sensible deductions from them\" known as [ZF(C)-Set Theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory). But some disagree on this convention.\n3. It's hard to interpret Maths and use it, for example, to model the world. That's the job of  the third person (or the person asking him what to look for). It's not obvious at all how an inequality (e.g. something like p > q) can say that we can never get perfect information about something, but lo' and behold, that's the [Uncertainty Principle](https://en.wikipedia.org/wiki/Uncertainty_principle).\n4. It doesn't even work! As others have mentioned, [Godel's Incompleteness Theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) shows that there are statements which are *true* but can never be proven (in our formal Mathematical system).",
+            "title_similarity": "0.7249113"
+        },
+        {
+            "id": "gwrk5ds",
+            "score": 1,
+            "text": "So there's a big difference between proposing an answer, and checking an answer. \n\nGive me a solved Sudoku. Anyone, even a computer can check that it is solved by looking at a fixed set of rules. It is easy to verify. \n\nBut to propose a right solution given the puzzle, that requires trials and error, and some luck \n\nThat's the gap you're observing. The answers are solid and easy to check, as the rules of checking are definite. But it takes effort to come up with an answer. \n\nThis is universal to all problem, not just math, where the right answer can be appreciated by the many, but the answer is solved by the few.",
+            "title_similarity": "0.81054854"
+        },
+        {
+            "id": "gwrke5j",
+            "score": 1,
+            "text": "It’s kind of a shameful truth, but when you see something that claims to be “true” in math, particularly if it has a “proof,” a whole bunch of things are left unsaid, from how the logical system used in the proof came about, to why we believe the proof is sound, to how the thing being proven was worked out with all sorts of false starts and retries before a proof was successful.\n\nSo there’s stuff we don’t know whether is true or false (in some logical system we came up with over a century ago, probably “ZFC,” or “Zermelo-Fränkel set theory with the axiom of Choice”), such as the [Riemann hypothesis](https://en.m.wikipedia.org/wiki/Riemann_hypothesis), and this is because, so far, no one has come up with a successful approach to proving it. Or maybe it’s false!",
+            "title_similarity": "0.75586194"
+        },
+        {
+            "id": "gwrllwu",
+            "score": 1,
+            "text": "math isn't definite. it's a language that we use to describe the world around us. when there are things we don't understand, the problems translate into unsolved math problems",
+            "title_similarity": "0.7030194"
+        },
+        {
+            "id": "gwrm4du",
+            "score": 1,
+            "text": "I think it boils down to the fact that most people's math experience stops, at most, calculus but far more somewhere in the geometry/trigonometry area.\n\nI'm assuming based on my public school curriculum. Arithmetic -> algebra -> geometry -> trigonometry -> integral calculus / differential calculus.  \n\nWhere trigonometry was only touched upon at the end of geometry and the full class was not required for a diploma.  So, many students who didn't see them as pre-reqs for their college or career path just didn't take those classes,  therefore math stops there. And for the most part the extent of the math problems that they'll need to solve for the rest of their life are covered. \n\nI would argue that there should be some lingual separation at the trigonometry stage for the common citizens.  I'm sure mathematicians would put the separation a few steps up. \n\nBasically to boil down my stoned rant: most people's view of math stops at problems that have definitive answers. They may have touched upon pi, or infinity but definitely couldn't explain them without some definitive answer like \"pi is 3.14, has to do with circles, and infinity is the largest number there is\".",
+            "title_similarity": "0.6821295"
+        },
+        {
+            "id": "gwrmchr",
+            "score": 1,
+            "text": "I'm going to save this and come back after I gain some braincelld and try to understand it, never give up.",
+            "title_similarity": "0.44335216"
+        },
+        {
+            "id": "gwrnftc",
+            "score": 1,
+            "text": "Math IS definitive for things we've already figured out. Math is still used as a tool to help figure out stuff we don't really know about. Basically, math is the measuring tape we use to figure out the universe.  It doesn't stretch as far as we need it to, but we can get the basic gist.",
+            "title_similarity": "0.7852001"
+        },
+        {
+            "id": "gwrog3x",
+            "score": 1,
+            "text": "OP there's a movie called The Man Who Knew Infinity (starting Dev Patel and Jeremy Irons). It's about the famous mathematician Ramanujan. A huge part of this movie is about having Ramanujan, who seems to just know these extremely creative mathematical things, writing a logic proof. Others have mentioned that proving infinite problems is the difficulty and they kind of show that in one scene.",
+            "title_similarity": "0.7488009"
+        },
+        {
+            "id": "gwrpqcz",
+            "score": 1,
+            "text": "A little late, but here goes another thing to think about: Not only maths has lots of open questions, but there are actually infinite open questions!\n\nThis has to do with \"Goedel's incompleteness Theorems\". Basically, for EVERY mathematical theory, there are claims which are true but which we cannot prove to be true *within the bounds of that theory*. (Prob not an ELI5 concept, sorry.) So what do mathematicians do? They generalize and abstract, effectively enlarge the theory, to explain those claims. The problem is, of course, that the new theory has the same problem! And so it goes to infinity...",
+            "title_similarity": "0.80162126"
+        },
+        {
+            "id": "gwrqhj3",
+            "score": 1,
+            "text": "What I have noticed it that with every single mathematical solution, it creates more questions.  It’s like a never ending labrynth which blows my mind.\n\nScientists find the smallest particle .... and a few years later there is something smaller, and smaller.  And then particles start acting like waves, and time no longer matters at the quantum level .... it really does blow the mind.",
+            "title_similarity": "0.6823913"
+        },
+        {
+            "id": "gwrsbka",
+            "score": 1,
+            "text": "Not a math major here but ill do my best to help with an example.\n\nSuppose I make some statement like \"The sum of the interior angles of a flat triangle are always 180°\"\n\nThis is a conjecture or hypothesis, its either true or its not. If its not true, we just need to find one example of a triangle where the three angles dont add up to 180.\n\nHowever, to proove that its true we have to show that there is no possible way a false case can exist. Ive heard the term \"rigorous proof\" and I think this is what it refers to. We proove our conjecture using other statements we already know to be true.\n\nHeres the kicker though, its not good enough to just try a bunch of triangles and see that they are all 180. you cant just get a computer to try like 2 billion examples and say good enough. There are some problems put there with billions of examples backing the conjecture being true, but with a small handful that disproove it.",
+            "title_similarity": "0.6551832"
+        },
+        {
+            "id": "gwrsul9",
+            "score": 1,
+            "text": "There’s some really good answers here already (u/spacetime9 sums numerical problems up really well). But there’s a decent chunk missing from a good explanation here. Math you learn in school is all about solving straightforward equations that can be done by more or less just arithmetic. But the study of math is extremely broad, and there’s lots of disciplines in it where numbers don’t make much appearance at all. Infinity is a big reason we can’t just chuck stuff into a computer, but there’s things that can be studied by a computer, but may be very hard to. \n\nTopology is a subsection of math that discusses and explores the structure of objects. Sometimes those objects are easy to understand like spheres or cubes, and that’s great! We use topology to understand other problems in math, where the underlying structure of a question can be turned into shapes (this is becoming more and more esoteric, but for a quick overview hopefully it suffices). However sometimes instead of spheres, we have some 19 dimensional stack of 18 dimensional and below triangles (called a simplicial complex if you want to google more). Studying this structure is really useful because like I said before, those equations you solve in school can be scaled and tweaked to something we couldn’t solve at all, and we can explore them via plotting them on graphs or mapping them to certain topological spaces (objects)",
+            "title_similarity": "0.8315953"
+        },
+        {
+            "id": "gwrtqzz",
+            "score": 1,
+            "text": "There have been many good answers to the first question, but I wish to offer some insight into the second. My answer to \"how do people even come up with them?\" is that they were tripping mad on something. I study maths and even I can't wrap my head around it.",
+            "title_similarity": "0.8703971"
+        },
+        {
+            "id": "gwru8w6",
+            "score": 1,
+            "text": "If you are familiar with murder mystery books, maybe that analogy will help. In these books, there is clearly something interesting to investigate: the circumstances around a dead person. The question now becomes who did it? There is very definite answer to this question but that fact is not relevant. What’s important is that the murderer is found using a very rigorous line of reasoning so that the person accused is without a doubt the actual murderer. Unsolved math problems are like unsolved murders. Mathematicians see something interesting in a pattern, but they are currently lacking the mathematical tools and logic to solve the problem. Mathematicians the develop new techniques in subdisciplines like algebra, topology, analysis, etc that hopefully can be used to crack these problems similar to how new forensics techniques are developed to make solving future cases easier. Hope this analogy helps.",
+            "title_similarity": "0.7577467"
+        },
+        {
+            "id": "gwrv45z",
+            "score": 1,
+            "text": "I may be completely off here, but is part of the difficulty that in math the proof also has to be within the realm of math? For instance a proof can't be philosophical in nature, or even a computer algorithm that shows how it works in N iterations, and then human intuition saying \"yep, that will work for infinity.\" It's easy to prove things when one can step outside of math and explain it in a human language that doesn't require the same precision and concrete definitions. Humans are perfectly capable of inference without having access to all the information, for example. A mathematical proof doesn't have the luxury.\n\nNot sure exactly how to convey my thought process here.\n\nMaybe it's somewhat like a hypothetical 2-dimensional organism trying to understand 3 dimensional space, with only the concrete knowledge of 2-dimensional space. It's easy if they could just step out and view things from of 3 or more dimensions space. Quite difficult when limited to 2 dimensions.\n\nOther than abstract human thought, intuition, inference, philosophy even, some things in math are just very difficult to prove purely mathematically.",
+            "title_similarity": "0.70494795"
+        },
+        {
+            "id": "gwrvqkq",
+            "score": 1,
+            "text": "A lot of these comments seem to center around a common theme, which is that the unsolved theories are unsolved because you can't assume a pattern will hold true for an infinite amount of numbers.\n\nThis has me wondering - we're there ever any mathematical concepts that (for all intents and purposes) were assumed to be a favt, and later disproven when testing some random large number?",
+            "title_similarity": "0.7299661"
+        },
+        {
+            "id": "gwrx3rp",
+            "score": 1,
+            "text": "There is always a frontier of unknown.  It takes longer to get to the frontier than it did in the past and it also takes work to push the frontier.  The anglo education system has gone from modest stipends where the purpose was enlightmentment to overpaid tenured professors and administrators living off the fat.  It's a well known phenomenon in physics and there have been many outspoken critics about the current status.\n\nThe next renaissance will happen in non-european countries as they develop, particularly China.",
+            "title_similarity": "0.6385982"
+        },
+        {
+            "id": "gwrybzx",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "-0.0316602"
+        },
+        {
+            "id": "gwryd8f",
+            "score": 3,
+            "text": "The unsolved math problems are often precisely because of the rules. \n\nSometimes you have a hunch, like a certain pattern, but you're not sure if the pattern holds forever even if extreme conditions, and you can't proof it. That's an unsolved problem until someone finds a way to proof the pattern holds. \n\nA problem is only solved if there is rigorous proof for it so that it works in all cases.",
+            "title_similarity": "0.74760073"
+        },
+        {
+            "id": "gwryxz3",
+            "score": 1,
+            "text": "Damn! A genuine question I have asked myself couple oftimes. Buttttt hell 1.3k replies. And I haven’t even started",
+            "title_similarity": "0.52002263"
+        },
+        {
+            "id": "gws04al",
+            "score": 3,
+            "text": "Mathematics is at its root a philosophy. In its application it is a system of patterns that attempts to quantify, qualify and codify the patterns we observe in the world around us. So it is a pattern that seeks to explain patterns we think we see (it already sounds like a leaky sieve). The power of Math to explain things lie not only with the person applying the Math* but also in what they are observing and how the are observing. Conventional Math is weak when exploring the really small, the really big, the rally fast moving and probably a whole host of other things we have yet to discover. If a people choose not to apply Math to certain things or have yet to observe/discover a thing then that is reflected in the Math. *Ancient peoples mostly sought to describe that they had another child, killed another wolf, harvested another apple; and/or why this particular stitch is the same stitch as another; and/or ways of tying rope for different applications; and/or the fastest way/how to get from the cave to the waterhole; when to leave an area or plant a crop. This is reflected in our Math today. My point is that how Math is applied and what drives our discoveries is dependent on what is important to us, on how/what we think. Math is a reflection of our values, what we think we know and what we see. As our ability to observe and/or our knowledge base increases we come up with new Math to describe the world around us. As our values change how our Math is expressed may also change. Math isn't this bastion of truth, is it limited by the minds who create it, by the environment it seeks to describe and by the society that applies it.",
+            "title_similarity": "0.78410494"
+        },
+        {
+            "id": "gws0lc6",
+            "score": 1,
+            "text": "The question is, I think, answered satisfactorily. But I wanna clear one thing up: Math is really *not* about numbers or computations. Comparatively few unsolved math problems are about numbers and comparatively little math involves working with numbers. A lot of math is about structures. For example, one of the most famous questions in math, posed in 1904 and solved in 2006, essentially asks, if a 4d shape \"looks like\" a 4d sphere, can it be stretched and squished into an actual 4d sphere?",
+            "title_similarity": "0.719206"
+        },
+        {
+            "id": "gws5r27",
+            "score": 1,
+            "text": "I think[ this video](https://www.youtube.com/watch?v=iJ8pnCO0nTY) will explain a lot of what you're wondering.\n\nIt's not quite an explanation but its a really nice demonstration of proof behind maths (especially chapters 2-4)",
+            "title_similarity": "0.8000952"
+        },
+        {
+            "id": "gws6bbv",
+            "score": 1,
+            "text": "Another way to think about it, which makes it easier for a five year old... math is our way of explaining the world.  When you have an apple and get another apple math tells you that 1+1=2, so you have two apples.  But the universe is so big and complicated that we're still trying to figure out things about how it works.  And sometimes those things are really hard to do because what you're trying to figure out is how something really far away works and you can only see it through a telescope, or how something really small works and you can only see it through a microscope.",
+            "title_similarity": "0.6582576"
+        },
+        {
+            "id": "gws76mv",
+            "score": 1,
+            "text": "Like any research discipline, only the *basics* of math are definite with solid answers. The elementary stuff. Most people studying math never get anywhere near the theoretical, which sometimes requires very advanced calculus or very \"irrational\" solutions (using the formal definition of irrational).",
+            "title_similarity": "0.7492051"
+        },
+        {
+            "id": "gws7xux",
+            "score": 2,
+            "text": "The basic answer: mathematics is hard. And as we answer old questions, new questions come up that need answering. Furthermore, people think of mathematics as being the thing they learn in high school where you have to find x. It's not. It's something far more fundamental, it's about making statements and proving (or disproving) those statements.\n\nSee mathematics as discovering a new world: the more of it you discover, the more you realize there is more and more to this world that you *haven't* discovered. Sometimes you think you're close to some new part of land, only for there to be a huge mountain range in between you that you can't cross, meaning you need to find a whole new route. \n\nSo let's talk about how an unanswered mathematics question comes about. There are many ways this could happen, some questions come from making models for things (population growth, for instance), or they come from physics, or they come from mathematicians just toying around.\n\nThe last one is probably the easiest to give an example of (and there are many of them). Say you're working with prime numbers, and you look at the distances between them. Well 2 to 3 is 1; 3 to 5 is 2; 5 to 7 is 2; 7 to 11 is 4, etc. \n\nYou can then ask yourself some questions: does every (positive) number show up as such a distance? Well clearly not, since no odd number (except 1) will show up, as that would require an even number (except 2) to be prime.\n\nWell what about every even number? Will that show up somewhere as the distance between two consecutive primes? Aaand we have already stumbled upon an unanswered question.\n\nBut let's keep going. We see a lot of 2s show up, at least at the start. Are there infinitely many of those? Another unanswered question (Twin Prime Conjecture, to be exact).\n\nYou can see how easy it is to come up with these questions. Note I used prime numbers here, since they're fairly well-known, and easy to understand. There are also a lot of these questions in other fields of mathematics, of course. Some of these questions are so complicated, on fact, that to just understand the problem, you'd probably need a maths degree.\n\nBut it gets even worse, but to understand this, we first need to get to the foundation of mathematics. Mathematics fundamentally used axioms. These are statements that are so obvious, we just take them to be true. That sounds like cheating! Why do we do that? Well in order to prove something is true, we need to be able to make assumptions that are true. It is impossible to prove something without any prior assumptions.\n\nSo what are these axioms? Well some of the ZF-axioms (the basis for set theory, which in turn is the basis for a lot of mathematics), include things like \"two sets are equal if and only if they have the same elements\", or \"you can merge two sets together into a larger* set\".\n\nFrom these axioms, we can then prove things, from which we can prove more things, etc.\n\nHowever, now comes the problem for mathematicians. Gödel proved that, no matter what system or axioms we use, there will be statements that are true, but not provable from these axioms. So there might be statements out there (maybe even some of the unanswered problems of today) that are true, but not *provable*.",
+            "title_similarity": "0.8189316"
+        },
+        {
+            "id": "gws7y7f",
+            "score": 1,
+            "text": "My favourite one is the perimeter of an elipse.\n\nEveryone knows how to calculate perimeter of a circle.   You do it in school.  An ellipse can't be much harder, surely.. but it is.. it's so much harder that there is no definitive answer, only approximations.\n\n(as far as the solid answers go, I'm not entirely sure that's true.. I have zero maths training but occasionally have to furtle numbers when programming, and there's a lot of use for things that are <handwave> close enough.. My own term for it is 'bullshit maths' - I just make random shit up until the result fits what I expect.  I can't believe there isn't some kind of equivalent in real maths, probably with a proper greek name and everything).",
+            "title_similarity": "0.8337319"
+        },
+        {
+            "id": "gws9lhu",
+            "score": 1,
+            "text": "Do you remember that saying in grade school like “my dear aunt sally”... that teaches you what order to execute the math functions (my refers to M for multiply first then  dear for D, divide etc..) a lot of the unsolved equations involve a deeper understanding of this principle. That’s why you can work on an equation for years testing all different manner of trial and error, trying different representations of values until you can make sense of that particular equation.\n\nFor example we write out the equation “A squared + B squared = c squared”. \nWhat if we need to use the data this equation provides in a longer more specific problem.\n\nBut the way we are writing out and representing “ A squared plus B squared..” is actually hindering our ability to solve the longer equation based on the math laws we use. \n\nSecondly people will spend years trying to represent data in a mathematically correct way even after understanding the exact values of everything they are describing. \n\nWe know the density of air the weight of an apple and the velocity of it as it hits the ground from 20ft up. Trying to represent this in a correct mathematical statement is more difficult. \n\nOne difficult problem I remember hearing about is measuring the affect on light waves as they travel through space being pulled on by three different size gravitational fields. \n\nWhat should you calculate first in this case? The speed of light, the friction coefficient of space on light, or the collective gravity force? We can measure all of these things but writing them into a literate and accurate mathematical statement is much tougher. \n\nWhy is this important to the point people spend decades on a single equation?\n\nTheoretically once you master the correct mathematical literacy you can write a computer program that will perform the calculation and produce that same result. Like showing you an apple dropping 20ft to the ground or showing you exactly what you observed or will observe when you saw a little bit of light peaking out from behind a black hole 20 billion lightyears away.",
+            "title_similarity": "0.7679354"
+        },
+        {
+            "id": "gws9oxt",
+            "score": 2,
+            "text": "Math is like a cookie. Solved problems are on the inside, unsolved problems are the edge.\n\nIf you try and add more dough to solve the problems on the edge, you end up with even more edges!\n\nThe formal name we have for this fact is the \"Godel Incompleteness theorem\"",
+            "title_similarity": "0.6945558"
+        },
+        {
+            "id": "gwsap8e",
+            "score": 1,
+            "text": "I don't understand how unsolved math problems can not exist given the premise. Would like OP clarify more his thinking.",
+            "title_similarity": "0.68943435"
+        },
+        {
+            "id": "gwsdw7x",
+            "score": 1,
+            "text": "Other answers are great.  Another way you can think of it is this:\n\nAsk a 3rd grader what 5^2 is.  This is a question with a clearly defined correct answer.  However, they don't know.  They don't have the tools to answer that.  Or rather, they don't know how to apply the tools they have.  A third grader can tell you what 5x5 is.  \n\nAsk a high school freshman to solve a differential equation.  It has an answer, but they don't have the tools.  The tools are there.  There is a way to solve that problem.  High schooler just doesn't know them yet.  \n\nWe can run into that same problem at much higher levels.  We can come up with conjectures (riemann hypothesis, et c) that do have a right answer. It's either true or it isn't.  But it took years and years before someone developed the tools and applied them the right way to correctly answer that question.  And there are still more we haven:t worked out",
+            "title_similarity": "0.72002196"
+        },
+        {
+            "id": "gwserdf",
+            "score": 1,
+            "text": "Your contention that math has solid answers is not even accurate.  Statistics deals largely with \"best estimates\", but in most circumstances is ALWAYS wrong in reality.",
+            "title_similarity": "0.63525814"
+        },
+        {
+            "id": "gwsfx12",
+            "score": 1,
+            "text": "One of the things that blew my mind was that math can be creative, it can be plagiarized, and it can be discovered. Everyone else has given great answers. Just remember that ancient humans trying to count sheep and account for grain didn't have any more math instinct than you did before going to school-- adding, multiplying, and even counting had to be figured out by someone from scratch. More advanced math like graphs, algebra, trigonometry, calculus-- nobody could be born knowing that any more than you were born knowing it, or ancient humans in the Savannah were born knowing it. It's taken centuries for us to figure out even what the rules are that govern math, and even that knowledge is a little incomplete. \n\nIf you want to read more about some of the more interesting and beautiful aspects of math, I recommend the book [Journey Through Genius](https://www.amazon.com/Journey-through-Genius-Theorems-Mathematics/dp/014014739X/ref=mp_s_a_1_1?dchild=1&keywords=journey+through+genius&qid=1620054074&sprefix=journey+thr&sr=8-1). It walks laymen through proofs of interesting bits of math and also puts it in historical context. You'll read about drama and rivalries between mathematicians and even a poem by one of the Bernoulli Brothers! I honestly could only follow like half the proofs, even though they're for non-mathematicians, but I still got a lot out of it.",
+            "title_similarity": "0.77580047"
+        },
+        {
+            "id": "gwsi1uf",
+            "score": 1,
+            "text": "Chess is also a definite subject with solid answers. Why? \n\n* You know exactly how each piece moves and when mate occurs, so it's definite. \n* And it has solid answers in the following sense: Let's say you look your friends play and they have a position where white has a king and 2 queens, and black has only a king and a pawn. Given \"correct\" play from white, he will win. We call that position \"won for white\". Much like theorems are either \"true\" or \"false\", chess positions, given correct play, are either \"won for white\", \"won for black\", or \"drawn\".\n\nIn fact, we know that any position, no matter how complicated, is \"won for white\", \"won for black\", or \"drawn\". Even the starting position of chess!\n\nBut in chess, there are so many possible moves, that it's virtually impossible to find if some positions are \"won for white\" with correct play. Similarly, in math, the number of arguments that we can use and need to use to prove some theorems might be so many, that it's extremely hard to find if they are \"true\".",
+            "title_similarity": "0.62257695"
+        },
+        {
+            "id": "gwsi6p9",
+            "score": 1,
+            "text": "This might feel like a non- answer, but I recommend reading the short novel *The Housekeeper and the Professor* by Yoko Ogawa. One of the characters is an eccentric old math professor who's always going on about some unsolved math problem, and the beauty of it all. You'd get a bunch of examples of these kinds of problems.",
+            "title_similarity": "0.81617004"
+        },
+        {
+            "id": "gwskg0d",
+            "score": 1,
+            "text": "There are some problems we know the answer to but can't actually work out how to show our workings which is interesting.\n\nTuring had a good problem about that that if I recall one of them was recently solved but part or another one still remains",
+            "title_similarity": "0.6770444"
+        },
+        {
+            "id": "gwslajo",
+            "score": 1,
+            "text": "Math isn’t a definite subject... Godel Incompleteness Theorem.\n\nSo the thread starts with a false statement then a question revolving false statement.",
+            "title_similarity": "0.5738543"
+        },
+        {
+            "id": "gwsm4jn",
+            "score": 1,
+            "text": "It’s the same reason we have disinformation and conspiracy theories - it’s extremely easy to pose a question relative to how difficult it is to solve a question.\n\nEdit: also many issues in math arise from paradoxes resulting from self references. It’s what known as “strange loops” in the book an Eternal Golden Braid.",
+            "title_similarity": "0.8119638"
+        },
+        {
+            "id": "gwsmzu4",
+            "score": 2,
+            "text": "You have to realize that maths is also motivated by real life problems that need to be solved. Sometimes you even have to invent an entirely new branch of mathematics just to answer some simple real life questions.\n\nLike see these things in the sky like stars and planets and comets and whatnot? What paths do they take and can we predict their movement? To answer that some fellow Newton invented calculus.\n\nOr maybe we have a pandemic problem and we need to have a good way to track disease spread, or test vaccine efficiency etc. Suddenly you have a whole lot of math problems to tackle and you might use statistics or graph theory.\n\nOr suddenly the Nazis are invading Europe and you need a way to decipher their communications to anticipate their attacks. Suddenly you have math problems in the field of cryptography.\n\nPoint is, as long as there are real life issues to solve, somebody is gone come up with a math problem as a way to help. If we ever live in a Utopia, maybe then people will say \"we don't need new maths anymore\" but I'm not holding my breath.",
+            "title_similarity": "0.7642981"
+        },
+        {
+            "id": "gwsn3kb",
+            "score": 1,
+            "text": "Math is constructed based on a system called axioms, but sometimes those axioms are not strong enough to answer every possible question that arise from using them.",
+            "title_similarity": "0.61424434"
+        },
+        {
+            "id": "gwsoa1q",
+            "score": 2,
+            "text": "[Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) proved [through esoteric, but beautiful means](https://en.wikipedia.org/wiki/G%C3%B6del's_incompleteness_theorems) that *any* mathematical theory sufficient to describe arithmetic is (and will always be) incomplete. A theory is a set of axiom (assumptions) and theorems derived (proved) from these axioms. By this he means that one can always come up with a well formed (sensible) statement that can neither be proven nor disproved given the theory so far. So the statement (or it's negation) can be taken as a new axiom without fear of a contradiction. I don't think he gave a method for finding such a statement, but he knew (and now all of us know) that one is out there ... always.",
+            "title_similarity": "0.7125669"
+        },
+        {
+            "id": "gwspi5r",
+            "score": 1,
+            "text": "So do mathematicians try different base number systems if they can't find an answer in one of them? Like I am NOT math literate, I can do basic stuff, but much past basic algebra I'm lost. So I've always wondered if numbers and the way we view them are 'real', or just a way to describe things that does well enough, but because we've settled on this system to describe things, we're never going to find the 'real' reality. Just like we can't see in certain spectrums, we can't think in certain spectrums. So could there maybe be a different numbering or math language out there we don't know about?\n\nSo, is there a possibility that math is NOT a definite subject?",
+            "title_similarity": "0.734773"
+        },
+        {
+            "id": "gwsrd36",
+            "score": 1,
+            "text": "I work in the field of fluid dynamics. There are equations that we use to solve fluid flow. We often approximate them in computers, but they aren't exactly what's being solved. It would be nice to know the exact solution in 3d for even one problem, but we don't. It would also be good to know if there isn't a solution, so that we know the equations are not quite right. Either answer would provide a means of whether we are solving the problems correctly.",
+            "title_similarity": "0.6116952"
+        },
+        {
+            "id": "gwsrgvn",
+            "score": 1,
+            "text": "Math is also strange. Like pi is a number with no known end, but it isn’t infinite. Infinity is weird in general. Infinity, in my opinion, isn’t even real, everything has to have some finite end, except numbers won’t express that. Again, Pi can’t be infinite, but we still express it as a non ending number. The square root of 2 is ‘infinite’ but it’s less than 2 and more than 1, so it isn’t infinite. Numbers and math are things we attach to real things, but they themselves are just labels we use to express real things.",
+            "title_similarity": "0.6597264"
+        },
+        {
+            "id": "gwss7my",
+            "score": 1,
+            "text": "Here is one part of the picture:\n\nQuestion: How come mathematicians do not know your password?\n\nAnswer: They would, if they had the chance *and time* to try all possible passwords one by one and check whether it works.\n\nIndeed you can make a \"proof-generating machine\" that would settle all statements that can be proven in less than N logical steps. Unfortunately, if you let that machine run until the end of the universe, the \"N\" will still be too low for those *interesting* unsolved problems.                        \nBut if you chose your password carelessly, we might access your Reddit account.",
+            "title_similarity": "0.7228923"
+        },
+        {
+            "id": "gwstrqt",
+            "score": 1,
+            "text": "Everybody’s being really specific, but the general ideas is easy. Think of any simple puzzle like a maze or a jigsaw puzzle. It’s very concrete and there’s only one answer, but god damn some jigsaw puzzles are so hard. I have one on my shelf that’s all nearly the same color. The fact that theres only one solution or that it’s easy to check whether a proposed solution is legit doesn’t really help as much as you’d think.\n\nOr even easier. Think back to math problems you’ve struggled with. It probably didn’t help much that you knew a solution was out there. Can you come up with a math problem you can’t solve? It’s probably pretty easy for you to come up with one you can’t solve.",
+            "title_similarity": "0.78667414"
+        },
+        {
+            "id": "gwswppa",
+            "score": 1,
+            "text": "Unsolved problems are basically unanswered questions.\n\nYou dont need to know the answer to ask a question. And sometimes you just cant answer that question yet because it might be wrong or maybe right and sometimes you dont even know what to answer or your answer is not conclusive. Math basically is a set of rules to formulate your answers and if your answer holds to these rules its true.",
+            "title_similarity": "0.6860768"
+        },
+        {
+            "id": "gwt053x",
+            "score": 1,
+            "text": "Read the [Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf). It will be eye opening.\n\nMost people don't even understand what math is. The math we were taught in school is comparable to teaching children musical notation without teaching them how to play an instrument or even letting them hear actual music being played. We've reduced a beautiful and *creative* endeavour to simple arithmetic.",
+            "title_similarity": "0.7798008"
+        },
+        {
+            "id": "gwt18d6",
+            "score": 1,
+            "text": "My personal gripe with math is the concept of zero. In the mathematics world, its accepted as a number and no arguments made. Personally, i don't feel like it truly is a number, and is only a visual representation that a value does not exist; you can't have or hold zero of anything: pencils, apples, oranges etc. Zero is the void, an empty chasm where nothing is somehow represented by something.",
+            "title_similarity": "0.5300805"
+        },
+        {
+            "id": "gwt24cs",
+            "score": 1,
+            "text": "It's a shame that math is taught this way that alienates so many people like you. It's taught in a way so as to create an underclass of wage earners and children sense and resent that.  \n\n\nWhat math actually is, is much more than to earn a wage and to be a cog in a capitalist machine. What math actually is, is the study of patterns. It is to formalize patterns and to put a language to it so that we can talk about patterns to each other. If you see a pattern in nature, like the veins on a leaf or the rough edges of a nation's coastline, you can use math to communicate what you've learned about that pattern to other people.  \n\n\nThat's pretty amazing to communicate the nature of a coastline and the nature of a leaf to people using the same language! It would be called poetry if we used words. But if we use mathematics, we call it fractals. When you see that math is about communicating patterns to each other in a precise way, math can be beautiful and appreciated. I hope that you might give math a second chance and learn to appreciate its beauty sometimes. There are plenty of fun videos on YouTube that teach math in a different and fun way now. Go explore and have fun!",
+            "title_similarity": "0.6944106"
+        },
+        {
+            "id": "gwt2bgz",
+            "score": 1,
+            "text": "It's worth underscoring what's at the heart of a lot of this discussion: math is actually *not* a definite subject with solid answers. Math is a series of assumptions, and a set of tools you can do to useful things given those assumptions.\n\nSometimes those assumptions leave you with incomplete information. Sometimes they create a situation where you want to do something useful, but it's impossible. And sometimes you can get different answers by changing the assumptions. Worst part is, if you're looking into an unsolved problem, it's often impossible to tell whether you just haven't figured out the solution yet, or it's actually impossible to solve given your assumptions. (This last thing is called \"incompleteness\".)\n\nExample: There's an assumption in geometry called the Parallel Postulate, which basically says that two parallel lines are the same distance apart at all points on the number line.(1) This seems pretty obvious. If you assume this is true, then the sum of the angles of a triangle equals 180 degrees. This is taught in schools all across the world.\n\nBut the Parallel Postulate isn't true on the surface of a sphere. Try it -- take a basketball and draw lines on it with a piece of chalk. All straight lines on a sphere intersect. And it turns out that, if you don't have the Parallel Postulate, then the sum of the angles of a triangle *doesn't* equal 180 degrees. On a sphere, it's always larger than 180 degrees.\n\nGuess what we live on. A giant honking sphere. If you cut a piece of paper into a triangle, and then draw a triangle on the ground with lines the same length, they will have different sized angles! (By a very tiny amount, because your triangle occupies a very tiny fraction of the earth.)\n\n(1) Technically what the parallel line postulate says is that, if you have a line and a point not on the line, there is exactly one line that passes through the point but not through the original line. On a sphere, there are zero.",
+            "title_similarity": "0.75631726"
+        },
+        {
+            "id": "gwt7vp2",
+            "score": 1,
+            "text": "I think with all the answers you've gotten you've got a bit of an idea already. But let me just add, take the math problems (equations) you've encountered in school. They're the kind where we know how to solve them. Then there are similar ones where we know that we can't solve them unless we get lucky. And then there are very many where we don't know if we could solve them. We can't currently but we might. Or we might not. Or we might be able to figure some things out, like this equation has exactly two solutions. And for many (kinds of) equations we've just not yet been able to figure out a way to do just because it's so hard.",
+            "title_similarity": "0.85276866"
+        },
+        {
+            "id": "gwt94m5",
+            "score": 1,
+            "text": "If you are genuinely interested in this topic you should follow 3 blue 1 brown on YouTube he has lots of unsolved mathematical conjectures on his channel and it's very interesting",
+            "title_similarity": "0.6868834"
+        },
+        {
+            "id": "gwt9mtk",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "-0.0316602"
+        },
+        {
+            "id": "gwt9twh",
+            "score": 1,
+            "text": "Solid answers doesn't mean all answers have been found yet.\n\n(In addition to all the other great answers here)",
+            "title_similarity": "0.59589684"
+        },
+        {
+            "id": "gwtbc7b",
+            "score": 1,
+            "text": "It's instructive to actually walk through a simple proof to see how it works.\n\nSo you might learn about prime numbers and wonder: How many primes are there? Do they keep showing up as long as there are more numbers (infinite), or do they \"run out\" at some point?\n\nIf you think about this question for a bit, you should be able to convince yourself that it's a good one, i.e., it's \"not obvious\" one way or the other. As you go farther and farther down the number line, it *could* be the case that you finally get to a point where you collect enough primes behind you that you can just make every number going forward.\n\nA parallel example: What scores are impossible in American football? Obviously there's no way to score 1. The amounts you can score are: 2 (safety), 3 (field goal), 6 (touchdown), 7 (touchdown + extra point), and 8 (touchdown + two-point conversion). So are there are scores not possible?\n\nFirst we notice that we don't really need to concern ourselves with all of these values. In fact, every way to directly score, 2, 3, 6, 7, and 8, can be narrowed down to just safeties and field goals because we can make 6, 7, and 8 by just adding 2's and 3's. So the real question being asked here is: Is every number a sum of some combination of 2's and 3's? It turns out that, yes, you can sum 2's and 3's to any positive number on the number line except 1.\n\nDo we get to a point where this same thing holds for multiplication? At some point, do we collect enough primes that we can combine them via multiplication in ways that there's no \"room\" on the number line for any further primes?\n\nLet's assume that the number of primes are finite, and furthermore, let's assume that we have a list of all of them. If we multiply them all together, we get some composite number with all known primes as factors. Let's take this value and add one to it to get a new number.\n\nIs this number prime? Yes, it is. If we divide by any known prime in our list, we end up with a remainder of 1, so it doesn't divide evenly by any known prime, therefore it's not composite.\n\nSo we've just found a new prime that wasn't in our list. This means that no matter how big our list of known primes is, we have a way of constructing a new prime that's definitely not in the list. This means that there must be an infinite number of them since we have found a way to produce a new one.\n\nHopefully this example gives some insight into how mathematical proofs work, even though we start from a set of fixed rules, that doesn't immediately shine line into every corner of every room in the house.\n\n(Another thing you might be interested to read about is Russell & Whitehead's attempt to prove that all of mathematics is a closed and complete system, which was abandoned when Gödel came along and showed that it's not. It turns out in any system of rules that is not \"simple,\" you can always ask a question that cannot be answered without adding more rules.)",
+            "title_similarity": "0.6975653"
+        },
+        {
+            "id": "gwtkrl4",
+            "score": 1,
+            "text": "The math problems that go unsolved are actually conjectures. Someone makes a claim, and then people try to prove the claim is either true or false. The claim generally begins with the words \"for all\" or \"every\" or \"no _____ exists such that _____\", e.g. \"EVERY even number greater than 2 is the sum of two primes.\"\n\nTherefore, the \"problem\" can't be \"solved\" by applying a formula. And if the conjecture is true, then it can't be proven with examples. Instead, the proof must reveal a fact about the *structure* of a mathematical theory. To get there, you have to probe and examine the structure while it's all in your imagination. This is hard when the structure is complex.\n\nA mathematical theory is a language, a system of rules of logic, and a set of true statements called \"theorems\". Some theorems are just declared to be true (\"axioms\"); other theorems are true as a consequence of the rules of logic. For example, number theory begins with axioms like \"for all integers x and y, x+y = y+x\" and contains theorems like \"there is no greatest prime number.\"\n\nImagine the theory as a web, where the theorems are points, and arrows from point to point represent steps allowed by the theory's rules of logic. A proof of a theorem is a description of a chain of arrows to it from the axioms.* Sometimes, the shortest path to a theorem is a long and meandering one. To describe such a path, you have to be creative and prove many seemingly unrelated theorems along the way.\n\nAny theory with enough axioms and enough rules of logic to be interesting contains infinitely many theorems, and for any theorem, there's another theorem that's even harder to prove. So it's not surprising that there are unsolved problems (read: unproven conjectures) in math. People come up with enormous amounts of conjectures and it's only Murphy's law that some of them are hard to prove.\n\nThe real surprise is *which* conjectures remain unproven after many years of attempts. Especially in number theory, where they are often seemingly simple statements in layman's terms.\n\nA surprisingly difficult conjecture occurs when:\n\n- The language of a theory allows complexity to be hidden away in a statement that's succinct enough for people to understand and be curious about it\n- the path to the conjecture (or its negation) is on a branch that's far away from all the other theorems discovered so far\n- the web is sparse, i.e. there are not many shortcuts from branch to branch (proofs tend to rely on these shortcuts)\n- humans lack the intuition to imagine what the path would look like or what the first steps would be\n\nBut *why*, for example, is Goldbach's conjecture in that category but not Euclid's theorem, when they're both universal statements about prime numbers? That's still a mystery to me.\n\n\\* This is a philosophical statement. In practice, a proof is just an argument that such a path exists, and since it's written to persuade an educated human audience who can fill in the blanks, the proof is very abbreviated. But still, the longer the path is from the axioms, the harder it is to demonstrate the path's existence.",
+            "title_similarity": "0.68711567"
+        },
+        {
+            "id": "gwvb0ho",
+            "score": 1,
+            "text": "There are quite literally problems that can't be solved some of which you can prove can't be solved. Physics is a field that prides itself on precission, but many theories depend on approximations because if they didn't, the problem would either be incredibly inconvenient to solve exactly if not impossible.",
+            "title_similarity": "0.6345922"
+        },
+        {
+            "id": "gwwkmeq",
+            "score": 1,
+            "text": "We are expected to have a never ending mathematical inquiry. \n\nJust like in science, we do not have all the answers. Indeed mathematicians attempted to formalize all of mathematics in a single formal theory. Indeed if there is a formal system that is recursively axiomatizable, consistent and powerful enough to prove every mathematical theorem then we can obtain every mathematical result by simply enumerating the consequences of these axioms. However, it has been proven by Kurt Godel that whenever your formal system is recursively axiomatizable (everything useful is) , omega-consistent and strong enough to represent the primitive recursive functions (which is a subset of arithmetically definable functions via theorem 7 of Godel’s paper) then there must be a perfectly constructible sentence “g” such that neither g nor its negation is a theorem of the formal theory. \n\nIn other words, for natural numbers alone we cannot have a negation complete theory we desire. For whenever our theory is powerful enough to represent all pr functions, and is recursively axiomatizable and consistent, Godel-Rosser Incompleteness applies..",
+            "title_similarity": "0.7471367"
+        },
+        {
+            "id": "gwyqavu",
+            "score": 1,
+            "text": "Math in primary school is arithmetic, which generally focuses on how to count things and solve for unknown quantities using known quantities. Calculus, which is the culmination of this, is basically a set of tools which allow you to calculate things (rates of change, areas under curves of functions, limits and sums of sequences and series of numbers, etc., all while introducing you to the concept of *infinity*). \n\nWhen you get into more advanced mathematics at the college level and beyond, you learn that primary and secondary school math are giving you tip of the iceberg; mathematics is really about the *relationships* between general objects that can be *proved*. In layman’s terms, this means that these relationships are *deduced* using logical arguments about their properties, which themselves have already been proved using deductive logical reasoning. \n\nMathematics in its pure form is really about *discovering new properties of mathematical objects* and, in concert, *proving them to be true using known properties that comprise other mathematical results.* It’s a subject which builds on itself. The more you learn, the more there is to know, and the more you can use to discover new properties about these objects. “Unsolved problems” in this sense can mean *properties that may or may not be true, until someone comes along and proves them to be true (or not).*  \n\nThe simple things you learn in primary and secondary mathematics education are the very simple properties that are easy to grasp and allow you to compute things in every day life.\n\n Examples:\n\n1) High school algebra, for example, entails the most basic properties of simple relationships between mathematical objects and how to manipulate those relationships. This is a body of knowledge that can be described much more generally and abstractly (a field of mathematics known, not surprisingly, as *abstract algebra*), which has a much wider meaning to mathematicians. It focuses less on calculating things and more on the underlying properties and relationships of the objects we calculate with, where they are viewed as specific instances of more general structures. \n\n2) High school calculus involves learning the basic tools of a branch of mathematics known as *analysis* to mathematicians. You are taught what properties of continuous functions are, and how to compute things with them, and what happens when things get really really BIG or really really SMALL. In essence, it’s about how to approximate objects with other objects.  But these properties are only valid because a mathematician *proved* them to be using deductive logic.\n\nIf you’ve taken high school geometry, you probably did a brief section on proofs. Ironically, this is closer to the type of thing a professional mathematician does than anything else you may have learned in school, because it’s one of the few times you’re exposed to the basic process of deductive reasoning as it is used by mathematicians.\n\nI hope this helps a little.",
+            "title_similarity": "0.7486663"
+        },
+        {
+            "id": "gwzzc8i",
+            "score": 1,
+            "text": "Many of the mathematical problems that remain unsolved are applied mathematics, meaning they involve real-world concepts presented in a mathematical context, usually asking to solve an impossibility that can only exist outside of the real world, as a concept. One of the best examples of this is the Banach-Tarski paradox, which is a paradox that facilitates the creation of two identical copies of an object from the rearrangement of one of the object. Obviously, this is theorized to be impossible to replicate in the real world due to the funamental laws of the universe, namely the Law of Conservation of Mass. Vsauce made a great video on this paradox too:\n\n[https://www.youtube.com/watch?v=s86-Z-CbaHA](https://www.youtube.com/watch?v=s86-Z-CbaHA)",
+            "title_similarity": "0.66003346"
+        },
+        {
+            "id": "gx3604i",
+            "score": 1,
+            "text": "It’s not a definitive science; in fact, there is a whole genre of mathematics dedicated to indefinite and irrational numbers, including: imaginary numbers, irrational fractions, square roots, infinity, logarithms, etc.\n      that long “best answer” submitted by r/spacetime9 is extremely wordy with little context. to sum up what he said in one sentence: what looks like impossible/irrational math can simplified since the solutions using converge or diverge to a rational fixed number or infinity. \n         think of it this way. for our real world applications, we only a couple numbers available to us. between 0 and 1, there is an infinite set of numbers i.e: 1/2, 5/13, 1/3, 0.63, square root of 2, 1/2^2, etc. once this is considered, there are many more possible ways for the answer to look confusing and ridiculous, then there is answers that look familiar to us. these ridiculous solutions can always be simplified or rounded for convenience and simplicity, which is often done.  \n     Arguably, there is so much more in math waiting to be discovered or simplified. the only hold back is all the easy discoveries have been done. a brand new discovery today would take years and years of freehand or excessively complex equations/expressions done by computer. can you figure out the next equation/expression?",
+            "title_similarity": "0.73590326"
+        },
+        {
+            "id": "gxmx3pn",
+            "score": 1,
+            "text": "somone maths genius please explain\n\nso if u hafe an casino whit 1/3 chances to win basicly all the money u put in is : 3 but\n\nwhat if u put in 10 dollars and u lose then u put in 20 then 40 if u win by 40 u lost 30 dollars and u got 10 dollar profit and that contious u always make the first amout u put in\n\nu can try this out just start 1hit 10 and dubbel each time u loose \n\nbut why is it than in 1 situation u loos 2/3 of your money and in the other u always make money \n\n&#x200B;\n\nplease let me know",
+            "title_similarity": "0.5651046"
+        },
+        {
+            "id": "gz4amqj",
+            "score": 1,
+            "text": "I present you - [https://www.youtube.com/watch?v=HeQX2HjkcNo](https://www.youtube.com/watch?v=HeQX2HjkcNo)  \n\n\nVeritasium and his team literally did a god job with this video. Plus, it also helps with your question.",
+            "title_similarity": "0.53126997"
+        }
+    ]
+}

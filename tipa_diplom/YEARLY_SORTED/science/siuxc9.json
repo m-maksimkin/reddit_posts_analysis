@@ -1,0 +1,3812 @@
+{
+    "Engineers have created a new material that is stronger than steel and as light as plastic, and can be easily manufactured in large quantities. New material is a two-dimensional polymer that self-assembles into sheets, unlike all other one-dimensional polymers.\n": [
+        {
+            "id": "hvay0kw",
+            "score": 1,
+            "text": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are now allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will continue be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) still apply to other comments.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "title_similarity": "0.3898784",
+            "sentiment_compound": 0.7088
+        },
+        {
+            "id": "hvb4do1",
+            "score": 1,
+            "text": "Not literally 2D, right? If you stack layers of something with zero thickness you still have zero thickness(?).",
+            "title_similarity": "0.37811834",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvaz7pr",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "0.04300349"
+        },
+        {
+            "id": "hvbcehg",
+            "score": 4,
+            "text": "This is going to transform air travel",
+            "title_similarity": "0.34591115",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbcflw",
+            "score": 0,
+            "text": "If it's a polymer you don't have to say it's \"as light as plastic.\"  It already is plastic, no?\n\nThe article itself seems to understand this, at least.\n\nI guess, \"materials engineers invent new form of plastic,\" isn't going to go down as well these days....",
+            "title_similarity": "0.6914292",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hvbctod",
+            "score": 1,
+            "text": "Lame ass one-dimensional polymers, those suck.",
+            "title_similarity": "0.31116676",
+            "sentiment_compound": -0.8481
+        },
+        {
+            "id": "hvbdlwj",
+            "score": 0,
+            "text": "Transparent Aluminum? \n\nMr. Scott!…",
+            "title_similarity": "0.49639696",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbdnh5",
+            "score": 0,
+            "text": "So...\n\nTransparent aluminum?",
+            "title_similarity": "0.48419976",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbg5wy",
+            "score": 1,
+            "text": "If it’s not compostable. The world doesn’t need it, unless it’s used in space.",
+            "title_similarity": "0.32647592",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvb4lu2",
+            "score": 0,
+            "text": "How does it deal with heat?",
+            "title_similarity": "0.15923637",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbslnx",
+            "score": 0,
+            "text": "How can it be 2D in a 3D world?",
+            "title_similarity": "0.36012924",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbbybd",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvbdpkd",
+            "score": -1,
+            "text": "Wow this going to go nowhere",
+            "title_similarity": "0.09797393",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "hvbdt7m",
+            "score": 1,
+            "text": "So what you're saying is they've just invented plas-steel?",
+            "title_similarity": "0.4992421",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvctqrv",
+            "score": 1,
+            "text": "Or we could just use hemp instead of polymers",
+            "title_similarity": "0.38982332",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvaz83c",
+            "score": 31,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvb848x",
+            "score": -1,
+            "text": "There’s a similar new product I think it’s called graphine but it’s planned to make clean hydrogen and could support an elevator to space",
+            "title_similarity": "0.5332742",
+            "sentiment_compound": 0.7964
+        },
+        {
+            "id": "hvbfmft",
+            "score": 37,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvbdzg5",
+            "score": 6,
+            "text": "That’s such an incredible invention, that we are not going to hear about it ever again.",
+            "title_similarity": "0.33716106",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbensf",
+            "score": 14,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvbh0if",
+            "score": 2,
+            "text": "Ah yes, a material that will never leave the lab.",
+            "title_similarity": "0.33796746",
+            "sentiment_compound": 0.4306
+        },
+        {
+            "id": "hvbi6x7",
+            "score": -2,
+            "text": "Too funny. Start working on a cure geniuses.",
+            "title_similarity": "0.4072149",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hvbiaxp",
+            "score": 0,
+            "text": "Great gas mileage on a car made of this stuff...Ford will go away from the aluminum truck.",
+            "title_similarity": "0.4609993",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "hvburgv",
+            "score": 0,
+            "text": "Arent most polymers toxic tho?",
+            "title_similarity": "0.44092804",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc1dlc",
+            "score": 0,
+            "text": "Man I want to get into materials engineering but I hated chem 1 and 2...",
+            "title_similarity": "0.35794434",
+            "sentiment_compound": -0.7684
+        },
+        {
+            "id": "hvcb24q",
+            "score": 0,
+            "text": "But really how strong is steel in a 2d form? Not very strong so that's really not saying much.",
+            "title_similarity": "0.464418",
+            "sentiment_compound": 0.2475
+        },
+        {
+            "id": "hvciye6",
+            "score": 0,
+            "text": "Transparent aluminum anyone?",
+            "title_similarity": "0.44166738",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvckneb",
+            "score": 0,
+            "text": "And we'll never see this again",
+            "title_similarity": "0.05321658",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcksnp",
+            "score": 0,
+            "text": "The actual question should be is it affordable?",
+            "title_similarity": "0.2642599",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvckw2p",
+            "score": 0,
+            "text": "How long till we can 3d print with it?",
+            "title_similarity": "0.44788477",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcliec",
+            "score": 0,
+            "text": "I thought that 2d objects couldn't exist in our universe.",
+            "title_similarity": "0.29137886",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvclu3p",
+            "score": 0,
+            "text": "So are we headed into the polymer age? Not trying to be funny but if it’s as good as they say idk why it wouldn’t replace metals in a lot of cases.",
+            "title_similarity": "0.51674265",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "hvcmmfx",
+            "score": 0,
+            "text": "Now lets see if it passes the test of time.",
+            "title_similarity": "0.23371214",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hve7y11",
+            "score": 0,
+            "text": "Thanks to Biden, the Chinese now own the patent.",
+            "title_similarity": "0.445759",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hvbeew1",
+            "score": -1,
+            "text": "We definitely need more things that the environment can’t degrade and are easy to mass produce",
+            "title_similarity": "0.6718749",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hvbtzox",
+            "score": 1,
+            "text": "But can I easily and efficiently recycle it?",
+            "title_similarity": "0.5021454",
+            "sentiment_compound": 0.7684
+        },
+        {
+            "id": "hvcdok9",
+            "score": 1,
+            "text": "I NEED to know what company(ies) will be manufacturing this",
+            "title_similarity": "0.34688395",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcit17",
+            "score": 1,
+            "text": "Is it going to wreck the environment?",
+            "title_similarity": "0.12258932",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "hvcjs5o",
+            "score": 1,
+            "text": "Can we say something besides 2D.  Not even atoms are 2D.",
+            "title_similarity": "0.36330545",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvck47t",
+            "score": 1,
+            "text": "So can we do a space elevator now?",
+            "title_similarity": "0.37217584",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvckfv5",
+            "score": 1,
+            "text": "yeah cause the micro plastic is now showing up in babies, human babies are now showing signs of microplastics, this is how we die, so lets make more",
+            "title_similarity": "0.32314146",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hvcki2q",
+            "score": 1,
+            "text": "How biodegradable is it?",
+            "title_similarity": "0.40085685",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcloqr",
+            "score": 1,
+            "text": "How long will it float in the ocean for - does it biodegrade quicker?",
+            "title_similarity": "0.3098144",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcmxh7",
+            "score": 1,
+            "text": "Great, so what horrible health and environmental issues is this going to cause years later?",
+            "title_similarity": "0.1811859",
+            "sentiment_compound": 0.0828
+        },
+        {
+            "id": "hvbdux5",
+            "score": -2,
+            "text": "One step closer to vibranium",
+            "title_similarity": "0.39185408",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbdzgj",
+            "score": 2,
+            "text": "One of the major challenges to using something like this for larger structures is that fire resistance is a major part of the design considerations. Polymers have typically fared very poorly in this regards, and fire retardant coatings are no picnic for the environment either.\n\nBetween the fire issues and the environmental impacts of these new polymers in our environment throughout their lifecycles, it will require a lot of testing and research to understand what its impacts might be but also where they may be most useful and effective (if at all).",
+            "title_similarity": "0.5249537",
+            "sentiment_compound": 0.801
+        },
+        {
+            "id": "hvcam92",
+            "score": 2,
+            "text": "How about elasticity and cycling. Can it withstand as much as steel? Perhaps it's time to shout \"warp speed 4 mr sulu\"",
+            "title_similarity": "0.5904665",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvccm6q",
+            "score": 2,
+            "text": "That sounds really great - but my first thought was “can it be recycled?”",
+            "title_similarity": "0.37727356",
+            "sentiment_compound": 0.4012
+        },
+        {
+            "id": "hvcm4um",
+            "score": 2,
+            "text": "Canoes in the future are going to be amazing.",
+            "title_similarity": "0.43259728",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "hvbdsf3",
+            "score": 4,
+            "text": "is it sustainable tho?",
+            "title_similarity": "0.2825524",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbzq93",
+            "score": 3,
+            "text": "I’m tired of hearing about “new revolutionary discoveries” every other day that bear no fruit whatsoever. I swear like 95% of these “breakthroughs” are just clickbait :/",
+            "title_similarity": "0.33766",
+            "sentiment_compound": -0.6369
+        },
+        {
+            "id": "hvbeov3",
+            "score": 11,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvaz5u3",
+            "score": 31,
+            "text": "So it’s 2D? Forgive my pea sized brain but could someone explain to me how we create that into 3D materials",
+            "title_similarity": "0.42660993",
+            "sentiment_compound": 0.5158
+        },
+        {
+            "id": "hvba5s3",
+            "score": 21,
+            "text": "[removed]",
+            "title_similarity": "0.04300349"
+        },
+        {
+            "id": "hvb63xy",
+            "score": 267,
+            "text": "Surprised no one’s mentioned transparent aluminum yet!",
+            "title_similarity": "0.32195565",
+            "sentiment_compound": -0.1511
+        },
+        {
+            "id": "hvbfb22",
+            "score": 42,
+            "text": "This feels like one of the many supermaterials that get discovered, written in a new gazette, and completely forgotten in a week",
+            "title_similarity": "0.33480284",
+            "sentiment_compound": 0.079
+        },
+        {
+            "id": "hvaync6",
+            "score": 64,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvb6gdv",
+            "score": 3091,
+            "text": "What happens to it in a landfill, or an ocean?",
+            "title_similarity": "0.14568675",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbmjc4",
+            "score": 35,
+            "text": "We've made a material that's stronger than steel!* (*into spin-coated films)\n\nThe nature of the beast is that researchers need buzzwords and a little bit of overhype to sell these things to media teams, so it's always advisable to take a pinch of salt and remember how much work needs to go into translating the technology into the every day world. Take carbon nanotubes: they were sold as almost miraculously strong, but getting on for decades later, carbon nanotube nanocomposites are not replacing traditional composites to any large extent (apart for certain more specialist applications e.g. conductivity).",
+            "title_similarity": "0.58210623",
+            "sentiment_compound": 0.6959
+        },
+        {
+            "id": "hvbg7ml",
+            "score": 58,
+            "text": "I read the headline and was thinking 40k \"plasteel\" but this could actually be revolutionary, airtight incredibly durable plastic sheets, this could be the space suit of the future.\n\nEdit: It's plastic... *will it print?*..",
+            "title_similarity": "0.6058036",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbgpsz",
+            "score": 247,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvbj6ns",
+            "score": 57,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvb2e12",
+            "score": 2043,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvbp8tu",
+            "score": 445,
+            "text": "I've seen posts like this 2 to 3 times a year for 10+ years on reddit and yet here we are, in 2022, still using steel and plastic and none of these cool new tech materials are mass produced",
+            "title_similarity": "0.3721876",
+            "sentiment_compound": 0.1376
+        },
+        {
+            "id": "hvcfv4m",
+            "score": 35,
+            "text": "Stronger than steel is a a buzzword (buzzterm?) that doesn't really mean anything. \n\nPlus there are thousands of different variants of steel with different properties, generic \"steel\" doesn't exist.\n\nEven if we did have a generic steel to compare this to and the material had greater tensile strength for less weight, what about all the other properties of steel? Does this stuff compress, does it perform poorly or in unpredictable ways when subjected to heat/cold, does it degrade in sunlight, does it corrode, can it be recycled as easily as steel?\n\nThere is a reason that these wonder materials that appear every year never go anywhere",
+            "title_similarity": "0.6165837",
+            "sentiment_compound": 0.8095
+        },
+        {
+            "id": "hvayqbe",
+            "score": 56,
+            "text": "**Abstract**\n\nPolymers that extend covalently in two dimensions have attracted recent attention as a means of combining the mechanical strength and in-plane energy conduction of conventional two-dimensional (2D) materials with the low densities, synthetic processability and organic composition of their one-dimensional counterparts. Efforts so far have proven successful in forms that do not allow full realization of these properties, such as polymerization at flat interfaces or fixation of monomers in immobilized lattices. Another frequently employed synthetic approach is to introduce microscopic reversibility, at the cost of bond stability, to achieve 2D crystals after extensive error correction. Here we demonstrate a homogenous 2D irreversible polycondensation that results in a covalently bonded 2D polymeric material that is chemically stable and highly processable. Further processing yields highly oriented, free-standing films that have a 2D elastic modulus and yield strength of 12.7 ± 3.8 gigapascals and 488 ± 57 megapascals, respectively. This synthetic route provides opportunities for 2D materials in applications ranging from composite structures to barrier coating materials.\n\n[Original source](https://www.nature.com/articles/s41586-021-04296-3)",
+            "title_similarity": "0.70577544",
+            "sentiment_compound": 0.9364
+        },
+        {
+            "id": "hvay6co",
+            "score": 834,
+            "text": "Irreversible synthesis of an ultrastrong two-dimensional polymeric material\n\nhttps://www.nature.com/articles/s41586-021-04296-3",
+            "title_similarity": "0.53461725",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "hvb46p4",
+            "score": 546,
+            "text": "They say it can be easily mass manufactured, but how much does it cost?",
+            "title_similarity": "0.6472453",
+            "sentiment_compound": 0.1779
+        },
+        {
+            "id": "hvbi12a",
+            "score": 5017,
+            "text": "I was a little confused by this. The article states previously thought impossible but there are plenty of 2D polymers. I have a PhD in polymer chemistry, am I missing something here or is that jarg science journalism?",
+            "title_similarity": "0.47935212",
+            "sentiment_compound": -0.5112
+        },
+        {
+            "id": "hvb7bgv",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvbdh1r",
+            "score": 2,
+            "text": "Whats it cost compared to steel and plastic?",
+            "title_similarity": "0.43507582",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbdk7e",
+            "score": 3,
+            "text": "Yeah, but what's it's yield curve look like?",
+            "title_similarity": "0.16844544",
+            "sentiment_compound": 0.5927
+        },
+        {
+            "id": "hvbdpop",
+            "score": 1,
+            "text": "Hell yeah this is the future\nWhat's its heat conductivity like?",
+            "title_similarity": "0.20771432",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "hvbe6b8",
+            "score": 5,
+            "text": "Everyone. Guess the “Buts” of this type of material.",
+            "title_similarity": "0.32336447",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbefps",
+            "score": 1,
+            "text": "I should have really paid attention in my PolySci class. I don't remember the prof mentioning anything about this.",
+            "title_similarity": "0.34036028",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbezcl",
+            "score": 1,
+            "text": "Is it like invisibility and teleportation that scientists have invented; which is applicable in submolecular/atomic scale, but has no real life application?\n\nOr is it like the diabetes cure, HIV vaccination, that cure for cancer which doesn’t have significant side effects?",
+            "title_similarity": "0.45220393",
+            "sentiment_compound": -0.6199
+        },
+        {
+            "id": "hvbfudv",
+            "score": 1,
+            "text": "Don't suppose it could be made transparent?",
+            "title_similarity": "0.18538645",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbh7zc",
+            "score": 1,
+            "text": "Can I put it in a 3d printer?",
+            "title_similarity": "0.4097119",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbhb5z",
+            "score": 3,
+            "text": "This sounds like a great material for dirigibles and/or blimps - it's light and will never leak helium or hydrogen.",
+            "title_similarity": "0.5702771",
+            "sentiment_compound": 0.8242
+        },
+        {
+            "id": "hvbhi51",
+            "score": 1,
+            "text": "How toxic is it, or is it's manufacture?",
+            "title_similarity": "0.22831586",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbhihb",
+            "score": 1,
+            "text": "Nice! I’ll likely never hear of this again.",
+            "title_similarity": "0.11661513",
+            "sentiment_compound": 0.4753
+        },
+        {
+            "id": "hvbi5zu",
+            "score": 2,
+            "text": "Problem is there's already people making way more money off the lesser stuff, so good luck trying to get it to catch on.",
+            "title_similarity": "0.47343245",
+            "sentiment_compound": 0.6508
+        },
+        {
+            "id": "hvbibnu",
+            "score": 2,
+            "text": "What is the elastic modulus of the material?",
+            "title_similarity": "0.38893324",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbim4m",
+            "score": 1,
+            "text": "Transparent Aluminum? Scotty?",
+            "title_similarity": "0.48667955",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbimha",
+            "score": 1,
+            "text": "Finally a building cladding that won't go up in flames and isn't asbestos.",
+            "title_similarity": "0.51956224",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbjg2b",
+            "score": 1,
+            "text": "If it sounds too good to be true...",
+            "title_similarity": "0.2897337",
+            "sentiment_compound": 0.6908
+        },
+        {
+            "id": "hvbjwkd",
+            "score": 1,
+            "text": "Sorry but another polymer in mass uncontrollable global production is probably least we all need, especially that our previous wonderful invention, now in form of micro plastic is present literally everywhere…",
+            "title_similarity": "0.6967306",
+            "sentiment_compound": 0.3919
+        },
+        {
+            "id": "hvbkraz",
+            "score": 1,
+            "text": "Could this be the answer for a space elevator?",
+            "title_similarity": "0.30600053",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbkyty",
+            "score": 1,
+            "text": "I would be concerned with how readily sections of it can be repaired / joined. A material with excellent strength-to-weight ratio is largely useless for large construction where modification or repairs are expected over the structure's lifetime. Yes, you could build a completely modular bridge based around rivets or threaded fasteners, but that raises its own issues.",
+            "title_similarity": "0.61250687",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hvbl4ve",
+            "score": 1,
+            "text": "Chinese stole the IP yet?",
+            "title_similarity": "0.21277812",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbl957",
+            "score": 1,
+            "text": "Don't have access to nature, what are the monomers units? Is this process generalizable to many or all monomers or is it referring to a specific monomer that is specially capable of polymerization in two dimensions?",
+            "title_similarity": "0.5408604",
+            "sentiment_compound": 0.4515
+        },
+        {
+            "id": "hvbl9xv",
+            "score": 1,
+            "text": "Tech that is out of this world.",
+            "title_similarity": "0.22157693",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbljvh",
+            "score": 1,
+            "text": "not another microplastics please?",
+            "title_similarity": "0.20672846",
+            "sentiment_compound": -0.2411
+        },
+        {
+            "id": "hvblp34",
+            "score": 2,
+            "text": "Everyone worried about the recyclability of it, but i think this can be a very good thing environmentally, in different ways. \n\nFor example, this could be used in the aviation sector. Lighter planes use less fuel, carry more per flight, and can go a lot further without needing to land for maintenance and utilities work. That all results in lots of less emissions, and cheaper goods, AND THATS ONLY ONE USE. The same logic applies to cargo ships.",
+            "title_similarity": "0.55353653",
+            "sentiment_compound": 0.5704
+        },
+        {
+            "id": "hvblwep",
+            "score": 1,
+            "text": "Is it better than graphene?",
+            "title_similarity": "0.4640849",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hvbm3zv",
+            "score": 1,
+            "text": "Look at how much cancer we can fit into this bad boy",
+            "title_similarity": "0.29140922",
+            "sentiment_compound": -0.7506
+        },
+        {
+            "id": "hvbm406",
+            "score": 1,
+            "text": "Yeah, right. This is like one of those cancer cures that never happens.",
+            "title_similarity": "0.28928772",
+            "sentiment_compound": -0.1779
+        },
+        {
+            "id": "hvbm8iq",
+            "score": 1,
+            "text": "What does this mean for me as a consumer? What will I use it for in DIY projects and how much will it cost?",
+            "title_similarity": "0.256656",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbmg6i",
+            "score": 1,
+            "text": "My question is: is it recyclable? What are its long term implications for the ecology if used at scale?",
+            "title_similarity": "0.2615936",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbmwck",
+            "score": 1,
+            "text": "Can it be recycled though?",
+            "title_similarity": "0.2635029",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbn61b",
+            "score": 1,
+            "text": "Any takers on how long before they make dildos out of it?",
+            "title_similarity": "0.25019103",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbnfev",
+            "score": 1,
+            "text": "Oh good, a plastic that's even more indestructible than the ones we already have. Just what the world needs.",
+            "title_similarity": "0.5971396",
+            "sentiment_compound": 0.5849
+        },
+        {
+            "id": "hvbnm5n",
+            "score": 2,
+            "text": "Specialized will now be able to sell some bikes made out of this material.  $30,000 price tag or course.",
+            "title_similarity": "0.4123581",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbnnc6",
+            "score": 1,
+            "text": "So it's stronger than steel, but is it heavier than the feathers?",
+            "title_similarity": "0.5654954",
+            "sentiment_compound": 0.2357
+        },
+        {
+            "id": "hvbnpfz",
+            "score": 1,
+            "text": "Duraplast? They made Duraplast!",
+            "title_similarity": "0.36712456",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbnynb",
+            "score": 1,
+            "text": "How long until we find out about all the ways exposure to it can kill us?",
+            "title_similarity": "0.23112479",
+            "sentiment_compound": -0.6908
+        },
+        {
+            "id": "hvbo2me",
+            "score": 1,
+            "text": "Ah yes the creation of the famous plassteel from RimWorld, Dune, and Starwars.. we truly are living the scifi life",
+            "title_similarity": "0.38912037",
+            "sentiment_compound": 0.7717
+        },
+        {
+            "id": "hvbo9fj",
+            "score": 1,
+            "text": "What is it’s heat resistance?",
+            "title_similarity": "0.1982157",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbo9w8",
+            "score": 1,
+            "text": "Nothing here says it's cheap to make...",
+            "title_similarity": "0.2894947",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbop6b",
+            "score": 1,
+            "text": "So a new type of plastic then?  Just what the world needs.",
+            "title_similarity": "0.57526934",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbowk6",
+            "score": 1,
+            "text": "Can't wait to have to pay to clean that out of the ocean and our water supplies.",
+            "title_similarity": "0.3174382",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hvboxpz",
+            "score": 1,
+            "text": "Oh nice so expect to never actually see it!",
+            "title_similarity": "0.118517436",
+            "sentiment_compound": 0.4753
+        },
+        {
+            "id": "hvbpen4",
+            "score": 1,
+            "text": "I'll add this to Plasteel and Carbon Nanotubes and just put it in the drawer over here.",
+            "title_similarity": "0.4309129",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbpjic",
+            "score": 1,
+            "text": "\"The new material is a two-dimensional polymer that self-assembles into sheets, unlike all other polymers, which form one-dimensional, spaghetti-like chains. Until now, scientists had believed it was impossible to induce polymers to form 2D sheets.\"\n\nHow does a one-dimensional spaghetti-like chain work?",
+            "title_similarity": "0.7399752",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbpn6b",
+            "score": 1,
+            "text": "Melamine is typically made using urea...I wonder if we will ever use bioreactors to create urea?  That would be awesome.",
+            "title_similarity": "0.42097157",
+            "sentiment_compound": 0.7351
+        },
+        {
+            "id": "hvbpo1u",
+            "score": 1,
+            "text": "So, if I understand this correctly, what they're saying is that the difference, compared to a normal polymer, is that the normal one is a string of molecules, while this new one is a sheet instead ?",
+            "title_similarity": "0.5999876",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbprkf",
+            "score": 1,
+            "text": "Will they call it Adamantium?",
+            "title_similarity": "0.30326256",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbpvcu",
+            "score": 1,
+            "text": "Stop giving us more items to codify, the books are already large and we aren't paid well. -structural engineer",
+            "title_similarity": "0.35632867",
+            "sentiment_compound": -0.1566
+        },
+        {
+            "id": "hvbpxuy",
+            "score": 1,
+            "text": "get ready to never hear about it again...",
+            "title_similarity": "0.022122826",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvbq1wy",
+            "score": 1,
+            "text": "Cool! We need more plastics.",
+            "title_similarity": "0.5877194",
+            "sentiment_compound": 0.3802
+        },
+        {
+            "id": "hvbq7i3",
+            "score": 1,
+            "text": "Just what the world needed ‘PLASTIC’, Gee Thanks!",
+            "title_similarity": "0.44595844",
+            "sentiment_compound": 0.4926
+        },
+        {
+            "id": "hvbqhcs",
+            "score": 1,
+            "text": "Engineer Scotty is at it again! Someone check if more whales are missing from San Francisco.",
+            "title_similarity": "0.24747774",
+            "sentiment_compound": -0.4129
+        },
+        {
+            "id": "hvbqiqt",
+            "score": 1,
+            "text": "But can it be recycled?",
+            "title_similarity": "0.23408255",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbrads",
+            "score": 1,
+            "text": "Real question… is it biodegradable or sustainable? Last thing we need is another product finding it’s way into our oceans and streams or filling our landfills.",
+            "title_similarity": "0.4036489",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbrd5b",
+            "score": 1,
+            "text": "Okay and like only rich rich people will use it. What about AFFORDABLE new Materials",
+            "title_similarity": "0.53177893",
+            "sentiment_compound": 0.891
+        },
+        {
+            "id": "hvbrvas",
+            "score": 1,
+            "text": "With these materials, it seems like they develop them quite often, however I rarely see them applied. I am not a specialist in manufacturing so maybe it is because of my short sight.",
+            "title_similarity": "0.38720888",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvbrwcb",
+            "score": 1,
+            "text": "self assemble deez nuts",
+            "title_similarity": "0.3344906",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "hvbsayw",
+            "score": 1,
+            "text": "Can someone find the paper that the article is based on?",
+            "title_similarity": "0.28207663",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbsdo7",
+            "score": 1,
+            "text": "Great, how soon can we pump it into our bodies and all the environment to poison it for 5000 years while increasing carbon emissions in the short term so we don't make it 50?.",
+            "title_similarity": "0.33476487",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "hvbshaa",
+            "score": 1,
+            "text": "They better call it Mithril.",
+            "title_similarity": "0.22761981",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hvbshrv",
+            "score": 1,
+            "text": "Is this environmentally safe, and can it be produced sustainably?",
+            "title_similarity": "0.43619195",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hvbsiaf",
+            "score": 1,
+            "text": "the big question is will they research the end use and its danger to the ecosystems, unlike they did with plastic that is now destroying the planet.",
+            "title_similarity": "0.3236236",
+            "sentiment_compound": -0.7906
+        },
+        {
+            "id": "hvbsjr8",
+            "score": 1,
+            "text": "What about thermal properties? At what temperature does it melt? How well does it conduct heat? How brittle is it at low temperature?",
+            "title_similarity": "0.4309787",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbslyb",
+            "score": 1,
+            "text": "Spaceship building materials! Cool!",
+            "title_similarity": "0.4630007",
+            "sentiment_compound": 0.4374
+        },
+        {
+            "id": "hvbsoml",
+            "score": 1,
+            "text": "The real question is can it be broken down into tiny micro particles that I can then inject directly into my veins instead of waiting for the typical time it takes for plumbers and plastics to get into my body?",
+            "title_similarity": "0.4134187",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hvbspd0",
+            "score": 1,
+            "text": "can existing plastics be recycled for materials to create this new polymer",
+            "title_similarity": "0.55734247",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hvbsxd9",
+            "score": 1,
+            "text": "Now can they actually reproduce it affordably, without killing the environment, and how long does the stuff last.\n\nI mean if I had a chunk of unobtanium for every time I've heard about some miracle material like this, I'd be completely unobtainable.",
+            "title_similarity": "0.51472056",
+            "sentiment_compound": 0.8694
+        },
+        {
+            "id": "hvbsz75",
+            "score": 1,
+            "text": "Great! When will we see this new polymer in action in our day to day lives?",
+            "title_similarity": "0.5040901",
+            "sentiment_compound": 0.6588
+        },
+        {
+            "id": "hvbt0xx",
+            "score": 1,
+            "text": "They crated Plasteel!  One step closer to Rimworld!",
+            "title_similarity": "0.39021134",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbt1vt",
+            "score": 1,
+            "text": "More plastic, yeah exactly what we needed...",
+            "title_similarity": "0.56198007",
+            "sentiment_compound": 0.3566
+        },
+        {
+            "id": "hvbt49e",
+            "score": 1,
+            "text": "So it's rearden steel?",
+            "title_similarity": "0.3436095",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbtqw1",
+            "score": 1,
+            "text": "If only i had a quarter every time the \"new\" material that was going to change the world... i wouldnt be farming for karma.",
+            "title_similarity": "0.37257463",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbtw7g",
+            "score": 1,
+            "text": "How does this look from a lifecycle and environmental aspect? ie. Is it better or worse than plastic from an environmental standpoint?",
+            "title_similarity": "0.37932673",
+            "sentiment_compound": -0.1431
+        },
+        {
+            "id": "hvbu0pc",
+            "score": 1,
+            "text": "Plasteel! One more step towards Rimworld",
+            "title_similarity": "0.27313843",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbu44o",
+            "score": 1,
+            "text": "Will jet fuel melt it?",
+            "title_similarity": "0.27049744",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbufgn",
+            "score": 1,
+            "text": "Ok but how about recycling it? Is it easy? Is it as terrible as regular plastic?",
+            "title_similarity": "0.44027695",
+            "sentiment_compound": 0.212
+        },
+        {
+            "id": "hvbus0a",
+            "score": 1,
+            "text": "See you never like other revolutionary materials.",
+            "title_similarity": "0.29605517",
+            "sentiment_compound": -0.2755
+        },
+        {
+            "id": "hvbutp8",
+            "score": 1,
+            "text": "So new car material? Would be better for getting into accidents.",
+            "title_similarity": "0.45520452",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "hvbutwd",
+            "score": 1,
+            "text": "Place your bets on how many years before we find it in everything and that it's killing us!",
+            "title_similarity": "0.20155872",
+            "sentiment_compound": -0.69
+        },
+        {
+            "id": "hvbuyt7",
+            "score": 1,
+            "text": "Finally get those self sealing stem bolts.",
+            "title_similarity": "0.49419713",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbv2ga",
+            "score": 1,
+            "text": "Yay more dead dinosaur juice! Exactly what we need!",
+            "title_similarity": "0.41195208",
+            "sentiment_compound": -0.417
+        },
+        {
+            "id": "hvbv2p0",
+            "score": 1,
+            "text": "so basically another form of \"plastic\".",
+            "title_similarity": "0.31427443",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbv3oh",
+            "score": 1,
+            "text": "Modern marvel! Gotta love innovation",
+            "title_similarity": "0.5144613",
+            "sentiment_compound": 0.8718
+        },
+        {
+            "id": "hvbv5bw",
+            "score": 1,
+            "text": "They should call it beskar.  Time to make some armor… this is the way",
+            "title_similarity": "0.41193402",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbv5iy",
+            "score": 1,
+            "text": "And it looks like a chocolate chip cookie. Total win",
+            "title_similarity": "0.45646602",
+            "sentiment_compound": 0.7645
+        },
+        {
+            "id": "hvbv7ni",
+            "score": 1,
+            "text": "Yeah like it’s gonna be used.. ever. Like any other new materials",
+            "title_similarity": "0.5149951",
+            "sentiment_compound": 0.7351
+        },
+        {
+            "id": "hvbvbm2",
+            "score": 2,
+            "text": "I can't wait to see this in new constructions 20+ years from now!",
+            "title_similarity": "0.38281396",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbvc0y",
+            "score": 1,
+            "text": "Its this type of stuff i continue to like about life. The new stuff you engineers develop. *golf clap*",
+            "title_similarity": "0.40629244",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvbvgkd",
+            "score": 1,
+            "text": "What's the process for making it. Hoe environmentally conscious Is it and how is the waste handled.",
+            "title_similarity": "0.34482828",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "hvbvkn8",
+            "score": 1,
+            "text": "Does it last longer the plastic? Seems like the next big dumpster item.",
+            "title_similarity": "0.51704097",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "hvbvlnh",
+            "score": 1,
+            "text": "what is its environmental impact?",
+            "title_similarity": "0.14888072",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbvnat",
+            "score": 1,
+            "text": "Coming to an ocean near you!",
+            "title_similarity": "0.18373789",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbvo61",
+            "score": 1,
+            "text": "Another way to title this would be “Guess what new invention will never see the light of day?”",
+            "title_similarity": "0.27086914",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbvq16",
+            "score": 1,
+            "text": "Well gee thanks cause we all need more plastic 🥲",
+            "title_similarity": "0.52702785",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "hvbvvm3",
+            "score": 1,
+            "text": "Is something that you think they’ll utilize in body armor/protective materials?",
+            "title_similarity": "0.3269964",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbvwj1",
+            "score": 1,
+            "text": "And what’s the environmental impact of this new stronger plastic?",
+            "title_similarity": "0.56515175",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "hvbw11a",
+            "score": 1,
+            "text": "Would love to hear how this material decomposes…",
+            "title_similarity": "0.2913829",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "hvbw5ch",
+            "score": 1,
+            "text": "And we will probably never hear of this again for some reason.",
+            "title_similarity": "0.09122984",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbw8j3",
+            "score": 2,
+            "text": "The question is: can it be manufactured cheaply and efficiently, and can it biodegrade?",
+            "title_similarity": "0.49552888",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hvbwd1v",
+            "score": 1,
+            "text": "Which steel company will buy the patent and try to bury it?",
+            "title_similarity": "0.27345017",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbwffs",
+            "score": 2,
+            "text": "Sounds like something needs democracy.",
+            "title_similarity": "0.2789357",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvbwfqm",
+            "score": 1,
+            "text": "Is this Transparent Aluminum??",
+            "title_similarity": "0.5013921",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbwp14",
+            "score": 1,
+            "text": "Could this material be used to construct a space elevator tether on Earth? If not, what does it lack?",
+            "title_similarity": "0.366387",
+            "sentiment_compound": -0.3939
+        },
+        {
+            "id": "hvbwu9p",
+            "score": 1,
+            "text": "Hopefully this new material doesn't go the way of carbon nanotubes...",
+            "title_similarity": "0.3849457",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hvbwvc8",
+            "score": 1,
+            "text": "Have the chinese stolen it yet?",
+            "title_similarity": "0.18613613",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "hvbx3du",
+            "score": 1,
+            "text": "\"easily manufactured in large quantities\"\n\nI'll believe it when I see it.",
+            "title_similarity": "0.6025262",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "hvbx3m4",
+            "score": 1,
+            "text": "Finally... Batfinkium.",
+            "title_similarity": "0.2004293",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbx4p0",
+            "score": 1,
+            "text": "isn't heavy needed though, for industrial use anyway",
+            "title_similarity": "0.4795035",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbx9zw",
+            "score": 1,
+            "text": "How does it behave in the turtle belly?",
+            "title_similarity": "0.2131615",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbxj9n",
+            "score": 1,
+            "text": "I'm so jaded with this stuff now. It must have been cool in the early 1900s to read about some new technology and all of sudden everyone has light bulbs and a refrigerator.\n\nIt just seems, for physical things anyway, all of the low and medium hanging fruit has been picked and I will never hear about this invention again.",
+            "title_similarity": "0.4723272",
+            "sentiment_compound": -0.4005
+        },
+        {
+            "id": "hvbxlq8",
+            "score": 1,
+            "text": "So now I can have my chainsword made of Plasteel?",
+            "title_similarity": "0.4451678",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbxnpa",
+            "score": 1,
+            "text": "So we won't see the polymer for 23 years.",
+            "title_similarity": "0.20284408",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbxrcc",
+            "score": 1,
+            "text": "Rearden Steel on line 1",
+            "title_similarity": "0.34030607",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbxvnq",
+            "score": 1,
+            "text": "is it easy to set on fire?",
+            "title_similarity": "0.3995067",
+            "sentiment_compound": 0.128
+        },
+        {
+            "id": "hvbxwcl",
+            "score": 1,
+            "text": "Cool, cool. Will it produce more microplastics?",
+            "title_similarity": "0.47205788",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "hvbxwex",
+            "score": 1,
+            "text": "What happen to graphene?",
+            "title_similarity": "0.20977065",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvby9g5",
+            "score": 1,
+            "text": "Stronger than steel and light as plastic? New armor/bullet proof vests perhaps?",
+            "title_similarity": "0.7166644",
+            "sentiment_compound": 0.4515
+        },
+        {
+            "id": "hvbydbt",
+            "score": 1,
+            "text": ">The research was funded by the Center for Enhanced Nanofluidic Transport (CENT) an Energy Frontier Research Center sponsored by the U.S. Department of Energy Office of Science, and the Army Research Laboratory.\n\nFunded by your tax dollars.",
+            "title_similarity": "0.4344413",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "hvbyh37",
+            "score": 1,
+            "text": "If only it was made out of all the plastic in the ocean, that’d be great.",
+            "title_similarity": "0.5127655",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "hvbylb5",
+            "score": 1,
+            "text": "And it only creates 1-2% flipper babies.",
+            "title_similarity": "0.4241801",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hvbyn5h",
+            "score": 1,
+            "text": "Space elevator here we come!",
+            "title_similarity": "0.35559034",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbyzjk",
+            "score": 1,
+            "text": "So we got plasteel now, ceramite when?",
+            "title_similarity": "0.30725336",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbz0xh",
+            "score": 1,
+            "text": "Cool...is it biodegradable?",
+            "title_similarity": "0.39898825",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbz2z2",
+            "score": 1,
+            "text": "Engineers have developed a new two-dimensional polymer that is stronger than steel and lighter than plastic. This groundbreaking material is easy to manufacture in large quantities and has the potential to revolutionize a variety of industries.",
+            "title_similarity": "0.8993496",
+            "sentiment_compound": 0.6705
+        },
+        {
+            "id": "hvbz41n",
+            "score": 1,
+            "text": "Could this be used for panels on race cars?",
+            "title_similarity": "0.26040053",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbzaqo",
+            "score": 1,
+            "text": "Do the hydrogen bonds between layers mean that it delaminates when exposed to water?",
+            "title_similarity": "0.394592",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "hvbzb3j",
+            "score": 1,
+            "text": "Which country do they have to exploit for the materials?",
+            "title_similarity": "0.2559625",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "hvbzblj",
+            "score": 1,
+            "text": "Plastisteel ingots from Subnautica anyone?",
+            "title_similarity": "0.34292722",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbzbnb",
+            "score": 1,
+            "text": "I’ve heard this story a few times a year for more than a decade and see basically none of it applied in an impactful way. So what am I missing about these things?",
+            "title_similarity": "0.26709437",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hvbzbpa",
+            "score": 1,
+            "text": "Is another type of plastic really what the world needs?",
+            "title_similarity": "0.38925582",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbzn8n",
+            "score": 1,
+            "text": "Know very little, but what would it’s affect be on the environment?",
+            "title_similarity": "0.15603241",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbzq49",
+            "score": 1,
+            "text": "Sounds like plasteel. Another step closer to starwars esque stormtrooper armor",
+            "title_similarity": "0.46890128",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvbzw2k",
+            "score": 1,
+            "text": "This headline is repeated every two years yet here we are",
+            "title_similarity": "0.26578286",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbzwb1",
+            "score": 1,
+            "text": "Can't wait to see the cocks they make from this stuff",
+            "title_similarity": "0.36512297",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvbzynb",
+            "score": 1,
+            "text": "recycle and reusability, sustainability in production are more important and pressing issues than weight and strength. We have super strong and super light materials. We need those but also they also have to be sustainable and reusable. It is also very important that they are cheap. In production AND in recycling. A low price makes adoption quick.",
+            "title_similarity": "0.61350346",
+            "sentiment_compound": 0.8265
+        },
+        {
+            "id": "hvc04wx",
+            "score": 1,
+            "text": "It may be stronger than steel, but is it tougher?",
+            "title_similarity": "0.53292775",
+            "sentiment_compound": 0.431
+        },
+        {
+            "id": "hvc0hz1",
+            "score": 1,
+            "text": "The last thing we need is more plastic materials. Oy.",
+            "title_similarity": "0.38121226",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc0jxp",
+            "score": 1,
+            "text": "It sounds similar to wood.",
+            "title_similarity": "0.27202654",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc0knf",
+            "score": 1,
+            "text": "And we won't hear a damn thing about it ever again, as things normally go with this kind of stuff.",
+            "title_similarity": "0.14536972",
+            "sentiment_compound": 0.3089
+        },
+        {
+            "id": "hvc0kro",
+            "score": 1,
+            "text": "I'm always a little skeptical when I read things like, \"stronger than X, lighter than Y\" because there are so many varieties of X and Y that it's pretty much meaningless.",
+            "title_similarity": "0.45059454",
+            "sentiment_compound": 0.5256
+        },
+        {
+            "id": "hvc0p6u",
+            "score": 1,
+            "text": "It's also going to cause cancer, wind up polluting our oceans, exploit child labor laws and disrupt some natural habitat. But hey, money, amirite?",
+            "title_similarity": "0.278598",
+            "sentiment_compound": -0.2846
+        },
+        {
+            "id": "hvc0xrp",
+            "score": 1,
+            "text": "And the cost is 10x that of steel…. Give an engineer enough money they can create anything",
+            "title_similarity": "0.59748423",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hvc12gl",
+            "score": 1,
+            "text": "if it's easy to manufacture in large quantities, where can I get a sample? I hope they'll sell it online in bulk as well from a site similar to alibaba, if i wanted to mass-produce something made with it.",
+            "title_similarity": "0.59910274",
+            "sentiment_compound": 0.7845
+        },
+        {
+            "id": "hvc18w4",
+            "score": 1,
+            "text": "Military: \"Interesting\"",
+            "title_similarity": "0.34177077",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hvc194s",
+            "score": 1,
+            "text": "Yeah but is it going to pollute our oceans like plastic because it doesn’t break down?",
+            "title_similarity": "0.48581508",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "hvc1ipe",
+            "score": 7,
+            "text": "> The researchers found that the new material’s elastic modulus — a measure of how much force it takes to deform a material — is between four and six times greater than that of bulletproof glass.\n\nBulletproof glass: 60-70 GPa\n\nThis new polymer: 13 GPa\n\nWhy do pop science articles suck so much?",
+            "title_similarity": "0.62321115",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "hvc1uln",
+            "score": 1,
+            "text": "Unless I’m missing something, this does not sound new to me. The heading states that the material is as light as plastic when the material is literally a type of plastic, they state it’s a polyaramide which have been used for quite some time (Kevlar, etc) and Kevlar also benefits from hydrogen bonding. What exactly is new here?",
+            "title_similarity": "0.68880826",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "hvc1yid",
+            "score": 1,
+            "text": "How does tensile and compression strength compare?",
+            "title_similarity": "0.38568455",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "hvc24r4",
+            "score": 1,
+            "text": "So like.... *actual* Plasteel?",
+            "title_similarity": "0.30608284",
+            "sentiment_compound": 0.4201
+        },
+        {
+            "id": "hvc2akb",
+            "score": 1,
+            "text": "So they finally back-engineered some of the saucer outer hull material?",
+            "title_similarity": "0.4563948",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc2au5",
+            "score": 1,
+            "text": "How \"easy\"? What temperature does it need to be manufactured?\n\nAsking for all the 3D printing bros of the world.",
+            "title_similarity": "0.57797205",
+            "sentiment_compound": 0.504
+        },
+        {
+            "id": "hvc2lca",
+            "score": 1,
+            "text": "Please be recyclable, or we’re about to fubar the world.",
+            "title_similarity": "0.25046456",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hvc2v15",
+            "score": 1,
+            "text": "Curious on the potential of this in the aviation industry, could it result in a lighter plane...burning less fuel...saving $$ / helping the environment?",
+            "title_similarity": "0.41183847",
+            "sentiment_compound": 0.5423
+        },
+        {
+            "id": "hvc3i89",
+            "score": 1,
+            "text": "Yeah but is it recyclable?",
+            "title_similarity": "0.26256877",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "hvc3lrl",
+            "score": 1,
+            "text": "Is it recyclable?\n\nWe should be asking this in 2022",
+            "title_similarity": "0.27846277",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc3mi3",
+            "score": 1,
+            "text": "Its sad that this will never make it to market.",
+            "title_similarity": "0.1276153",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hvc3rt9",
+            "score": 1,
+            "text": "Sensationalist article from the MIT marketing machine, as is tradition.  Actual data and details are available in their [extended report](https://www.researchgate.net/publication/350398258_An_Irreversible_Synthetic_Route_to_an_Ultra-Strong_Two-Dimensional_Polymer).  They achieved a repeating planar bond pattern between 1,3,5-Benzenetricarbonyl trichloride and melamine which is interesting.",
+            "title_similarity": "0.54718125",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hvc3u8w",
+            "score": 1,
+            "text": "When can I use it at home with my 3-D printer?",
+            "title_similarity": "0.2968856",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc3xcz",
+            "score": 1,
+            "text": "All nerd talk in these comments. The important take away is that this research was funded by the military so most of us will be dead or dying before it matters.",
+            "title_similarity": "0.34511337",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "hvc3xlc",
+            "score": 1,
+            "text": "Can it be recycled? \n\nDoes it break down on it's own?\n\nJust some things I hope they are asking themselves when making these things.",
+            "title_similarity": "0.33395314",
+            "sentiment_compound": 0.504
+        },
+        {
+            "id": "hvc40rn",
+            "score": 1,
+            "text": "WELL WHAT ARE WE WAITING FOR?!? Or is\nIt more graphene nonsense….",
+            "title_similarity": "0.24848223",
+            "sentiment_compound": 0.54
+        },
+        {
+            "id": "hvc4461",
+            "score": 1,
+            "text": "And what's the cost after it's used and disposed of? Can it be recycled and broken down?",
+            "title_similarity": "0.24027452",
+            "sentiment_compound": -0.5362
+        },
+        {
+            "id": "hvc47oo",
+            "score": 1,
+            "text": "Pardon my uneducated redneck brain, but is the manufacturing process environmentally friendly?",
+            "title_similarity": "0.473004",
+            "sentiment_compound": 0.714
+        },
+        {
+            "id": "hvc4n94",
+            "score": 1,
+            "text": "Manufacturing guy here: Did I miss how it is easily manufactured?",
+            "title_similarity": "0.55910075",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "hvc4ouo",
+            "score": 1,
+            "text": "You can't fool me Engineers DID NOT DISCOVER,  Bones and Scotty gave it to them in exchange for some plastic to house some whales onto their ship off the coast of San Francisco. Pffffffttt, Also Scotty has no idea how to work a mouse.",
+            "title_similarity": "0.271316",
+            "sentiment_compound": 0.0531
+        },
+        {
+            "id": "hvc4sbp",
+            "score": 1,
+            "text": "Its like waiting for a punchline that didn’t come. Is it already used practically?",
+            "title_similarity": "0.22193682",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvc53w8",
+            "score": 1,
+            "text": "Ok, whats its effect on the environment and human health? What research has been done for the negative side effects of this material? Lets not make the same mistakes 40 times.",
+            "title_similarity": "0.25692648",
+            "sentiment_compound": -0.7622
+        },
+        {
+            "id": "hvc5dw2",
+            "score": 1,
+            "text": "When they say something is strong than steel, do they compare its strength by weight, or by volume, or both or either?",
+            "title_similarity": "0.54129285",
+            "sentiment_compound": 0.7579
+        },
+        {
+            "id": "hvc5hg1",
+            "score": 1,
+            "text": "Stronger how, tension or compression? \n\nSomeone fill me in, I don’t have the time to read the article…",
+            "title_similarity": "0.36734855",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hvc5i44",
+            "score": 1,
+            "text": "How does it do in a fire?",
+            "title_similarity": "0.14124416",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "hvc5lo5",
+            "score": 1,
+            "text": "Wait till they start making tanks and jets with this and carbon nanoparticles this gonna be crazy",
+            "title_similarity": "0.4336334",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "hvc5n0g",
+            "score": 1,
+            "text": "This sounds great an all, but how does it break down?  Will we some day have a 2D polymer patch out on the ocean?",
+            "title_similarity": "0.43055665",
+            "sentiment_compound": 0.4423
+        },
+        {
+            "id": "hvc5n8f",
+            "score": 1,
+            "text": "Any idea what's the melting temperature for this material?",
+            "title_similarity": "0.31507325",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc5tq1",
+            "score": 1,
+            "text": "Good to hear LDS research is complete.\nJust remember you need alot of assemblers and your copper consumption is going to increase dramatically!",
+            "title_similarity": "0.5250572",
+            "sentiment_compound": 0.6696
+        },
+        {
+            "id": "hvc5vi0",
+            "score": 1,
+            "text": "Is it semen? I bet it's semen.",
+            "title_similarity": "0.31832027",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc5ywe",
+            "score": 1,
+            "text": "What can we use it for? I'm excited for this",
+            "title_similarity": "0.30400798",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "hvc64eu",
+            "score": 1,
+            "text": "I can’t wait for this to never be a thing like all the other potentially great products",
+            "title_similarity": "0.4415351",
+            "sentiment_compound": 0.765
+        },
+        {
+            "id": "hvc68s3",
+            "score": 1,
+            "text": "But is it gonna end up, in micro particle form, in my drinking water?",
+            "title_similarity": "0.17980537",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc69m5",
+            "score": 1,
+            "text": "Fantastic for smartphones and small/delicate electronics if cost effective",
+            "title_similarity": "0.4593835",
+            "sentiment_compound": 0.7717
+        },
+        {
+            "id": "hvc6btw",
+            "score": 1,
+            "text": "I guess no one knows what its actually called.",
+            "title_similarity": "0.07625562",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hvc6dne",
+            "score": 1,
+            "text": "Carbon fiber silicate lace.  We live in the Expanse.",
+            "title_similarity": "0.45785305",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc6e2s",
+            "score": 1,
+            "text": "Sounds a lot like graphene.",
+            "title_similarity": "0.4007033",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvc6h5t",
+            "score": 1,
+            "text": "F1 gonna be even crazier in a decade",
+            "title_similarity": "0.41500956",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "hvc6nsv",
+            "score": 1,
+            "text": "No more polymers!  Polymer fragments (Microplastics) have already caused a near permanent contamination of our water, land, and air!  We are even breathing them now!",
+            "title_similarity": "0.36524004",
+            "sentiment_compound": -0.4724
+        },
+        {
+            "id": "hvc6w77",
+            "score": 1,
+            "text": "FINALLY! Now we know what, rancher, Mack Brazel found scattered across his property in early July, 1947.",
+            "title_similarity": "0.112426735",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc72n8",
+            "score": 1,
+            "text": "How long does it take to biodegrade?",
+            "title_similarity": "0.21097732",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc73dm",
+            "score": 1,
+            "text": "Curious to see if this is more environmentally friendly than existing recipes - or if this will ultimately wind up in a landfill next to the existing, large, easily produced quantities.",
+            "title_similarity": "0.5353509",
+            "sentiment_compound": 0.8008
+        },
+        {
+            "id": "hvc73x2",
+            "score": 1,
+            "text": "Can't wait to never ever hear about this again",
+            "title_similarity": "0.1410726",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc7a20",
+            "score": 1,
+            "text": "Company name so I can buy stock?  Where do I throw all of my money?",
+            "title_similarity": "0.29908246",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc7bc9",
+            "score": 1,
+            "text": "How strong, I want some numbers",
+            "title_similarity": "0.41842288",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "hvc7hzr",
+            "score": 1,
+            "text": "Let's repost this a few times before it magically disappears like other stuff",
+            "title_similarity": "0.2666297",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "hvc7lfw",
+            "score": 1,
+            "text": "*LEGO bricks. Never “LEGOs”.",
+            "title_similarity": "0.3133955",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc7m2e",
+            "score": 2,
+            "text": "Finally reverse engineered Roswell crash",
+            "title_similarity": "0.29032958",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hvc7t4r",
+            "score": 1,
+            "text": "So we've finally really invented \"plasteel\"?",
+            "title_similarity": "0.44644216",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc7wk5",
+            "score": 1,
+            "text": "Does anyone know if it is recyclable/degradable? Or are we going to make that lil myopic blunder again?",
+            "title_similarity": "0.24024624",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc7y7b",
+            "score": 1,
+            "text": "How’s it for the planet?",
+            "title_similarity": "0.23294994",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc81c2",
+            "score": 1,
+            "text": "Ok but how do you recycle it? Can we please get the entire process down before we start manufacturing more stuff that we don’t really know what to do with?\n\nPlastic is pissing me off lately.\n\nBuilding materials that we can never unmake! Hooray! How useful!",
+            "title_similarity": "0.42624465",
+            "sentiment_compound": 0.368
+        },
+        {
+            "id": "hvc85kb",
+            "score": 1,
+            "text": "Does it breakdown into a largely undetectable yet completely ubiquitous substance that threatens all life on the planet though?",
+            "title_similarity": "0.35354793",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "hvc8efr",
+            "score": 1,
+            "text": "It surprises me that an announcement like this nowadays would make no reference to environmental considerations. How do you dispose of this stuff? Will it degrade into super-strong microplastic particles? Is it bioactive?",
+            "title_similarity": "0.43442714",
+            "sentiment_compound": -0.3049
+        },
+        {
+            "id": "hvc8kqy",
+            "score": 1,
+            "text": "I can’t wait until I’m eating tiny pieces of this",
+            "title_similarity": "0.21636637",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc8omj",
+            "score": 1,
+            "text": "Mmm a new micro plastic",
+            "title_similarity": "0.5063506",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc8ow4",
+            "score": 1,
+            "text": "Finally ...more trash!!",
+            "title_similarity": "0.24008463",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvc8xh6",
+            "score": 1,
+            "text": "Cost, speed, infrastructures, and recently compostability also matters. So chill, everyone. We don’t have enough info yet.",
+            "title_similarity": "0.33226287",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "hvc9kw1",
+            "score": 1,
+            "text": "Sure, but is it cost effective",
+            "title_similarity": "0.2905608",
+            "sentiment_compound": 0.7003
+        },
+        {
+            "id": "hvc9lh3",
+            "score": 1,
+            "text": "But it causes cancer and ruins the environment?  I don’t know, I feels there is always something bad we find 50 years later like how we are finding with Teflon",
+            "title_similarity": "0.1724769",
+            "sentiment_compound": -0.9253
+        },
+        {
+            "id": "hvc9xlq",
+            "score": 1,
+            "text": "Hmm have to read their paper. Wonder if it is stable in sunlight, environmental implications etc..",
+            "title_similarity": "0.30403566",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "hvca1qt",
+            "score": 1,
+            "text": "I'm still waiting for the day in this subreddit that every one agrees with the news...",
+            "title_similarity": "0.26363558",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "hvca30t",
+            "score": 1,
+            "text": "Will never see the light of day. Only the folks selling stuff on tv for 19.99 ever bring true innovation to the masses.",
+            "title_similarity": "0.3625612",
+            "sentiment_compound": 0.6597
+        },
+        {
+            "id": "hvca4az",
+            "score": 1,
+            "text": "I call bs. This sound like a old article that made titanium spider web",
+            "title_similarity": "0.39530024",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvca70g",
+            "score": 1,
+            "text": "Sounds like we're getting a giant robot war after all.",
+            "title_similarity": "0.40608704",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "hvcakpv",
+            "score": 1,
+            "text": "This could be huge for the bodyarmor side of things or even the creation of guns. Depending on how expensive this new compound is, it could completely change police and military standards. it could be extremely dangerous if it falls into the wrong hands.",
+            "title_similarity": "0.49022406",
+            "sentiment_compound": -0.4754
+        },
+        {
+            "id": "hvcar3b",
+            "score": 1,
+            "text": "What are its hazards to the environment should be our first question.",
+            "title_similarity": "0.21639377",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcawsg",
+            "score": 1,
+            "text": "We should use it to make guns!",
+            "title_similarity": "0.3852871",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcb17e",
+            "score": 1,
+            "text": "He admitted that he stopped working on it after 2 weeks so everything beyond that was a pure fraud.",
+            "title_similarity": "0.22927424",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "hvcb909",
+            "score": 1,
+            "text": "Which company is going to make these?",
+            "title_similarity": "0.28619513",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcbo6p",
+            "score": 1,
+            "text": "All that for 4 paragraphs that don't even explain how it's \"stronger\". Hardness, rigidity, toughness, density, or any other material properties... ok.",
+            "title_similarity": "0.4049906",
+            "sentiment_compound": 0.1779
+        },
+        {
+            "id": "hvcbv54",
+            "score": 2,
+            "text": "Can it be recycled and what’s the decomposition rate?",
+            "title_similarity": "0.18875276",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcbw1x",
+            "score": 3,
+            "text": "I just take these types of articles with a HUGE grain of salt if it actually starts effecting society I'll look into it but most of the time it just disappears as quickly as it came.",
+            "title_similarity": "0.39001065",
+            "sentiment_compound": -0.2694
+        },
+        {
+            "id": "hvcdc97",
+            "score": 1,
+            "text": "So what raw materials are needed.......can we make cars out of it? Buildings???",
+            "title_similarity": "0.4163109",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcdkga",
+            "score": 1,
+            "text": "Polydimemsionalwhatnow?",
+            "title_similarity": "0.2222801",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcdn2a",
+            "score": 1,
+            "text": "And it recycles easily! Yes? …please tell me it recycles easily. Breaks down into naturally occurring compounds? … hallooo?",
+            "title_similarity": "0.5514672",
+            "sentiment_compound": 0.8091
+        },
+        {
+            "id": "hvcdoyi",
+            "score": 1,
+            "text": "So it's not graphene? I need Ian Crossland to help me solve this mystery",
+            "title_similarity": "0.22793296",
+            "sentiment_compound": 0.5423
+        },
+        {
+            "id": "hvcdqqd",
+            "score": 1,
+            "text": "Oh my gosh, it's the plasteel that I've been reading about in Isaac Asimov books :O",
+            "title_similarity": "0.21561646",
+            "sentiment_compound": -0.2808
+        },
+        {
+            "id": "hvcdsn0",
+            "score": 1,
+            "text": "At a mere cost of 100 times the cost of comparable options.",
+            "title_similarity": "0.4280501",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvce7pw",
+            "score": 1,
+            "text": "Will it be as easy to infiltrate the environment and the human body as plastics?",
+            "title_similarity": "0.6167438",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hvceb3x",
+            "score": 1,
+            "text": "I heard the same, “easy to create and cheap to manufacture” when graphyne was announced. It still isn’t mass produced",
+            "title_similarity": "0.49803272",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hvcecq3",
+            "score": 1,
+            "text": "Hate when \"stronger than steel\" is used for reference.\nTensile, compressive, plasticity, heat/cold, hardness etc - where is it stronger?",
+            "title_similarity": "0.38600284",
+            "sentiment_compound": 0.128
+        },
+        {
+            "id": "hvcehl8",
+            "score": 1,
+            "text": "Plastysteel, here we go..",
+            "title_similarity": "0.21834525",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcejn4",
+            "score": 1,
+            "text": "A polymer… in other words it’s plastic, right?",
+            "title_similarity": "0.4542176",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcf51a",
+            "score": 1,
+            "text": "Plasteel",
+            "title_similarity": "0.13208757",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcfepu",
+            "score": 1,
+            "text": "The researchers found that the new material’s elastic modulus — a measure of how much force it takes to deform a material — is between four and six times greater than that of bulletproof glass. They also found that its yield strength, or how much force it takes to break the material, is twice that of steel, even though the material has only about one-sixth the density of steel.\n\nWoah.",
+            "title_similarity": "0.6848357",
+            "sentiment_compound": 0.6908
+        },
+        {
+            "id": "hvcfhjc",
+            "score": 1,
+            "text": "So what are its weaknesses?  Every material has some sort of weakness. What happens when it's cold or hot or given sheer stress or impacts?",
+            "title_similarity": "0.25046194",
+            "sentiment_compound": -0.8295
+        },
+        {
+            "id": "hvcfi0b",
+            "score": 1,
+            "text": "How environmentally destructive is it, especially compared to plastic?",
+            "title_similarity": "0.36808503",
+            "sentiment_compound": -0.6124
+        },
+        {
+            "id": "hvcfp9k",
+            "score": 1,
+            "text": "A one dimensional object is a line. Two dimensions is an infinitely thin shape.",
+            "title_similarity": "0.34514678",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcg3ba",
+            "score": 3,
+            "text": "> Another key feature of 2DPA-1 is that it is impermeable to gases. While other polymers are made from coiled chains with gaps that allow gases to seep through, the new material is made from monomers that lock together like LEGOs, and molecules cannot get between them.\n\nNow that's interesting -- I wonder if it could help with storing hydrogen.",
+            "title_similarity": "0.66520774",
+            "sentiment_compound": 0.8316
+        },
+        {
+            "id": "hvcggcn",
+            "score": 1,
+            "text": "So….we can now build space elevators?",
+            "title_similarity": "0.42901835",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcgh92",
+            "score": 1,
+            "text": "Being a polymer, how about ultraviolet resistance?",
+            "title_similarity": "0.41914827",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcgx0m",
+            "score": 1,
+            "text": "No word on it’s compressive strength, hardness, UV/oxidization resistance, brittleness or how temperature changes its properties but that’s still impressive",
+            "title_similarity": "0.48229316",
+            "sentiment_compound": 0.714
+        },
+        {
+            "id": "hvchd17",
+            "score": 1,
+            "text": "Great, let's print some houses already!",
+            "title_similarity": "0.3324372",
+            "sentiment_compound": 0.6588
+        },
+        {
+            "id": "hvchlin",
+            "score": 1,
+            "text": "Transparent aluminium?",
+            "title_similarity": "0.4232616",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvchm3v",
+            "score": 1,
+            "text": "What company owns this is the next question.",
+            "title_similarity": "0.19492152",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvchpnw",
+            "score": 1,
+            "text": "Already stolen by china<<<",
+            "title_similarity": "0.22028369",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "hvchqsj",
+            "score": 1,
+            "text": "Which alloy of steel are they comparing it to. Because there are some which are rather weak.",
+            "title_similarity": "0.4089778",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "hvchw40",
+            "score": 1,
+            "text": "“One dimensional” ?!?!\n\nNothing in our 3D existence can be be dimensional.",
+            "title_similarity": "0.38336593",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcibbn",
+            "score": 1,
+            "text": "How about shit that doesn't make it's way into the human body after breaking into toxic pieces of nano particles...",
+            "title_similarity": "0.39675725",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "hvcihey",
+            "score": 1,
+            "text": "“…material is a two-dimensional polymer… unlike all other one-dimensional polymers.” So is it two-dimensional or one-dimensional?",
+            "title_similarity": "0.6953789",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcihvx",
+            "score": 1,
+            "text": "Hi r/science \n\nTell me why this is nothing to get excited about.",
+            "title_similarity": "0.3249296",
+            "sentiment_compound": -0.2584
+        },
+        {
+            "id": "hvcir7x",
+            "score": 1,
+            "text": "I may have missed it, but didn’t see anything related to recycling options. Would we just be creating more waste or is this solution environmentally friendly in some other way?",
+            "title_similarity": "0.36740315",
+            "sentiment_compound": 0.7002
+        },
+        {
+            "id": "hvcira2",
+            "score": 2,
+            "text": "This is gigantic and will revolutionise a lot of things. Not just across all possible kinds of consumer goods becoming a lot sturdier, aircraft and especially military applications will be huge. Its production cost will be nothing and incredibly easy to scale up, and anything which today is made of steel will be outclassed. Since it's so light and cheap, individual personal can be covered with it and be almost bulletproof, leading to a rapid need for stronger guns.\n\nThis will be in everything in four to eight years.",
+            "title_similarity": "0.7248034",
+            "sentiment_compound": 0.3132
+        },
+        {
+            "id": "hvcmqbc",
+            "score": 1,
+            "text": "The article says the researchers used base units of melamine. Looking at that structure, that's quite a lot of nitrogen. I wouldn't be surprised if this material is highly flammable. If it's repeating sheets of melamine, anything that could oxidize a carbon or two to create a break in the structure, would probably encourage a bunch of those nitrogens to revert to their preferred gaseous form, which would be rather energetic and start propagating.",
+            "title_similarity": "0.5421986",
+            "sentiment_compound": 0.7673
+        },
+        {
+            "id": "hvcmsef",
+            "score": 1,
+            "text": "I’m confused, I’ve never been very good at maths, but shouldn’t a one-dimensional object be a singular point with no length or width? Or is it a different kind of dimension that they’re using here?",
+            "title_similarity": "0.3362522",
+            "sentiment_compound": -0.683
+        },
+        {
+            "id": "hvcn1tc",
+            "score": 1,
+            "text": "In other words, it's being revealed now and will never wind up being used.",
+            "title_similarity": "0.19823846",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcn9q9",
+            "score": 1,
+            "text": "Helium blimps are back,  if they can actually create huge air tight light and strong chambers. We could potentially even make a permanent sky base. Insanity.",
+            "title_similarity": "0.5295922",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "hvcnawd",
+            "score": 1,
+            "text": "Sounds like we stole some alien shiz again.",
+            "title_similarity": "0.28630486",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvcnc9f",
+            "score": 1,
+            "text": "One step closer to Plasteel Stormtrooper armour, still standing by for lightsabres",
+            "title_similarity": "0.37856334",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcnd68",
+            "score": 1,
+            "text": "Ah, grand, the continued quest of engineers to build a world entirely out of oil.",
+            "title_similarity": "0.47621664",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "hvcnn4c",
+            "score": 1,
+            "text": "Is it actually 2d on a molecular level?",
+            "title_similarity": "0.38470978",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcnwfo",
+            "score": 1,
+            "text": "Is it possible to weld with it?",
+            "title_similarity": "0.31240118",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcnxbj",
+            "score": 1,
+            "text": "I feel like we get break through a like this ever month, but nothing ever happens.",
+            "title_similarity": "0.25425744",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvcnz2e",
+            "score": 1,
+            "text": "Somebody somewhere is gonna get soooooo rich!",
+            "title_similarity": "0.33534753",
+            "sentiment_compound": 0.5983
+        },
+        {
+            "id": "hvco713",
+            "score": 1,
+            "text": "More plastic that's stronger than plastic... Can we come up with something that's not plastic?",
+            "title_similarity": "0.60797226",
+            "sentiment_compound": 0.4336
+        },
+        {
+            "id": "hvcpa7b",
+            "score": 1,
+            "text": "Just hope it doesn't take a million years to biodegrade, because God knows we'll end up filling the dumps and the oceans with it.",
+            "title_similarity": "0.42336786",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hvcptul",
+            "score": 1,
+            "text": "So, which is it going to be? \n\n\n1. Overly optimistic headline that never leaves the lab?\n2. Claims turn out to simply be false?\n3. Claims are true, but horrible secondary effects discovered years later that destroy people's health and the environment?",
+            "title_similarity": "0.38299567",
+            "sentiment_compound": -0.8723
+        },
+        {
+            "id": "hvcpzcv",
+            "score": 1,
+            "text": "Man Henry Ford was making car panels out of hemp a million years ago, color me unimpressed",
+            "title_similarity": "0.35672322",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "hvcqakg",
+            "score": 1,
+            "text": "SpaceX Starship should benefit from this too, I would imagine.",
+            "title_similarity": "0.37964606",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "hvcqbwy",
+            "score": 1,
+            "text": "Yeah yeah yeah. Let’s see it come to market first.",
+            "title_similarity": "0.18078923",
+            "sentiment_compound": 0.6808
+        },
+        {
+            "id": "hvcqrog",
+            "score": 1,
+            "text": "Can I get an “Explain to me like I’m 5” for this? Sounds cool but I’m tired and I don’t really grasp this well.",
+            "title_similarity": "0.1985681",
+            "sentiment_compound": 0.2748
+        },
+        {
+            "id": "hvcqz5p",
+            "score": 1,
+            "text": "What is the temperature at which this material fails? Is it fire resistant? What is the CO2 footprint for this new material compared to that of steel?\n\nCan it be used in commercial housing construction?",
+            "title_similarity": "0.49322706",
+            "sentiment_compound": -0.7319
+        },
+        {
+            "id": "hvcqzwt",
+            "score": 1,
+            "text": "It feels like \"Stronger than Steel\" has sort of become the same thing as \"Since sliced bread\". It sounds impressive but is it really? Is steel actually that strong in the context of all sorts of modern materials?",
+            "title_similarity": "0.6895875",
+            "sentiment_compound": 0.8594
+        },
+        {
+            "id": "hvcr20l",
+            "score": 1,
+            "text": "Mythril- strong as a dragons scale, and light as a feather.",
+            "title_similarity": "0.50540435",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "hvcr5uq",
+            "score": 1,
+            "text": "Finally! a good use for Chinese baby formula.",
+            "title_similarity": "0.44335005",
+            "sentiment_compound": 0.4926
+        },
+        {
+            "id": "hvcrmce",
+            "score": 1,
+            "text": "Condoms gonna be insane",
+            "title_similarity": "0.26475602",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hvcsdtj",
+            "score": 1,
+            "text": "So we can start collecting whales from the past?",
+            "title_similarity": "0.16684914",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcsi0h",
+            "score": 1,
+            "text": "So...\n Which stocks do I buy?",
+            "title_similarity": "0.15120746",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcsiua",
+            "score": 1,
+            "text": "Does it have anything near the strength to weight ratio necessary for a space elevator?",
+            "title_similarity": "0.5062783",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "hvcsr1u",
+            "score": 1,
+            "text": "So guessing it will not naturally deteriorate, much like plastic., and thus fill up our landfills and oceans.",
+            "title_similarity": "0.5082834",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvcsx0j",
+            "score": 1,
+            "text": "just add it to the list of things that are better cheaper lighter stronger than steel that we wont use till the steel barons let us",
+            "title_similarity": "0.5925796",
+            "sentiment_compound": 0.6705
+        },
+        {
+            "id": "hvct24w",
+            "score": 2,
+            "text": "> Another key feature of 2DPA-1 is that it is impermeable to gases.\n\nHydrogen energy storage GO!",
+            "title_similarity": "0.5494422",
+            "sentiment_compound": 0.3382
+        },
+        {
+            "id": "hvct4kz",
+            "score": 1,
+            "text": "this is like the 100th \"super material\". watch it never get used like all the other ones",
+            "title_similarity": "0.35275728",
+            "sentiment_compound": 0.6474
+        },
+        {
+            "id": "hvctjzt",
+            "score": 1,
+            "text": "But what does it's stress strain curve look like.",
+            "title_similarity": "0.19904812",
+            "sentiment_compound": -0.1901
+        },
+        {
+            "id": "hvctqe6",
+            "score": 1,
+            "text": "Just because a material has high tensile strength and low density does not mean that it can be as versatile as steel for all applications. Carbon fiber, for example, has low sheer strength so it’s terrible for applications with high torque and sheer impacts, and it doesn’t even begin to mention applications with high heat, interactions with organic substances, and manufacturing costs plus many more. The paper should disclose a more thorough inspection of its durability and usability.",
+            "title_similarity": "0.61983633",
+            "sentiment_compound": -0.046
+        },
+        {
+            "id": "hvcu0xk",
+            "score": 1,
+            "text": "That sounds awesome!  \nHow will this new super-material ruin the environment?",
+            "title_similarity": "0.47636688",
+            "sentiment_compound": 0.1511
+        },
+        {
+            "id": "hvcu2vl",
+            "score": 1,
+            "text": "How does it perform under wide temperature swings? Does it degrage in long term?",
+            "title_similarity": "0.29541248",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcudu1",
+            "score": 1,
+            "text": "Andddd this will be the last time we hear about this breakthrough.",
+            "title_similarity": "0.19053118",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcufis",
+            "score": 1,
+            "text": "This is really cool but \"easily manufactured in large quantities\" is a bit speculative.\n\nAnything that just dropped in Nature is unlikely to see industrial scale production for quite some time.",
+            "title_similarity": "0.6112236",
+            "sentiment_compound": 0.7088
+        },
+        {
+            "id": "hvcuuqc",
+            "score": 1,
+            "text": "Is it actually recyclable, though? I mean, like actually recyclable, not like plastic is \"recyclable lolol jkjkjk\"",
+            "title_similarity": "0.48726457",
+            "sentiment_compound": 0.1002
+        },
+        {
+            "id": "hvcuybk",
+            "score": 1,
+            "text": "Fixed the title:\n\nEngineers have created a new plastic that is stronger than steel and as light as plastic,",
+            "title_similarity": "0.8546876",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "hvcvgxj",
+            "score": 1,
+            "text": "To lazy to read. Price? Is it comparable to plastic or steel?",
+            "title_similarity": "0.3036186",
+            "sentiment_compound": -0.4329
+        },
+        {
+            "id": "hvcvqlg",
+            "score": 1,
+            "text": "whoooaaa cool,cant wait to never hear abot it...",
+            "title_similarity": "0.27055153",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcw0k3",
+            "score": 1,
+            "text": "All I can think to ask is how toxic it’s going to be in fifty years.",
+            "title_similarity": "0.15591922",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcw22v",
+            "score": 1,
+            "text": "Ill name it.. plasteel!",
+            "title_similarity": "0.15825899",
+            "sentiment_compound": -0.4753
+        },
+        {
+            "id": "hvcw9bi",
+            "score": 1,
+            "text": "Cool stuff!\n\nAlso, tomorrow's super garbage...",
+            "title_similarity": "0.3880372",
+            "sentiment_compound": 0.7574
+        },
+        {
+            "id": "hvcwjvs",
+            "score": 1,
+            "text": "Ok what about reusability/recycling?",
+            "title_similarity": "0.2784898",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "hvcx8c3",
+            "score": 1,
+            "text": "Have we discovered xenonite?",
+            "title_similarity": "0.27406055",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcxfc7",
+            "score": 1,
+            "text": "Is it sustainable? Is it renewable? Is it easily biodegradable? That’s all I care about really",
+            "title_similarity": "0.52084327",
+            "sentiment_compound": 0.7303
+        },
+        {
+            "id": "hvcxuzu",
+            "score": 1,
+            "text": "I assume this, like may other inventions will take forever to come into production for commercial use? does it bend and give the same say steel does, or when it reaches its tensile strength, does it just break?",
+            "title_similarity": "0.54721487",
+            "sentiment_compound": 0.7674
+        },
+        {
+            "id": "hvcy0ad",
+            "score": 1,
+            "text": "but does it recycle ? tldr..",
+            "title_similarity": "0.20198186",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcych1",
+            "score": 1,
+            "text": "What's the catch?  There's always a catch.",
+            "title_similarity": "0.24104105",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcyf5s",
+            "score": 1,
+            "text": "And fish love the taste!",
+            "title_similarity": "0.24527276",
+            "sentiment_compound": 0.6696
+        },
+        {
+            "id": "hvcyghk",
+            "score": 1,
+            "text": "Engineers have created… they have, have they? Reverse engineered maybe? Suspiciously sounds very much like the material that eye witnesses claim to have found at the Roswell incident.",
+            "title_similarity": "0.43312645",
+            "sentiment_compound": 0.1125
+        },
+        {
+            "id": "hvcyhoc",
+            "score": 1,
+            "text": "So they finally invented Plasteel?",
+            "title_similarity": "0.41264358",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcyj9t",
+            "score": 1,
+            "text": "Isn't this the same idea as tempering glass or steel? Essentially aligning the molecules in a less random order to gain strength.",
+            "title_similarity": "0.6521312",
+            "sentiment_compound": 0.765
+        },
+        {
+            "id": "hvcyp03",
+            "score": 1,
+            "text": "Just in time. Congrats.",
+            "title_similarity": "0.2896524",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "hvcyw7e",
+            "score": 1,
+            "text": "I just want to know if we're going to be finding it in our organs decades from now",
+            "title_similarity": "0.31368923",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hvcz4tp",
+            "score": 1,
+            "text": "“I’ve got balls of steel”-Duke Nukem \n“Hold my Beer”-Engineers",
+            "title_similarity": "0.43296462",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcz85r",
+            "score": 1,
+            "text": "Too inexpensive!!! Better buy it and shelf it quick!!!",
+            "title_similarity": "0.45284352",
+            "sentiment_compound": 0.6209
+        },
+        {
+            "id": "hvczaat",
+            "score": 1,
+            "text": "I’m just here to say it’s cool and it’s really weird in today’s culture to tear apart a simple use of words…\n\nBe better than this. Whatever happened to building things up instead of breaking things down?",
+            "title_similarity": "0.44998994",
+            "sentiment_compound": 0.4951
+        },
+        {
+            "id": "hvczfkz",
+            "score": 1,
+            "text": "why are we still inventing new plastics if the goal is not biodegradability",
+            "title_similarity": "0.53306973",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvcznf1",
+            "score": 1,
+            "text": "Is this biodegradable or something like going to last forever like plastic.",
+            "title_similarity": "0.568599",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "hvd00d7",
+            "score": 1,
+            "text": " Anyone else tired of everything being \"stronger than steel\"? Want to know what else is stronger than steel? Steel. \"Mild\" steel (low carbon) has a minimum yield strength of around 36,000 psi (250 MPa) while the strongest maraging steel has a minimum yield strength of 348,000 psi (2,400 MPa). Anyone want to bet on which alloy they chose to compare to their plastic? New headline: \"Steel is 10X stronger than steel!\"",
+            "title_similarity": "0.6372732",
+            "sentiment_compound": 0.9264
+        },
+        {
+            "id": "hvd0711",
+            "score": 1,
+            "text": "What company or stock should I invest in for this",
+            "title_similarity": "0.16982147",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvd0a6d",
+            "score": 1,
+            "text": "That's some real Red Mars type stuff going on there.",
+            "title_similarity": "0.3527316",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvd0ne6",
+            "score": 1,
+            "text": "I can't wait for this to not be a coating on my car's parts like all the other groundbreaking new materials",
+            "title_similarity": "0.562835",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvd175y",
+            "score": 1,
+            "text": "That's great and all but IS IT BIODEGRADABLE?!?!?!?",
+            "title_similarity": "0.46581462",
+            "sentiment_compound": 0.6582
+        },
+        {
+            "id": "hvd17xz",
+            "score": 1,
+            "text": "Yes, but will it BIO-DEGRADE in less than 100 years?? Likely not.",
+            "title_similarity": "0.2983778",
+            "sentiment_compound": 0.2982
+        },
+        {
+            "id": "hvd1pie",
+            "score": 2,
+            "text": "Is this another one of those things we’ll never hear about after the front page of reddit? \n\nAccording to my knowledge of r/science from what makes the front page, we’re living in 2100",
+            "title_similarity": "0.34445935",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvd1wwe",
+            "score": 1,
+            "text": "Can't wait to see tanks made of this",
+            "title_similarity": "0.42882523",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvd2bi4",
+            "score": 1,
+            "text": "sooo... space elevator everyone?",
+            "title_similarity": "0.32908314",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvd2q3l",
+            "score": 1,
+            "text": "Are u saying if we can make this material sticky, we could have real life spidermen?",
+            "title_similarity": "0.44072598",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvd3h0q",
+            "score": 1,
+            "text": "Stringer than steel in all aspects?",
+            "title_similarity": "0.5592739",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvd3nd0",
+            "score": 1,
+            "text": "You'd think by now Scientists would stop using the word \"impossible\" or \"never\"",
+            "title_similarity": "0.26304507",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hvd3nvi",
+            "score": 1,
+            "text": "A miracle material? Just like asbestos!!",
+            "title_similarity": "0.44912896",
+            "sentiment_compound": 0.7835
+        },
+        {
+            "id": "hvd4lcd",
+            "score": 1,
+            "text": "Very well. How do we dispose of it? What are its toxic effects? Will this material lower overall plastics use?",
+            "title_similarity": "0.32366663",
+            "sentiment_compound": 0.186
+        },
+        {
+            "id": "hvd4nmn",
+            "score": 1,
+            "text": "Why do stories like this come out 3 times a year and then nothing ever happens with it",
+            "title_similarity": "0.19807613",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvd4wrj",
+            "score": 1,
+            "text": "Great. Looking forward to seeing it in products 20 years from now.",
+            "title_similarity": "0.28041738",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "hvd51mz",
+            "score": 1,
+            "text": "And can we recycle it somehow or is this just gonna be another element of the now indestructible composite pacific garbage patch?",
+            "title_similarity": "0.296515",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "hvd5eqp",
+            "score": 1,
+            "text": "What’s the recycling story and long term environment impact of this? Will it degrade creating micro plastic that we will end up consuming?",
+            "title_similarity": "0.358868",
+            "sentiment_compound": -0.264
+        },
+        {
+            "id": "hvd5fn4",
+            "score": 1,
+            "text": "Can I preorder a General Products #2 Hull?",
+            "title_similarity": "0.32872516",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvd5npl",
+            "score": 1,
+            "text": "Is this environmentally sound, biodegradable?",
+            "title_similarity": "0.44552964",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvd5s2k",
+            "score": 1,
+            "text": "I bet it gives us cancer though.",
+            "title_similarity": "0.2277018",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "hvd5wa5",
+            "score": 1,
+            "text": "So this polymer will be the new ocean polluter?",
+            "title_similarity": "0.44295254",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "hvd68mv",
+            "score": 1,
+            "text": "Wonderful. Have they weaponized it yet?",
+            "title_similarity": "0.33384302",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "hvd776j",
+            "score": 1,
+            "text": "How much pollutants will it contribute?",
+            "title_similarity": "0.22774225",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvd781n",
+            "score": 1,
+            "text": "Can wait to be drowning in this instead of plastic in the near future. Yay consumerism",
+            "title_similarity": "0.35483217",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "hvd8lmg",
+            "score": 1,
+            "text": "Sounds like my wife’s cookies",
+            "title_similarity": "0.2445445",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvda1m4",
+            "score": 1,
+            "text": "This is part of the explanation of the Big Filter",
+            "title_similarity": "0.38248748",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdadmu",
+            "score": 1,
+            "text": "Can't wait to not hear about this or see it being used ever.",
+            "title_similarity": "0.22454497",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdakci",
+            "score": 1,
+            "text": "Graphine is the way.\n\nPlastic that will be widely used on new products? \n\nNo thanks. Keep the oceans clean and micro plastics out of our environment!",
+            "title_similarity": "0.5408484",
+            "sentiment_compound": 0.1496
+        },
+        {
+            "id": "hvdaw4b",
+            "score": 1,
+            "text": "And will anything come of this?",
+            "title_similarity": "0.06710007",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdb8ax",
+            "score": 1,
+            "text": "Uh ooohh... looks like the aliens made another deal... 'shrug' all well let's see what our reps traded for the new tech now",
+            "title_similarity": "0.36383867",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "hvdbp0l",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.043003507"
+        },
+        {
+            "id": "hvdbqz9",
+            "score": 1,
+            "text": "Alright how bad is this for the environment",
+            "title_similarity": "0.09024486",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "hvdbyr0",
+            "score": 1,
+            "text": "This is clearly Xenonite.",
+            "title_similarity": "0.34579173",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hvdbzwj",
+            "score": 1,
+            "text": "Excellent! How easily can it be recycled?",
+            "title_similarity": "0.54712445",
+            "sentiment_compound": 0.75
+        },
+        {
+            "id": "hvdc18u",
+            "score": 1,
+            "text": "Is this bad for the environment?",
+            "title_similarity": "0.06417434",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "hvdc352",
+            "score": 1,
+            "text": "Always see these articles and nothing ever comes of it.",
+            "title_similarity": "0.20097032",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdcfry",
+            "score": 1,
+            "text": "The real question is can we turn it into a suit of armour?",
+            "title_similarity": "0.3940937",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdczp5",
+            "score": 1,
+            "text": "But will it fill our oceans? Will it poison us?  Not feeling that trusting….",
+            "title_similarity": "0.23538828",
+            "sentiment_compound": -0.7694
+        },
+        {
+            "id": "hvdd29z",
+            "score": 1,
+            "text": "Or you could use hemp",
+            "title_similarity": "0.21070388",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvddmc5",
+            "score": 1,
+            "text": "How biodegradable is it?",
+            "title_similarity": "0.40085685",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvddvm0",
+            "score": 1,
+            "text": "That's nice. Still waiting for graphene.",
+            "title_similarity": "0.3042717",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hvdewbc",
+            "score": 1,
+            "text": "Great! How much of it is going to get inside of every biological species in the world? We don't exactly need more pollution or microplastics.",
+            "title_similarity": "0.5803548",
+            "sentiment_compound": 0.6588
+        },
+        {
+            "id": "hvdf8su",
+            "score": 1,
+            "text": "Can they make it clear?",
+            "title_similarity": "0.17078546",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "hvdfzku",
+            "score": 1,
+            "text": "Ok but how much cancer does it give us?",
+            "title_similarity": "0.23906565",
+            "sentiment_compound": -0.7579
+        },
+        {
+            "id": "hvdgiv6",
+            "score": 1,
+            "text": "If this becomes consumer friendly as advertised HUGE may have a decent battlebots season",
+            "title_similarity": "0.5230977",
+            "sentiment_compound": 0.7378
+        },
+        {
+            "id": "hvdgm10",
+            "score": 1,
+            "text": "This technology will never be available to the public.",
+            "title_similarity": "0.11564711",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdgtvt",
+            "score": 1,
+            "text": "Last I checked everything is three dimensional. Even if it’s a single atom",
+            "title_similarity": "0.38144737",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdgwsd",
+            "score": 1,
+            "text": "Quick, throw it in the ocean in mass quantity!!",
+            "title_similarity": "0.33468825",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdh1vp",
+            "score": 1,
+            "text": "First 2 games. That would be awesome too!",
+            "title_similarity": "0.42377526",
+            "sentiment_compound": 0.6588
+        },
+        {
+            "id": "hvdh4u8",
+            "score": 1,
+            "text": "Wish it was easier to do this with renewable materials",
+            "title_similarity": "0.48148936",
+            "sentiment_compound": 0.6705
+        },
+        {
+            "id": "hvdijnn",
+            "score": 1,
+            "text": "\"Light as plastic\"\n\nIt is plastic....",
+            "title_similarity": "0.4435569",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdim67",
+            "score": 1,
+            "text": "Damn that’s cool, can’t wait to never hear about it again",
+            "title_similarity": "0.23411892",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "hvdizwr",
+            "score": 1,
+            "text": "Great- before we roll it out let’s do some long term environmental impact analyses eh?",
+            "title_similarity": "0.35300508",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "hvdj0q3",
+            "score": 1,
+            "text": "Remind me in 40 years when we are trying to figure out with discarded products made from this amazingly easy to manufacture and durable material.",
+            "title_similarity": "0.5354291",
+            "sentiment_compound": 0.2006
+        },
+        {
+            "id": "hvdj34f",
+            "score": 1,
+            "text": "So will it be called Plasteel? \n Always thought that was a cool name from Babylon 5 for the Earth alliance ships.",
+            "title_similarity": "0.4092819",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hvdj66r",
+            "score": 1,
+            "text": "Does it cost less financially and environmentally to produce and integrate?",
+            "title_similarity": "0.42954826",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdjjcp",
+            "score": 1,
+            "text": "But can it leap a tall building in a single bound??",
+            "title_similarity": "0.4827872",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdjk81",
+            "score": 2,
+            "text": "Yeah but what are the manufacturing waste and byproducts? This question must accompany all new \"innovations\".",
+            "title_similarity": "0.50365376",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hvdjxe0",
+            "score": 1,
+            "text": "Sounds like this won’t be recyclable.",
+            "title_similarity": "0.115476936",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvdk3i8",
+            "score": 1,
+            "text": "Oh no, what is the potential for microplastic pollution?",
+            "title_similarity": "0.20765801",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdlrzj",
+            "score": 1,
+            "text": "So I can have my giant robot then!?",
+            "title_similarity": "0.55388147",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdludv",
+            "score": 1,
+            "text": "Neato!  Can’t wait to see stacks of this piled up in our oceans next!",
+            "title_similarity": "0.4254554",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdn359",
+            "score": 1,
+            "text": "Aaaaaand like other new discoveries, we'll never see it in practical uses in our lifetimes.",
+            "title_similarity": "0.2626795",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvdo2su",
+            "score": 1,
+            "text": "How long does it take to decompose?",
+            "title_similarity": "0.1825085",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdo8p0",
+            "score": 1,
+            "text": "Pretty pissed this wasn't transparent aluminum...",
+            "title_similarity": "0.26919982",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hvdoeos",
+            "score": 1,
+            "text": "Is it easily disposable or recyclable? Or just going to cause tons of waste like everything else.",
+            "title_similarity": "0.49634293",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hvdovgz",
+            "score": 1,
+            "text": "“Here at apple we believe that the future is created by the creative minds of today. This is why today we’re introducing the all new iPhone 26 pro max ultra mark VI. It is build using the latest tech in polymer science using two dimensional arrays polymers for an unprecedented durability. We at apple we believe that Plastic is the future and here  embrace it.”",
+            "title_similarity": "0.6492286",
+            "sentiment_compound": 0.7351
+        },
+        {
+            "id": "hvdp745",
+            "score": 1,
+            "text": "How bad for the environment is this going to be? Our plastic is already killing us",
+            "title_similarity": "0.18015642",
+            "sentiment_compound": -0.836
+        },
+        {
+            "id": "hvdp8fz",
+            "score": 1,
+            "text": "Lets just make some more plastics that stay around for thousands of years the world needs more.",
+            "title_similarity": "0.5814234",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdpei0",
+            "score": 1,
+            "text": "In other words backward engineered alien materials.",
+            "title_similarity": "0.27620876",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdpgow",
+            "score": 1,
+            "text": "Now tell us about its weird, twisty cost!",
+            "title_similarity": "0.19232917",
+            "sentiment_compound": -0.2481
+        },
+        {
+            "id": "hvdpife",
+            "score": 1,
+            "text": "Do we need more plastics?",
+            "title_similarity": "0.46681857",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdpudt",
+            "score": 1,
+            "text": "We will know its true potential once it is deployed in sex toys",
+            "title_similarity": "0.43635526",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hvdpvf5",
+            "score": 1,
+            "text": "Promising, but this will take 5-8 years to be commercialized...",
+            "title_similarity": "0.2187792",
+            "sentiment_compound": 0.2144
+        },
+        {
+            "id": "hvdpy1h",
+            "score": 3,
+            "text": "So if its strong, and easy to manufacture, then i assume its expensive? Or disintegrates in a couple of hours or something similar?",
+            "title_similarity": "0.50965255",
+            "sentiment_compound": 0.7798
+        },
+        {
+            "id": "hvdqnke",
+            "score": 1,
+            "text": "This magic material is made from high density Ligma",
+            "title_similarity": "0.5996325",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdqps8",
+            "score": 1,
+            "text": "It can be made in mass quantity but is it profitable?",
+            "title_similarity": "0.562976",
+            "sentiment_compound": 0.5927
+        },
+        {
+            "id": "hvdqyvk",
+            "score": 1,
+            "text": "I feel like at least once a week I see an article posted on reddit about this or that revolutionary material or technology or whatever thats supposed to change the world and I've never seen it actually come to anything.",
+            "title_similarity": "0.2737813",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvdrbj2",
+            "score": 1,
+            "text": "I wonder if it will be far more prone to degradation in UV light ?, or put some vegetables in to it and the thing breaks ! :)",
+            "title_similarity": "0.2468144",
+            "sentiment_compound": -0.2396
+        },
+        {
+            "id": "hvds0x6",
+            "score": 1,
+            "text": "I’m an engineer, not a chemist, but damn those numbers look exciting",
+            "title_similarity": "0.48021182",
+            "sentiment_compound": 0.1901
+        },
+        {
+            "id": "hvds1ua",
+            "score": 1,
+            "text": "Can't wait to never hear about this again",
+            "title_similarity": "0.14754975",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvds9g3",
+            "score": 1,
+            "text": "Oh, and it will cost $1M per milligram.",
+            "title_similarity": "0.37940234",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdtgh8",
+            "score": 1,
+            "text": "Let's make heaps and heaps of it and spread it to every part of the planet!",
+            "title_similarity": "0.40075606",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdtmii",
+            "score": 1,
+            "text": "So what’s the stock ticker on this",
+            "title_similarity": "0.12387339",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdu5cv",
+            "score": 1,
+            "text": "Two-dimensional? Isn’t everything three dimensional?",
+            "title_similarity": "0.29949796",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdv0oy",
+            "score": 1,
+            "text": "Is this actually something we’ll see get to production or just another story? \n\nEvery week we’re hearing about a new XYZ and ABC but then we never see it again.",
+            "title_similarity": "0.22695407",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdv6nc",
+            "score": 2,
+            "text": "But is it biodegradable?",
+            "title_similarity": "0.35960358",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdvbm0",
+            "score": 1,
+            "text": "Shouldn’t see each other. That's rad.",
+            "title_similarity": "0.077969804",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvdwlcx",
+            "score": 1,
+            "text": "I feel like I’ve seen this article over and over every 6 months for the past 5 years. Some new super material that is amazing yet almost never used.",
+            "title_similarity": "0.25370175",
+            "sentiment_compound": 0.8807
+        },
+        {
+            "id": "hvdwqe3",
+            "score": 2,
+            "text": "Why are there headlines like this every day but no actual results. “Scientist finds miracle drug that can cure aids” where are the goodies.",
+            "title_similarity": "0.39070237",
+            "sentiment_compound": 0.631
+        },
+        {
+            "id": "hvdzan9",
+            "score": 1,
+            "text": "Let me guess, we’ll never hear about it again just like Graphene.",
+            "title_similarity": "0.17394991",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvdzdq7",
+            "score": 1,
+            "text": "Does anyone have an idea of what this looks like? Sounds fascinating and the crappy cgi image leaves a lot to the imagination. I'm guessing it's not see through, but I'm trying to wrap my head around potential uses outside of those listed in the article.",
+            "title_similarity": "0.34300673",
+            "sentiment_compound": 0.1779
+        },
+        {
+            "id": "hvdzfam",
+            "score": 2,
+            "text": ">stronger than steel, \n\nCarbon fiber cloth.\n\n>as light as plastic\n\nCarbon fiber cloth.\n\n>can be easily manufactured in large quantities\n\nSoectra/Dyneema (UHMWPE), although one should define how \"easily\" qualifies as easily. This is a polymer so it is a plastic. \n\nThis stuff has strength comparable to steel, but not as strong as carbon fiber. \n\n>new material is a two-dimensional polymer\n\nSpider dragline silk (extremely difficult to manufacture.) \n\nAlso carbon fiber (medium manufacturing difficulty.) \n\n>that self-assembles into sheets unlike other polymers\n\nAlso carbon fiber. \n\nCarbon fibers tend to be made by charring a plastic called PAN or polyacrylonitrille under carefully controlled conditions then further heat treating the charred fibers in certain ways.  PAN itself has the property of self-assembling into 2D pleated sheets, sort of. It's still composed of long linear chains but the chains have strong hydrogen bonding forces between adjacent chains which causes them to assemble into a pleated sheets structure. PAN is relatively cheap to manufacture.\n\nDuring charring the pleated sheets are converted into the truly 2D hexagonal carbon sheets found in graphite/graphene. However PAN is not quite as strong as certain other polymers such as UHMWPE or Aramides.",
+            "title_similarity": "0.85791504",
+            "sentiment_compound": 0.6181
+        },
+        {
+            "id": "hve0a2t",
+            "score": 1,
+            "text": "We’re sick of polymers. Unless of course this one can also be cost-effectively recycled or biodegrades",
+            "title_similarity": "0.43669772",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "hve10ih",
+            "score": 1,
+            "text": "Plasteel is here at last",
+            "title_similarity": "0.24248734",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hve1ahd",
+            "score": 1,
+            "text": "Please don't let this be like plastic was to Boomer's.\n\nMake sure we have a safe, quick, and effective way to recycle and reuse this type of material so as not to destroy the world any further for our convenience.",
+            "title_similarity": "0.48043087",
+            "sentiment_compound": 0.9319
+        },
+        {
+            "id": "hve1pn4",
+            "score": 1,
+            "text": "We should be thankful for alien technology, besides it's really cool",
+            "title_similarity": "0.4595077",
+            "sentiment_compound": 0.7425
+        },
+        {
+            "id": "hve2bwm",
+            "score": 1,
+            "text": "Can anyone ELI5 regarding polymers? I specifically want to know if it's only made from plastics or just any two materials bonded together.",
+            "title_similarity": "0.53863955",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hve3kuz",
+            "score": 1,
+            "text": "I'll believe it when I see it.",
+            "title_similarity": "0.2750228",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hve3ruq",
+            "score": 1,
+            "text": "I feel quite dumb for asking this but what does 2D (2 dimensional) mean?  This new material is flat like a sheet of metal so I can imagine it's flat... but 2D?  I just don't get it.",
+            "title_similarity": "0.44571182",
+            "sentiment_compound": 0.3212
+        },
+        {
+            "id": "hve4au4",
+            "score": 3,
+            "text": "What I’m reading out of this, supplemented a tad with my background in materials science\n\n-\tMIT researchers figured out how to process a “ring” of carbon, nitrogen, and hydrogen (C3N6H6, or melamine) into a super-strong, 2D sheet of carbon and nitrogen “sheathed” in hydrogen \n-\tThe 2D confinement of these carbon-nitrogen bonds forms a sheet that can take a force “4-6x stronger than [a sheet] of bulletproof glass” before permanently deforming (if these sheets come out with 0 defects, they would likely never break)\n-\tWhereas classic polymer films are made up of carbon chains tangled together in intricate ways, providing few gaps for molecules to pass through, these true 2D sheets are impermeable to gases (so, anything that doesn’t chemically alter the sheet)\n-\tThe patented process allows these sheets to self-assemble from melamine in “solution” (likely the magic sauce), and they can then spin-coat the saturated solution to form thin films of these sheets (can be scaled for mass production - question is, how long does the chemical process take, and under what conditions? If it’s spontaneous at STP then this is revolutionary)\n\nAll things considered, this “2DPA-1” material could be a game-changer for protective gear and coatings, construction (specifically corrosion protection, which is BIG if true), fuel transport (methane and hydrogen need this to be commercially viable), and likely much more.\n\nHuge props to Prof. Michael Strano, Yuwen Zeng (lead author, PhD), and their team. They’re already looking into further modifications to these sheets. Funding comes from the Center for Enhanced Nanofluidic Transport (CENT) sponsored by the US Department of Energy Office of Science, and the Army Research Laboratory, so I’d expect this to legitimately make waves. Expect more to come!",
+            "title_similarity": "0.67297137",
+            "sentiment_compound": 0.9078
+        },
+        {
+            "id": "hve4knc",
+            "score": 1,
+            "text": "Could they build massive tanks for whales with it?",
+            "title_similarity": "0.40588003",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hve4tec",
+            "score": 1,
+            "text": "Sorry, already saw this in the movie predator",
+            "title_similarity": "0.2084265",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "hve74a0",
+            "score": 1,
+            "text": "How expensive is it to produce? What is its tensile strength?",
+            "title_similarity": "0.41309273",
+            "sentiment_compound": 0.5514
+        },
+        {
+            "id": "hve88c8",
+            "score": 1,
+            "text": "Nice I can’t wait to dump a ton of this in the ocean",
+            "title_similarity": "0.34328192",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "hve9eru",
+            "score": 1,
+            "text": "Harder in what way? Harder than which steel? Hardness? Brittleness? Ductility? Toughness? Strength?",
+            "title_similarity": "0.4981463",
+            "sentiment_compound": 0.6072
+        },
+        {
+            "id": "hve9fg2",
+            "score": 1,
+            "text": "I keep seeing hyperbolic articles like this about \"revolutionary new material will do xyz\" like replace plastic, or make batteries last 200 times longer... R&D is totally necessary, but should we wait to present the practically of a new material until its replaced or improved an actual existing product?\n\nLike, wasn't everything supposed to be made out of graphene-covered-carbon-nanotubes by now??",
+            "title_similarity": "0.6034367",
+            "sentiment_compound": 0.887
+        },
+        {
+            "id": "hve9g0u",
+            "score": 1,
+            "text": "Let's see how long it stays in this state before we start building infrastructure.  Wouldn't want it to start to unravel after a couple of years.",
+            "title_similarity": "0.34177512",
+            "sentiment_compound": -0.0572
+        },
+        {
+            "id": "hve9hz2",
+            "score": 1,
+            "text": "Okay, so I actually went and read the original research publication because frankly popular science journalism sorta sucks.\n\nhttps://www.nature.com/articles/s41586-021-04296-3\n\nThis material has an elastic modulus of 12.7GPa in 2D and a yield strength of 488MPa.\n\nThat's...high, but not exactly revolutionary within the realm of material properties. For context, steel and raw carbon fiber both have an elastic modulus of about 200GPa, which is literally an order of magnitude higher. (On another note, what's annoying is that the news article described this material with an elastic modulus \"between four and six times greater than that of bulletproof glass\", which is sensationalist garbage. Bulletproof glass is traditionally just glass laminated with polycarbonate. And polycarbonate's modulus isn't exactly high - which is precisely the reason it even works as the \"soft\" glass in a bulletproof laminate.)\n\nSteel *can* have a yield strength of around 500MPa, similar to this polymer, but depending on alloy and heat treatment it can also go as high as 2GPa (4 times higher). Carbon fiber is on a whole different level, with tensile strengths up to 6-7GPa in raw form and reduced down to 2-3GPa in composite form.\n\nSo I wouldn't exactly expect this material to replace steel in skyscraper structures, or carbon fiber in plane wings, anytime soon.\n\nI'll be honest - I'm having trouble trying to figure out exactly what it is they claim to be the true advantage of this material over, say, carbon fiber. It would be a pretty important thing if such a material was easily processed and fabricated using techniques applied to other polymers, such as injection molding or 3D printing. The article seems to make no claims for that.\n\nThey do claim two things: that it can be used to make barriers that are impermeable to gas, and that it can be used in composites. But you can make gas-impermeable barriers with other, established materials, and this one wouldn't have any advantages unless you also needed that barrier to be extremely strong and lightweight as well for whatever reason. So that would probably limit its applications to extremely niche scientific uses.\n\nAs for composites, I fail to see any reason this would make for better composite properties than carbon fiber, which we've been using for decades.\n\nI dunno. I don't mean to sound overly critical of this, since I would normally be excited for new, stronger materials that can be built into lighter things. But time will tell if this will amount to anything more than graphene (like they say, graphene can do just about anything except leave the lab.)",
+            "title_similarity": "0.53964657",
+            "sentiment_compound": 0.9872
+        },
+        {
+            "id": "hveaog1",
+            "score": 1,
+            "text": "Transparent Aloominum? \\*taptaptap\\*",
+            "title_similarity": "0.35955492",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvebkn3",
+            "score": 1,
+            "text": "I hate these kinds of articles. So if they have made it, and it's super easy to manufacture - is the process of having it replace things starting tomorrow?",
+            "title_similarity": "0.48380992",
+            "sentiment_compound": 0.4767
+        },
+        {
+            "id": "hvebnkz",
+            "score": 2,
+            "text": "[deleted]",
+            "title_similarity": "0.041645676"
+        },
+        {
+            "id": "hvebwh9",
+            "score": 1,
+            "text": "I wonder if it is possible to use for 3D printing.",
+            "title_similarity": "0.35550258",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvebyjo",
+            "score": 1,
+            "text": "As fascinating as this new substance is, how long will it be before we find out it's the new Teflon?",
+            "title_similarity": "0.5249634",
+            "sentiment_compound": 0.5423
+        },
+        {
+            "id": "hved6qh",
+            "score": 1,
+            "text": "And plastic can be as strong as aluminium, or even stronger. But aluminum is still superior because of how brittle plastic gets with heat cycling and aging..",
+            "title_similarity": "0.7392462",
+            "sentiment_compound": 0.8271
+        },
+        {
+            "id": "hved98r",
+            "score": 1,
+            "text": "Mithril... Harder than steel, but as light as a feather!",
+            "title_similarity": "0.63513756",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hveduyw",
+            "score": 1,
+            "text": "I'm very excited for the application of this in the future.",
+            "title_similarity": "0.3357607",
+            "sentiment_compound": 0.4005
+        },
+        {
+            "id": "hvedw5i",
+            "score": 1,
+            "text": "Anybody know what companies will be involved in the mass production and distribution of this new material?",
+            "title_similarity": "0.52061266",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvee5iw",
+            "score": 1,
+            "text": "Does it have a name yet?",
+            "title_similarity": "0.089646995",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hveed6l",
+            "score": 1,
+            "text": "How does it perform under extreme temperatures?",
+            "title_similarity": "0.2447829",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvef6nv",
+            "score": 1,
+            "text": "Yeah weve heard this before. Hey what happened to that graphene thingy? We'll wait and see if they can actually do something with this.",
+            "title_similarity": "0.27495578",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "hveg0d5",
+            "score": 1,
+            "text": "Fast forward 10 years, every thing in earth now contains traces of said material and it causes cancer",
+            "title_similarity": "0.329121",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "hvegd0d",
+            "score": 1,
+            "text": "How long will it take this one to biodegrade",
+            "title_similarity": "0.22360143",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvegih0",
+            "score": 1,
+            "text": "Is this the new plastic?",
+            "title_similarity": "0.46582848",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvehieh",
+            "score": 1,
+            "text": "Cool, but will it recycle?",
+            "title_similarity": "0.240072",
+            "sentiment_compound": 0.1655
+        },
+        {
+            "id": "hvei8ij",
+            "score": 1,
+            "text": "Is this better than carbon in some way? I always need new ways to throw $$$ at my bicycle.",
+            "title_similarity": "0.47482628",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hvej55c",
+            "score": 1,
+            "text": "How can you have a one dimensional polymer???",
+            "title_similarity": "0.50166714",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvek5ej",
+            "score": 1,
+            "text": "Ah yes, plasteel, sci fi is here boys!",
+            "title_similarity": "0.29781726",
+            "sentiment_compound": 0.4574
+        },
+        {
+            "id": "hvelh8l",
+            "score": 1,
+            "text": "Hopefully it won't be as detrimental as the microplastics on our planet killing everything and polliting the world as well as being present in our bloodstream negatively affecting our bodies.\n\nIt would be nice if we learned from our mistakes first before we introduce it to the world en masse. Asbestos, plastic, I think at one time there was even radioactive products being sold to the actual public in America.",
+            "title_similarity": "0.4258473",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "hvem1bt",
+            "score": 1,
+            "text": "I've been hearing about new material for the last fifteen years but never saw any of it yet",
+            "title_similarity": "0.22517401",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvemnn5",
+            "score": 1,
+            "text": "But does it shed thousands of microparticles like plastics?",
+            "title_similarity": "0.53983563",
+            "sentiment_compound": 0.5023
+        },
+        {
+            "id": "hvenaxf",
+            "score": 1,
+            "text": "Sounds cool... But will it also end up being an ingredient in the fish we eat?",
+            "title_similarity": "0.20703083",
+            "sentiment_compound": 0.1655
+        },
+        {
+            "id": "hvenhu5",
+            "score": 1,
+            "text": "Is it biodegradable? how much heat can it withstand?",
+            "title_similarity": "0.4692476",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hveog7p",
+            "score": 1,
+            "text": "Is it a conductor or insulator?",
+            "title_similarity": "0.2621789",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hveprpe",
+            "score": 1,
+            "text": "But does it float on top of the plastic in our oceans ?",
+            "title_similarity": "0.34771842",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "hvepu24",
+            "score": 1,
+            "text": "That actually sounds very promising! Since if it natural state is the form we want it will be way easier to produce at large scale.\n\n...it is very toxic isn't it and it will be a new plague on us won't it?",
+            "title_similarity": "0.5436741",
+            "sentiment_compound": 0.8353
+        },
+        {
+            "id": "hveq4d0",
+            "score": 1,
+            "text": "Nice, they finally released plasteel",
+            "title_similarity": "0.3740984",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hveq7il",
+            "score": 1,
+            "text": "light as a feather, stiff as a board",
+            "title_similarity": "0.40297925",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hveqmiu",
+            "score": 1,
+            "text": "Awesome! Now the plastic forks at McDonalds will finally be sturdy enough to spear a piece of pancake without folding. \n\nThe downside is the ocean will be filled with indestructible plastic.\n\n(This is satire. Sort of).",
+            "title_similarity": "0.48699647",
+            "sentiment_compound": 0.7738
+        },
+        {
+            "id": "hveqo8i",
+            "score": 1,
+            "text": "I can't wait to consume it in my sushi",
+            "title_similarity": "0.31204212",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hveu1xz",
+            "score": 1,
+            "text": "Excuse my smooth brain, but I thought 2d couldn’t really exist in 3d space? Is this is a different idea/definition of 2d? Wouldn’t even something a single atom thick still be considered 3d?",
+            "title_similarity": "0.43169007",
+            "sentiment_compound": 0.1754
+        },
+        {
+            "id": "hveurma",
+            "score": 1,
+            "text": "I mean there are videos on YT about carbon fibre MTB handle bars snapping into two causing significant injury.",
+            "title_similarity": "0.3340773",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hveutz6",
+            "score": 1,
+            "text": "Now, I didn't see the article yet, but in my head this person is talking about Graphine\n\nEdit:\nNow, I have seen the article, but in my head these people are talking about basically what is graphine but with another name",
+            "title_similarity": "0.28114307",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvevbc1",
+            "score": 1,
+            "text": "One dimensional polymers?",
+            "title_similarity": "0.43841755",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvewlf2",
+            "score": 1,
+            "text": "Cool. Sounds like it will be around longer than regular plastic. Any ideas on how we recycle this new indestructible material?",
+            "title_similarity": "0.64826536",
+            "sentiment_compound": 0.6597
+        },
+        {
+            "id": "hvewm7o",
+            "score": 1,
+            "text": "One dimensional polymers are tTtttHhhHhheeeeEEae WoOOorRRSSsST\n\n- Jean ralphio",
+            "title_similarity": "0.52036774",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvex9z3",
+            "score": 1,
+            "text": "Is it economically feasible to manufacture?",
+            "title_similarity": "0.47492278",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvey4jh",
+            "score": 1,
+            "text": "How much of a mess will it make? We already have microplastics lodging in placenta.",
+            "title_similarity": "0.37715158",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "hveyf6v",
+            "score": 1,
+            "text": "I hope it's called plasteel",
+            "title_similarity": "0.18263716",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hveznew",
+            "score": 1,
+            "text": "So what are they gonna mold whole buildings from this stuff or part it out like we are doing now...how is it gonna replace steel?",
+            "title_similarity": "0.5382091",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hvf0hm5",
+            "score": 1,
+            "text": "\"SELF-ASSEMBLES\"? How why?",
+            "title_similarity": "0.22705972",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvf183f",
+            "score": 1,
+            "text": "I now understand how my husband feels when I talk in detail about surgery. I understood very little in most of these comments",
+            "title_similarity": "0.31483513",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvf1syy",
+            "score": 1,
+            "text": "Is this what flying saucers are made of?",
+            "title_similarity": "0.28654903",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvf2tk4",
+            "score": 1,
+            "text": "Since no advantage comes for free… Let me guess…\n\nIs it extremely toxic or polluting?",
+            "title_similarity": "0.3310649",
+            "sentiment_compound": -0.1877
+        },
+        {
+            "id": "hvf6b19",
+            "score": 1,
+            "text": "I just need to know if it’s stronger than graphene. Is it?",
+            "title_similarity": "0.5245946",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "hvf6s02",
+            "score": 1,
+            "text": "But does it recycle or naturally degrade?",
+            "title_similarity": "0.1547654",
+            "sentiment_compound": -0.5927
+        },
+        {
+            "id": "hvfbpwl",
+            "score": 1,
+            "text": "i thought it was a chocolate chip cookie and was disappointed.",
+            "title_similarity": "0.2597009",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hvffxgc",
+            "score": 1,
+            "text": "Transparent aluminum. Thanks Scotty!",
+            "title_similarity": "0.5293047",
+            "sentiment_compound": 0.4926
+        },
+        {
+            "id": "hvfg72k",
+            "score": 1,
+            "text": "Is it biodegradable or easily recycled?",
+            "title_similarity": "0.50911325",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "hvfon24",
+            "score": 1,
+            "text": "I wonder what name it will eventually take on",
+            "title_similarity": "0.0649382",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvfurbw",
+            "score": 1,
+            "text": "They should call it Ocean after where it will end up.",
+            "title_similarity": "0.1588935",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvgcyl7",
+            "score": 1,
+            "text": "I'll bet It'll be like super non-recyclable or something",
+            "title_similarity": "0.3429669",
+            "sentiment_compound": 0.7506
+        },
+        {
+            "id": "hvgyxik",
+            "score": 1,
+            "text": "No doubt, if it becomes a huge success, future generations will endlessly complain about its negative environmental effects, entirely overlooking the net benefit the material will provide them. Just like we do with plastics today.",
+            "title_similarity": "0.36682877",
+            "sentiment_compound": 0.7514
+        },
+        {
+            "id": "hvgzsw7",
+            "score": 1,
+            "text": "How much for 800 yards of it?",
+            "title_similarity": "0.21274063",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hw9au9i",
+            "score": 1,
+            "text": "question .. since this process uses Hydrogen bonds to create the material .. would the hydrogen in its makeup make the material flammable ??",
+            "title_similarity": "0.48965693",
+            "sentiment_compound": 0.3527
+        },
+        {
+            "id": "hy0q2xy",
+            "score": 1,
+            "text": "Anyone know how useful this would be for space travel?",
+            "title_similarity": "0.31704056",
+            "sentiment_compound": 0.4404
+        }
+    ]
+}

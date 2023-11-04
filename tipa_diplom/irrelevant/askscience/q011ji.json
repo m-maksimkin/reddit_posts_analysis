@@ -1,0 +1,70 @@
+{
+    "About 6 months ago hundreds of millions of genetically modified mosquitos were released in the Florida Keys. Is there any update on how that's going?\nThere's an ongoing experiment in Florida involving mosquitos that are engineered to breed only male mosquitos, with the goal of eventually leaving no female mosquitos to reproduce.\n\nIn an effort to extinguish a local mosquito population, up to a billion of these mosquitos will be released in the Florida Keys over a period of a few years. How's that going?": [
+        {
+            "id": "hf53b6w",
+            "score": 9,
+            "text": "[removed]",
+            "title_similarity": "-0.050928924"
+        },
+        {
+            "id": "hf6cmji",
+            "score": -4,
+            "text": "[removed]",
+            "title_similarity": "-0.050928924"
+        },
+        {
+            "id": "hf6l6u7",
+            "score": -57,
+            "text": "[removed]",
+            "title_similarity": "-0.050928924"
+        },
+        {
+            "id": "hf51s3c",
+            "score": 36,
+            "text": "[removed]",
+            "title_similarity": "-0.050928924"
+        },
+        {
+            "id": "hf6s99n",
+            "score": 20,
+            "text": "[removed]",
+            "title_similarity": "-0.050928924"
+        },
+        {
+            "id": "hf4x91g",
+            "score": 40,
+            "text": "[removed]",
+            "title_similarity": "-0.050928924"
+        },
+        {
+            "id": "hf5t4d7",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "-0.050928924"
+        },
+        {
+            "id": "hf4ussc",
+            "score": 75,
+            "text": "https://www.oxitec.com/florida\n\nReleases began in May this year and were halted due to the hurricane that passed by. No data released yet. Still acquiring data and doing the project.",
+            "title_similarity": "0.68534386"
+        },
+        {
+            "id": "hf55ogg",
+            "score": 2324,
+            "text": "Mosquito scientist here.\n\nThis method is potentially very promising as it only targets the mosquito species you want it to. In this case it is Aedes aegypti  which is an invasive species to Florida. This species is adapted to live in urban environments near humans and bite during the day which makes it such a nuisance. There are many other human biting native mosquitoes species in Florida. This method doesn't target those ones so food webs are likely to be unaffected.",
+            "title_similarity": "0.6755531"
+        },
+        {
+            "id": "hf4ww9a",
+            "score": 6206,
+            "text": "It looks like that started in may and they were releasing 12,000 a week for 16 weeks. So it probably is just been 16 weeks recently. So probably too soon but it isn't the first place they tested this.\n\n\"First genetically modified mosquitoes released in the United States\" https://www.nature.com/articles/d41586-021-01186-6\n\nAdditionally, the species is only about 4% of mosquitoes in Florida so people there may not notice any difference since the other species will likely fill the niche. But the species is the one that carries zika so even though people probably wont notice it will save lives",
+            "title_similarity": "0.811576"
+        },
+        {
+            "id": "hf4tkqf",
+            "score": 262,
+            "text": "Latest Oxitec update says they resumed releases after Tropical Storm Fred in August.\n\nhttps://www.keysmosquitoproject.com/news/fkmcd-oxitec-mosquito-project-update-project-resumes-with-location-changes-to-target-higher-mosquito-populations",
+            "title_similarity": "0.6112337"
+        }
+    ]
+}

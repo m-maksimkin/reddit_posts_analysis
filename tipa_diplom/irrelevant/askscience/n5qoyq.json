@@ -1,0 +1,88 @@
+{
+    "If a person catches a cold and COVID-19 at the same time, will that person get seriously sick from both illnesses, or one of the viruses will \"win\" the fight against the other?\n": [
+        {
+            "id": "gx3h9p7",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.062110275"
+        },
+        {
+            "id": "gx3msg8",
+            "score": 8,
+            "text": "[removed]",
+            "title_similarity": "0.062110275"
+        },
+        {
+            "id": "gx4ae83",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "0.062110275"
+        },
+        {
+            "id": "gx3ghal",
+            "score": 423,
+            "text": "[removed]",
+            "title_similarity": "0.062110275"
+        },
+        {
+            "id": "gx3gdg0",
+            "score": 144,
+            "text": "The trouble with your question is that there are several different viruses that cause what we commonly call a \"cold\" - rhinoviruses, adenoviruses, coronaviruses, etc.\n\nIf you are dually infected with COVID-19 and another coronavirus, there's a chance there'll be genomic recombination - giving us something new altogether. It's likely this is how COVID-19 arose from the start. \n\nhttps://www.nature.com/articles/s41598-020-78703-6",
+            "title_similarity": "0.7695787"
+        },
+        {
+            "id": "gx48gdg",
+            "score": -26,
+            "text": "[removed]",
+            "title_similarity": "0.062110275"
+        },
+        {
+            "id": "gx39sgk",
+            "score": 214,
+            "text": "[removed]",
+            "title_similarity": "0.062110275"
+        },
+        {
+            "id": "gx3ilpx",
+            "score": 461,
+            "text": "The research of viral coinfection was a topic at my university. The answer wasn't clean, but depending on the combination of viruses in the infection, the infection was cleared better OR worse, but both were present as ZedZeroth said.",
+            "title_similarity": "0.69760174"
+        },
+        {
+            "id": "gx3msho",
+            "score": 20,
+            "text": "[removed]",
+            "title_similarity": "0.062110275"
+        },
+        {
+            "id": "gx3jkrs",
+            "score": 23,
+            "text": "[removed]",
+            "title_similarity": "0.062110275"
+        },
+        {
+            "id": "gx3j0ej",
+            "score": 114,
+            "text": "More broadly, there's no reason you can't have simultaneous infections by two different viruses. The main cause of death from HIV isn't the human immunodeficiency virus itself, it's secondary infections that can run rampant thanks to the AIDS part (acquired immunodefficiency syndrome).\n\nFor COVID specifically, secondary infections do appear to be an issue, including viral infections. See e.g.:\n\n* *Risks and features of secondary infections in severe and critical ill COVID-19 patients*, Emerging Microbes & Infections \\[[link](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1812437)\\]\n* *Secondary infections in patients hospitalized with COVID-19: incidence and predictive factors*, Clinical Microbiology and Infection \\[[link](https://www.sciencedirect.com/science/article/abs/pii/S1198743X20306522)\\]",
+            "title_similarity": "0.7178513"
+        },
+        {
+            "id": "gx3g5m3",
+            "score": 40,
+            "text": "[removed]",
+            "title_similarity": "0.062110275"
+        },
+        {
+            "id": "gx3r7il",
+            "score": 6273,
+            "text": "Surprised I don't see this already, but there was recently a study to attempt and answer this exact question!!\n\nHere's a link to [\"Human rhinovirus infection blocks SARS-CoV-2 replication within the respiratory epithelium: implications for COVID-19 epidemiology\"](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab147/6179975).  \n\nA brief summary is that the HRV appears to inhibit transmission of SARS-CoV-2, possibly due to the former triggering an increased production of interferon.  \n\nTL;DR: The cold will win.",
+            "title_similarity": "0.6954931"
+        },
+        {
+            "id": "gx3trxg",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "0.062110275"
+        }
+    ]
+}

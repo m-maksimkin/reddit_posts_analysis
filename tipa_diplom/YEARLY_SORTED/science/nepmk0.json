@@ -1,0 +1,869 @@
+{
+    "Scientists at the University of Zurich have modified a common respiratory virus, called adenovirus, to act like a Trojan horse to deliver genes for cancer therapeutics directly into tumor cells. Unlike chemotherapy or radiotherapy, this approach does no harm to normal healthy cells.\n": [
+        {
+            "id": "gyhe5ra",
+            "score": 1,
+            "text": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are now allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will continue be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) still apply to other comments.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "title_similarity": "0.5742395",
+            "sentiment_compound": 0.7088
+        },
+        {
+            "id": "gyhy0i0",
+            "score": 18,
+            "text": "And that‘s the last time you will ever hear about it.",
+            "title_similarity": "0.06070766",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyi5l2g",
+            "score": -6,
+            "text": "Every week there’s some new article about how scientists are creating new ways to cure cancer.. and then it disappears and nothing changes. I’ll believe it when I see it.",
+            "title_similarity": "0.6723661",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "gyi365a",
+            "score": 0,
+            "text": "This gives me heavy World War Z vibes.",
+            "title_similarity": "0.22212622",
+            "sentiment_compound": -0.5994
+        },
+        {
+            "id": "gyii79b",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "-0.06659465"
+        },
+        {
+            "id": "gyj1vqa",
+            "score": 0,
+            "text": "Can't wait to see this disappear down a crack in the floor and never see it again",
+            "title_similarity": "0.2677626",
+            "sentiment_compound": -0.2789
+        },
+        {
+            "id": "gyia4fm",
+            "score": -2,
+            "text": "[deleted]",
+            "title_similarity": "-0.01984038"
+        },
+        {
+            "id": "gyib0m7",
+            "score": 3,
+            "text": "I hope this helps people with cancer. Over the years there have been so many amazing new discoveries but it seems like everyone just still just gets chemo and radiation.",
+            "title_similarity": "0.66195416",
+            "sentiment_compound": 0.7218
+        },
+        {
+            "id": "gyih3ns",
+            "score": -8,
+            "text": "Seriously, this is f\\*cking 2021. This was possible in 2004. Are we really that stupid that we're just figuring this out? Maybe we should go extinct if we're that stupid.",
+            "title_similarity": "0.41244727",
+            "sentiment_compound": -0.8307
+        },
+        {
+            "id": "gyio96n",
+            "score": 8,
+            "text": "I’ve seen this sci-fi movie before",
+            "title_similarity": "0.26078248",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyicgvv",
+            "score": -10,
+            "text": "Whoever is apart of the research group will “magically” disappear soon. Thats how all of these “breakthrough” cancer treatments work. We’ve had a cancer cure for decades but theres more money to be made in treating cancer than curing it.",
+            "title_similarity": "0.65095985",
+            "sentiment_compound": -0.9178
+        },
+        {
+            "id": "gyi7xlz",
+            "score": -2,
+            "text": "Wait... I thought adenovirus caused viral conjunctivitis?",
+            "title_similarity": "0.45143902",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyj3w8d",
+            "score": 2,
+            "text": "Just throw it in the pile with the other 1,347 cancer cures in the Phizer basement",
+            "title_similarity": "0.4609474",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "gyibg1a",
+            "score": -6,
+            "text": " yayyy!!!! cancer is cured again!!!!",
+            "title_similarity": "0.5200951",
+            "sentiment_compound": -0.7627
+        },
+        {
+            "id": "gyizukw",
+            "score": 4,
+            "text": "god bless all the people who went and are going through chemo to get us to this point",
+            "title_similarity": "0.47916055",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "gyi9duz",
+            "score": 7,
+            "text": "Piggybacking on this to promote awareness since there’s still many people scared when they hear the word virus. The application/usage of viruses for medicine and science has been well received in past decades. Viruses can be beneficial without being harmful and today we see it being used in this way and we can maybe appreciate the fact there are many types of viruses and there are many researchers out there studying them.",
+            "title_similarity": "0.6329752",
+            "sentiment_compound": 0.7506
+        },
+        {
+            "id": "gyiefjc",
+            "score": -5,
+            "text": " Can I inject this for AIDS?",
+            "title_similarity": "0.46486774",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyieklp",
+            "score": 0,
+            "text": "Anyone who is anti-science, do we allow these destructive “end of days” cultists to benefit from the science they say is fake?",
+            "title_similarity": "0.53924155",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "gyijaqw",
+            "score": 0,
+            "text": "I see posts like this all the time but when are they every implemented?",
+            "title_similarity": "0.15566549",
+            "sentiment_compound": 0.1901
+        },
+        {
+            "id": "gyijj36",
+            "score": 0,
+            "text": "Alright so where are the experts to tell us how far away this tech is from being usable?",
+            "title_similarity": "0.34350193",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "gyilf3y",
+            "score": 0,
+            "text": "chemotherapy is the worst type of legal murder.",
+            "title_similarity": "0.47956085",
+            "sentiment_compound": -0.8519
+        },
+        {
+            "id": "gyim2tt",
+            "score": 0,
+            "text": "The wording on this title is strange. At first I thought that they were basically saying they created a cancer causing virus",
+            "title_similarity": "0.62354994",
+            "sentiment_compound": -0.6369
+        },
+        {
+            "id": "gyiyvr3",
+            "score": 0,
+            "text": "Use this to unknowingly deliver a deadly virus and you have genocide on your hands.",
+            "title_similarity": "0.5120044",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyj0hw3",
+            "score": 0,
+            "text": "You know why this won’t get approved? People like their profits..",
+            "title_similarity": "0.3349252",
+            "sentiment_compound": 0.802
+        },
+        {
+            "id": "gyj1jp9",
+            "score": 0,
+            "text": "Who's ready to become a legend?",
+            "title_similarity": "0.16944578",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gyj3sf4",
+            "score": 0,
+            "text": "cancer was cured almost 100 years ago by royal rife",
+            "title_similarity": "0.47902608",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "gyj4bth",
+            "score": 0,
+            "text": "I can’t wait for it to escape the lab and spread around the world curing everyone for free",
+            "title_similarity": "0.54117846",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "gyj4koj",
+            "score": 0,
+            "text": "But since it’s ‘unprofitable’ for cancer to ever be cured, will probably be the last we will ever hear about this discovery.",
+            "title_similarity": "0.53779674",
+            "sentiment_compound": -0.7964
+        },
+        {
+            "id": "gyjr7om",
+            "score": 0,
+            "text": "COVID 21 here we goooo",
+            "title_similarity": "0.041540593",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyjx3aw",
+            "score": 0,
+            "text": "Poor scientists. They had good lives. Now the time comes for the Susan G Komen assassins to do what they do best.",
+            "title_similarity": "0.5061492",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "gyic77d",
+            "score": 14,
+            "text": "[removed]",
+            "title_similarity": "-0.06659465"
+        },
+        {
+            "id": "gyiblgt",
+            "score": -5,
+            "text": "Wait for it... wait for it... Poof! and it’s gone!",
+            "title_similarity": "0.030987937",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyihztq",
+            "score": -11,
+            "text": "Y’all remember that man who engendered that water engine and then mysteriously died after meeting two investors ?\n\nThen we never heard of that engine ever again? \n\n\n\nYea. Cancer cures are just like the engine. \n\n\nCorporations don’t want to cure (cancer) / revolutionize (oil ) their stream of money.",
+            "title_similarity": "0.6046661",
+            "sentiment_compound": -0.8992
+        },
+        {
+            "id": "gyidoi2",
+            "score": -1,
+            "text": "Can this fix my MS soon?  Thanks - losing myelin is a bummer.",
+            "title_similarity": "0.4080384",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "gyirbyi",
+            "score": -1,
+            "text": "Yeah, but may cause blood clot like the 2 adenovirus vaccine. Anyway it is a good job, still a long way to go to \"cure\".",
+            "title_similarity": "0.6004429",
+            "sentiment_compound": 0.8271
+        },
+        {
+            "id": "gyiwdyg",
+            "score": 1,
+            "text": "So I'd be very hesitant on this if you took the AstraZeneca Vaccine as it uses the Adenovirus as well.   Don't think there are any studies on the effects on your immune system by stacking variants of the same virus as a \"treatment, and a vaccine\"",
+            "title_similarity": "0.63873804",
+            "sentiment_compound": 0.2516
+        },
+        {
+            "id": "gyiybkg",
+            "score": 1,
+            "text": "Can't wait to never hear about it again",
+            "title_similarity": "0.123623244",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyj7q99",
+            "score": -1,
+            "text": "Every post on this sub should end with \"... but not *really*.\"",
+            "title_similarity": "0.2877298",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyj8dcv",
+            "score": 1,
+            "text": "So what exactly is the advantage of this technology over mRNA? Because it seems like mRNA is the superior tech despite being newer.",
+            "title_similarity": "0.48601162",
+            "sentiment_compound": 0.7906
+        },
+        {
+            "id": "gyj9ksd",
+            "score": -1,
+            "text": "To bad curing patients isn’t a sustainable buisness model. The US will never get this medical awesomeness",
+            "title_similarity": "0.5105738",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gyjcmah",
+            "score": -1,
+            "text": "It will be shut down by big pharma because of PrOfItS.",
+            "title_similarity": "0.44846025",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "gyhz0nr",
+            "score": 253,
+            "text": "Can we get an Operation-Warp-Speed on cancer treatments? Or are we only going to end up with 1000 cancer treatments for mice?",
+            "title_similarity": "0.6261442",
+            "sentiment_compound": -0.8796
+        },
+        {
+            "id": "gyiki6y",
+            "score": -2,
+            "text": "Annnnnnnnnnnnnnnnnd it’s gone.*\n\n*all these Cancer miracles.",
+            "title_similarity": "0.48619455",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "gyil3p6",
+            "score": -2,
+            "text": "Will this be like every time and this will be forgotten for some reason",
+            "title_similarity": "0.13092184",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "gyinwx1",
+            "score": -2,
+            "text": "So they decided to turn a forthcoming vaccine technique (used by J&J on covid) onto cancer. Good",
+            "title_similarity": "0.74555576",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "gyiryep",
+            "score": 2,
+            "text": "Gene therapy is a super cool idea but it always scares me. Im glad I took Bioethics as a biochem major elective in college. Learned of a lot of f’ed up but interesting occurrences related to medicine but one that especially stuck with me was [the story of Jesse Gelsinger. ](https://en.m.wikipedia.org/wiki/Jesse_Gelsinger) He volunteered for a gene therapy study which used a similar approach (viral vector transmission). His immune system responded to the virus with widespread anaphylaxis and he ultimately died. I would be more concerned if a family member of mine wanted to participate in study such as this one compared to one involving an RNA interference method for instance.",
+            "title_similarity": "0.72101164",
+            "sentiment_compound": 0.3634
+        },
+        {
+            "id": "gyjfsri",
+            "score": -2,
+            "text": "I mean Trump is shiet. But we have some of the finest narcissists in the left too, we're talking about people who constantly yell their sexuality to people who don't care nor asked for it.",
+            "title_similarity": "0.41084898",
+            "sentiment_compound": -0.5334
+        },
+        {
+            "id": "gyib761",
+            "score": -10,
+            "text": "The only problem with genetically modifying a virus is that once you do, you have absolutely no control over it.",
+            "title_similarity": "0.57510984",
+            "sentiment_compound": -0.6361
+        },
+        {
+            "id": "gyheag9",
+            "score": 44,
+            "text": "A new technology developed by UZH researchers enables the body to produce therapeutic agents on demand at the exact location where they are needed. The innovation could reduce the side effects of cancer therapy and may hold the solution to better delivery of Covid-related therapies directly to the lungs.\n\nScientists at the University of Zurich have modified a common respiratory virus, called adenovirus, to act like a Trojan horse to deliver genes for cancer therapeutics directly into tumor cells. Unlike chemotherapy or radiotherapy, this approach does no harm to normal healthy cells. Once inside tumor cells, the delivered genes serve as a blueprint for therapeutic antibodies, cytokines and other signaling substances, which are produced by the cancer cells themselves and act to eliminate tumors from the inside out.\n\nSneaking adenoviruses past the immune system undetected\n\n\"We trick the tumor into eliminating itself through the production of anti-cancer agents by its own cells,\" says postdoctoral fellow Sheena Smith, who led the development of the delivery approach. Research group leader Andreas Plueckthun explains: \"The therapeutic agents, such as therapeutic antibodies or signaling substances, mostly stay at the place in the body where they're needed instead of spreading throughout the bloodstream where they can damage healthy organs and tissues.\"\n\nThe UZH researchers call their technology SHREAD: for SHielded, REtargetted ADenovirus. It builds on key technologies previously engineered by the Plueckthun team, including to direct adenoviruses to specified parts of the body to hide them from the immune system.\n\nhttps://www.pnas.org/content/118/21/e2017925118",
+            "title_similarity": "0.94558656",
+            "sentiment_compound": -0.7684
+        },
+        {
+            "id": "gyieh7x",
+            "score": -3,
+            "text": "Basically the modified cuties",
+            "title_similarity": "0.12875876",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "gyin9lh",
+            "score": -4,
+            "text": "Ah yes manipulating viruses.  That's never worked out poorly before.",
+            "title_similarity": "0.47994965",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "gyitm7c",
+            "score": -5,
+            "text": "Virus mutates. Virus infects normal cells. Humans go extinct.",
+            "title_similarity": "0.44133043",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyidtgb",
+            "score": -8,
+            "text": "Yeah, this won’t get out of hand and turn us all to gray goo. We pinky swear.",
+            "title_similarity": "0.36704493",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "gyinlk8",
+            "score": 13,
+            "text": "Im so into oncolytic viruses but this title misleads the audience to think they are the first one to use adenovirus an oncolytic viral vector",
+            "title_similarity": "0.64052016",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyhg64u",
+            "score": 1536,
+            "text": "Adenovirus is the virus used by Astra Zeneca for the Covid vaccine.",
+            "title_similarity": "0.62526155",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyiegxf",
+            "score": 78,
+            "text": "Oncolytic viruses are not new news at all. They've been around for decades. This is not even an exciting oncovirus, it just encodes for an antibody that can safely be administered IV without potential harmful side effects.",
+            "title_similarity": "0.6730901",
+            "sentiment_compound": 0.1461
+        },
+        {
+            "id": "gyi2i4p",
+            "score": 2254,
+            "text": "This approach (edit: of modifying adenovirus to target tumor cells) has been around for almost 20 years. We were testing adenovirus cancer treatments back in 2005. Cool idea tho with merit as there is currently one viral based therapy approved for use, but it’s a modified herpes virus.",
+            "title_similarity": "0.6973567",
+            "sentiment_compound": -0.0129
+        },
+        {
+            "id": "gyiamo4",
+            "score": 65,
+            "text": "here a link to their supplemental - there's no paywall  \n\n\nhttps://www.pnas.org/content/suppl/2021/05/11/2017925118.DCSupplemental",
+            "title_similarity": "0.31371742",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "gyidu0q",
+            "score": 17,
+            "text": "Yeah, adenovirus vectors have been around for a long time but are actually outdated now for most applications after 2020 but even prior to that.",
+            "title_similarity": "0.38837746",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "gyify96",
+            "score": 1,
+            "text": "Man. Too bad i don't know how to look at saved posts on mobile.",
+            "title_similarity": "0.2685634",
+            "sentiment_compound": -0.1779
+        },
+        {
+            "id": "gyihope",
+            "score": 1,
+            "text": "Read \"the magic bullet\"",
+            "title_similarity": "0.25451618",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyiipac",
+            "score": 1,
+            "text": "Why is adenovirus usually the preferred method of drug delivery? As noted in the article, several COVID-19 vaccines use adenovirus as well.",
+            "title_similarity": "0.5999623",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "gyijonb",
+            "score": 1,
+            "text": "Over my head but about dam time!",
+            "title_similarity": "0.04928098",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyildso",
+            "score": 4,
+            "text": "Experimental treatment with too high of a dose of Adenovirus triggered a fatal immune response. \nThis was 20 years ago.  I am hopeful that therapy with adenovirus will be achieved. \nhttps://www.sciencehistory.org/distillations/the-death-of-jesse-gelsinger-20-years-later",
+            "title_similarity": "0.6261492",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "gyit1v3",
+            "score": 1,
+            "text": "I see a lot of this cancer stuff on reddit often. Can someone tell me a general realistic timeline for when any of this will become widely available?",
+            "title_similarity": "0.5118324",
+            "sentiment_compound": -0.7391
+        },
+        {
+            "id": "gyit5cw",
+            "score": 1,
+            "text": "How does this only target cancer cells? What surface protein does it use to recognize the cells for entry? Surely there isn't a surface protein sitting in our genome that isn't transcribed until cancer takes over.",
+            "title_similarity": "0.7459245",
+            "sentiment_compound": 0.3348
+        },
+        {
+            "id": "gyita2q",
+            "score": 1,
+            "text": "I always liked the term bacteriophage so i propose we call this cancerphage therapy! SHREAD is good too but i mean as a general term.",
+            "title_similarity": "0.67071503",
+            "sentiment_compound": 0.484
+        },
+        {
+            "id": "gyitjxe",
+            "score": 1,
+            "text": "Look up OneBac. It’s a tech that makes this process possible. The problem is scaling it to be useful. AAV can deliver anything to nearly anyplace. But producing enough for the gene therapy to work is the issue. OneBac is trying to solve this part. \n\nWhat’s interesting here is that it can be injected into large tumors. That’s different.",
+            "title_similarity": "0.6508523",
+            "sentiment_compound": 0.705
+        },
+        {
+            "id": "gyivrlp",
+            "score": 1,
+            "text": "It has to be tumor cells with a very specific receptor effecting mutation.  This is not a magic bullet unfortunately.  Again headlines neglect to mention that there are literally millions of diseases we can call cancer and this only effects a tiny portion of them.  It’s still a cool and adaptable idea and I have high hopes we can get better at identifying the mutations in cancers in time to find the right cocktail of treatments to overwhelm the tumors before they can adapt resistances.",
+            "title_similarity": "0.78967595",
+            "sentiment_compound": -0.7269
+        },
+        {
+            "id": "gyiwdjj",
+            "score": 1,
+            "text": "So, broad question.. If we developed some workaround method for killing some kinda of cancer, would it be independent of any evolutionary pressure the disease may be subject to? Could we use the method into perpetuity?",
+            "title_similarity": "0.7289897",
+            "sentiment_compound": -0.9018
+        },
+        {
+            "id": "gyix9bh",
+            "score": 1,
+            "text": "India's indigenous COVID-19 vaccine \"COVAXIN\" is based on the same mechanism",
+            "title_similarity": "0.5282641",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyiy1b8",
+            "score": 1,
+            "text": "Interesting, it's my virus!",
+            "title_similarity": "0.40785074",
+            "sentiment_compound": 0.4574
+        },
+        {
+            "id": "gyiywsj",
+            "score": 1,
+            "text": "I studied bacteriophages back in college so it’s cool to see papers like this",
+            "title_similarity": "0.5534984",
+            "sentiment_compound": 0.6222
+        },
+        {
+            "id": "gyj0y5p",
+            "score": 2,
+            "text": "Didn’t the Johnson & Johnson use an Adenovirus to deliver instructions to our immune system?",
+            "title_similarity": "0.6332449",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "gyj2xub",
+            "score": 1,
+            "text": "Adeno is already being used in the J+J vaccine",
+            "title_similarity": "0.45249668",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyj36kq",
+            "score": 1,
+            "text": "How bad do you think this will go",
+            "title_similarity": "0.09996848",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gyj3cxk",
+            "score": 1,
+            "text": "This sub would be empty if the only articles that got through were about things available to the public.",
+            "title_similarity": "0.3539093",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "gyj58ct",
+            "score": 1,
+            "text": "Awesome. Now hand everything over to business school asswipes so they can find a way to extract the most profit from the new treatment. Some kid had to die cause some cancer life-saving treatment was $25K/month and the parents worked at local flower shop.",
+            "title_similarity": "0.5910684",
+            "sentiment_compound": 0.2944
+        },
+        {
+            "id": "gyj643v",
+            "score": 1,
+            "text": "Can this be applied to Corona?",
+            "title_similarity": "0.100367896",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyj67v7",
+            "score": 1,
+            "text": "Is this the result of gain of function research?",
+            "title_similarity": "0.14809129",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "gyj6gkm",
+            "score": 1,
+            "text": "Way to capitalize on pandemic, This is the way.",
+            "title_similarity": "0.42688555",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyj8jef",
+            "score": 1,
+            "text": "Another cure for cancer I will hear absolutely nothing about after today!",
+            "title_similarity": "0.5362943",
+            "sentiment_compound": -0.69
+        },
+        {
+            "id": "gyj8ovk",
+            "score": 1,
+            "text": "Let's hope these scientists get their findings realised befor they end up dead in a ditch somewhere.",
+            "title_similarity": "0.48992234",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "gyj930s",
+            "score": 1,
+            "text": "You know with all these breakthroughs that we keep hearing about why do people keep dying of cancer?",
+            "title_similarity": "0.5632033",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "gyja6kr",
+            "score": 1,
+            "text": "Grant season already? Another great discovery that will never be allowed to disrupt the cancer industrial machine.",
+            "title_similarity": "0.62189806",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "gyjb6m8",
+            "score": 1,
+            "text": "I’m ready for it, bring on the anti-cancer pandemic baby",
+            "title_similarity": "0.61499",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gyjbrsf",
+            "score": 1,
+            "text": "Heard things like this before\n\nHow many more decades until this gets used? Probably never.",
+            "title_similarity": "0.19170639",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gyjed2j",
+            "score": 1,
+            "text": "It would be nice if this approach would be available soon.  Because, I read about all kinds of up and coming therapies in reddit and all I've seen for the past 30 years is chemotherapy and radiation available.  Its as if the oncologist haven't heard of these therapies on reddit.",
+            "title_similarity": "0.6251263",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "gyjelsl",
+            "score": 1,
+            "text": "Hears about something like this 10 years ago, never ends up happening.",
+            "title_similarity": "0.25831273",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gyjemry",
+            "score": 1,
+            "text": "I know the vaccine from J&J and AstraZeneca use a modified adenovirus to train the immune system against covid19.\n\nBut in rare cases (about 1 in 100000) the body responds badly and blood clots are formed. Would blood clots also be an issue with this cancer treatment ?",
+            "title_similarity": "0.76311237",
+            "sentiment_compound": -0.9173
+        },
+        {
+            "id": "gyjh6r7",
+            "score": 1,
+            "text": "Oh yeah ye olde preclinical adenovirus mouse study. Not to hamper your excitement, but there's also ten million other cool things coming out of recent scientific conferences. \n\nPersonally I have a soft spot for engineered cell therapies, though they tend to be quieteeee expensive to manufacture. Just school a bunch of cells normally in charge of attacking cancers for off-the-shelf use, perfect for cancers that are challenging to find or make a mess in the immune system (can't respond to antibody red flags if there's no one there to hear it). \n\nThere's a pretty cool assortment of different cell designs being studied in humans. Hold your hat, conventional CAR-T, next gen cells are coming for your hype.",
+            "title_similarity": "0.72471035",
+            "sentiment_compound": 0.9001
+        },
+        {
+            "id": "gyjlaae",
+            "score": 1,
+            "text": "could they please use not a respiratory virus for such things, though.",
+            "title_similarity": "0.42084378",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "gyjlf7s",
+            "score": 1,
+            "text": "I have been looking at these posts who claim cancer can be treated with more ease, but i have yet to see if this works this for real.",
+            "title_similarity": "0.6177242",
+            "sentiment_compound": -0.2031
+        },
+        {
+            "id": "gyjlggh",
+            "score": 1,
+            "text": "It works in a similar principle with bacteriophages. My concern is that the virus could mutate, growing out of targeting only cancer cells, but also healthy cells. There is room for improvement for the technology. The redeeming quality is that the virus they picked for the experiment is milder in comparison to HIV (i.e. adenovirus causes common cold, which is \"less threatening\" than HIV/AIDS).",
+            "title_similarity": "0.8167035",
+            "sentiment_compound": 0.2592
+        },
+        {
+            "id": "gyjlwjo",
+            "score": 1,
+            "text": "Why do these kind of \"medical breakthroughs\" pop up from time to time, only to be never heard of again?\n\nBad sensationalist journalism? Not that great after all? Patent bought up? Long testing phases?\n\nGenuinely asking, that interests me for a long time.",
+            "title_similarity": "0.61052215",
+            "sentiment_compound": -0.7753
+        },
+        {
+            "id": "gyjm23d",
+            "score": 1,
+            "text": "The title reads as if this method to use adenoviruses to deliver genes into cells was a new thing. Thats not the case. Just fyi",
+            "title_similarity": "0.63175935",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "gyjnb3n",
+            "score": 1,
+            "text": "been reading about these types of treatments for a while now and hoping this means they're getting closer to the finish line w/some of them.",
+            "title_similarity": "0.3471542",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "gyjqwda",
+            "score": 1,
+            "text": "Chemotherapy will continue to be used for the next century because of vested interests.",
+            "title_similarity": "0.45342997",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "gyjrfqm",
+            "score": 1,
+            "text": "This concept is a very old one; not at all new. Adenovirus, reovirus, measles, herpes simplex, Newcastle disease virus, and vaccinia viruses have all been already tested (and been found promising).",
+            "title_similarity": "0.54906476",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "gyjst80",
+            "score": 1,
+            "text": "Ever since I have come across mRNA based vaccines method, I was like we are just a little away from vaccines for cancer and other non-curable diseases. Would like to know if that’s too much to hope for?",
+            "title_similarity": "0.6853256",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gyjvf2d",
+            "score": 1,
+            "text": "I need an influx of cancerous-like dollars in my bank account.",
+            "title_similarity": "0.3924775",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyjvzp2",
+            "score": 1,
+            "text": "Oh boy this again, they killed people last time they tried using viruses to cure cancer.",
+            "title_similarity": "0.66543204",
+            "sentiment_compound": -0.872
+        },
+        {
+            "id": "gyjwitl",
+            "score": 1,
+            "text": "Correct me if I’m wrong- but isn’t “adenovirus” just a type of virus? Much like a coronavirus - there are many serotypes of adenovirus. If I recall correctly, the AstraZeneca SARS-Cov-2 vaccine uses a certain  adenovirus serotype (common among chimpanzees) as a Trojan Horse to deliver a vectored spike protein version to induce an immune system response in humans.",
+            "title_similarity": "0.67111516",
+            "sentiment_compound": 0.7684
+        },
+        {
+            "id": "gyjwqf0",
+            "score": 1,
+            "text": "We will never hear about this again.",
+            "title_similarity": "0.081590414",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyjxnb1",
+            "score": 1,
+            "text": "...sadly the immune response will take care of it before it reaches the neoclassical cells..",
+            "title_similarity": "0.46906453",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "gyjxs0l",
+            "score": 1,
+            "text": "Yes the virus itself does not cause damage, but what about the antibodies we generate against them?",
+            "title_similarity": "0.6789907",
+            "sentiment_compound": 0.3948
+        },
+        {
+            "id": "gyjyl8f",
+            "score": 1,
+            "text": "Until the virus mutates....",
+            "title_similarity": "0.36234254",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyjys91",
+            "score": 1,
+            "text": "When you hire the bandits to clear out the cultists...",
+            "title_similarity": "0.37879533",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "gyjz4tk",
+            "score": 1,
+            "text": "How long before this mysteriously does not exist anymore?",
+            "title_similarity": "0.043158963",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gyjza74",
+            "score": 1,
+            "text": "This is awesome. I can't wait to never see this work in my lifetime.",
+            "title_similarity": "0.24857074",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "gyk0d33",
+            "score": 1,
+            "text": "This approach, of using an adenovirus as a vector, also was responsible for the death of an 18 year old named Jesse Gelsinger back in 1999. Jesse had a metabolic disorder that was tough to live with but not life threatening. His death set back the advancement of gene therapy by a very long time by turning the public against it, but also making scientists realize that their understanding was naive and more work needed to be done.\n\nWhat happened in the case of Jesse was that the adenovirus was recognized by the immune system, and an immune response was led against it. There was no \"trojan horse\" - his body saw the virus immediately and since they injected him with so much of it, it basically led to organ failure.",
+            "title_similarity": "0.754954",
+            "sentiment_compound": -0.8716
+        },
+        {
+            "id": "gyk18lx",
+            "score": 1,
+            "text": "Can it work for stage 4 metastatic cancer??",
+            "title_similarity": "0.5189446",
+            "sentiment_compound": -0.6966
+        },
+        {
+            "id": "gyk1nvr",
+            "score": 1,
+            "text": "So nice to see a genuine science post",
+            "title_similarity": "0.359946",
+            "sentiment_compound": 0.4754
+        },
+        {
+            "id": "gyk2vtu",
+            "score": 1,
+            "text": "What's the chance that this actually becomes a treatment in our lifetime?",
+            "title_similarity": "0.19155425",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "gyk3c2b",
+            "score": 1,
+            "text": "Deliver genes *and* blood clots given what we’ve seen with Covid-19 adenovirus based vaccines!\n\nSeriously though, the benefit almost certainly outweighs the risk by a looooong way when it comes to most cancers.",
+            "title_similarity": "0.72638893",
+            "sentiment_compound": 0.3816
+        },
+        {
+            "id": "gyk6kk4",
+            "score": 1,
+            "text": "This is nothing special. What is actually going to be awesome as the rise of non viral vectors which we are seeing with the current covid vaccines.",
+            "title_similarity": "0.6148596",
+            "sentiment_compound": 0.4295
+        },
+        {
+            "id": "gyk9n8b",
+            "score": 1,
+            "text": "I cannot wait for this to not be affordable to average Americans",
+            "title_similarity": "0.28369105",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gykbx7g",
+            "score": 1,
+            "text": "So at what stage the research is? Proof of concept?\n\nBecause you hear about cancer drug breakthroughs all the time yet not many go all the way to production stage\n\nAll i am saying science articles should be less hype inducing and perhaps subreddit mods should allow to edit titles for short clarifications \n\n[early trials] would go a long way to clear up any misconceptions",
+            "title_similarity": "0.7602965",
+            "sentiment_compound": -0.3094
+        },
+        {
+            "id": "gykcwaa",
+            "score": 1,
+            "text": "Sounds like immunotherapy",
+            "title_similarity": "0.33205354",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gykdgfz",
+            "score": 1,
+            "text": "Silver lining to this horrible pandemic is that there seems to be a lot of renewed interest in types of treatments that have been languishing.",
+            "title_similarity": "0.4423423",
+            "sentiment_compound": -0.2789
+        },
+        {
+            "id": "gykhk9a",
+            "score": 1,
+            "text": "Hmm Art does imitate life nobody get a German Shepard for awhile unless you want to KyS",
+            "title_similarity": "0.55114055",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "gyki0iv",
+            "score": 1,
+            "text": "Next big Pharma steps in and cancer patients get charged an arm and a leg for treat.",
+            "title_similarity": "0.5693726",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gykmwk7",
+            "score": 1,
+            "text": "Someone better get these people under witness protection before they disappear",
+            "title_similarity": "0.294012",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "gym1cn0",
+            "score": 1,
+            "text": "Fantastic promising news.",
+            "title_similarity": "0.025219006",
+            "sentiment_compound": 0.743
+        }
+    ]
+}

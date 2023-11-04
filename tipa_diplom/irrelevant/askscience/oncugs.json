@@ -1,0 +1,142 @@
+{
+    "Between foam, liquid, or bar, what is the best type of soap for handwashing?\n": [
+        {
+            "id": "h5qwjk1",
+            "score": 120,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5u6783",
+            "score": -5,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5qw6i1",
+            "score": 38,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5sgmyi",
+            "score": 23,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5rdtjm",
+            "score": 16,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5s7ki4",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5r5jhl",
+            "score": 11,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5uf2tc",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5qyb34",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5qypdr",
+            "score": 1440,
+            "text": "Bar soap.\n\nFurther, antibacterial soap of any kind is [raising concerns](https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(03)00723-0.pdf) as a possible contributor to the spike in resistant bacteria.\n\nGood old naturally derived bar soap doesn't just kill germs; it sucks them into it's gooeyness, then repels water, so you can rinse all the bad germs off your hand and down the drain.\n\nA $1 bar of soap will have the same hand-cleaning efficacy as any other fancy or more expensive cleaner, if used properly (lather well, let soak for at least 20 seconds, but even longer with vigorous scrubbing like [Alton Brown demonstrates](https://www.youtube.com/watch?v=tIwdf3WKe3Y) is best). It is also important to rinse the bar and store properly in a clean soap dish (clean the dish often!) and replace the soap before it's a nub - bar soap is cheap!",
+            "title_similarity": "0.64669526"
+        },
+        {
+            "id": "h5sdmoq",
+            "score": 336,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5sg6bf",
+            "score": 2740,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5sgycs",
+            "score": 17,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5sglay",
+            "score": 827,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5r0a56",
+            "score": 2329,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5svr6s",
+            "score": 242,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5r80c7",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5rfp3y",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5rl1b0",
+            "score": 6,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5rwghz",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5s8ebs",
+            "score": 18,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5tz8bi",
+            "score": 17,
+            "text": "[removed]",
+            "title_similarity": "0.1534158"
+        },
+        {
+            "id": "h5v75p7",
+            "score": 2,
+            "text": "[From the perspective of your hands, bar. Without question.](https://www.roman-reviews.com/extremely-dry-torn-bleeding-skin-hands-liquid-soap-cause/)\n\nI would also like to point out that (most) liquid soap doesn't contain any actual soap, so bar wins by default when taking the question literally.",
+            "title_similarity": "0.55984986"
+        }
+    ]
+}

@@ -1,0 +1,496 @@
+{
+    "What are the most innocent-sounding unsolved problems?\nSay that I am organizing a summer camp for kids (13-18 y/o). At one point in the program they will be solving (math) puzzles. I want to prank them by including something that sounds pretty easy to solve, but is actually impossible (or at least very hard) to solve. Do you have any tips?\n\nThanks.": [
+        {
+            "id": "i2km5o2",
+            "score": 3,
+            "text": "3n+1",
+            "title_similarity": "-0.023592453"
+        },
+        {
+            "id": "i2lyqr4",
+            "score": 2,
+            "text": "3n + 1",
+            "title_similarity": "-0.023592453"
+        },
+        {
+            "id": "i2kqzxj",
+            "score": 0,
+            "text": "[deleted]",
+            "title_similarity": "-0.04646"
+        },
+        {
+            "id": "i2lunew",
+            "score": 0,
+            "text": "Give those young minds 3N+1 problem I am sure they will hate you or love you in future",
+            "title_similarity": "0.49449635"
+        },
+        {
+            "id": "i2lm0ks",
+            "score": 1,
+            "text": "The sofa problem, it’s unknown is any given sofa shape can fit around a corner",
+            "title_similarity": "0.37287748"
+        },
+        {
+            "id": "i2lrqtn",
+            "score": 1,
+            "text": "Not \"unsolved\" but a really really trickiy one could be i^i if they know complex numbers and logs. If they don't know complex numbers, then just using something easy like x^2 + 1 = 0 might be a fun 2 second trick",
+            "title_similarity": "0.67645437"
+        },
+        {
+            "id": "i2mhigk",
+            "score": 1,
+            "text": "Last digit of TREE(3) ... you have a one in 10 chance of getting it right!",
+            "title_similarity": "0.40222782"
+        },
+        {
+            "id": "i2p4nkl",
+            "score": 1,
+            "text": "Nobody with the 3n+1 conjecture?",
+            "title_similarity": "0.2156824"
+        },
+        {
+            "id": "i2kg0oj",
+            "score": 7,
+            "text": "the sofa problem",
+            "title_similarity": "0.12892595"
+        },
+        {
+            "id": "i2ku3bz",
+            "score": 2,
+            "text": "My understanding is that it's pretty hard to figure out how to move a sofa down a set of stairs that turn a corner.",
+            "title_similarity": "0.3665979"
+        },
+        {
+            "id": "i2maxe3",
+            "score": 11,
+            "text": "Please, please, please reconsider pranking the kids with math problems. My son's 4th grade teacher used to assign impossible to solve problems thinking to \"motivate\" them. All she accomplished was to make the kids feel stupid. Math skills are too important to play head games. We need kids excited to explore stem careers so we can stay competitive with the rest of the world.",
+            "title_similarity": "0.83114207"
+        },
+        {
+            "id": "i2l95lc",
+            "score": 3,
+            "text": "abc conjecture is pretty simple to state, but famously difficult\n\nthere has been a claimed proof, but it is so complicated, no one has really determined if it is a good proof or not",
+            "title_similarity": "0.5983192"
+        },
+        {
+            "id": "i2kst8o",
+            "score": 4,
+            "text": "Generalized Pythagoras theorem - is it true for any/all power greater than 2?\n\nSquaring a circle - can it be done?\n\nCan you keep compounding ad infinitum? (For deriving ‘e’)\n\nDerive the volume of a sphere using elementary/synthetic geometry\n\nTake a parabola (y=x^2 ) and any point on it in first quadrant. Enclose curve in rectangle. Derive the area under the curve (without calculus)\n\nGiven two points A and B, where A is higher than B, what shape/curve will be the fastest to get a ball rolling from A to B (hint: not a straight line). \n\nHow can you unambiguously define a “straight” line without using analytic geometry (its fun with words and forces on to truly appreciate the need for axioms)\n\nOpen-ended for creativity: how would you actually draw out a circle with a 1km radius (on flat land). \n\nAre there the same number of points in a line as in a square?\n\nWhat do we have more of? Natural numbers or only even (or odd) numbers?\n\nWhat do we have more of: real numbers or rational numbers?\n\n\nHope these are useful.",
+            "title_similarity": "0.5482249"
+        },
+        {
+            "id": "i2mcf7c",
+            "score": 5,
+            "text": "\"I'm thinking of a number between 0 and 1\"\n\nedit: But really, this feels like dunking on preteens, and enforcing the gross idea of math being arbitrary puzzles meant to frustrate you.\n\nMy suggestion is switch up your goal into finding difficult but solvable problems.",
+            "title_similarity": "0.79759395"
+        },
+        {
+            "id": "i2kac9j",
+            "score": 26,
+            "text": "This is a good one. \n\nhttps://new.reddit.com/r/mathmemes/comments/tm4f69/fruit\\_math\\_can\\_you\\_solve\\_it\\_troll\\_your\\_friends/",
+            "title_similarity": "0.63368845"
+        },
+        {
+            "id": "i2ldciw",
+            "score": 11,
+            "text": "Is π^π^π^π an integer?",
+            "title_similarity": "0.23507512"
+        },
+        {
+            "id": "i2l83xs",
+            "score": 13,
+            "text": "What's TREE(1)?  \nWhat's TREE(2)?  \nWhat's TREE(3)?",
+            "title_similarity": "0.19171804"
+        },
+        {
+            "id": "i2k5j39",
+            "score": 32,
+            "text": "The board game Hex can be fairly easily shown to have a winning strategy for the first player, but finding a winning strategy is an unsolved problem.",
+            "title_similarity": "0.6410369"
+        },
+        {
+            "id": "i2kez6o",
+            "score": 58,
+            "text": "Let H_n = 1 + 1/2 + 1/3 + .... + 1/n. Then for all n>1,\n\n∑_{d|n} d < H_n + exp(H_n)*log(H_n).\n\n(LHS is the sum of divisors of n; for n=6, this is equal to 12).\n\nIt's [equivalent to the Riemann Hypothesis](http://www.math.lsa.umich.edu/~lagarias/doc/elementaryrh.pdf). :-P",
+            "title_similarity": "0.41841456"
+        },
+        {
+            "id": "i2k8qoq",
+            "score": 66,
+            "text": "You could ask to find perfect numbers and give 6 and 28 as example. It is not \"unsolved\", but the next one is 496.",
+            "title_similarity": "0.5036248"
+        },
+        {
+            "id": "i2k3da3",
+            "score": 316,
+            "text": "The Collatz conjecture and the twin prime conjecture are obvious candidates. If you want something slightly more obscure and puzzle-y, maybe try the graceful tree conjecture.",
+            "title_similarity": "0.4882249"
+        },
+        {
+            "id": "i2k4u6k",
+            "score": 144,
+            "text": "Years ago I did an activity for kids where I gave them various bridge configurations and asked them to find the path crossing all the bridges. After they got a few of them, I gave them the original bridges of Koenigsberg map. I thought it was great.\n\nOne of the dumber teachers apparently disagreed, told me afterward how mean it was to give the kids a problem they couldn't solve... I think she missed the point of the exercise.",
+            "title_similarity": "0.7563721"
+        },
+        {
+            "id": "i2k6sgd",
+            "score": 511,
+            "text": "At least how many people do you have to invite to a birthday party such that you are guaranteed to find 5 guest that either all know each other or don't know each other? \n\nWe know the answer is between 43 and 48 but not the exact number\n\n[Ramsey numbers](https://en.wikipedia.org/wiki/Ramsey%27s_theorem)",
+            "title_similarity": "0.564915"
+        },
+        {
+            "id": "i2k4vuk",
+            "score": 123,
+            "text": "Brocard's problem asks for all natural number solutions to the equation n! + 1 = m^(2). Three are known: the equation holds if (n,m) = (4,5), (5,11), or (7,71). It is an open problem whether any other solutions exist, or even whether the number of solutions is finite.\n\nA lot of questions in number theory can be stated very simply, but are often also very opaque, with it being extremely unclear how one would even begin to approach the problem. For example, Goldbach's conjecture and the twin prime conjecture are natural-seeming statements about simple mathematical objects, but there are also few if any obvious approaches to attempt to solve them. Brocard's problem has the \"advantage\" that it genuinely seems like it might be solvable with just basic algebra.",
+            "title_similarity": "0.5926302"
+        },
+        {
+            "id": "i2k8u7j",
+            "score": 13,
+            "text": "A malformed water pouring puzzle https://en.m.wikipedia.org/wiki/Water_pouring_puzzle",
+            "title_similarity": "0.36482668"
+        },
+        {
+            "id": "i2kae3v",
+            "score": 18,
+            "text": "Four color problem is easy to demonstrate but hard to prove, something like that?",
+            "title_similarity": "0.49485996"
+        },
+        {
+            "id": "i2kb3ii",
+            "score": 98,
+            "text": "The Goldbach Conjecture is easy to state but remains unsolved. \"All even integers greater than 2 are equal to the sum of two primes.\"",
+            "title_similarity": "0.5086326"
+        },
+        {
+            "id": "i2ke4qt",
+            "score": 29,
+            "text": "2 examples.\n\nExample 1.\n\nFind a way to cut a square into 5 triangles of equal area.\n\nActual solution: this is impossible. It's not an easy theorem to prove however. The theorem is Monsky's theorem and applicable to all odd numbers of triangles.\n\nExample 2.\n\nFind an integer solution to 3x^3 +4y^3 +5z^3 =0 other than the trivial solution (0,0,0).\n\nAction solution: there are no other solutions. But to confirm such a thing is quite hard, as it defeats elementary techniques (which are all dependent on local data).",
+            "title_similarity": "0.6287995"
+        },
+        {
+            "id": "i2kfbbw",
+            "score": 6,
+            "text": "I think all this stuff around [Hackenbush](https://youtu.be/ZYj4NkeGPdM) is really interesting. It's a great game for kids as it's easy to learn to play but some of the proofs are completely insane.",
+            "title_similarity": "0.68768966"
+        },
+        {
+            "id": "i2kjciq",
+            "score": 7,
+            "text": "Although it is solved up to hexagons, the [Happy Ending problem](https://en.wikipedia.org/wiki/Happy_ending_problem) could work, as it doesn't require much background to understand.",
+            "title_similarity": "0.56463253"
+        },
+        {
+            "id": "i2kkj48",
+            "score": 146,
+            "text": "You could go with the [Three Utilities problem](https://en.wikipedia.org/wiki/Three_utilities_problem). It's not an unsolved problem but rather an impossible one. It's pretty easy to describe, and the kids can have fun drawing graphs that almost work.\n\nI had a science teacher who presented it to the class and declared he would give an A to whichever student solved it first. We wrestled with it for a long, long time. The solution always seemed just out of reach, and we started to suspect it was impossible. I didn't find out for sure until years later in Discrete Mathematics class.",
+            "title_similarity": "0.8258982"
+        },
+        {
+            "id": "i2klgdp",
+            "score": 4,
+            "text": "Find the lowest solution to a Pells Equation.\n\n1 = x^2 - N*y^2\nFor any N. Where x and y are both positive integers.\n\nA few fun ones are: N = 61, N = 601, or N = 1021 (x is 49 digits long for this one!)",
+            "title_similarity": "0.54850835"
+        },
+        {
+            "id": "i2kqr9h",
+            "score": 8,
+            "text": "# [Union-closed sets conjecture](https://en.wikipedia.org/wiki/Union-closed_sets_conjecture)\n\n> For every finite union-closed family of finite sets, other than the family containing only the empty set, there exists an element that belongs to at least half of the sets in the family.",
+            "title_similarity": "0.36794248"
+        },
+        {
+            "id": "i2kqsu7",
+            "score": 481,
+            "text": "a/(b + c) + b/(a + c) + c/(a + b) = 4\n\nFind positive whole values for a, b and c that satisfies this equation.\n\nThe answer is:\n\na = 154476802108746166441951315019919837485664325669565431700026634898253202035277999   \n\n\nb = 36875131794129999827197811565225474825492979968971970996283137471637224634055579\n\nc = 4373612677928697257861252602371390152816537558161613618621437993378423467772036",
+            "title_similarity": "0.38354933"
+        },
+        {
+            "id": "i2kriw0",
+            "score": 3,
+            "text": "Represent an integer as sum of three nonzero integer cubes.\n\n[https://en.wikipedia.org/wiki/Sums\\_of\\_three\\_cubes](https://en.wikipedia.org/wiki/Sums_of_three_cubes)\n\nCan guess solutions easily for some instances, can find them with massive computer power for other instances, proven impossible for a certain subset of instances, unknown for yet some other.\n\nNumberphile made a couple vids on that, e.g. [https://www.youtube.com/watch?v=wymmCdLdPvM](https://www.youtube.com/watch?v=wymmCdLdPvM)",
+            "title_similarity": "0.6907459"
+        },
+        {
+            "id": "i2kspmt",
+            "score": 17,
+            "text": "For younger people I might recommend something like the [moving sofa problem](https://en.m.wikipedia.org/wiki/Moving_sofa_problem). The idea is to find the largest shape which can be moved through a unit corner. There are a few trivial shapes that work, whose area can be derived from basic geometrical formulas, but students that know calculus should be able to come up with more complex shapes with larger areas.",
+            "title_similarity": "0.67927504"
+        },
+        {
+            "id": "i2ktxap",
+            "score": 29,
+            "text": "The Frobenius coin problem: Suppose S is a set of positive integers that represent coin denominations.  You mint a large number of coins in each denomination.  Let m(S) be the largest amount that _cannot_ be made up of coins, if such a number exists.  For what S does m(S) exist, and how can one calculate it?\n\nA famous example is that McDonald's used to sell Chicken McNuggets in boxes of 6, 9, and 20 nuggets.  It was impossible to buy exactly 43 nuggets, but possible to buy any larger number.  (For example, 44 = 6+6+6+6+20.)\n\nObviously if one coin has denomination 1, any amount can be made, and if not then the total 1 cannot be made.  It is not hard to show that m(S) exists precisely when gcd(S) = 1. The case of |S|=1 is trivial, and when |S|=2 the problem is not hard to solve.  But for |S|≥3 the problem is an active research area and has been for 150 years!\n\nhttps://en.wikipedia.org/wiki/Coin_problem",
+            "title_similarity": "0.52247864"
+        },
+        {
+            "id": "i2ku4bi",
+            "score": 7,
+            "text": "A cow is tethered to a fence enclosing a circular field with a rope long enough to graze exactly half the area of the field. Express the rope's length in terms of the radius of the field.\n\nIIRC, the question is similar to finding the perimeter of an ellipse in that we can only approximate its value.",
+            "title_similarity": "0.31275794"
+        },
+        {
+            "id": "i2kvypm",
+            "score": 5,
+            "text": "Suppose there is a party with N people, some of them shake hands.  if you consider any two people, they have either shaken hands, or not.  Let's say a \"k-clique\" is a group of k people in which each of the ½(k²-k) pairs of people has shaken hands, OR in which none  of the ½(k²-k) pairs has shaken hands.\n\nIt is an easy and fun exercise to show that if N ≥ 6 there must be a 3-clique, but if N<6 there may not be.\n\nThe corresponding threshold for 4-cliques is harder, but is known.\n\nThe threshold for 5-cliques is an open problem.\n\nPaul Erdős said that if a vastly superior alien race comes and threatens to destroy the Earth unless we deliver after one year the exact threshold number for 6-cliques, then we should instead attempt to destroy the aliens.",
+            "title_similarity": "0.5639697"
+        },
+        {
+            "id": "i2kwith",
+            "score": 10,
+            "text": "I managed to teach a very light version of P = NP to third graders once, using the 3-coloring problem, a worksheet and a big pack of crayons.    The most fascinating bit is that it was a program for 3rd-8th graders, and the 3rd-4th graders were by far the quickest at picking it up.  Although potentially they'd just had more recent experience coloring.\n\nI asked the students to think of some heuristics that could help them decide if a problem definitely could or couldn't be solved with three colors, but then explained that it was very difficult to know in general (and in fact, we weren't yet sure \\*how\\* difficult).",
+            "title_similarity": "0.7757747"
+        },
+        {
+            "id": "i2l08z8",
+            "score": 7,
+            "text": "You don't need to go to unsolved problems.     \nGet a set of dominoes.   Remove the doubles.  Remove the 6's  \nFor the 15 dominoes 01 to 45, arrange them in a circle so that no neighboring pair shares a number.  Easy.    \nRemove the 5's.    \n\"Now a smaller problem for you.  Arrange these 10 dominoes in a circle so that no neighboring pair shares a number.\"  Help them to make 01 to 34 on scrap paper.  \n\n\nThis is equivalent to finding a Hamiltonian cycle on the Petersen graph.",
+            "title_similarity": "0.5942686"
+        },
+        {
+            "id": "i2l09hx",
+            "score": 2,
+            "text": "It is not known if the crossing number of a connected sum of two knots can be less than the sum of the two original crossing numbers (the connected sum is, broadly speaking, what you get if you cut both knots open and glue them together).\n\nI always found that pretty interesting as it seems like a fair mathematical interpretation of the question \"can two knots 'unknot' one another?\" That said, I think the difficulty comes from the fact that the crossing number isn't well behaved: the alternative interpretation \"can the connected sum of two non-trivial knots be the unknot?\" is known to be correctly answered in the negative.",
+            "title_similarity": "0.6386824"
+        },
+        {
+            "id": "i2l1in9",
+            "score": 5,
+            "text": "Bellman's lost in a forest problem could be fun coming up with solution paths and different starting points/orientations that make the path not optimal. It's geometry and optimization so it's easy to convey the problem and play with different scenarios, and could be used to show visually why a general solution is sometimes so hard to find.",
+            "title_similarity": "0.5767904"
+        },
+        {
+            "id": "i2l24bk",
+            "score": 4,
+            "text": "I always loved the Monty Hall problem.  You can even get the kids involved and play out the two possible strategies.  It's one of those problems that's hard to see the solution until you play the game out.  Fun hands on math.\n\nhttps://en.wikipedia.org/wiki/Monty_Hall_problem",
+            "title_similarity": "0.7536208"
+        },
+        {
+            "id": "i2l6sff",
+            "score": 2,
+            "text": "Perhaps not as innocent-sounding as some of the other examples here, but we still haven't found any [3x3 magic squares of squares](https://www.mathpages.com/home/kmath417/kmath417.htm).  \n\nThe concept of a magic square is fairly simple: it's a 3x3 grid of numbers where all columns, rows, and diagonals have the same sum.  \n\n` A B C`  \n` D E F`  \n` G H I`  \n\nFor example:  \n` 2 7 6`  \n` 9 5 1`  \n` 4 3 8`  \nis a magic square where all columns, rows, and diagonals are equal to 15.\n\nNow find a magic square where `A`, `B`, etc are all square integers.",
+            "title_similarity": "0.62604904"
+        },
+        {
+            "id": "i2l8rar",
+            "score": 5,
+            "text": "If you feel comfortable teaching them about the Euler totient function, the Carmichael conjecture is by far my favorite. I was a bit obsessed as an undergrad with it. \n\nThe odd case is very simple to prove and super intuitive. The even case seems 100% obvious but has no solution yet.",
+            "title_similarity": "0.72547054"
+        },
+        {
+            "id": "i2lk4jd",
+            "score": 6,
+            "text": "This is not really a \"known\" impossible puzzle so it does not really fit the question exactly, but I have a fun activity that I did myself when attending a lightly math themed summer camp as a kid. There were some math activities, among them this puzzle:\n\nThe puzzle sounds really simple: Write a chosen natural number using only 2 \"digits\" from 1 to 6 and the operations +,-,*,/, sqrt,exponentiation and factorial. You may use each \"digit\" up to two times and each operation an arbitrary amount of times. You may use an arbitrary amount of brackets.  (The idea of 1 to 6 came from using dice I think, but you can use any numbers)\n\nA really simple example: get \"7\" from the digits 2 and 3: You can achieve this in countless ways, e.g. 2+2+3 or 3+3+2/2 or 3^2 -2. Some are really hard to spot, e.g. to get \"19\" from 5 and 6 you need to go 5!/6-6+5 (unless there is a much simpler way that I don't see right now. Edit: 5*6-6-5). \n\nOne way to play this, is to create a large table on a poster and hang it in one of the break rooms (should be sufficiently large so that multiple kids can easily work on it). \n \nThe younger kids will have fun filling in the \"easy\" parts of the table, while the older kids will try the harder ones. Some of these are most likely impossible, but it's not easy to proof. I remember trying to proof that it was impossible to get \"7\" from 2 and 2 with one of the instructors, but we couldn't do it and could not construct it either.\n\nWe filled the entire table with \"targets\" from 1 to 20 and digit pairs from (1,1) to (6,6) over 2 days and it was pretty fun.",
+            "title_similarity": "0.8910385"
+        },
+        {
+            "id": "i2loyos",
+            "score": 1,
+            "text": "You monster XD",
+            "title_similarity": "0.14440891"
+        },
+        {
+            "id": "i2lqy5o",
+            "score": 2,
+            "text": "One that surprised me when I stumbled upon it: we still don't know whether pi+e is rational or irrational",
+            "title_similarity": "0.3935456"
+        },
+        {
+            "id": "i2ltc2t",
+            "score": 1,
+            "text": "This prank probably would have caused my 13-year-old self a fair amount of distress, FWIW.",
+            "title_similarity": "0.60674214"
+        },
+        {
+            "id": "i2m4hjl",
+            "score": 1,
+            "text": "Not famous, but try to fit the rectangles (1/n, 1/(n+1)) in the unit square. It’s cute, and you could print the first 20 or something.",
+            "title_similarity": "0.5662292"
+        },
+        {
+            "id": "i2m62k9",
+            "score": 2,
+            "text": "Color every point on the plane with one of N colors, such that no two points 1 unit apart have the same color.  It's impossible with N = 3 and possible with N = 7 (proofs of both of these should be accessible to teenagers), but unknown for N = 4, 5, or 6.\n\nEDIT: Apparently this is known as the [Hadwiger–Nelson problem](https://en.wikipedia.org/wiki/Hadwiger%E2%80%93Nelson_problem), and was proven impossible for N = 4 in 2018.",
+            "title_similarity": "0.6002402"
+        },
+        {
+            "id": "i2m86xw",
+            "score": 2,
+            "text": "Pell's equation can give various equations with only huge integer solutions, but can lead to some interesting (number theoretic) methods to generate infinitely many solutions.\n\nE.g. x^2 -313y^2 =1 has least nontrivial solution x=32188120829134849 y=1819380158564160.  \n\nA lot of interesting math around these equations",
+            "title_similarity": "0.5621617"
+        },
+        {
+            "id": "i2mgzim",
+            "score": 1,
+            "text": "The [assignment problem](https://en.wikipedia.org/wiki/Assignment_problem). It's very easy to state.  Something like \"We have a few workers and a few tasks. We know how long it takes each worker to complete each task. Who should do which task so that all the tasks are done with the least total work hours spent?\" There are n! possible assignments so checking each one by hand is impractical. Polynomial time algorithms exist to solve the problem quickly but there's no way a 13yo just figures that out on their own.",
+            "title_similarity": "0.7028227"
+        },
+        {
+            "id": "i2mhcod",
+            "score": 1,
+            "text": "Collatz conjecture ... easy!",
+            "title_similarity": "0.20345953"
+        },
+        {
+            "id": "i2mhlc0",
+            "score": 1,
+            "text": "Reimann Conjecture \"sounds\" innocent ...",
+            "title_similarity": "0.31579733"
+        },
+        {
+            "id": "i2mhogj",
+            "score": 1,
+            "text": "[Here are a load.](https://mathoverflow.net/questions/100265/not-especially-famous-long-open-problems-which-anyone-can-understand)",
+            "title_similarity": "0.59669435"
+        },
+        {
+            "id": "i2mhsvy",
+            "score": 2,
+            "text": "Here’s one. When coloring in states, or counties or countries, either real or imaginary, what is the smallest number of colored pencils you can use. So that no two same colors are next to each other.",
+            "title_similarity": "0.49084324"
+        },
+        {
+            "id": "i2mo0ji",
+            "score": 1,
+            "text": "3x+1 maybe? \n\nvideo on it  \nhttps://www.youtube.com/watch?v=094y1Z2wpJg&ab\\_channel=Veritasium",
+            "title_similarity": "0.29741699"
+        },
+        {
+            "id": "i2ndglw",
+            "score": 1,
+            "text": "The 7 bridges of Konigsberg\n\nhttps://en.m.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg",
+            "title_similarity": "0.18239623"
+        },
+        {
+            "id": "i2ndkhf",
+            "score": 1,
+            "text": "Number theory conjectures",
+            "title_similarity": "0.28897238"
+        },
+        {
+            "id": "i2ndr43",
+            "score": 2,
+            "text": "3x+1",
+            "title_similarity": "0.043925222"
+        },
+        {
+            "id": "i2nfkck",
+            "score": 1,
+            "text": "Three circles on the top row, the squares on the bottom row, directly below the circles.\n\nThe challenge is to connect react circle to each square with a line, but no lines can cross. It's like \"three water pumps need to connect to the houses, but none of the pipes can cross each other\"\n\nIt's a variant of the seven bridges problem, which is another good one.\n\nThey're not so much unsolved as they are unsolvable... But a good prank is to say that whoever finds the solution first gets a gold star (or whatever reward you think will light a fire).\n\nGood luck and good on you for putting some effort toward these kids!!",
+            "title_similarity": "0.63546664"
+        },
+        {
+            "id": "i2no2h5",
+            "score": 3,
+            "text": "Conversely, are there any problems that could pass for unsolvable to someone reasonably well read on maths (assuming they dont spend much time thinking avout it), that still have a solution a bunch of teenagers could find after an hour or so?\n\nSeems like trolling the next person to ask this would be in much better spirit than trolling a bunch of kids",
+            "title_similarity": "0.7929232"
+        },
+        {
+            "id": "i2nrfs4",
+            "score": 1,
+            "text": "The Nrich website is full of problems like this and you can search based level or topic.",
+            "title_similarity": "0.3206914"
+        },
+        {
+            "id": "i2ns4du",
+            "score": 1,
+            "text": "Find x,y,z > 0 such that x\\^3 + y\\^3 = z\\^3.",
+            "title_similarity": "0.19568174"
+        },
+        {
+            "id": "i2nuquu",
+            "score": 1,
+            "text": "On a side note, be prepared to co-author in case one of them brings them to you, solved, next morning.",
+            "title_similarity": "0.398215"
+        },
+        {
+            "id": "i2nz3oe",
+            "score": 1,
+            "text": "Not much to solve but Zeno paradoxes are fun to think about. \n\nThe Monty hall problem is also fun. Though my wife argues about it with me every time I bring it up",
+            "title_similarity": "0.6651358"
+        },
+        {
+            "id": "i2nzn3e",
+            "score": 1,
+            "text": "In my errant youth I was given the [utilities problem](https://en.wikipedia.org/wiki/Three_utilities_problem). I advise you to let kids say \"this problem cannot be solved\", unlike my elementary school teacher.",
+            "title_similarity": "0.6769259"
+        },
+        {
+            "id": "i2nzod3",
+            "score": 1,
+            "text": "The Collatz conjecture seems like an obvious choice.\n\nAlso the four color theorem, which has only been proven with the help of a computer.\n\nSo proving it without a computer is still an unsolved problem.",
+            "title_similarity": "0.5940283"
+        },
+        {
+            "id": "i2o0g68",
+            "score": 2,
+            "text": "Does every plane simple closed curve inscribe a square?\n\nThe answer is known to be yes in some special cases, but the general question has been open since it was posed by Toeplitz in 1911.",
+            "title_similarity": "0.5830016"
+        },
+        {
+            "id": "i2oip16",
+            "score": 1,
+            "text": "The Collatz Conjecture (3n+1).",
+            "title_similarity": "0.21351436"
+        },
+        {
+            "id": "i2olvjo",
+            "score": 2,
+            "text": "The sum of three cubes problem comes to mind. It has three prongs:\n\n(1) Very easy solutions--for n < 10, or n close to 64;\n\n(2) No solutions--for n = 4 or 5 mod 9;\n\n(3) Crazy difficult solutions only found recently, and requiring distributed computing.\n\nSo you can show them that sometimes this can be solved, sometimes it flat can't, and sometimes we *don't yet know* whether there is a solution. Have them try it for, say, 1 to 10. See if they can figure out why 4 and 5 can't work. Then ask them about 12. Don't give them *too* very long; they likely won't get it without (a) a very lucky guess, (b) a Ramanujan-like brain, or (c) figuring out how to do distributed computing as a group.\n\nThough in case (c) I'd give them just a bit more time because just figuring out distributed computing on their own deserves a medal, and 20 teens who are good at math probably would find a solution in ten minutes if they're splitting the work and going systematically.\n\n*Then*, of course, you show them the solution for 33. :)",
+            "title_similarity": "0.7133994"
+        },
+        {
+            "id": "i2opu8o",
+            "score": 3,
+            "text": "Wasn’t there this sequence where you multiply by some number if the current number is even and divide by another if the number is odd and we don’t know if the sequence ends up at a power of 2?\n\nOh i think if you arrived at a power of 2 the sequence would output a 1 so the number you divide by was probably the 2",
+            "title_similarity": "0.48979878"
+        },
+        {
+            "id": "i2oufoo",
+            "score": 1,
+            "text": "Fermat",
+            "title_similarity": "-0.07579016"
+        },
+        {
+            "id": "i2owoix",
+            "score": 1,
+            "text": "Collatz Conjecture",
+            "title_similarity": "0.10706973"
+        },
+        {
+            "id": "i2p074s",
+            "score": 2,
+            "text": "The coupon collector problem\n\nYou collect coupon. At each purchase you get one of n coupons. Assuming equiprobability, how many purchases do you have to make to get all the coupons ?\n\nThe mean collection time has a rather elegant analytical solution but there is no closed form on the probability distribution \n\nIf it is to easy for you, you can twist it :\n-\tpokemon card collector: k coupon per purchase, non equiprobability\n-\tp collectors that can exchange excess coupons",
+            "title_similarity": "0.61586446"
+        },
+        {
+            "id": "i2p0k8f",
+            "score": 1,
+            "text": "3x+1",
+            "title_similarity": "0.043925222"
+        },
+        {
+            "id": "i2p41f0",
+            "score": 1,
+            "text": "CoLlATz ConJeCtURe",
+            "title_similarity": "0.10706973"
+        },
+        {
+            "id": "i2pacez",
+            "score": 2,
+            "text": "Gordon Hamilton has a great collection expressly for this https://mathpickle.com/unsolved-k-12/",
+            "title_similarity": "0.51975346"
+        },
+        {
+            "id": "i2pfi80",
+            "score": 2,
+            "text": "A little one from combinatorial game theory:\n\nThe game starts with a single pile of N beans. Each player takes it in turn to divide a pile into two smaller piles. Each new pile has to have at least one bean, and they aren't allowed to be the same size. You lose if you can't move (i.e. if all the piles have 1 or 2 beans). Would you like to go first or second? The answer depends on how many beans there are to start, of course.\n\nWe know the second player wins, with best play, if the starting pile has a size in https://oeis.org/A036685. It's unknown whether there are any other sizes that win for the second player. There are no others before 2^(38) (see http://wwwhomes.uni-bielefeld.de/achim/grundy.html).",
+            "title_similarity": "0.6681397"
+        },
+        {
+            "id": "i2pg6fq",
+            "score": 2,
+            "text": "The colatz conjecture. If you take a number x and it is even divide it by two until it is odd. If it is odd then x=3x+1. Repeat the process. Show that for all natural number x, the series eventually become 1,4,1,4...",
+            "title_similarity": "0.49101484"
+        }
+    ]
+}

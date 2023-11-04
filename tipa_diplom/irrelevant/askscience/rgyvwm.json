@@ -1,0 +1,136 @@
+{
+    "From my 7 year old: Do the things in our bodies ever get tired? Like cells and antibodies? Do they have to rest?\n": [
+        {
+            "id": "honms8y",
+            "score": 4,
+            "text": "Almost every cell in your body expresses genes associated with the circadian rhythm, with changes in expression following the same 24h cycle. So, every part of you knows when it's time to be awake and when to be asleep!",
+            "title_similarity": "0.51406205"
+        },
+        {
+            "id": "honkkhi",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "0.15023947"
+        },
+        {
+            "id": "honszoq",
+            "score": 19,
+            "text": "yes. In fact even cells need to rest. \"In 2016, Japanese scientist Yoshinori Ohsumi won the Nobel Prize for his discoveries into the mechanisms of autophagy.\" It really is fascinating.\n\nmetabolic syndrome and many degenerative diseases that manifest on a cell level can be seen as symptoms of 'lack of rest'. Interesting examples, metabolic syndrome, insulin resistance, Parkinson's (dopamine levels in the brain).\n\nMost cells and bacteria have feeding / activity / rest cycles that lead to optimal health, DNA health, and reproductive health",
+            "title_similarity": "0.553954"
+        },
+        {
+            "id": "honqsru",
+            "score": 24,
+            "text": "There is an animated show called Cells at Work that does a good job explaining the immune system in an understandable way.\n\nThe spin off series, Cells at Work: Code Black specifically goes in to detail about cells getting “tired” in an aging body!",
+            "title_similarity": "0.5691837"
+        },
+        {
+            "id": "honrfpu",
+            "score": 8,
+            "text": "Yes! There is a concept in biochemistry known as the FED vs FASTED state. When in the FED state (after eating and onward for about 8 hours), cells are essentially doing everything in their power to store/use energy. \n\nHowever, in the FASTING state (after not eating for 8+ hours), most cells doing everything in their power to avoid utilizing energy I.e. cells are ”tired”.\n\nThe main contributor of this is whether enzymes have a phosphate group attached. In general, enzymes are phosphorylated in the FASTING state. Many cells and enzymes are extremely active in the FASTING state such as adipose cells and liver cells that have the exclusive job for maintaining blood sugar/energy levels; however, the general trend is that cells are lacking ATP in the FASTING state and therefore are just waiting for some energy molecules to phosphorylate their enzymes to get the engine going again.",
+            "title_similarity": "0.6067296"
+        },
+        {
+            "id": "hooa9zr",
+            "score": 9,
+            "text": "So you’ve gotten good responses in reference to cells, but I haven’t seen anyone answer the antibodies part. \n\nAntibodies aren’t cells, just proteins, and don’t use energy. They can’t get ‘tired’ any more than your broom can get tired. \n\nThey can breakdown over time and no longer work. Just like a broom can break when it gets too old. \n\nThe half life of antibodies in the body is roughly two weeks (this is a very general statement and varies widely based on type and a bunch of other factors).\n\nAntibodies outside of the body, however, are actually incredibly stable and can be stored for years in a freezer. \n\nA lot of the testing technology is actually based on using antibodies as they are incredibly powerful and specific tools. I’ve had antibody reagents last for more than 6 years frozen with no change in performance.",
+            "title_similarity": "0.60028195"
+        },
+        {
+            "id": "honf82c",
+            "score": 35,
+            "text": "You can think of this in terms of the example of **neurons**: ‘tiring’ in this context can mean 1.) not enough energy eg. Glucose for metabolism 2.) too many toxic byproducts of metabolism 3.) not enough neurotransmitters available 4.) not enough time to rest (the cells need to ‘recover’ after firing) but in reality all of this will be happening in tandem. eg. uve been playing chess all day you've been activating more neurons and faster and longer :) [note: if you use a group of cells more, then more resources will be allocated to them and they will grow in number to divide that labour. So playing chess after 3 months will feel easier]\n\nA liver metabolizing alcohol all day will get tired and that is reflected by breakdown of cells and accumulation of toxins. Its difficult to carry over this definition from the subjective realm of *feeling tired* into that of biology. But its a great question! When we get tired we rest but actually we *could* work more. Cells and organs just do what they must with the resources they have to keep things in an acceptable range. If not, they can get more resources (eg. body adapts by pumping more blood), switch to another pool of resources (eg. aerobic to anaerobic in muscles) and finally get damaged (eg. hypoxia) and die ... evolution has provided cells with a 'self-destruct' sequence if it comes to this and they can't fulfill their function. \n\nSo, to recap: The whole body is tightly regulated to divert resources as appropriate (the circadian rhythm, as u/turingading mentioned). The resources are too many to enumerate, but the most important is oxygen and glucose, which gets converted to ATP. The cells use this and when we run out of glucose, we can use our fatty acids or muscle breakdown product for ATP and this is another of those pathway switches that can keep the cells going. \n\nΕdited for clarity purposes",
+            "title_similarity": "0.5333408"
+        },
+        {
+            "id": "honrp2e",
+            "score": 11,
+            "text": "Interesting question: if you ask me tired/fatigue is a feeling of your physical state. So a cell doesn't \"know\" when it's \"exhausted\".\n\nHonestly, cells are just hyper-complex biochemical nano-machines that fulfill their purpose through chains of chemical reactions. But, like all machines, a lot of them wear out. The most common wear-out is DNA damage from replication; DNA replication isn't perfect (it happens astoundingly fast and errors are bound to happen. Try copying a document by typing as fast as you can but you can't backspace.) We do have mechanisms to detect these mismatches, but some slip through the cracks. This can be harmless, but if the error somehow shuts down a regulatory protein for cell division, or hyper-activates the same protein then we have problems. Fortunately, we have different checkpoints to prevent this if a cell gets too \"hyper\". If any of these checkpoints are triggered, the cell is essentially programmed to kill itself (also some forms of physical damage to the cell also trigger a similar pathway).\n\nWe do have some cells that don't replicate and are essentially \"immortal\" as long as they get energy. These are usually our skeletal muscles, cardiac muscles, and neurons. These can become \"tired\" in the sense that we feel fatigue; but on the cellular scale this is just buildup or metabolic waste and depletion of necessary molecules for function (e.g. myocyte fatigue is from depletion of ATP and Ca++; neuronal fatigue is the buildup of adenosine - which we have receptors in our brain to tell us that we're tired; caffeine blocks these receptors giving us a feeling of wakefulness).\n\nAs for antibodies, they are just a glob of protein that floats through the blood. They're highly specific, as in one antibody per one pathogen (e.g. a Covid antibody will only tag covid; a flu antibody will only tag the flu). These proteins help tag the pathogen so the immune cells can find them and do their job.",
+            "title_similarity": "0.5133079"
+        },
+        {
+            "id": "honm8h6",
+            "score": 77,
+            "text": "an individual cell that is used up and *tired* is usually put to death by apoptosis (programmed cell death)  \n\n\nif apoptosis does not happen on its own, it can be triggered by immune systems cells. however, even that can fail, and this can lead to cancer. tumors, and by extension cancer, are cells that wont die on their own. instead, they just start multiplying uncontrollably.",
+            "title_similarity": "0.5229638"
+        },
+        {
+            "id": "hon7g68",
+            "score": 6088,
+            "text": "Excellent question! \n\nCells themselves don't need to rest in the way that the entire body does, but some organs and body parts do. Cells use a molecule called ATP to make stuff happen. Food + oxygen is turned into ATP and carbon dioxide. When you feel tired, what you are feeling is low amounts of ATP or other molecules made as byproducts from your body working. \n\nYour muscles for instance don't work as fast when they have low amounts of ATP, and the way you experience that is the feeling of tiredness. \n\nWhen you are sick, your white blood cells are working hard to fight the infection, so they are using up heaps of ATP. This also results in the feeling of tiredness.\n\nYour brain however, does need to rest as a whole. Your brain needs 7-9 hours of sleep per night to rest so it can continue working well the next day! It actually changes the way it works (like changing the channel on the tv) to rest and recover.\n\nHope this answers your question!\n\nEdit: Clarity",
+            "title_similarity": "0.557565"
+        },
+        {
+            "id": "honr21p",
+            "score": 544,
+            "text": "To add to what other people have said, while many individual cells don't \"rest\" they also die pretty quickly in comparison to our lifespan. \n\nIn a matter of speaking, they burn the wick at both ends of the candle until they die, getting replaced by a younger version. And on and on. \n\nSome have shorter lifespans than others. Colon cells die after a few days. Sperm cells last a few days. Skin cells last a few weeks. Red blood cells last a few months. White blood cells last about a year.",
+            "title_similarity": "0.6046989"
+        },
+        {
+            "id": "honr092",
+            "score": 3,
+            "text": "There is a \"resting\" stage of the cell cycle that cells can go into. But that's not because they're tired, but just because they aren't supposed to keep growing and dividing (at least for the time being). There's strict control of cell growth and survival in the body, so all the parts stay the right size. When those rules are broken, you can get benign tumors or in the worst case cancer.\n\nThere's another situation where cells \"wear out\" after dividing many times. The system that copies our DNA loses a small chunk at each end of each chromosome every time. There is some unimportant DNA put onto the ends, but when that is used up, you start to lose important DNA. Those cells then become senescent (worn out). That \"protective\" DNA at the ends can only be built in certain special cells, like in the embryo (so an individual starts with \"fully charged\" cells).",
+            "title_similarity": "0.6226656"
+        },
+        {
+            "id": "hoogyrw",
+            "score": 36,
+            "text": "I'm a plant scientist and plants do need rest on the micro level. Cells have organelles, specialised structures that can do one thing, quite a bit like organs (hence the name).\n\n Chloroplasts are the organelles that turn light, carbon dioxide and water into sugar to be used for energy. However this also produces reactive oxygen species (unbound oxygen that likes to rip stuff apart so it can bind to that molecule). That's why plants are full of antioxidants to capture ROSs. While the sun is shinning and the plant produces sugars the antioxidant production can't keep up with the ROS production. That's why plants need night, so they can produce enough antioxidants for the next day.",
+            "title_similarity": "0.40213138"
+        },
+        {
+            "id": "hopm6tp",
+            "score": 5,
+            "text": "Your nostrils act AS IF they \"get tired\", they take turns to do breathing and smelling for a couple of hours, then swap over. Their system of taking work shifts is called the nasal cycle. The bit not to necessarily tell your 7year old is that the inside of the nostrils is basically made of the same stuff as penis and clitoris, so sometimes it is turgid and sometimes it is flaccid. You basically get a nose erection internally, one nostril at a time. https://en.m.wikipedia.org/wiki/Nasal_cycle",
+            "title_similarity": "0.6436126"
+        },
+        {
+            "id": "hoq11f1",
+            "score": 7,
+            "text": "Yes! Some cells certainly do need to rest. For instance, I studied’ exhausted’ T cells, which are a type of immune cells (aka white blood cells). When T cells don’t get a break from their target (a chronic infection like HIV or hepatitis C virus or a cancer), they can get worn out (less able to multiply, make activation molecules, and kill target cells). They even switch the way they use food/energy. \n\nA major breakthrough in cancer treatment the last 10 years is immunotherapy. This blocks a ‘checkpoint’ that acts as a brake to limit the activity of exhausted T cells. So by removing the brake, the T cells become more effective and can more likely win the battle against cancer. \n\nNow why have these brakes? Because autoimmunity where the immune system attacks your own body happens more when these brakes aren’t around. The immune system is all about balance and only carefully turning on when necessary.",
+            "title_similarity": "0.67043984"
+        },
+        {
+            "id": "hoq8jju",
+            "score": 3,
+            "text": "There are different types of cells in our body, voluntary, involuntary, and cardiac\n\nVoluntary muscles do get tired and need rest (our arms, legs etc.)\n\nInvoluntary (for example muscles involved in digestion) and Cardiac (heart muscles) are made in such a way and they function at such a pace, that they never get tired, and if they get, it’ll not be good for us 😁",
+            "title_similarity": "0.5749688"
+        },
+        {
+            "id": "hoqnia8",
+            "score": 3,
+            "text": "It's important to note that we have a few different definitions of \"tired,\" and your answer here would vary depending on which you pick. \n\n(1) For one, there's the feeling of sleepiness, the production of which involves complex neural circuits, but in a *very* simplified answer could be attributed to neurotransmitters and hormones like adenosine and melatonin. Caffeine, for example, makes you feel awake by blocking adenosine receptors in the brain (adenosine usually makes you sleepy). You've probably heard of melatonin used as a sleep aid -- it usually signals to the brain that it's nighttime.\n\nNow, if we're asking if cells feel sleepy in this way, the answer is no -- cells aren't conscious. They do, however, have very regular cycles, like our night-day cycles, of growth, activity, and \"rest,\" but there's no central sensor in a cell like the brain. (\"Sensing\" in this case is much more distributed).\n\n(2) On the other hand, you could be referring to what I'd call fatigue -- e.g. when your muscles become weak from use. As others have said, this is caused by buildup in the blood of waste products generated by aerobic respiration, the process by which the body generates energy from oxygen and carbon molecules (think sugar, protein, etc.).\n\nAn analogous situation in a cell would be situations like hypoxia (low oxygen), which could be caused by something like ischemia (lack of blood flow to an area). The cell has indirect ways to sense lack of oxygen, which, if triggered, will lead to either cellular adaptation to the low oxygen or, more commonly, cell death (called apoptosis) if oxygen is low enough. The cell can also sense when its energy sources (like ATP) are low and will take similar action. \n\nThere are all sorts of ways that cells can \"feel their age,\" too -- like telomere shortening, oxidative damage, etc. -- but that's another discussion entirely.\n\nSource: I'm a cell biologist/biochemist specialized in apoptosis (cell death) and a neuroscientist.",
+            "title_similarity": "0.57131445"
+        },
+        {
+            "id": "hoqpncm",
+            "score": 1,
+            "text": "A lot of people on here have talked about cells, but I will add that things that are not alive do not get tired. This includes antibodies, enzymes, hormones, other proteins etc. They might break-down a bit from time to time and need to be repaired or degraded completely and replaced, but they will continue working for as long as the cellular infrastructure and environment around them allows.",
+            "title_similarity": "0.5477401"
+        },
+        {
+            "id": "hoqpnsr",
+            "score": 4,
+            "text": "A lot of people on here have talked about cells, but I will add that things that are not alive do not get tired. This includes antibodies, enzymes, hormones, other proteins etc. They might break-down a bit from time to time and need to be repaired or degraded completely and replaced, but they will continue working for as long as the cellular infrastructure and environment around them allows.",
+            "title_similarity": "0.5477401"
+        },
+        {
+            "id": "hoqqt8s",
+            "score": 1,
+            "text": "No, they senesce and undergo apoptosis. Cell turnover varies from a few days for neutrophils to many years for neurons or muscle cells. Some cells can not be recovered if they die off (photoreceptor cells for example).",
+            "title_similarity": "0.7171704"
+        },
+        {
+            "id": "horrj5j",
+            "score": 3,
+            "text": "Actually, in a manner of speaking, yes. In this case I'm specifically referring to immune cells and especially T cells. A prolonged immune response can be a serious problem for a person and lead to autoimmune disorders. To avoid this your body has certain signaling pathways that cause the T cells to be less active and enter a cell state we call \"T cell exhaustion\".",
+            "title_similarity": "0.5885078"
+        },
+        {
+            "id": "hors1hh",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.15023947"
+        }
+    ]
+}

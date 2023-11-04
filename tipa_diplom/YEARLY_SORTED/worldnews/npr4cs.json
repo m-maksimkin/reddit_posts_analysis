@@ -1,0 +1,4139 @@
+{
+    "University of Edinburgh scientists successfully test drug which can kill cancer without damaging nearby healthy tissue\n": [
+        {
+            "id": "h06xmoj",
+            "score": -2,
+            "text": "Ohh no. Its so sad to see another researchgroup die in a tragic lab fire. Sending thoughts and prayers.",
+            "title_similarity": "0.4474864",
+            "sentiment_compound": -0.923
+        },
+        {
+            "id": "h06ngxb",
+            "score": 2,
+            "text": "And it'll never be heard of again...",
+            "title_similarity": "0.09879686",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h071cii",
+            "score": -2,
+            "text": "University of Edinburgh scientists \"disappear\", leaving no trace of cancer drug study.",
+            "title_similarity": "0.5001379",
+            "sentiment_compound": -0.8176
+        },
+        {
+            "id": "h071fss",
+            "score": -1,
+            "text": "Scientists and all the data disappear in a fire. Dont mind the bullet wounds in their heads.",
+            "title_similarity": "0.53493",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "h071vet",
+            "score": 1,
+            "text": "And then the scientists working on the project were found dead, unrelated of course.",
+            "title_similarity": "0.3890214",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "h06leel",
+            "score": -10,
+            "text": "[deleted]",
+            "title_similarity": "0.022905532"
+        },
+        {
+            "id": "h06rol7",
+            "score": 3,
+            "text": "Baba Venga predicted 2021 would bring a cancer cure.",
+            "title_similarity": "0.63538194",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h086fjl",
+            "score": 0,
+            "text": "I wish they'd stop doing this. Every other day there's a \"We've found the cancer cure!\" just to never hear about it again. Big pharma won't approve any cancer treatments that work, not in our lifetime. A cure cuts too deep into their pocketbooks. It's better to keep people sicker for longer by using the worst treatment methods imaginable.",
+            "title_similarity": "0.570977",
+            "sentiment_compound": -0.6219
+        },
+        {
+            "id": "h06rziq",
+            "score": -2,
+            "text": "Didn't they say this 8 years ago? Bullshit lmao",
+            "title_similarity": "0.117631465",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "h06p846",
+            "score": 3,
+            "text": "Everyday, something new and amazing.\nOur grandparents would be dumbfounded.\nThese are true heroes.",
+            "title_similarity": "0.34467992",
+            "sentiment_compound": 0.8074
+        },
+        {
+            "id": "h06pw5o",
+            "score": -9,
+            "text": " And shelved by big pharma in 3, 2, 1…",
+            "title_similarity": "0.25929648",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06zym5",
+            "score": 0,
+            "text": "Another bullshit cancer story in the mainstream. Fuck off with the 'we're so close' horse-shit.",
+            "title_similarity": "0.4285565",
+            "sentiment_compound": -0.9136
+        },
+        {
+            "id": "h06r4id",
+            "score": 0,
+            "text": "Interesting",
+            "title_similarity": "0.014268527",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "h06x2g9",
+            "score": 0,
+            "text": "Obligatory: 99.9% chance this doesn't pan out in practice, the inside of a body is much different than a dish or a fish. You can be hopeful for that 0.01% chance, we'll get there someday, but when this doesn't come up again remember it might not be some shadowed cabal collecting cancer cures",
+            "title_similarity": "0.5155321",
+            "sentiment_compound": -0.6059
+        },
+        {
+            "id": "h06xjd0",
+            "score": 0,
+            "text": "Yay I can’t wait to never hear about this drug ever again. Like so many other promising cancer drugs...",
+            "title_similarity": "0.6075611",
+            "sentiment_compound": 0.5367
+        },
+        {
+            "id": "h06xo4n",
+            "score": 0,
+            "text": "Blow this up before it gets lost forever. I’m also positive it won’t reach the US. Really sad",
+            "title_similarity": "0.31023955",
+            "sentiment_compound": -0.2484
+        },
+        {
+            "id": "h072u1f",
+            "score": 0,
+            "text": "Please stop upvotting this shit. Cancer is cured every day on reddit, it's pathetic.",
+            "title_similarity": "0.5678982",
+            "sentiment_compound": -0.9118
+        },
+        {
+            "id": "h0769fv",
+            "score": 0,
+            "text": "Can’t wait for republicans to claim this as an American idea",
+            "title_similarity": "0.30393314",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h078hl6",
+            "score": 0,
+            "text": "There's no way big pharma allows this. Or it'll be $1M a treatment.",
+            "title_similarity": "0.38022214",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "h07v0qq",
+            "score": 0,
+            "text": "Can’t wait for big pharma to buy this and hide it",
+            "title_similarity": "0.4808151",
+            "sentiment_compound": -0.1779
+        },
+        {
+            "id": "h08fetg",
+            "score": 0,
+            "text": "InB4 the doctors get suicided.",
+            "title_similarity": "0.3274153",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08z4a6",
+            "score": 0,
+            "text": "Watch it completely vanish because it's not profitable",
+            "title_similarity": "0.24093041",
+            "sentiment_compound": -0.3412
+        },
+        {
+            "id": "h09betx",
+            "score": 0,
+            "text": "I’m sick of hearing all of these crazy advancements day in and day out me it’s been forever now and cancer is still just as deadly and our primary way of treating it is the nuclear option (chemo and radiation).",
+            "title_similarity": "0.55506957",
+            "sentiment_compound": -0.8779
+        },
+        {
+            "id": "h075hve",
+            "score": -1,
+            "text": "I hate to say this but watch as pharmaceutical companies everywhere kill this.  They make so much money off Chemo and radiation treatment.",
+            "title_similarity": "0.5510261",
+            "sentiment_compound": -0.872
+        },
+        {
+            "id": "h06s328",
+            "score": 4,
+            "text": "That’s great news! Remember folks, we only need to get it right one time , so let’s keep truckin’ for a cure!!",
+            "title_similarity": "0.47982383",
+            "sentiment_compound": 0.7163
+        },
+        {
+            "id": "h06odyc",
+            "score": 18,
+            "text": "Seems like every couple of months there's a groundbreaking cure only for nothing to come of it.",
+            "title_similarity": "0.4464157",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h06uczc",
+            "score": -5,
+            "text": "These threads always have the exact same comments.    \n\"sEeMs LiKe I rEaD tHiS hEadLiNe oNcE a mOntH aNd tHeN iT vAnIshEs.\" and \"rEmEmbeR iT hAs tO bE sAfE foR hUmaNs nOt JuSt eFfEctiVe\"",
+            "title_similarity": "0.45111173",
+            "sentiment_compound": 0.4303
+        },
+        {
+            "id": "h06nr15",
+            "score": 68,
+            "text": "Can't wait for this amazing breakthrough to vanish without a trace",
+            "title_similarity": "0.40898994",
+            "sentiment_compound": 0.6705
+        },
+        {
+            "id": "h06iwby",
+            "score": -26,
+            "text": "Then the people who created this end up missing and all traces of this research is gone 🙁",
+            "title_similarity": "0.335386",
+            "sentiment_compound": -0.3197
+        },
+        {
+            "id": "h06sabb",
+            "score": 1,
+            "text": "I too can kill cancer but with fire.",
+            "title_similarity": "0.6123681",
+            "sentiment_compound": -0.8248
+        },
+        {
+            "id": "h0707zl",
+            "score": -1,
+            "text": "Oh wow, to bad the Dr that came  up with this committed suicide by shooting themselves in the back of the head 2 times execution style and then dumping themselves into a river about 2 months from now.",
+            "title_similarity": "0.4282083",
+            "sentiment_compound": -0.628
+        },
+        {
+            "id": "h072ork",
+            "score": 1,
+            "text": "Can't wait to never hear about this again.",
+            "title_similarity": "0.19668803",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h074ri0",
+            "score": -1,
+            "text": "so is this it? like the cure for cancer?",
+            "title_similarity": "0.6131698",
+            "sentiment_compound": -0.504
+        },
+        {
+            "id": "h0752tz",
+            "score": -1,
+            "text": "And they won’t release it. I think they’ve had a cancer cure for many years already but the money is just too good. Also, Covid came from a lab",
+            "title_similarity": "0.6320813",
+            "sentiment_compound": 0.2846
+        },
+        {
+            "id": "h06tupn",
+            "score": 11,
+            "text": "We cured Cancer for the 53rd time Reddit!!!",
+            "title_similarity": "0.57934725",
+            "sentiment_compound": -0.7412
+        },
+        {
+            "id": "h074ar7",
+            "score": 4,
+            "text": "I don't even get excited for news like these because nothing will come out of it :(",
+            "title_similarity": "0.2890147",
+            "sentiment_compound": -0.3476
+        },
+        {
+            "id": "h06ukhy",
+            "score": 4,
+            "text": "Isn't this like on the news every month? And then it goes back into obscurity because in reality cells, both normal and cancer behave very differently when outside of a petri dish?",
+            "title_similarity": "0.46063966",
+            "sentiment_compound": -0.7827
+        },
+        {
+            "id": "h06vra1",
+            "score": 3,
+            "text": "A variant of this headline appears every week, along with a comment like mine pointing it out.",
+            "title_similarity": "0.1675969",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h06wohb",
+            "score": -2,
+            "text": "###Pharma Executive 1: Drug companies, cure-cancer-but-why-$$$?\n\n###Pharma Executive 2: $1,000,000 per pill.\n\n###Pharma Executive 1: Ah, got I. 👍🏼\n\n#🐷💩💊💰🤑",
+            "title_similarity": "0.5372051",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h071wby",
+            "score": 1,
+            "text": "I hope the scientists don’t go missing",
+            "title_similarity": "0.49497527",
+            "sentiment_compound": 0.1779
+        },
+        {
+            "id": "h084i9d",
+            "score": 3,
+            "text": "And it will never see the light of day....",
+            "title_similarity": "0.12567642",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06s85h",
+            "score": 13,
+            "text": "Fuck cancer! But my paranoid ass always thinks of I Am Legend when these articles pop up. 😅",
+            "title_similarity": "0.45043582",
+            "sentiment_compound": -0.8497
+        },
+        {
+            "id": "h06n5i1",
+            "score": -17,
+            "text": "We probably have the cure, but it will never be used because it's more money in cancer treatment",
+            "title_similarity": "0.59525603",
+            "sentiment_compound": -0.8174
+        },
+        {
+            "id": "h06sy5m",
+            "score": -3,
+            "text": "Sad to hear the scientists killed themselves tomorrow",
+            "title_similarity": "0.36800617",
+            "sentiment_compound": -0.8225
+        },
+        {
+            "id": "h08e0ji",
+            "score": 3,
+            "text": "[deleted]",
+            "title_similarity": "0.02290555"
+        },
+        {
+            "id": "h06ufd3",
+            "score": 0,
+            "text": "[deleted]",
+            "title_similarity": "0.022905532"
+        },
+        {
+            "id": "h07045r",
+            "score": 0,
+            "text": "SeNBD is selenium conjugated with the fluorophore 7-nitrobenz-2-oxa-1,3-diazole. There is next to no information about it on the web. What \"food molecule\" they combined it with is anyone's guess. Other conjugates - and there are hundreds on record - have used long chain fatty acids. NBD is usually employed as a fluorescent tracer to find selenium in the cell. Good ol' \"science\" press releases.",
+            "title_similarity": "0.58484215",
+            "sentiment_compound": 0.5766
+        },
+        {
+            "id": "h070wi5",
+            "score": -5,
+            "text": "[deleted]",
+            "title_similarity": "0.022905532"
+        },
+        {
+            "id": "h073zp8",
+            "score": 0,
+            "text": "This same headline appears every few months.",
+            "title_similarity": "0.073627934",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h074vc2",
+            "score": 0,
+            "text": "https://t.me/joinchat/S7sXbsYw08m2zBaH",
+            "title_similarity": "0.092761606",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08v7s7",
+            "score": 0,
+            "text": "https://xkcd.com/1217/\n\n> Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer.",
+            "title_similarity": "0.75177205",
+            "sentiment_compound": -0.875
+        },
+        {
+            "id": "h09sla7",
+            "score": 0,
+            "text": "I hope this doesn't get buried in the \"curing people isn't a sustainable business model\" crap.",
+            "title_similarity": "0.45195144",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "h06megh",
+            "score": -6,
+            "text": "According to SciShow, we had already found the cure for cancer shortly before the Corona pandemic began. The guys from Edinburgh here are comparatively slow.",
+            "title_similarity": "0.6671877",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h06hbfb",
+            "score": 18,
+            "text": "Nice one ...",
+            "title_similarity": "0.033133235",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "h06uboe",
+            "score": -1,
+            "text": "Scientists will continue testing until the year 2178 and then trials will begin on small woodland creatures until the year 2207. Drug should be ready for human trials by the year 2392.",
+            "title_similarity": "0.49155903",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h06wac2",
+            "score": -1,
+            "text": "Isn’t this how *I Am Legend* started?",
+            "title_similarity": "0.18034495",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06wswr",
+            "score": -1,
+            "text": "Help me , it's really not even funny I'm just kinda depressed and don't know how else to express my feelings toward this https://www.reddit.com/r/RobinHood/comments/nptr4v/the_hooded_robber_help_unconsentual_victim/?utm_medium=android_app&utm_source=share",
+            "title_similarity": "0.3702635",
+            "sentiment_compound": -0.4546
+        },
+        {
+            "id": "h06yi0b",
+            "score": -1,
+            "text": "Awesome, so this will get thrown in the trash and we'll never hear of it again. I feel like the medical industry is not about letting a cure for cancer out.",
+            "title_similarity": "0.5865934",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "h06z7j8",
+            "score": -1,
+            "text": "I saw a comment when I first started redditing. \n“cancer is cured once a week on reddit”\n\nso true",
+            "title_similarity": "0.57255954",
+            "sentiment_compound": 0.5598
+        },
+        {
+            "id": "h06zozf",
+            "score": -1,
+            "text": "How long until this gets buried with the other \"cures for cancer\"?",
+            "title_similarity": "0.592873",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h06zqah",
+            "score": -1,
+            "text": "Hopefully he doesn't go missing",
+            "title_similarity": "0.2510988",
+            "sentiment_compound": 0.5556
+        },
+        {
+            "id": "h06zqb0",
+            "score": -1,
+            "text": "So we'll never hear of it again.",
+            "title_similarity": "0.12753882",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0708rj",
+            "score": -1,
+            "text": "The ultra rich couldn’t keep it a secret anymore.",
+            "title_similarity": "0.24102539",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "h070mqj",
+            "score": -1,
+            "text": "So, uh.. cannabis?",
+            "title_similarity": "0.15447104",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h070twt",
+            "score": -1,
+            "text": "This will come to nothing",
+            "title_similarity": "0.08832983",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h072id4",
+            "score": -1,
+            "text": "Why don’t people just drink their urine? (Yes, it is a joke.)",
+            "title_similarity": "0.3086331",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "h072jvu",
+            "score": -1,
+            "text": "If actually turns out to be successful the pharmaceutical industry will make sure it's swept under the rug or they will buy everyone out and make sure it never becomes practical due to its interference with profit.",
+            "title_similarity": "0.57915425",
+            "sentiment_compound": 0.8834
+        },
+        {
+            "id": "h072jyp",
+            "score": -1,
+            "text": "And it will cost $9,000,000 per dose or might as well if it's not available to everyone.",
+            "title_similarity": "0.30619514",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "h072uic",
+            "score": -1,
+            "text": "big pharma won't like this unless they can make big money off it",
+            "title_similarity": "0.3884834",
+            "sentiment_compound": -0.2755
+        },
+        {
+            "id": "h073ixs",
+            "score": -1,
+            "text": "Yay monthly cancer cure.",
+            "title_similarity": "0.44404805",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "h0764jx",
+            "score": -1,
+            "text": "Yeah I have heard like 1000 different ideas how to kill cancer and never have I seen them became reality",
+            "title_similarity": "0.5207293",
+            "sentiment_compound": -0.7506
+        },
+        {
+            "id": "h07co3c",
+            "score": -1,
+            "text": "So which stock to I buy?",
+            "title_similarity": "0.08550967",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07efg4",
+            "score": -1,
+            "text": "I might sound stupid but why are UNIVERSITIES at the forefront of like medical biotech?\n\nLike Oxford University was the major developer of the AstraZeneca COVID vaccine and now the University of Edinburgh does this, I'm not from the US or the UK so can anyone explain how this works?",
+            "title_similarity": "0.6704945",
+            "sentiment_compound": 0.6868
+        },
+        {
+            "id": "h07v13q",
+            "score": -1,
+            "text": "AAAAAAANNNND it's been bought by a hedge fund and buried.",
+            "title_similarity": "0.25068626",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07vu7j",
+            "score": -1,
+            "text": "I heard that swallowing bleach cures cancer.",
+            "title_similarity": "0.64058924",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h07x25i",
+            "score": -1,
+            "text": "Probably never hear about this again. Scientists will end up missing or dead and they’ll continue to kill by suppressing the cure so they can make money treating the symptoms",
+            "title_similarity": "0.5301257",
+            "sentiment_compound": -0.9042
+        },
+        {
+            "id": "h089o7v",
+            "score": 1,
+            "text": "I swear I  see a post saying scientists have found a cure for cancer every year but then nothing happens",
+            "title_similarity": "0.59050983",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "h08iika",
+            "score": -1,
+            "text": "In other news the scientists have been found with 3 bullets to the back of the head which witnesses say was a suicide. Back to you dick.",
+            "title_similarity": "0.48513684",
+            "sentiment_compound": -0.8316
+        },
+        {
+            "id": "h08j6qy",
+            "score": -1,
+            "text": "Cue them \"falling out a window\" or \"going missing\" in 2 weeks",
+            "title_similarity": "0.16462004",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "h08w332",
+            "score": -1,
+            "text": "Biden is going to be pissed when he finds out some bloke across the pond cured cancer before he could, like he promised on the campaign trail.",
+            "title_similarity": "0.55677044",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "h091ajo",
+            "score": -1,
+            "text": "Cure for multiple sclerosis plz ?",
+            "title_similarity": "0.4576521",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "h06l799",
+            "score": -15,
+            "text": "Big pharma will buy it and shut it down.",
+            "title_similarity": "0.41976815",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06ubql",
+            "score": -2,
+            "text": "we hear this once a month lol",
+            "title_similarity": "0.01349869",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "h06wdpg",
+            "score": -2,
+            "text": "Someone tell Will Smith to get a German Shepherd. It's time.",
+            "title_similarity": "0.26145837",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06zcms",
+            "score": -2,
+            "text": "Does this mean I can start smoking?",
+            "title_similarity": "0.24523428",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06zgwg",
+            "score": -2,
+            "text": "OK, am start smoking again",
+            "title_similarity": "0.16229725",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h073j6k",
+            "score": -2,
+            "text": "My condolences go out to the families of these scientists, they left this world too soon. /s\n\nSeriously though, they either never talk about it again, disappear, die in an \"accident\", or \"commits suicide\".",
+            "title_similarity": "0.47724944",
+            "sentiment_compound": -0.9325
+        },
+        {
+            "id": "h07lx7q",
+            "score": -2,
+            "text": "Cancer is truly a matter of “when” and not “if”.  I believe it is 100% environmental, due to our living conditions and lifestyle.  There’s no such thing as “family history”…..that doesn’t matter.  You might not have “family history” until the first person in your family is diagnosed.  Then you have family history. \n\nFrom the foods that we eat, the air we breathe, the chemicals we’re exposed to, to the land we’re living on……we’re all going to get cancer from in some form or another.  \n\nSo to hear that the cancer research is producing positive results is very encouraging.",
+            "title_similarity": "0.61762166",
+            "sentiment_compound": -0.7436
+        },
+        {
+            "id": "h08wic6",
+            "score": -2,
+            "text": "Oh they're testing cannabis?",
+            "title_similarity": "0.38931316",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06qzzb",
+            "score": -18,
+            "text": "[removed]",
+            "title_similarity": "-0.015737996"
+        },
+        {
+            "id": "h06ur9f",
+            "score": -4,
+            "text": "What drug? There never was any drug. You don't remember reading any reddit thread or internet article. Must've been the wind.",
+            "title_similarity": "0.31330782",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07fm94",
+            "score": -3,
+            "text": "CANCER TREATMENT WILL OUTLAW IN THE NOT SO UNITED STATES  U WATCH...",
+            "title_similarity": "0.5121521",
+            "sentiment_compound": -0.8093
+        },
+        {
+            "id": "h087ckc",
+            "score": -2,
+            "text": "It's called Cannabis",
+            "title_similarity": "0.15793946",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06pxrz",
+            "score": -13,
+            "text": "The sad thing is if it really works they still won’t give it to the general public. Big pharma, hospital corporation conglomerates and insurance companies need us to be sick. If we could just take a magic pill that cured us of all our ills the money machine would come to a stop.",
+            "title_similarity": "0.5740256",
+            "sentiment_compound": -0.8225
+        },
+        {
+            "id": "h06jv8h",
+            "score": 53,
+            "text": "[relevent](https://xkcd.com/1217/)",
+            "title_similarity": "0.1023074",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06ufpb",
+            "score": -5,
+            "text": "Yeah won't be long before they all commit suicide.",
+            "title_similarity": "0.40346974",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "h06urwy",
+            "score": -4,
+            "text": "Meat already does this. MeatRx.",
+            "title_similarity": "0.14134872",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06v8fk",
+            "score": 3,
+            "text": "Can't wait to never hear about this again",
+            "title_similarity": "0.20131247",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06zlt1",
+            "score": 17,
+            "text": "When I joined Reddit 8 years ago every other week I thought they had cured cancer.\n\nFingers crossed tho",
+            "title_similarity": "0.5240691",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h06qufz",
+            "score": 4,
+            "text": "Considering I had to answer survey just to read this on a spamy site, I think this is click bait fake news.",
+            "title_similarity": "0.44953972",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "h0723n3",
+            "score": 6,
+            "text": "Wow this is not the 91238192741st time I've read this headline\\~",
+            "title_similarity": "0.20778224",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "h06wscg",
+            "score": 17,
+            "text": "I'm sick of seeing sensationalized headlines like this, it's not relevant to the general public until it goes to human trials",
+            "title_similarity": "0.35996592",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "h06lhq1",
+            "score": -6,
+            "text": "[removed]",
+            "title_similarity": "-0.015737996"
+        },
+        {
+            "id": "h06wsjj",
+            "score": 7,
+            "text": "I'll believe it when I see it on a massive scale...",
+            "title_similarity": "0.16983324",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06koto",
+            "score": -25,
+            "text": "We potentially already have this in cannabis no?... or are we more interested in something big pharma can patent?",
+            "title_similarity": "0.4458639",
+            "sentiment_compound": 0.5192
+        },
+        {
+            "id": "h071uwh",
+            "score": 42,
+            "text": "Alright, Reddit. Now tell me why I'll never hear of this again after today.",
+            "title_similarity": "0.28282765",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "h06lb70",
+            "score": 738,
+            "text": "This is the probably the 7th headline about curing cancer I have read in the last 3 years",
+            "title_similarity": "0.45625916",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h06ubr0",
+            "score": 29,
+            "text": "looking forward to the studies in a few years\n\nprogress is slow but survival rates and treatments improve slowly over the years",
+            "title_similarity": "0.39079738",
+            "sentiment_compound": 0.6956
+        },
+        {
+            "id": "h06zl3t",
+            "score": 32,
+            "text": "Getting our monthly \"scientist discovers cancer cure\" post out of the way early, I see.",
+            "title_similarity": "0.57011473",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h06q2t5",
+            "score": 924,
+            "text": "I am glad this research happens but it seems like these types of articles pop up once a year and everyone gets excited but then you never hear about them again.  It is like a clickbait for people who suffered directly or through loss.  I hope I am wrong and this is a real path for better cancer treatment.",
+            "title_similarity": "0.5696604",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "h06hxxf",
+            "score": 1286,
+            "text": ">Scientists at the University of Edinburgh combined the tiny   \ncancer-killing molecule SeNBD with a chemical food compound to trick   \nmalignant cells into ingesting it.\n\nThat's so awesome",
+            "title_similarity": "0.78314525",
+            "sentiment_compound": 0.722
+        },
+        {
+            "id": "h06hy9s",
+            "score": 6997,
+            "text": "That sounds too good to be true. What's the catch?",
+            "title_similarity": "0.1988729",
+            "sentiment_compound": 0.6908
+        },
+        {
+            "id": "h06sd56",
+            "score": 4224,
+            "text": "[Sam Benson et al, Photoactivatable metabolic warheads enable precise and safe ablation of target cells in vivo, Nature Communications (2021).](https://www.nature.com/articles/s41467-021-22578-2)\n\nSince I couldn’t find a link to the original source on the linked garbage-site, here’s the paper.",
+            "title_similarity": "0.69437814",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "h06vfaf",
+            "score": 391,
+            "text": "For anyone’s who’s interested this has a limited scope of applications - just from a quick read of the article. It’s a photosensitive compound that becomes toxic when exposed to certain wavelengths of light.\n\nFor this to be used in a person it would have to be accessible by the clinical team I.e esophagus, stomach, colon/rectum or cutaneous Melanomas etc. It probably won’t have functionality in lung, liver pancreas breast etc as these are not readily accessible like the others. \n\nThat isn’t to say this isn’t promising, phototherapy is definitely something we will see more of in years to come I hope. Getting these tumours at an early stage is vital. \n\nSource: am PhD student in cancer research",
+            "title_similarity": "0.607725",
+            "sentiment_compound": 0.6798
+        },
+        {
+            "id": "h06izx7",
+            "score": 1,
+            "text": "Its time.",
+            "title_similarity": "-0.09445719",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06spov",
+            "score": 1,
+            "text": "Wow, these are glad tidings.",
+            "title_similarity": "0.12339262",
+            "sentiment_compound": 0.7783
+        },
+        {
+            "id": "h06suwv",
+            "score": 1,
+            "text": "Wow",
+            "title_similarity": "-0.13941509",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "h06t0m6",
+            "score": 1,
+            "text": "Hope it works. This could help folks.",
+            "title_similarity": "0.2468877",
+            "sentiment_compound": 0.6808
+        },
+        {
+            "id": "h06t4zy",
+            "score": 2,
+            "text": "This is fucking huge if this pans out! Lost all my grandparents to cancer and one of my friends so I really fucking hope this goes somewhere. Fuck cancer! Come on Edinburgh! You guys have this!",
+            "title_similarity": "0.527528",
+            "sentiment_compound": -0.8226
+        },
+        {
+            "id": "h06ta89",
+            "score": 1,
+            "text": "Another cancer cure that we will never hear about again?",
+            "title_similarity": "0.49665517",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h06tjcc",
+            "score": 1,
+            "text": "[Relevant XKCD](https://xkcd.com/1217/)",
+            "title_similarity": "0.118883744",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06tnwg",
+            "score": 1,
+            "text": "add this to the list of the other thousands of \"discoveries\" daily that are supposed to do something against cancer\n\nthe reality is that most of us will still die to cancer anyways",
+            "title_similarity": "0.5340259",
+            "sentiment_compound": -0.9287
+        },
+        {
+            "id": "h06tty5",
+            "score": 1,
+            "text": "I chose the wrong fucking day to quit smoking…",
+            "title_similarity": "0.3302546",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "h06udbw",
+            "score": 1,
+            "text": "This would be great. I know there is a ton more testing to be done, but this would be a step in the right direction.",
+            "title_similarity": "0.37862954",
+            "sentiment_compound": 0.3716
+        },
+        {
+            "id": "h06umc6",
+            "score": 1,
+            "text": "i love drugs",
+            "title_similarity": "0.3550868",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "h06v96l",
+            "score": 1,
+            "text": "I can't imagine losing someone (or yourself) to cancer... Like the weekend before it's finally cured. That would be some real shit luck",
+            "title_similarity": "0.5603034",
+            "sentiment_compound": -0.3217
+        },
+        {
+            "id": "h06vaji",
+            "score": 1,
+            "text": "aaah the daily cancer cured headline.",
+            "title_similarity": "0.50986516",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h06vbag",
+            "score": 1,
+            "text": "I can successful test if i can jump to the Moon on my first try.\n\nI didn't. Test successful!",
+            "title_similarity": "0.5306365",
+            "sentiment_compound": 0.2547
+        },
+        {
+            "id": "h06ve5q",
+            "score": 1,
+            "text": "This website is completely unusable on mobile \nI clicked the link to be followed up by an immediate pop up asking for permission to access most of my devices information \n\nI don't have a choice if I want to read the article \nSo I click yes \n\nAnd I still can't even read the article without filling out a survey. Complete bs just let me read the damn article",
+            "title_similarity": "0.43214157",
+            "sentiment_compound": 0.144
+        },
+        {
+            "id": "h06vfzk",
+            "score": 1,
+            "text": "Funking aye!",
+            "title_similarity": "-0.04052899",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06vihu",
+            "score": 1,
+            "text": "Big Pharma read this article..... Annnnd it's gone!",
+            "title_similarity": "0.36721906",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06vknv",
+            "score": 1,
+            "text": "Oh cool this is the 10,000^th time I've read an article like this and they always end up to never be seen again",
+            "title_similarity": "0.33990785",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "h06vohh",
+            "score": 1,
+            "text": "they better not get on any planes anytime soon",
+            "title_similarity": "0.21355823",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "h06vqle",
+            "score": 1,
+            "text": "And... thats the last you'll ever hear about it.",
+            "title_similarity": "0.12817049",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06vulj",
+            "score": 1,
+            "text": "O please with more of your drugs, sebi figured it out without all that and y'all killed him. 😤",
+            "title_similarity": "0.58929765",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "h06w08n",
+            "score": 1,
+            "text": "Brb going to start smoking again",
+            "title_similarity": "0.20144589",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06w8th",
+            "score": 1,
+            "text": "Welcome to the game diabetics have been playing for a long time called “just 5 more years!”",
+            "title_similarity": "0.2889099",
+            "sentiment_compound": 0.6239
+        },
+        {
+            "id": "h06wctx",
+            "score": 1,
+            "text": "I’ve been reading about great breakthroughs in cancer treatment for the last 30 years and still people are dying left and right so excuse me if I temper my enthusiasm.",
+            "title_similarity": "0.5276346",
+            "sentiment_compound": 0.1384
+        },
+        {
+            "id": "h06wjk3",
+            "score": 1,
+            "text": "Wow. that is a really important new. Good job Edinburgh scientists!",
+            "title_similarity": "0.42119265",
+            "sentiment_compound": 0.8537
+        },
+        {
+            "id": "h06wmn3",
+            "score": 1,
+            "text": "It’s a shame they’re going to commit suicide",
+            "title_similarity": "0.34105396",
+            "sentiment_compound": -0.7506
+        },
+        {
+            "id": "h06wmpv",
+            "score": 1,
+            "text": "Isn't that war BionTech also is researching?",
+            "title_similarity": "0.42154348",
+            "sentiment_compound": 0.4847
+        },
+        {
+            "id": "h06wn17",
+            "score": 1,
+            "text": "Aaannd it gone",
+            "title_similarity": "0.013937214",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06wn3h",
+            "score": 1,
+            "text": "Amazing drug -> sells at 4k a dose. \n\nThanks pharma",
+            "title_similarity": "0.45136854",
+            "sentiment_compound": 0.7717
+        },
+        {
+            "id": "h06wnsd",
+            "score": 1,
+            "text": "I hope they will push this through like the vaccines for the corona virus.",
+            "title_similarity": "0.63449144",
+            "sentiment_compound": 0.6597
+        },
+        {
+            "id": "h06woha",
+            "score": 1,
+            "text": "[Relevant xkcd](https://imgs.xkcd.com/comics/cells.png)",
+            "title_similarity": "0.18350592",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06wqcw",
+            "score": 1,
+            "text": "Oh cool the weekly cure for cancer well never hear about ever again ever",
+            "title_similarity": "0.5633328",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "h06wqgw",
+            "score": 1,
+            "text": "\nHey /u/cenuij,\n\n\nThis is now the top post on reddit. It will be recorded at /r/topofreddit with all the other top posts.",
+            "title_similarity": "0.38018364",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "h06wuuz",
+            "score": 1,
+            "text": "Healthcare for the rich; see Donald Trump & COVID case.",
+            "title_similarity": "0.4252881",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "h06x24w",
+            "score": 1,
+            "text": "remind me 10 years",
+            "title_similarity": "0.08849018",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06x66t",
+            "score": 1,
+            "text": "OK.... so like the covid-19 [which is just as deadly as cancer] vaccine, can we not rush this shit right to the shelves and just start popping every cancer patient with it?",
+            "title_similarity": "0.67675626",
+            "sentiment_compound": -0.9054
+        },
+        {
+            "id": "h06x9yt",
+            "score": 1,
+            "text": "I bet the pharmaceutical companies will pay those people to bury it and never hear about it again !\n\nI don't expect anything else in such a shitty world.",
+            "title_similarity": "0.55086",
+            "sentiment_compound": -0.6476
+        },
+        {
+            "id": "h06xaj3",
+            "score": 1,
+            "text": "can't wait to never hear about this again lol still hopeful though",
+            "title_similarity": "0.2712923",
+            "sentiment_compound": 0.7269
+        },
+        {
+            "id": "h06xbuu",
+            "score": 3,
+            "text": "It’s called GREY GOOSE",
+            "title_similarity": "0.029963903",
+            "sentiment_compound": 0.2342
+        },
+        {
+            "id": "h06xet7",
+            "score": 1,
+            "text": "eventually we will beat cancer or",
+            "title_similarity": "0.46909732",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h06xfa7",
+            "score": 1,
+            "text": "Is it just me or does a new miracle cancer curing experiment/study come out every week?",
+            "title_similarity": "0.48945946",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "h06xgte",
+            "score": 1,
+            "text": "Expect this to be purchased and buried very soon. Big pharma doesn't cure anything they only treat symptoms. No money in a cure.",
+            "title_similarity": "0.5116368",
+            "sentiment_compound": 0.128
+        },
+        {
+            "id": "h06xifu",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "-0.015737962"
+        },
+        {
+            "id": "h06y0g6",
+            "score": 1,
+            "text": "Big Pharma to the scientists: I diagnose you with dead",
+            "title_similarity": "0.50035983",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "h06ybh5",
+            "score": 1,
+            "text": "Alright, now to scroll through the comments to see why this won’t help anyone for 50 more years 😅",
+            "title_similarity": "0.37061635",
+            "sentiment_compound": 0.7564
+        },
+        {
+            "id": "h06yboz",
+            "score": 1,
+            "text": "Everytime they \"cure\" cancer, remember this. In a petri dish, a bullet cures cancer too.",
+            "title_similarity": "0.67069304",
+            "sentiment_compound": -0.8689
+        },
+        {
+            "id": "h06ydpv",
+            "score": 1,
+            "text": "That’s cool but will it defeat the Furries?",
+            "title_similarity": "0.3802545",
+            "sentiment_compound": -0.5187
+        },
+        {
+            "id": "h06yemc",
+            "score": 1,
+            "text": "Remember the Israeli scientist from little over a year ago that said he came up with a solution to cure cancer and it will be affordable and kills all types of cancer, yea what happened to that ?",
+            "title_similarity": "0.74444616",
+            "sentiment_compound": -0.9001
+        },
+        {
+            "id": "h06yf9d",
+            "score": 1,
+            "text": "You cannot cure general “cancer”... it takes many different forms and it would not be a one size fits all scenario. It’s fantasy.",
+            "title_similarity": "0.4046992",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06ygzc",
+            "score": 1,
+            "text": "I am legend scenario is getting closer",
+            "title_similarity": "0.089320555",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06yib9",
+            "score": 1,
+            "text": "Cool! (Never hears or sees anything about this ever again)",
+            "title_similarity": "0.2706815",
+            "sentiment_compound": 0.3802
+        },
+        {
+            "id": "h06ytjq",
+            "score": 1,
+            "text": "Good article but awful website.",
+            "title_similarity": "0.2667513",
+            "sentiment_compound": -0.4678
+        },
+        {
+            "id": "h06yyhg",
+            "score": 1,
+            "text": "Susan Komen about to shut this shit down.",
+            "title_similarity": "0.24997061",
+            "sentiment_compound": -0.6428
+        },
+        {
+            "id": "h06z1ks",
+            "score": 1,
+            "text": "Free for the rest of the world. Arm, leg and first born for the US.",
+            "title_similarity": "0.38220304",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "h06z881",
+            "score": 1,
+            "text": "Aaannnnd is gone.",
+            "title_similarity": "0.005068615",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06z9aq",
+            "score": 1,
+            "text": "I really hope they call it irn Brew",
+            "title_similarity": "0.3152687",
+            "sentiment_compound": 0.4927
+        },
+        {
+            "id": "h06z9sg",
+            "score": 1,
+            "text": "I mean great, but what are the odds we'll never hear about this again, much like with the majority of these breakthrough articles.",
+            "title_similarity": "0.39354098",
+            "sentiment_compound": 0.7003
+        },
+        {
+            "id": "h06za56",
+            "score": 1,
+            "text": "FINALLY SOME DAMN GOOD FORKING NEWS",
+            "title_similarity": "0.23940633",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "h06zbvv",
+            "score": 1,
+            "text": "I'm getting kind of tired of these articles. You hear things like this all the time. \"Miracle treatment successfully tested in a lab setting!\" And then you never hear about it ever again. It's breeding false hope.",
+            "title_similarity": "0.4792177",
+            "sentiment_compound": 0.859
+        },
+        {
+            "id": "h06zerf",
+            "score": 1,
+            "text": "Greeeeaaaat... sooooooo what's the problem with this which will prevent this from ever being used like every other 'cancer cures' ever invented?",
+            "title_similarity": "0.5440042",
+            "sentiment_compound": -0.6705
+        },
+        {
+            "id": "h06zhog",
+            "score": 1,
+            "text": "> The legend of the Trojan Horse in Greek mythology recounts the tale of Greek soldiers constructing a giant hollowed-out wooden horse in which they hid to gain access to the city of Troy, having pretended to desert the war.\n\n>The Trojans took the massive structure as a gift and ushered it inside the city walls, only for Greek warriors to emerge from inside and sack the city.\n\nImportant contextual information there.",
+            "title_similarity": "0.4473917",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "h06zx2h",
+            "score": 1,
+            "text": "Get this to fucking market",
+            "title_similarity": "0.12592357",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h06zz3j",
+            "score": 1,
+            "text": "Get them a Bucky, quick!",
+            "title_similarity": "0.10629246",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h070914",
+            "score": 1,
+            "text": "Thank you for sharing this!",
+            "title_similarity": "0.14074463",
+            "sentiment_compound": 0.68
+        },
+        {
+            "id": "h070jm9",
+            "score": 1,
+            "text": "Great, another clickbait to a site with full of ads!",
+            "title_similarity": "0.2570551",
+            "sentiment_compound": 0.6588
+        },
+        {
+            "id": "h070pvi",
+            "score": 7,
+            "text": "Ah the monthly cancer-is-cured articles are back",
+            "title_similarity": "0.41960174",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h070wp4",
+            "score": 1,
+            "text": "When does something like this hit the market? Before or after I die of cancer?",
+            "title_similarity": "0.49211976",
+            "sentiment_compound": -0.7998
+        },
+        {
+            "id": "h070x8e",
+            "score": 1,
+            "text": "And then we never say it or the scientists again",
+            "title_similarity": "0.2760443",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07111y",
+            "score": 1,
+            "text": "Looks promising, feel a bit better this morning reading this and I hope this works out for all of us.",
+            "title_similarity": "0.4068891",
+            "sentiment_compound": 0.8176
+        },
+        {
+            "id": "h0711j7",
+            "score": 1,
+            "text": "Karma",
+            "title_similarity": "-0.004022738",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h071jvy",
+            "score": 1,
+            "text": "Fantastic news, even if this is going to be some years out from human trials (assuming it works).  Should the drug be successful, I hope it is affordable and easily available (not just for people with deep pockets or health insurance).",
+            "title_similarity": "0.630535",
+            "sentiment_compound": 0.9136
+        },
+        {
+            "id": "h071uf4",
+            "score": 1,
+            "text": ">Scotland cures cancer\n\nThere'll be no living with us after this",
+            "title_similarity": "0.6318379",
+            "sentiment_compound": -0.765
+        },
+        {
+            "id": "h07200q",
+            "score": 1,
+            "text": "In the U.S., this'll probably wind up costing $10 million a dose. For...reasons.",
+            "title_similarity": "0.28628796",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07273o",
+            "score": 1,
+            "text": "Lots of things work great at a micro level.  That is, with nearby healthy cells.\n\nLots of those things go horribly wrong when introduced into organs.",
+            "title_similarity": "0.46172544",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "h07275g",
+            "score": 1,
+            "text": "big difference between kill and treat",
+            "title_similarity": "0.24535763",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "h0728z8",
+            "score": 26,
+            "text": "Genuine question, can someone help me understand how these articles happen so often but so little concrete actually seems to come afterwards? I feel like with the frequency of breakthroughs and the near infinite amount of money going towards research we should have cancer totally worked out by now",
+            "title_similarity": "0.6466502",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "h072aza",
+            "score": 2,
+            "text": "Final-fucking-ly! My grandma passed from cancer and I hope this is successful so no one else does, also, isn't Edinburgh a Scottish city in fh4 or am I wrong",
+            "title_similarity": "0.64287144",
+            "sentiment_compound": -0.607
+        },
+        {
+            "id": "h072c8i",
+            "score": 1,
+            "text": "Gives me hope",
+            "title_similarity": "0.109679885",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "h072ef1",
+            "score": 1,
+            "text": "Sounds like healthy cells will accidentally ingest the harmful drug as well...",
+            "title_similarity": "0.5972779",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "h072lm5",
+            "score": 1,
+            "text": "They already have the cure but cancer is big business. Never will come out.",
+            "title_similarity": "0.6227208",
+            "sentiment_compound": -0.7964
+        },
+        {
+            "id": "h072lvi",
+            "score": 1,
+            "text": "This should be international news.",
+            "title_similarity": "0.17795901",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h072miw",
+            "score": 1,
+            "text": "You always hear about these “cancer cures” since like 2005 but none of them have come to fruition",
+            "title_similarity": "0.5011591",
+            "sentiment_compound": 0.1901
+        },
+        {
+            "id": "h072qgl",
+            "score": 1,
+            "text": "In Vitro. Meaning this is one of those dozens of study reported every year which kill cancer cell in vivo, of which half a dozen that kills in a targeted way, but \\*may\\* pan out maybe in a decade or two. \n\nIOW mildly interesting but we'll see.",
+            "title_similarity": "0.558851",
+            "sentiment_compound": -0.5023
+        },
+        {
+            "id": "h072t34",
+            "score": 1,
+            "text": "The legend begins...",
+            "title_similarity": "0.03165991",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h072uzv",
+            "score": 1,
+            "text": "Has the prognosis for cancer actually got better in the last decade or two or are these constant stories just misrepresented in the press?",
+            "title_similarity": "0.54723144",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "h072vrq",
+            "score": 1,
+            "text": "Yall post an article like this every other week and then we never hear anything about it again",
+            "title_similarity": "0.26081842",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h072xnp",
+            "score": 1,
+            "text": "And this will be available to the general public never",
+            "title_similarity": "0.22649121",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07307e",
+            "score": 1,
+            "text": "Can't wait to get excited about it this and then never hear about it again",
+            "title_similarity": "0.2869032",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "h0732bg",
+            "score": 1,
+            "text": "And they were never seen or heard from again...",
+            "title_similarity": "0.14143315",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0734al",
+            "score": 1,
+            "text": "I hope to god this drug actually works.",
+            "title_similarity": "0.53737783",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "h0737j5",
+            "score": 1,
+            "text": "I am legend",
+            "title_similarity": "0.12088011",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0738eb",
+            "score": 2,
+            "text": "Wow, that's gotta be 526th cure for cancer of the past 2 years!",
+            "title_similarity": "0.5073182",
+            "sentiment_compound": -0.2244
+        },
+        {
+            "id": "h073ddu",
+            "score": 1,
+            "text": "Good.  Radiation hurts.  Bad.",
+            "title_similarity": "0.23613793",
+            "sentiment_compound": -0.5719
+        },
+        {
+            "id": "h073jm6",
+            "score": 1,
+            "text": "I hope this works out.\n\nLiving out in a time where they actually cured cancer sounds phenomenal.",
+            "title_similarity": "0.6995272",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "h073wu2",
+            "score": 1,
+            "text": "And like all other cancer curing things... We will never hear of this again.",
+            "title_similarity": "0.4510185",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "h0745cl",
+            "score": 2,
+            "text": "So of course this will never see the light of day",
+            "title_similarity": "0.14445806",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h074666",
+            "score": 1,
+            "text": "It’s kinda like when NASA has a big announcement and you get all excited that it’s alien life and it just turns out they found a really cool rock.\n\nI’ll get excited when someone actually gets cured from this treatment.",
+            "title_similarity": "0.58394825",
+            "sentiment_compound": 0.8225
+        },
+        {
+            "id": "h074esx",
+            "score": 1,
+            "text": "Uh oh... some scientists are about to get into a “car crash”",
+            "title_similarity": "0.40005004",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h074gvu",
+            "score": 1,
+            "text": "Less go",
+            "title_similarity": "0.0492198",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h074gyw",
+            "score": 1,
+            "text": "Keep these people safe please.",
+            "title_similarity": "0.14392352",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "h074ihn",
+            "score": 1,
+            "text": "According to Reddit this is probably like the 20th time we’ve found a new way to kill cancer but here we are still.",
+            "title_similarity": "0.6566844",
+            "sentiment_compound": -0.5859
+        },
+        {
+            "id": "h074inj",
+            "score": 1,
+            "text": "As someone who is likely do die from cancer given family history, this seems like bad news",
+            "title_similarity": "0.43381405",
+            "sentiment_compound": -0.8834
+        },
+        {
+            "id": "h074ixy",
+            "score": 1,
+            "text": "Soursop been doing this for ages",
+            "title_similarity": "0.06303075",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h074n66",
+            "score": 1,
+            "text": "Size doesn't really indicate much here, though. A grain of sand on a beach.",
+            "title_similarity": "0.14028598",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h074obm",
+            "score": 1,
+            "text": "This is kinda like hearing about the times scientists find new sustainable energy sources…hear about it once and never again. \n\nA small morsel of hope followed by “oh wait, they’ll never let us have this”. \n\nKnowing there’s been a cure a long time and having to watch my mom suffer with cancer right now is heartbreakingly infuriating.",
+            "title_similarity": "0.59573734",
+            "sentiment_compound": -0.8357
+        },
+        {
+            "id": "h074q9q",
+            "score": 1,
+            "text": "There is research like this ALL THE TIME. It’s the type of click bait articles that NewScientist magazine have every month. Reality: 99.99999% of all such research is never the “holy grail” it was hyped up to. Why? Usually in-vitro data looked promising but 99.9999% of time results do not translate to in-vivo results. Lack of bio-relevance to humans kills off a lot of studies too (works fantastic in dogs and rats though!). Although, some research is allowed to become overhyped for political reasons. E.g you’re a new professor trying to get tenured position at large state university.  You publish some super early preliminary results that would suggest you could cure cancer (if you ignore all the other aforementioned challenges), media teams get a whiff and publish/overhype/take completely out of context your work, but you’re not exactly going to correct anyone or say anything because all of a sudden your university is getting a lot of publicity and you just fast-tracked yourself to the front of the tenure line…..I could go on",
+            "title_similarity": "0.54877603",
+            "sentiment_compound": -0.6177
+        },
+        {
+            "id": "h074vv2",
+            "score": 1,
+            "text": "Been on Reddit for like 10 years now. This headline pops up at least 3 times per year and breaks the front page.",
+            "title_similarity": "0.298279",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h0752cy",
+            "score": 1,
+            "text": "I will accept my offer to study at Edinburgh university tommorow in so hyped !",
+            "title_similarity": "0.39779106",
+            "sentiment_compound": 0.4389
+        },
+        {
+            "id": "h075683",
+            "score": 1,
+            "text": "That is so surprising to know. I am so happy about that!",
+            "title_similarity": "0.17460239",
+            "sentiment_compound": 0.8305
+        },
+        {
+            "id": "h075eni",
+            "score": 1,
+            "text": "Hopefully it got good results!",
+            "title_similarity": "0.24991094",
+            "sentiment_compound": 0.7088
+        },
+        {
+            "id": "h075go7",
+            "score": 2,
+            "text": "I've seen too many headlines like this in my time. There's a catch. There's always a catch.",
+            "title_similarity": "0.1540371",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h075jv6",
+            "score": 3,
+            "text": "Another miracle cancer cure to be quickly forgotten...",
+            "title_similarity": "0.5289571",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "h075mu8",
+            "score": 2,
+            "text": "If you need something invented just wait and the scots will eventually make it.",
+            "title_similarity": "0.27078193",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h075oe6",
+            "score": 10,
+            "text": "“Cancer” isn’t a one size fits all disease lol. There’s no single cure",
+            "title_similarity": "0.42994955",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "h075pd8",
+            "score": 2,
+            "text": "Lol, good luck, there's too much money in the treatment, this'll never make it to shelf",
+            "title_similarity": "0.32246268",
+            "sentiment_compound": 0.8271
+        },
+        {
+            "id": "h075zck",
+            "score": 1,
+            "text": "Yay. Now big pharma can bury the research so they can keep ppl sick to make billions off drugs that kill all your cells rather than just the cancerous ones. Wouldn’t be surprised if this has already been discovered in some pharma lab.",
+            "title_similarity": "0.6615993",
+            "sentiment_compound": -0.5719
+        },
+        {
+            "id": "h0762kr",
+            "score": 1,
+            "text": "Shit bro that’s really good !",
+            "title_similarity": "0.10989761",
+            "sentiment_compound": -0.1776
+        },
+        {
+            "id": "h0767zr",
+            "score": 1,
+            "text": "Best News in years. Feels good.",
+            "title_similarity": "0.27016264",
+            "sentiment_compound": 0.7964
+        },
+        {
+            "id": "h0768ce",
+            "score": 1,
+            "text": "Fantastic!!! Another cure for rat/mouse/zebra fish cancer. Let me know when it works on humans.",
+            "title_similarity": "0.62207484",
+            "sentiment_compound": -0.3971
+        },
+        {
+            "id": "h076dvd",
+            "score": 1,
+            "text": ":",
+            "title_similarity": "-0.14631054",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h076fgy",
+            "score": 1,
+            "text": "this is great news!",
+            "title_similarity": "0.13354911",
+            "sentiment_compound": 0.6588
+        },
+        {
+            "id": "h076gzs",
+            "score": 2,
+            "text": "Oh hey a really promising-sounding cancer thing. In no way am I never going to hear about this ever again.",
+            "title_similarity": "0.5141112",
+            "sentiment_compound": -0.7832
+        },
+        {
+            "id": "h076hq8",
+            "score": 1,
+            "text": "We can finally get rid of /b/",
+            "title_similarity": "0.31929645",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h076krh",
+            "score": 1,
+            "text": "Do you want darkseekers? Cause this is how you get darkseekers.",
+            "title_similarity": "0.21048793",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "h076mku",
+            "score": 1,
+            "text": "This is poggers",
+            "title_similarity": "-0.029938063",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h076nyd",
+            "score": 1,
+            "text": "👏",
+            "title_similarity": "-0.1485849",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h076oor",
+            "score": 1,
+            "text": "Ladies and Gentlemen...\n\nWe got ‘em.",
+            "title_similarity": "0.07523412",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h076p6n",
+            "score": 1,
+            "text": "wow",
+            "title_similarity": "-0.13941509",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "h076u5t",
+            "score": 1,
+            "text": "They have to shine light on the cancer cells? Seems like mRNA cancer vaccines are more likely to be useful as they don't have this requirement.",
+            "title_similarity": "0.71502215",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h076um9",
+            "score": 1,
+            "text": "Don't let america get their hands on it. They'll make it way too expensive.",
+            "title_similarity": "0.27969837",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h076wdc",
+            "score": 2,
+            "text": "Nice. Cancer is cured for the 100th time",
+            "title_similarity": "0.51685953",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "h076yyh",
+            "score": 2,
+            "text": "This headline sounds so ridiculously over the top and naively optimistic that I thought this was /r/futurology for a moment",
+            "title_similarity": "0.33201656",
+            "sentiment_compound": -0.0042
+        },
+        {
+            "id": "h07727f",
+            "score": 1,
+            "text": "Rich people will appreciate this one day while the rest of us sicken and die",
+            "title_similarity": "0.3881604",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "h0772zy",
+            "score": 1,
+            "text": "So how long till that research is bought and buried in favor of the cancer cash machine?",
+            "title_similarity": "0.54976356",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "h07749b",
+            "score": 1,
+            "text": "Will this work on League of Legends or?",
+            "title_similarity": "0.26492792",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0775jh",
+            "score": 1,
+            "text": "I hear countless studies done like this and nothing comes of it. Impress me when it becomes an actual solution to cancer",
+            "title_similarity": "0.6330574",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "h077c55",
+            "score": 1,
+            "text": "The cancer treatment industry makes billions every year from lengthy cancer treatments. They will fight or buy anyone who wants to put out a cure for cancer.",
+            "title_similarity": "0.5661748",
+            "sentiment_compound": -0.9501
+        },
+        {
+            "id": "h077eai",
+            "score": 1,
+            "text": "I’ve seen this headline 67284 times yet cancer is still prevalent",
+            "title_similarity": "0.41623938",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h077ew9",
+            "score": 1,
+            "text": "I read posts like this once a week in reddit in r/futurology. It's the first time I see one in r/worldnews",
+            "title_similarity": "0.28443742",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h077j72",
+            "score": 1,
+            "text": "Fuck Cancer.",
+            "title_similarity": "0.3034492",
+            "sentiment_compound": -0.836
+        },
+        {
+            "id": "h077m1h",
+            "score": 1,
+            "text": "kikadult-xyz.ru",
+            "title_similarity": "0.03573877",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h077uhe",
+            "score": 1,
+            "text": "This is one of those things that sounds awesome then we never hear about it again.",
+            "title_similarity": "0.31297547",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "h077yme",
+            "score": 1,
+            "text": "Isn't there a huge market on keeping chemo and other current systems in place because they can change a fuck ton of money for them? I mean I've read a few ideas coming out of Scotland about advances in cancer treatment but none of them seem to take root, the following thing is \"hey I'm cancer free!\" But you'll never get out from under the debt.",
+            "title_similarity": "0.65899605",
+            "sentiment_compound": -0.8915
+        },
+        {
+            "id": "h077zfe",
+            "score": 1,
+            "text": "kikadult-xzy.ru Hello friends",
+            "title_similarity": "0.18929622",
+            "sentiment_compound": 0.4767
+        },
+        {
+            "id": "h0784sf",
+            "score": 2,
+            "text": "They’ll be dead soon.",
+            "title_similarity": "0.1752907",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "h0788zp",
+            "score": 1,
+            "text": "Big Pharma will see this goes no further.",
+            "title_similarity": "0.36004984",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "h0789fz",
+            "score": 1,
+            "text": "Is it just me, or do we cure cancer like every six months?",
+            "title_similarity": "0.5232271",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "h078ald",
+            "score": 1,
+            "text": "How long until the government shuts this down?",
+            "title_similarity": "0.29722533",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h078bpb",
+            "score": 1,
+            "text": "If they cure cancer who is going to buy treatment drugs?\nSounds to profitable to eradicate, like diabetes.",
+            "title_similarity": "0.7323987",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h078cb7",
+            "score": 1,
+            "text": "Annnnnnnnnnnnnnnnnnnnnnnnnnnnd nothing comes of it.",
+            "title_similarity": "0.08999094",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h078fkh",
+            "score": 1,
+            "text": "I've been seeing articles about advanced cancer killing methods for over a decade now, yet it seems like these methods always just never end up being widely adopted. Why?",
+            "title_similarity": "0.47458532",
+            "sentiment_compound": -0.743
+        },
+        {
+            "id": "h078kpl",
+            "score": 2,
+            "text": "Let's invest before the hedge funds short it.",
+            "title_similarity": "0.32374313",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h078m8r",
+            "score": 1,
+            "text": "🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+            "title_similarity": "-0.14858489",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h078our",
+            "score": 1,
+            "text": "I can't keep up; is this last week's reddit miracle cancer cure, or is this this weeks",
+            "title_similarity": "0.47375607",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "h078sfi",
+            "score": 1,
+            "text": "This will never happen because oncologists make tons of money on chemotherapy drugs. Chemotherapy are the only drugs that do not require a prescription through a third party, the pharmacist. The oncologist prescribes, administers, monitors, and creates their own profit mark up of the cost.  There are no checks and balances. Unfortunately this alone will stop any cure for cancer.",
+            "title_similarity": "0.6276482",
+            "sentiment_compound": -0.6956
+        },
+        {
+            "id": "h07908q",
+            "score": 1,
+            "text": "Alright now someone explain why this isn't going to save anyone's life in the next ten years.",
+            "title_similarity": "0.40477026",
+            "sentiment_compound": -0.1601
+        },
+        {
+            "id": "h079an8",
+            "score": 1,
+            "text": "Someone protect these scientists before they and their inventions mysteriously disappear just like every other Cancer cure we've read about in the past",
+            "title_similarity": "0.7322084",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "h079oip",
+            "score": 1,
+            "text": "Big Pharma (at least in the US) won’t let this happen. Cancer is a big money maker. I mean, Cuba has a lung cancer vaccine.",
+            "title_similarity": "0.5526932",
+            "sentiment_compound": -0.8689
+        },
+        {
+            "id": "h079sxo",
+            "score": 1,
+            "text": "It will never be released ... only for the elites",
+            "title_similarity": "0.22355303",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07a7xv",
+            "score": 1,
+            "text": "This is key guys\n\n>SeNBD is also a light-activated photosensitiser, meaning it kills cells only after it is turned on by visible light.  \n>  \n>This means a surgeon can precisely decide when they want to activate the drug, reducing the chances of it destroying healthy tissues and avoiding side-effects like hair loss caused by other anti-cancer agents, said the university.\n\nWhat this entails is that the cancerous cells need to be fixed in a spot and with known locations (meaning not in the blood stream). This is not as simple as ingesting it and then it only targeting mutated cells. This drug is also taken up by normal cells but to a lesser degree since they require metabolites less than cancerous cells.",
+            "title_similarity": "0.7461554",
+            "sentiment_compound": -0.4118
+        },
+        {
+            "id": "h07afbb",
+            "score": 1,
+            "text": "It'll be forgotten tomorrow, I've seen cancer breakthroughs over the past 30 years, then just disappear",
+            "title_similarity": "0.48948467",
+            "sentiment_compound": -0.802
+        },
+        {
+            "id": "h07agqd",
+            "score": 1,
+            "text": "In other news, entire University of Edinburgh staff simultaneously commit suicide as lab mysteriously catches fire across town.",
+            "title_similarity": "0.41884747",
+            "sentiment_compound": -0.6908
+        },
+        {
+            "id": "h07al1a",
+            "score": 1,
+            "text": "My dad survived and overcame cancer but died due to the outbreak.",
+            "title_similarity": "0.60089505",
+            "sentiment_compound": -0.7543
+        },
+        {
+            "id": "h07atl0",
+            "score": 1,
+            "text": "How many times have we heard of this and never see anything of it after?",
+            "title_similarity": "0.13526571",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07avgh",
+            "score": 2,
+            "text": "Can't wait to never hear about this again",
+            "title_similarity": "0.20131247",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07awly",
+            "score": 1,
+            "text": "This is very unlikely to work. Cancer is not one disease but a type. It's unlikely that we  will ever have a one size fits all cancer treatment.",
+            "title_similarity": "0.5077732",
+            "sentiment_compound": -0.8689
+        },
+        {
+            "id": "h07b489",
+            "score": 1,
+            "text": "For over a dozen years my dad used to spend more than $40k/month without insurance on my mom's cancer.\n\nWe live in a poor country in South East Asia.\n\nWish she was born a decade later so she could avail of this drug that kills cancer without harming healthy cells.\n\nLife would be superior with her in it. She was taken at a young age of 60.",
+            "title_similarity": "0.55432343",
+            "sentiment_compound": -0.8602
+        },
+        {
+            "id": "h07b87q",
+            "score": 5,
+            "text": "As someone who lives with the illness, articles like these offer some hope. Although it’s unlikely that this breakthrough will make much difference to me. I’ve been told my type of cancer is incurable at my stage but still treatable. My specialist believes that from the treatments filtering through trials in recent years that my prognosis could be anywhere up to ten years or even more, which he feels is very good as he told me that if I had what I have 10-15 years ago I’d be looking at maybe 12-18 months tops.\n\nSo with the mountain of work going on behind the scenes, I am hopeful that effective treatments continue to emerge and maybe I could live with it indefinitely before something else unrelated steals me off of this mortal coil.",
+            "title_similarity": "0.65616316",
+            "sentiment_compound": 0.9192
+        },
+        {
+            "id": "h07bh1r",
+            "score": 1,
+            "text": "Cancer will never be cured. It is too profitable.",
+            "title_similarity": "0.48877776",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "h07bkje",
+            "score": 1,
+            "text": "They gonna get killed for finding this",
+            "title_similarity": "0.3181224",
+            "sentiment_compound": -0.6705
+        },
+        {
+            "id": "h07bx5o",
+            "score": 1,
+            "text": "Does it pass through the blood brain barrier?",
+            "title_similarity": "0.2532423",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "h07byt5",
+            "score": 1,
+            "text": "Dr. Sebi been had that cure🤷🏽‍♂️hell like 10 different cures",
+            "title_similarity": "0.3323324",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h07c6kl",
+            "score": 1,
+            "text": "and was never heard from again",
+            "title_similarity": "0.1167402",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07cfs0",
+            "score": 2,
+            "text": "Pfizer will buy patent and this will disappear. Don’t get your hopes up",
+            "title_similarity": "0.44718456",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "h07ci7y",
+            "score": 1,
+            "text": "This is how many post-apocaliptic movies start from ngl",
+            "title_similarity": "0.13106535",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07cin7",
+            "score": 1,
+            "text": "Active viruses, this, other promising cures. Why are people still dying doing cemo and radiation?",
+            "title_similarity": "0.6546889",
+            "sentiment_compound": 0.6597
+        },
+        {
+            "id": "h07ckyn",
+            "score": 1,
+            "text": "Okay I'll be the greedy asshole, how do I make money off this... any pharma stock with connections to this?",
+            "title_similarity": "0.45620906",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "h07co26",
+            "score": 1,
+            "text": "Great, now let them work on the common cold.",
+            "title_similarity": "0.2727151",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "h07crh4",
+            "score": 1,
+            "text": "It was a Scotsman who invented penicillin so why not.. I really hope so because cancer is such a bitch",
+            "title_similarity": "0.6414399",
+            "sentiment_compound": -0.9022
+        },
+        {
+            "id": "h07cxow",
+            "score": 1,
+            "text": "That's good cause clicking on that link gave my phone cancer",
+            "title_similarity": "0.60929304",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "h07cxpp",
+            "score": 1,
+            "text": "I'd like to take this moment to say Fuck Cancer.",
+            "title_similarity": "0.4073733",
+            "sentiment_compound": -0.7506
+        },
+        {
+            "id": "h07d02k",
+            "score": 2,
+            "text": "\"If it's not Scottish, it's crap!\"  \n\\- Mike Meyers",
+            "title_similarity": "0.21917523",
+            "sentiment_compound": 0.3561
+        },
+        {
+            "id": "h07d4xl",
+            "score": 1,
+            "text": "so we have the cure for cancer then. so why don’t we distribute this to every cancer patient alive?",
+            "title_similarity": "0.70951974",
+            "sentiment_compound": -0.802
+        },
+        {
+            "id": "h07deqk",
+            "score": 1,
+            "text": "Great news for the zebrafish. I'll temper my excitement for the inevitable black hole of actual progress for humans.",
+            "title_similarity": "0.4341512",
+            "sentiment_compound": 0.8074
+        },
+        {
+            "id": "h07dops",
+            "score": 1,
+            "text": "Until the medicine and government companies investigate, make something up and we don't hear about it again. 😒 Well done 👏 scientists though!",
+            "title_similarity": "0.62509745",
+            "sentiment_compound": 0.3382
+        },
+        {
+            "id": "h07dsj7",
+            "score": 1,
+            "text": "There's alot of things that can do this, the issue is that small doses are enough to kill humans",
+            "title_similarity": "0.46258056",
+            "sentiment_compound": -0.6908
+        },
+        {
+            "id": "h07dvp8",
+            "score": 1,
+            "text": "Breaking News update: University of Edinburgh scientists found dead in mass suicide",
+            "title_similarity": "0.49968344",
+            "sentiment_compound": -0.8689
+        },
+        {
+            "id": "h07dzfe",
+            "score": 3,
+            "text": "Wherever I hear the blanket term \"cancer\", I cringe inside. Cancer is not a single solitary disease. Hell, even a type of cancer, for example, \"breast cancer\" isn't a single disease. Which breast cancer? HER2/neu? BRCA1? Ductal cell? \n\nThe problem with cancer is that it is \"you\". How do you kill \"you\" without killing you has been a conundrum for a long time. We have to exploit differences between cancer cells and normal tissue in order to have targeted therapy. A magic bullet that can differentiate between all types of cancer and normal tissue is the holy Grail of medicine and just as likely to be found.",
+            "title_similarity": "0.6446719",
+            "sentiment_compound": -0.9939
+        },
+        {
+            "id": "h07e1fe",
+            "score": 1,
+            "text": "Waiting for U.S/big Pharma to come in in 3…2…1…",
+            "title_similarity": "0.30599317",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07ea2l",
+            "score": 1,
+            "text": "Here’s hoping this goes well with further testing",
+            "title_similarity": "0.4330347",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "h07ecsy",
+            "score": 1,
+            "text": "Let me guess… the scientist will commit suicide very soon. 🤔",
+            "title_similarity": "0.44596982",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "h07edgf",
+            "score": 1,
+            "text": "yawn, we're never gonna hear of this again like all the others",
+            "title_similarity": "0.18017624",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h07eyp5",
+            "score": 1,
+            "text": "You have to love recycling",
+            "title_similarity": "0.28157413",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "h07f8iq",
+            "score": 1,
+            "text": "The very rich will be happy that their cancer can be treated this way",
+            "title_similarity": "0.58155864",
+            "sentiment_compound": 0.4927
+        },
+        {
+            "id": "h07fb7s",
+            "score": 1,
+            "text": "Oh the places you’ll go when provided the resources.",
+            "title_similarity": "0.07286036",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07fc11",
+            "score": 1,
+            "text": "How long will it be before all the scientists that worked on this project go missing?",
+            "title_similarity": "0.38654387",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "h07fk0u",
+            "score": 1,
+            "text": "PLEASE let this be the final nail in the coffin. The world can be as shitty as it wants, but without cancer it would be 90% better. Fuck cancer.",
+            "title_similarity": "0.5283496",
+            "sentiment_compound": -0.5438
+        },
+        {
+            "id": "h07frn9",
+            "score": 1,
+            "text": "Amen. Thank you for sharing hope with us all.",
+            "title_similarity": "0.22635871",
+            "sentiment_compound": 0.802
+        },
+        {
+            "id": "h07frpy",
+            "score": 1,
+            "text": "https://t.me/joinchat/zcBe4-_Acw84YWNk",
+            "title_similarity": "0.08602749",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07fuyc",
+            "score": 1,
+            "text": "Activating it with light seems a tough issue too.  It wouldn't be good for cancer that had spread, but the article does point out it is good for early detected cases.",
+            "title_similarity": "0.62209153",
+            "sentiment_compound": 0.0508
+        },
+        {
+            "id": "h07fvdi",
+            "score": 2,
+            "text": "And then we will never hear anything about this again…..",
+            "title_similarity": "0.1591454",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07g043",
+            "score": 1,
+            "text": "As I’m not entirely sure which is worse to be honest.",
+            "title_similarity": "0.103362344",
+            "sentiment_compound": -0.245
+        },
+        {
+            "id": "h07g187",
+            "score": 2,
+            "text": "Man I hope I’m around to witness man crack cancer. Cancer took my Dad last summer and I remember the two of us talking about how man + science would someday defeat it. I’m 42 now and hope I’m alive to see this achievement for humanity.",
+            "title_similarity": "0.61339474",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h07gg6k",
+            "score": 2,
+            "text": "Amazing discovery. I just hope large medical firms don’t try to hide this away so they can continue to make money off of cancer patients.",
+            "title_similarity": "0.6631829",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "h07gk5a",
+            "score": 2,
+            "text": "I think I saw this movie....:: will smith will save us!",
+            "title_similarity": "0.40131074",
+            "sentiment_compound": 0.5411
+        },
+        {
+            "id": "h07gqel",
+            "score": 2,
+            "text": "I see some breaking cure for cancer every 2-3 months.",
+            "title_similarity": "0.44963753",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h07gs8a",
+            "score": 1,
+            "text": "make this shit viral so this news doesn’t just disappear into nothingness, like so many other previous new cancer studies",
+            "title_similarity": "0.6948836",
+            "sentiment_compound": -0.8126
+        },
+        {
+            "id": "h07gu46",
+            "score": 1,
+            "text": "That'll be $10,000,000. How much is your life really worth too you?",
+            "title_similarity": "0.29847616",
+            "sentiment_compound": 0.2944
+        },
+        {
+            "id": "h07h76b",
+            "score": 2,
+            "text": "Watch this be the last time you hear of this.",
+            "title_similarity": "0.14478005",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07hcr6",
+            "score": 5,
+            "text": "I swear I’ve read this exact headline every week for the past 15 years.",
+            "title_similarity": "0.19581091",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "h07i1w9",
+            "score": 2,
+            "text": "Successfully tested but was the test successful?",
+            "title_similarity": "0.4091005",
+            "sentiment_compound": 0.8074
+        },
+        {
+            "id": "h07i9hc",
+            "score": 1,
+            "text": "We need to put this on the front of Reddit",
+            "title_similarity": "0.25811428",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07iang",
+            "score": 3,
+            "text": "Hope they don't sellout to big pharma and get stopped in the name of big money",
+            "title_similarity": "0.46780947",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "h07ilz0",
+            "score": 1,
+            "text": "Drugs are good, mkay",
+            "title_similarity": "0.3628434",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "h07isg2",
+            "score": 2,
+            "text": "Is anyone else getting a vibe of the beginning of \"I am legend?\" That started with a cure for cancer lol.",
+            "title_similarity": "0.64141953",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "h07iz46",
+            "score": 1,
+            "text": "Fucking awesome",
+            "title_similarity": "0.082157135",
+            "sentiment_compound": 0.659
+        },
+        {
+            "id": "h07j6j7",
+            "score": 5,
+            "text": "How many times will humanity cure cancer before humanity has a cure for cancer? That’s what I want to know",
+            "title_similarity": "0.6467656",
+            "sentiment_compound": -0.8591
+        },
+        {
+            "id": "h07k38k",
+            "score": 1,
+            "text": "What kind of cancer?",
+            "title_similarity": "0.39792675",
+            "sentiment_compound": -0.6901
+        },
+        {
+            "id": "h07k9if",
+            "score": 1,
+            "text": "Hopefully this amounts to something, Ive read too many articles with huge revelations that never come to fruition",
+            "title_similarity": "0.254129",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "h07kbg2",
+            "score": 1,
+            "text": "Scotland being amazing AGAIN",
+            "title_similarity": "0.2527937",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "h07l077",
+            "score": 1,
+            "text": "We won't see this (potential cure) for another 100 years.",
+            "title_similarity": "0.34695148",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07l3ae",
+            "score": 1,
+            "text": ">SeNBD is also a light-activated photosensitiser, meaning it kills cells only after it is turned on by visible light.\n\nAnd if this fails spectacularly the test subjects will have their skin start killing itself the moment they walk outside.",
+            "title_similarity": "0.64784944",
+            "sentiment_compound": -0.9032
+        },
+        {
+            "id": "h07l6y9",
+            "score": 1,
+            "text": "Please don't let this be a scam like that lab company theranos.",
+            "title_similarity": "0.4384184",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "h07lh6j",
+            "score": 1,
+            "text": "And people say the world is only getting worse. It is but it's getting a little better too.",
+            "title_similarity": "0.34630388",
+            "sentiment_compound": 0.3314
+        },
+        {
+            "id": "h07m8b4",
+            "score": 1,
+            "text": "Uh oh. \nI bet some scientists will go missing mysteriously very soon. \nLock the doors!",
+            "title_similarity": "0.40823936",
+            "sentiment_compound": -0.3595
+        },
+        {
+            "id": "h07md7o",
+            "score": 2,
+            "text": "Better get them people safe before the US healthcare system gets ahold of them.",
+            "title_similarity": "0.5149513",
+            "sentiment_compound": 0.7003
+        },
+        {
+            "id": "h07mkj3",
+            "score": 2,
+            "text": "And I’ll never hear about it again.",
+            "title_similarity": "0.122646816",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07ml62",
+            "score": 2,
+            "text": "Then we never heard of this again",
+            "title_similarity": "0.11766376",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07msmp",
+            "score": 2,
+            "text": "Too late. :(",
+            "title_similarity": "0.020114848",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "h07mzjz",
+            "score": 2,
+            "text": "Something comes up every 2 years saying “we found a way to kill cancer cells without damaging nearby cells!” then disappears entirely the next week. I’m all for funding researchers and doctors trying to find solutions like this, but they (or more importantly, the media) need to stop hyping it up too early",
+            "title_similarity": "0.6264305",
+            "sentiment_compound": -0.4591
+        },
+        {
+            "id": "h07n581",
+            "score": 1,
+            "text": "I Am Legend shit",
+            "title_similarity": "0.1067854",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "h07nhti",
+            "score": 2,
+            "text": "Sounds cool but last time I heard about something like this it was an attempted treatment that, unfortunately, once what it was meant to go after was gone it started attacking nearby healthy tissue. If they can stop it from killing healthy tissue that would be amazing",
+            "title_similarity": "0.7154074",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "h07nnoq",
+            "score": 2,
+            "text": "!Remindme 20 years",
+            "title_similarity": "0.10356179",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07npnq",
+            "score": 3,
+            "text": "Doesn't this happen like twice a year?",
+            "title_similarity": "0.04067145",
+            "sentiment_compound": -0.2755
+        },
+        {
+            "id": "h07nrue",
+            "score": 2,
+            "text": "A year too late. Rest In Peace dad....",
+            "title_similarity": "0.20948566",
+            "sentiment_compound": 0.5423
+        },
+        {
+            "id": "h07ny1q",
+            "score": 1,
+            "text": "so we just found a cure to cancer is that what is happening?",
+            "title_similarity": "0.6952809",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h07o73r",
+            "score": 1,
+            "text": "Is this it?",
+            "title_similarity": "-0.11345455",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07o8or",
+            "score": 1,
+            "text": "I wish this were around a few months ago",
+            "title_similarity": "0.19576319",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "h07o8pd",
+            "score": 1,
+            "text": "Just eat healthy",
+            "title_similarity": "0.20203424",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "h07ohp0",
+            "score": 1,
+            "text": "They cure cancer every day it seems. In labs.",
+            "title_similarity": "0.60211277",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h07on4u",
+            "score": 2,
+            "text": "But we will never actually see it. No way a cure for cancer will ever be made when there's money to be made in letting people die slowly.",
+            "title_similarity": "0.5053856",
+            "sentiment_compound": -0.9455
+        },
+        {
+            "id": "h07oofd",
+            "score": 2,
+            "text": "We hear claims like this all the time, so we don't want to get too excited, but gosh is this giving me hope",
+            "title_similarity": "0.33329067",
+            "sentiment_compound": 0.8652
+        },
+        {
+            "id": "h07orzh",
+            "score": 1,
+            "text": "Isn’t this how the movie I Am Legend started?",
+            "title_similarity": "0.24880558",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07oyar",
+            "score": 2,
+            "text": "If only this had come earlier...",
+            "title_similarity": "0.05898867",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07p6gh",
+            "score": 1,
+            "text": "Scotland really has a lot of good scientists!",
+            "title_similarity": "0.46328387",
+            "sentiment_compound": 0.4926
+        },
+        {
+            "id": "h07pabp",
+            "score": 2,
+            "text": "Too bad lower class won’t have access to it.",
+            "title_similarity": "0.2046445",
+            "sentiment_compound": -0.6908
+        },
+        {
+            "id": "h07pj44",
+            "score": 1,
+            "text": "Ohh looks at what's going to disappear again because it only applies to like one very special condition and can't de used for other types of cancer.",
+            "title_similarity": "0.58077157",
+            "sentiment_compound": -0.204
+        },
+        {
+            "id": "h07qe99",
+            "score": 1,
+            "text": "Why cant we fast track this like covid vaxes?  I keep hearing about all tbese miracle cancer treatments and here we are still pumpin chemo meds from the 70s.",
+            "title_similarity": "0.51704276",
+            "sentiment_compound": 0.3127
+        },
+        {
+            "id": "h07qpwu",
+            "score": 1,
+            "text": "Just remember “I am legend “ everyone.",
+            "title_similarity": "0.19181716",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07qqkd",
+            "score": 1,
+            "text": "Aaaannnnnnddddd, it's gone!\n\nCan't have something that'll stop the money flow of cancer treatment.",
+            "title_similarity": "0.5796576",
+            "sentiment_compound": -0.784
+        },
+        {
+            "id": "h07r3pg",
+            "score": 1,
+            "text": "You guys ever seen the movie I Am Legend?",
+            "title_similarity": "0.28883377",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07rb1u",
+            "score": 3,
+            "text": "can we put a sticky on this pr something, so it won’t disappear from BS news.",
+            "title_similarity": "0.51891506",
+            "sentiment_compound": -0.2878
+        },
+        {
+            "id": "h07rcig",
+            "score": 5,
+            "text": "It’s amazing how many cures for cancer are developed  every year, and still how many family and friends die of cancer.",
+            "title_similarity": "0.5762559",
+            "sentiment_compound": -0.7783
+        },
+        {
+            "id": "h07s4et",
+            "score": 2,
+            "text": "Or it was a rapid test that was wrong",
+            "title_similarity": "0.16034001",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "h07s8ad",
+            "score": 2,
+            "text": "In this episode of things, you'll never hear from again:",
+            "title_similarity": "0.13600844",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07sdex",
+            "score": 2,
+            "text": "I wonder what date will be written in the history books of the future that mankind officially cured cancer once and for all...",
+            "title_similarity": "0.632654",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h07t3sy",
+            "score": 1,
+            "text": "maybe that would’ve been BIDMC if they didn’t blow all their money on long ass sob ads",
+            "title_similarity": "0.42031687",
+            "sentiment_compound": -0.6705
+        },
+        {
+            "id": "h07t95q",
+            "score": 1,
+            "text": "Every year the same \"magic cancer drug\" news since 30 years. And then you never ever hear anything about it. Until the next \"magic cancer drug\" news the following year.",
+            "title_similarity": "0.47292",
+            "sentiment_compound": -0.8689
+        },
+        {
+            "id": "h07t9b3",
+            "score": 1,
+            "text": "Will this be widely available for those who are in the need? Or will the price be only for the rich? Of course let’s see if this will come out on the market",
+            "title_similarity": "0.25604135",
+            "sentiment_compound": 0.6072
+        },
+        {
+            "id": "h07tdpv",
+            "score": 1,
+            "text": "They cure cancer every day on the internet ✌️",
+            "title_similarity": "0.53626555",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h07tkzn",
+            "score": 1,
+            "text": "If this works then all of sudden these scientists tend to disappear i wonder why that is.",
+            "title_similarity": "0.37734187",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "h07tqwq",
+            "score": 1,
+            "text": "Covid19 vaccine speed shows that we should not have to wait a long time for approvals as we do. After all, cancer deaths are much higher than covid.",
+            "title_similarity": "0.65315837",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h07tuu6",
+            "score": 1,
+            "text": "In other news scientists found with gunshots to back of head. Death declared an obvious suicide with nothing else to see",
+            "title_similarity": "0.5194903",
+            "sentiment_compound": -0.8555
+        },
+        {
+            "id": "h07txzj",
+            "score": 1,
+            "text": "Please don’t disappear into obscurity",
+            "title_similarity": "0.13344815",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "h07uejv",
+            "score": 1,
+            "text": "inb4 nothing ever comes of this.",
+            "title_similarity": "0.12297982",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07uzm8",
+            "score": 1,
+            "text": "I remember a study/experiment that did the same around 2009. \n\nThe scientists injected nano size shards of dissolvable metal into the mass/tumor... then they motioned a magnet around the exterior area the the body where the tumor was - slicing the mass to bits... they then vacuumed out the remnants with a needle sized vacuum.\n\nAfter removing most of the tumor material, the rest was easily taken care of with light chemo.  \n\nThey didn’t cure it completely, but set it back months/years of growth to allow early stage treatment in an otherwise late stage development. \n\nThen... The lab’s funding was pulled, 9 of the 11 oncologists working the study committed suicide, and all traces of the study - including their peer review publications where deleted from the internet. \n\nI don’t know about the other 2 scientists since the  - my information is memory from 12 or so years ago.",
+            "title_similarity": "0.68078357",
+            "sentiment_compound": -0.222
+        },
+        {
+            "id": "h07v9hs",
+            "score": 1,
+            "text": "American health care industry:\n\n*sweats*",
+            "title_similarity": "0.32063925",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "h07vewi",
+            "score": 1,
+            "text": "As I currently sit here in the lobby of the hospital that  my dad is getting surgery for the removal of his Kidney due to Cancer all I want to say is please make it inexpensive and easily available for all who need it.",
+            "title_similarity": "0.5704301",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "h07vmas",
+            "score": 1,
+            "text": "ah yes, the 150th cure for cancer",
+            "title_similarity": "0.5384158",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "h07vnxw",
+            "score": 1,
+            "text": "Not to be the pessimistic one but guaranteed we won’t see this getting to the actual world just like all the other amazing trials out of MIT and John’s Hopkins that came out like 4/5 years ago. \n\nAll these amazing advancements and yet… how much has changed in the way we treat cancer in the past 5-7 years. \n\nI mean that as an actual question if anyone knows the answer?",
+            "title_similarity": "0.63093054",
+            "sentiment_compound": 0.9274
+        },
+        {
+            "id": "h07vqjv",
+            "score": 1,
+            "text": "Idk. Sounds a little I Am Legend-ish to me.",
+            "title_similarity": "0.20783846",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "h07w5h2",
+            "score": 1,
+            "text": "How long until this is forgotten",
+            "title_similarity": "0.04676932",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "h07we6q",
+            "score": 1,
+            "text": "Been hearing stuff like this for years. Wake me up when its in trials",
+            "title_similarity": "0.14258933",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h07wkwc",
+            "score": 1,
+            "text": "Ah, the daily Reddit cancer cure",
+            "title_similarity": "0.5569988",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h07wm3q",
+            "score": 1,
+            "text": "Can't wait to never hear about it again",
+            "title_similarity": "0.19056088",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07wsln",
+            "score": 1,
+            "text": "We've cured cancer for the 258th time",
+            "title_similarity": "0.5292838",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h07x67d",
+            "score": 1,
+            "text": "It’s Ironic I see this when my aunt dies from Breast Cancer",
+            "title_similarity": "0.472004",
+            "sentiment_compound": -0.7096
+        },
+        {
+            "id": "h07xck1",
+            "score": 1,
+            "text": "Anybody wanna take the bet on how soon it'll disappear from public view?",
+            "title_similarity": "0.28986347",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "h07xjbg",
+            "score": 1,
+            "text": "This is how I Am Legend started, in the movie.",
+            "title_similarity": "0.23931819",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07xkrw",
+            "score": 1,
+            "text": "Now they just need to find how low of a dose will help treat but not accidently cure it so they can market it for %1,000,000 of production costs for the life of the \"customer\"",
+            "title_similarity": "0.6019223",
+            "sentiment_compound": 0.2846
+        },
+        {
+            "id": "h07xpc6",
+            "score": 1,
+            "text": "These are real heros",
+            "title_similarity": "0.22170617",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "h07xrac",
+            "score": 3,
+            "text": "A great triumph for zebrafish across the globe.\n\nSoon, they will be able to receive greatly improved care and live much longer. Congratulations, my underwater friends. \n\nAnd for humans? Maybe in 50 years? Just forget it.",
+            "title_similarity": "0.47531265",
+            "sentiment_compound": 0.9663
+        },
+        {
+            "id": "h07xwf8",
+            "score": 1,
+            "text": "Inb4 it's $1,000,000 per pill.",
+            "title_similarity": "0.26463792",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07y066",
+            "score": 1,
+            "text": "News like this gets published every month for the last 30 years. Wake me when they’re doing human testing.",
+            "title_similarity": "0.31329727",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h07y376",
+            "score": 1,
+            "text": "Dont you do that. Dont give me hope.",
+            "title_similarity": "0.10144709",
+            "sentiment_compound": -0.3412
+        },
+        {
+            "id": "h07z05r",
+            "score": 1,
+            "text": "Rip all of them dead now",
+            "title_similarity": "0.18930358",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "h07z3rv",
+            "score": 1,
+            "text": "Who has the patent and how can I throw money at it faster?",
+            "title_similarity": "0.36335722",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07z9je",
+            "score": 1,
+            "text": "And we’ll never hear about it again",
+            "title_similarity": "0.13140959",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h07zdxp",
+            "score": 1,
+            "text": "If this was true, it'd never surface anyways!! They'd probably go missing or something",
+            "title_similarity": "0.2537499",
+            "sentiment_compound": 0.2924
+        },
+        {
+            "id": "h07zpxq",
+            "score": 2,
+            "text": "Sounds promising  but what types of cancer? Maybe good for skin cancer? But something  like brain cancer or most internal  organs would be difficult  to expose to light.",
+            "title_similarity": "0.59553087",
+            "sentiment_compound": -0.9575
+        },
+        {
+            "id": "h0802qq",
+            "score": 1,
+            "text": "All scientists mysteriously found dead of suicide with two bullets in the back of the head",
+            "title_similarity": "0.4350564",
+            "sentiment_compound": -0.8689
+        },
+        {
+            "id": "h0809kd",
+            "score": 1,
+            "text": "How long before we never hear of this again?",
+            "title_similarity": "0.10060136",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h080cli",
+            "score": 1,
+            "text": "And this article will be the last time we hear of this miracle cure, or it will cost insane amounts of money resulting in death panels determining patient eligibility.",
+            "title_similarity": "0.48268393",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "h080ezc",
+            "score": 2,
+            "text": "You better protect that nhs before that American health system comes thru and only the rich can live",
+            "title_similarity": "0.52742916",
+            "sentiment_compound": 0.8442
+        },
+        {
+            "id": "h080k81",
+            "score": 1,
+            "text": "I commend the scientists. But I wonder if they will put this drug on the market when there are so many people in the world...",
+            "title_similarity": "0.59121656",
+            "sentiment_compound": 0.2382
+        },
+        {
+            "id": "h080ry9",
+            "score": 1,
+            "text": "How much?",
+            "title_similarity": "-0.16458045",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h080t3u",
+            "score": 1,
+            "text": "I can't wait to never hear about this again!\n\n(Files it with the Cardiff MR1-restricted T cell studies, MUTATO, missing studies on beta-glucans, etc., etc...)",
+            "title_similarity": "0.4649927",
+            "sentiment_compound": -0.3595
+        },
+        {
+            "id": "h080wqj",
+            "score": 1,
+            "text": "Wow! Another cancer killing treatment that is posted here and will be completely forgotten about!",
+            "title_similarity": "0.5096843",
+            "sentiment_compound": -0.8306
+        },
+        {
+            "id": "h080x7n",
+            "score": 1,
+            "text": "And it's never heard from, again",
+            "title_similarity": "0.0841712",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0817ei",
+            "score": 1,
+            "text": "Wow. Fantastic new battery tech and a cancer cure. Almost daily. Why do we still have cancer and need batteries when this keeps happening.",
+            "title_similarity": "0.60781664",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "h081r1h",
+            "score": 1,
+            "text": "sweet!!, lost my left kidney to an aggressive for of cancer that grows but doesnt spread, i get insomnia from worriying where itll pop up next",
+            "title_similarity": "0.5282804",
+            "sentiment_compound": -0.4997
+        },
+        {
+            "id": "h081v7m",
+            "score": 1,
+            "text": "So let’s give it the Covid vaccine treatment and get it out before the end of the year! Lol like that would ever happen.",
+            "title_similarity": "0.5375672",
+            "sentiment_compound": 0.68
+        },
+        {
+            "id": "h081xmy",
+            "score": 1,
+            "text": "I know this is a great milestone for all the researchers in the program. When I was doing my thesis work, I worked at at Moore cancer research hospital as a tech with medical physicists in my city and worked closely with many cancer patients on a new modality of electron therapy, radiation treatment and worked closely with some of the scientists pioneering new cancer treatment and drug testing.",
+            "title_similarity": "0.6497079",
+            "sentiment_compound": -0.8779
+        },
+        {
+            "id": "h082eym",
+            "score": 1,
+            "text": "Great news! Likelihood of hearing about this again?? Very very low. \n\nThere’s always something that is successful in killing cancer and we get sensational articles like this all the time.\n\nArticles about stuff like this being used successfully and people recovering etc are barely available. \n\nWill be more excited when they start using this shit to cure or prevent cancer and there are more articles about that rather than sensational medicines or lasers that are great but never used.",
+            "title_similarity": "0.69548774",
+            "sentiment_compound": 0.2704
+        },
+        {
+            "id": "h082ycw",
+            "score": 1,
+            "text": "Cant wait to never hear about this again....",
+            "title_similarity": "0.17240818",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h083hwn",
+            "score": 1,
+            "text": "Usually a popping headline to incentivize investing into the project/business/university, then later down the line the research fails. One day there will be a successful one but these articles are usually just fishing rods for money.",
+            "title_similarity": "0.46600893",
+            "sentiment_compound": 0.128
+        },
+        {
+            "id": "h083us1",
+            "score": 1,
+            "text": "Imagine if the money dedicated to COVId served such a greater good",
+            "title_similarity": "0.35894272",
+            "sentiment_compound": 0.8126
+        },
+        {
+            "id": "h0843jd",
+            "score": 3,
+            "text": "The monthly cancer miracle treatment that will likely never be heard of again.",
+            "title_similarity": "0.47320312",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "h084sew",
+            "score": 1,
+            "text": "Lets go baby!",
+            "title_similarity": "0.10670146",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h084zf4",
+            "score": 1,
+            "text": "Most informative ama I've ever seen. Thank you for considering this. I get your point about RT and potential nationalism, but it’s healthy.",
+            "title_similarity": "0.42256027",
+            "sentiment_compound": 0.6486
+        },
+        {
+            "id": "h0850ke",
+            "score": 1,
+            "text": "If it's not Scottish it's crap",
+            "title_similarity": "0.106629215",
+            "sentiment_compound": 0.2924
+        },
+        {
+            "id": "h0862jk",
+            "score": 2,
+            "text": "Can't wait to never hear about this again.",
+            "title_similarity": "0.19668803",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h086ey3",
+            "score": 1,
+            "text": "Sturgeon must condemn",
+            "title_similarity": "0.13972417",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "h0873zc",
+            "score": 1,
+            "text": "Now we wait for them to mysteriously die :D",
+            "title_similarity": "0.26408327",
+            "sentiment_compound": 0.0343
+        },
+        {
+            "id": "h0873zw",
+            "score": 1,
+            "text": "We'll never see it.",
+            "title_similarity": "0.06694223",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0875ts",
+            "score": 1,
+            "text": "Wooow humanity is getting there",
+            "title_similarity": "0.07982579",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h087kmr",
+            "score": 1,
+            "text": "You did it you son of a bitch you did it",
+            "title_similarity": "0.22319943",
+            "sentiment_compound": -0.5859
+        },
+        {
+            "id": "h088vwt",
+            "score": 1,
+            "text": "people are great",
+            "title_similarity": "0.11025465",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "h088zk9",
+            "score": 1,
+            "text": "Why do we hear about breakthroughs like this a few times a year, but never see anything actually put to use even years later? Covid-19 was important to create a treatment/vaccine/cure for, so the world went into overdrive and came up with a vaccine which was then deployed to the population within a year. Why can't similar urgency be applied to things like this which kill just as many, if not more people?",
+            "title_similarity": "0.5928967",
+            "sentiment_compound": 0.168
+        },
+        {
+            "id": "h089bbc",
+            "score": 2,
+            "text": "Wver since my daughter died from a brain tumor (glioblastoma) I've still been hoping something like this to happen. Even if it pisses me off that it didn't happen sooner.",
+            "title_similarity": "0.54691386",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "h089fwn",
+            "score": 1,
+            "text": "Awesome",
+            "title_similarity": "0.038357783",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "h089m84",
+            "score": 2,
+            "text": "They'll just say the same thing next month",
+            "title_similarity": "0.17389095",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08blwk",
+            "score": 2,
+            "text": "This better not be one of those things where a miracle drug is made but then is forgotten the next day",
+            "title_similarity": "0.46767622",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "h08bwa4",
+            "score": 1,
+            "text": "This sounds awesome. Sign me up!",
+            "title_similarity": "0.17475522",
+            "sentiment_compound": 0.6588
+        },
+        {
+            "id": "h08bzui",
+            "score": 1,
+            "text": "Can be yours for the low low cost of only $1 billion!\n\nEasy payment plans are available for those who qualify",
+            "title_similarity": "0.38277227",
+            "sentiment_compound": -0.1511
+        },
+        {
+            "id": "h08ci9i",
+            "score": 1,
+            "text": "How do you expose cells inside the body to visible light to trigger the death process?",
+            "title_similarity": "0.5307078",
+            "sentiment_compound": -0.6705
+        },
+        {
+            "id": "h08djfg",
+            "score": 1,
+            "text": "I feel like I see one of these every six months or so. I wonder what happened to the other ones I've seen.\n\nFingers crossed one of them work out",
+            "title_similarity": "0.17249209",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h08e4dp",
+            "score": 1,
+            "text": "So,,,cure for cancer?",
+            "title_similarity": "0.5921128",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h08e7cp",
+            "score": 1,
+            "text": "Now to never hear about it again in 3 2 ..1",
+            "title_similarity": "0.153527",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08edt3",
+            "score": 1,
+            "text": "wonderful. The future seems bright",
+            "title_similarity": "0.16022529",
+            "sentiment_compound": 0.765
+        },
+        {
+            "id": "h08exu2",
+            "score": 2,
+            "text": "Wow can’t wait to never hear about this one ever again",
+            "title_similarity": "0.22552183",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "h08ezv5",
+            "score": 3,
+            "text": "List price in the United States: $8 million per dose.",
+            "title_similarity": "0.21315655",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "h08f8eu",
+            "score": 1,
+            "text": "What about cross town healthy tissue?",
+            "title_similarity": "0.35289598",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "h08fcv9",
+            "score": 2,
+            "text": "Wow this is amazing and will likely never hear anything else about it again like all the other cancer break throughs",
+            "title_similarity": "0.5676844",
+            "sentiment_compound": 0.6908
+        },
+        {
+            "id": "h08ffu4",
+            "score": 2,
+            "text": "Impossible all medical breakthroughs are done by big pharmacy in the USA, which is why we cannot have universal Healthcare and prices have to remain so high :)",
+            "title_similarity": "0.48055077",
+            "sentiment_compound": 0.507
+        },
+        {
+            "id": "h08gtes",
+            "score": 1,
+            "text": "https://discord.gg/bAmHFv7M",
+            "title_similarity": "0.05221375",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08h34m",
+            "score": 1,
+            "text": "inb4 $1000000000 per pill",
+            "title_similarity": "0.2639436",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08hmf6",
+            "score": 1,
+            "text": "Pro Life in 50 years: Ban Cancer Killing Drugs! It's unnatural and prolonging life! God gives cancer for reasons!",
+            "title_similarity": "0.649441",
+            "sentiment_compound": -0.9557
+        },
+        {
+            "id": "h08hqi5",
+            "score": 1,
+            "text": "Take the war to the cancer, and unleash the warheads to obliterate the cancer cells 🧨",
+            "title_similarity": "0.59294283",
+            "sentiment_compound": -0.9559
+        },
+        {
+            "id": "h08hvhl",
+            "score": 1,
+            "text": "These titles are almost always like\n\n>\"Succesfully test drug\"\n\nAnd then the article is like\n\n>\"The succesfully completed test showed it doesn't work.\"",
+            "title_similarity": "0.42110616",
+            "sentiment_compound": 0.575
+        },
+        {
+            "id": "h08hxlb",
+            "score": 1,
+            "text": "Congratulations to all of you research scientists  team work of the University of Edinburgh & Thank you !",
+            "title_similarity": "0.51642",
+            "sentiment_compound": 0.7712
+        },
+        {
+            "id": "h08hz4h",
+            "score": 1,
+            "text": "Soon to disappear and never to be spoke of again",
+            "title_similarity": "0.16421427",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "h08idgg",
+            "score": 1,
+            "text": "Yay!!!!",
+            "title_similarity": "-0.046136424",
+            "sentiment_compound": 0.6776
+        },
+        {
+            "id": "h08iszi",
+            "score": 2,
+            "text": "This is the best news I have heard in a long time. I hope this is the turning point in saving lives from cancer.",
+            "title_similarity": "0.6407208",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "h08ja5l",
+            "score": 1,
+            "text": "2041- ahhh remember when everyone got scared of cancer back in the old days, lucky my new cancer pill will help me out.",
+            "title_similarity": "0.6667156",
+            "sentiment_compound": -0.802
+        },
+        {
+            "id": "h08k2if",
+            "score": 2,
+            "text": "I see this headline once every 2 years since my teens.\n\nThat's a lot of times.",
+            "title_similarity": "0.12943567",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08l0kh",
+            "score": 1,
+            "text": "We're all moving to Scotland!",
+            "title_similarity": "0.19943541",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08l2nj",
+            "score": 1,
+            "text": "That is a good sign for progress toward the health industry, likely several years to go though in studies, but hopefully one day soon cancer won't be able to harm anyone.",
+            "title_similarity": "0.64737934",
+            "sentiment_compound": -0.7543
+        },
+        {
+            "id": "h08lcuf",
+            "score": 3,
+            "text": "Here comes the buyout. You have a cancer cure... annnnnnd it’s gone",
+            "title_similarity": "0.57620037",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "h08mr0p",
+            "score": 1,
+            "text": "I refuse to believe its taken us this long to develop something like this in an advanced civilisation with so many intelligent people consistently working on this similar issue for decades",
+            "title_similarity": "0.38897437",
+            "sentiment_compound": 0.6786
+        },
+        {
+            "id": "h08mvj7",
+            "score": 2,
+            "text": "3 days later...\n\n\nArticle: team of scientists killed in car accident",
+            "title_similarity": "0.3997751",
+            "sentiment_compound": -0.8225
+        },
+        {
+            "id": "h08mzt4",
+            "score": 1,
+            "text": "Hopefully wallsteet won’t short this company like they did the rest. This is why we apes exists! 🦍💎 🙌🏼",
+            "title_similarity": "0.45743534",
+            "sentiment_compound": 0.6696
+        },
+        {
+            "id": "h08n3k7",
+            "score": 1,
+            "text": "And that was the last word on the subject anyone ever heard.",
+            "title_similarity": "0.2089327",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08n4g5",
+            "score": 1,
+            "text": "It'll be banned in the U.S. bc drug companies and doctors depend on the income. Granted they do miracle work in the field....",
+            "title_similarity": "0.56877315",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "h08nko5",
+            "score": 2,
+            "text": "Can't wait for it to disappear forever next week",
+            "title_similarity": "0.23306373",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "h08nqf5",
+            "score": 1,
+            "text": "I wish they would stop announcing these VERY preliminary results. Similar reports of sensational breakthroughs never follow up on their progress and ultimate failures. And people don't seriously focus on proven life style changes that CAN move the needle.",
+            "title_similarity": "0.50276685",
+            "sentiment_compound": 0.2066
+        },
+        {
+            "id": "h08nqxs",
+            "score": 1,
+            "text": "Its a pity this marvelous discovery didn't happen after the the Scots proposed departure from the UK.",
+            "title_similarity": "0.47315013",
+            "sentiment_compound": 0.5307
+        },
+        {
+            "id": "h08nwhc",
+            "score": 1,
+            "text": "But is it really expensive?",
+            "title_similarity": "0.043082975",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08o2tv",
+            "score": 1,
+            "text": "These kind of articles drive me crazy. Bunch of laymen writing about things they know nothin about. \n\nThis will never get through basic safety testing unless they have somehow excluded skin, which both rapidly divides and is exposed to visible light, as a place the drug can get to, while directing the drug to all other tissues. That technology doesn’t exist, BTW.",
+            "title_similarity": "0.49565613",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "h08o5f2",
+            "score": 1,
+            "text": "Get it to my mom, ASAP!",
+            "title_similarity": "0.17387648",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08o5on",
+            "score": 1,
+            "text": "Breaking news: University of Edinburgh scientists found dead. More at 8.",
+            "title_similarity": "0.41230798",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "h08opbo",
+            "score": 2,
+            "text": "Is it weed? 🧐",
+            "title_similarity": "0.15521264",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08otmm",
+            "score": 1,
+            "text": "Maradona",
+            "title_similarity": "-0.036592446",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08owk1",
+            "score": 2,
+            "text": "Cancer killing drug news clickbait.\nIn b4 downvotes.\nI've seen hundreds of posts like this, yawn.",
+            "title_similarity": "0.4150362",
+            "sentiment_compound": -0.8074
+        },
+        {
+            "id": "h08p0o5",
+            "score": 1,
+            "text": "“University of Edinburgh scientists found dead”",
+            "title_similarity": "0.3768403",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08pat5",
+            "score": 1,
+            "text": "My dad touched me to this post",
+            "title_similarity": "0.19400993",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08phrj",
+            "score": 1,
+            "text": "My mom beat cancer. But radiation and chemotherapy damaged her lungs so much she constantly cough up blood. Now what threatens her life is the residual damage of the very treatment that was trying to save her life. Honestly I hope with all my heart that this is beginning of something much safer, at least for future patients.",
+            "title_similarity": "0.61511135",
+            "sentiment_compound": 0.8555
+        },
+        {
+            "id": "h08pie0",
+            "score": 1,
+            "text": "We’ve come a long way",
+            "title_similarity": "-0.069066696",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08pkx2",
+            "score": 1,
+            "text": "DAMN SCOTS!  THEY RUIN SCOTL—\n\nWell huh.  I guess they don’t ruin Scotland after all",
+            "title_similarity": "0.4213065",
+            "sentiment_compound": -0.8992
+        },
+        {
+            "id": "h08pr5z",
+            "score": 1,
+            "text": "Big corps will kill this.",
+            "title_similarity": "0.26078123",
+            "sentiment_compound": -0.6908
+        },
+        {
+            "id": "h08q6s5",
+            "score": 1,
+            "text": "Can I get ppl who died in the next 24 hours for 500 alex",
+            "title_similarity": "0.28176224",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "h08qtcs",
+            "score": 1,
+            "text": "1st 0 Covid deaths now this?! We just used up all the good news for the year!",
+            "title_similarity": "0.43353224",
+            "sentiment_compound": 0.5399
+        },
+        {
+            "id": "h08r81j",
+            "score": 1,
+            "text": "Looks like I may actually make it to 150",
+            "title_similarity": "0.21762505",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h08rjj8",
+            "score": 1,
+            "text": "How much is this affordable biotech???\n\n$100,000 a pop? 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
+            "title_similarity": "0.46816975",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08rk0v",
+            "score": 1,
+            "text": "kill cancer",
+            "title_similarity": "0.48322478",
+            "sentiment_compound": -0.8779
+        },
+        {
+            "id": "h08s4ai",
+            "score": 1,
+            "text": "It sounds very good, but I am sure it will cost a lot of money.",
+            "title_similarity": "0.19651395",
+            "sentiment_compound": 0.6183
+        },
+        {
+            "id": "h08s59f",
+            "score": 1,
+            "text": "Now taking bids. Highest bidder gets the formula. The bidding will start at 1 trillion. Big pharma you may now place your bids.",
+            "title_similarity": "0.46320015",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08sg0z",
+            "score": 1,
+            "text": "Wow",
+            "title_similarity": "-0.13941509",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "h08sn3d",
+            "score": 1,
+            "text": "Annnd it's gone.",
+            "title_similarity": "0.011863684",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08srll",
+            "score": 2,
+            "text": "Every time I see a headline about new miracle cancer drugs I fantasize about traveling back in time to save my mom.",
+            "title_similarity": "0.57746124",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "h08tlpu",
+            "score": 2,
+            "text": "It's not real until every person on the face of this planet can get it safely and effectively in their bodies without becoming a financial slave to big pharma.",
+            "title_similarity": "0.5522632",
+            "sentiment_compound": 0.7269
+        },
+        {
+            "id": "h08tm72",
+            "score": 1,
+            "text": "It also gets you high as fucj",
+            "title_similarity": "0.187361",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08tpiu",
+            "score": 1,
+            "text": "Can your average person pay for it?",
+            "title_similarity": "0.07355929",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "h08twni",
+            "score": 2,
+            "text": "Next thing you know the scientist and the life saving drug disappear",
+            "title_similarity": "0.50064707",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "h08tz24",
+            "score": 2,
+            "text": "Can’t wait to never read about this again!",
+            "title_similarity": "0.24122185",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08u9se",
+            "score": 1,
+            "text": "This is amazing!",
+            "title_similarity": "0.046984315",
+            "sentiment_compound": 0.6239
+        },
+        {
+            "id": "h08uc5a",
+            "score": 1,
+            "text": "Didn’t Cuba come up with a cure for cancer like a while ago",
+            "title_similarity": "0.5379257",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "h08vl9c",
+            "score": 3,
+            "text": "Can we not brush this under the rug please",
+            "title_similarity": "0.17717141",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "h08w37b",
+            "score": 1,
+            "text": "I like this stock",
+            "title_similarity": "0.20539701",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h08wu60",
+            "score": 1,
+            "text": "Cool, and we'll never see it used in modern medicine again. Just like the last miracle cure, and the one before that. Real or not, they don't want us to have this period.",
+            "title_similarity": "0.5428704",
+            "sentiment_compound": 0.83
+        },
+        {
+            "id": "h08xhvc",
+            "score": 1,
+            "text": "This is awesome, can't wait to never hear about it again.",
+            "title_similarity": "0.29693145",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "h08xk45",
+            "score": 1,
+            "text": "Yay, right before pharmacuticle companies buy its rights to hide it where itll never get used.",
+            "title_similarity": "0.44636047",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "h08xob9",
+            "score": 1,
+            "text": "sure would be a shame if this “disappeared”",
+            "title_similarity": "0.16860114",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "h08xuot",
+            "score": 1,
+            "text": "I Am Legend...I’ve seen this movie before.",
+            "title_similarity": "0.19642898",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08ydsy",
+            "score": 1,
+            "text": "Does this mean I can start smoking again?",
+            "title_similarity": "0.29126987",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08ydzy",
+            "score": 1,
+            "text": "If anything happens to that scientist within couple years. I wouldn’t be shocked. Please protect that person.",
+            "title_similarity": "0.53155565",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "h08yfgl",
+            "score": 2,
+            "text": "Wait isn’t this like the biggest news ever?",
+            "title_similarity": "0.13032296",
+            "sentiment_compound": 0.4357
+        },
+        {
+            "id": "h08yga3",
+            "score": 1,
+            "text": "I'd enjoy an exhaustive list of all these anti-cancer drugs that have been discovered through the years, and what ended happening with each of them.",
+            "title_similarity": "0.57838863",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "h08yhe2",
+            "score": 1,
+            "text": "Awesome! Can't wait to never hear about it again.",
+            "title_similarity": "0.24025959",
+            "sentiment_compound": 0.6588
+        },
+        {
+            "id": "h08yjjf",
+            "score": 1,
+            "text": "I will assume we will never hear about this again?",
+            "title_similarity": "0.14254466",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08yprk",
+            "score": 1,
+            "text": "This is how the movie I am legend started....",
+            "title_similarity": "0.24185942",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h08z0oo",
+            "score": 1,
+            "text": "Can’t wait for this to go nowhere so I can read a nearly verbatim headline in another two months again.",
+            "title_similarity": "0.33071098",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h090xu1",
+            "score": 1,
+            "text": "!remindme 6 months",
+            "title_similarity": "0.015693309",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0910mm",
+            "score": 1,
+            "text": "The world is getting better everyday, if we can just survive each other to make the best of it.",
+            "title_similarity": "0.36175472",
+            "sentiment_compound": 0.7964
+        },
+        {
+            "id": "h0913l2",
+            "score": 1,
+            "text": "Until they are silenced",
+            "title_similarity": "0.10554966",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h091qwj",
+            "score": 1,
+            "text": "Venezuela has been working on a similar solution for a while now. I don’t think it will ever get the credit it deserves for this scientific breakthrough.",
+            "title_similarity": "0.41608235",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "h0924lj",
+            "score": 1,
+            "text": "Don't worry, your insurance won't cover it because it's \"experimental\" and it'll cost several million dollars otherwise.",
+            "title_similarity": "0.42141524",
+            "sentiment_compound": 0.3412
+        },
+        {
+            "id": "h092pe1",
+            "score": 1,
+            "text": "Lets gooooo",
+            "title_similarity": "-0.05086857",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h093up9",
+            "score": 1,
+            "text": "im crying tears of literal joy right now, my grandmother has cancer and to think she might be cured-",
+            "title_similarity": "0.5453943",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "h0942re",
+            "score": 1,
+            "text": "Ok then, start passing it out.",
+            "title_similarity": "0.0061846524",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "h0944lg",
+            "score": 2,
+            "text": "If treatment works will it be free?",
+            "title_similarity": "0.28235507",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "h094jhb",
+            "score": 1,
+            "text": "Big pharma won’t be happy...",
+            "title_similarity": "0.27085042",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "h094k7k",
+            "score": 1,
+            "text": "You’re telling me the Scottish are gonna be the ones to save us all? That’s wicked I hope this plays out well in the future and becomes applicable.",
+            "title_similarity": "0.52503717",
+            "sentiment_compound": 0.7227
+        },
+        {
+            "id": "h094qel",
+            "score": 1,
+            "text": "Waiting for a lymphoma pos/neg for my 6yr old cat right now. Can he have some of this cancer bomb?",
+            "title_similarity": "0.42557722",
+            "sentiment_compound": -0.8573
+        },
+        {
+            "id": "h0956jt",
+            "score": 1,
+            "text": "And we will never hear about this again",
+            "title_similarity": "0.13217837",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h096b88",
+            "score": 1,
+            "text": "They’re already dead.",
+            "title_similarity": "0.09780693",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "h097561",
+            "score": 1,
+            "text": "No, the last Reddit post about curing-cancer cured cancer. This one actually caused cancer. \n\nSource: the comments",
+            "title_similarity": "0.72644997",
+            "sentiment_compound": -0.8689
+        },
+        {
+            "id": "h098hdb",
+            "score": 5,
+            "text": "Is this one of those things that is going to disappear quietly and everyone is going to forget about it?",
+            "title_similarity": "0.2471811",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "h098phc",
+            "score": 1,
+            "text": "If this story is real, the best news we got in a long time",
+            "title_similarity": "0.35562733",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "h098r6a",
+            "score": 1,
+            "text": "Thank goodness it out of the US, we’d find away for the company to disappear, unfortunately.",
+            "title_similarity": "0.4136812",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "h0999oy",
+            "score": 1,
+            "text": "Screenshot this before it suddenly dissappears",
+            "title_similarity": "0.11365141",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h099aal",
+            "score": 3,
+            "text": "And this is the last we will hear of this as big pharma buys all research",
+            "title_similarity": "0.43098214",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h099gf2",
+            "score": 2,
+            "text": "this is an exciting development.  having experienced huge doses of chemotherapy, I know the effects of poisoning every cell in the body to kill off cancer cells.  I am still among the living because of it but truly, the cure is sometimes as bad as the disease.  Because I was in stage four when the cancer was discovered there was a tight balancing necessary.  There was a real danger that the treatments might kill me, as well as cancer cells.\n\nThe ability to target diseased cells without damaging surrounding tissues is the current holy grail of cancer treatments.",
+            "title_similarity": "0.71877176",
+            "sentiment_compound": -0.9867
+        },
+        {
+            "id": "h099ztu",
+            "score": 2,
+            "text": "Thank God it happened in the UK. If this was in the US those scientists would get suicided. And a particular lab catches on fire.",
+            "title_similarity": "0.5510149",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "h09aute",
+            "score": 1,
+            "text": "Well they can give it to the us drug companies do they can charge us citizens whatever you own and be trillionaires",
+            "title_similarity": "0.5064974",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "h09bld4",
+            "score": 1,
+            "text": "This is exactly how Emma Thompson sealed our fate in ‘I am Legend’",
+            "title_similarity": "0.34830207",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h09c687",
+            "score": 1,
+            "text": "Tested on what a Petri dish?",
+            "title_similarity": "0.24251662",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h09c6i0",
+            "score": 1,
+            "text": "If we can't afford healthcare, it doesn't even matter.",
+            "title_similarity": "0.37383726",
+            "sentiment_compound": -0.0191
+        },
+        {
+            "id": "h09c72a",
+            "score": 3,
+            "text": "And in the US the drug will cost $500,000 dollars and no insurance companies will cover it.",
+            "title_similarity": "0.3571519",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "h09ccpa",
+            "score": 3,
+            "text": "Quick, please spread this before it suddenly doesn’t exist anymore.",
+            "title_similarity": "0.27659023",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "h09ijey",
+            "score": 1,
+            "text": "beat 🥩",
+            "title_similarity": "-0.059914142",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "h09iuok",
+            "score": 3,
+            "text": "I don't even know why they fund research. They will never cure cancer. There's too much money being made treating it.",
+            "title_similarity": "0.4870809",
+            "sentiment_compound": 0.5448
+        },
+        {
+            "id": "h09ivoi",
+            "score": 2,
+            "text": "Fingers crossed they don’t go public and get shorted into bankruptcy by big pharma.",
+            "title_similarity": "0.42298043",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h09joq6",
+            "score": 1,
+            "text": "Isn't this like the start to the movie I Am Legend?",
+            "title_similarity": "0.27352992",
+            "sentiment_compound": -0.2755
+        },
+        {
+            "id": "h09jz69",
+            "score": 1,
+            "text": "Whisky?  >University of Edinburgh scientists",
+            "title_similarity": "0.37547725",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h09l1fz",
+            "score": 1,
+            "text": "Sadly most of this life changing medicine advances need to be monetized in order to fly",
+            "title_similarity": "0.3422717",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "h09loyh",
+            "score": 1,
+            "text": "Aaaaaaaannd it's gone.",
+            "title_similarity": "0.03406596",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h09lzcv",
+            "score": 1,
+            "text": "better start building more old folks home",
+            "title_similarity": "0.19948807",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "h09m8w7",
+            "score": 2,
+            "text": "Cancer will be cured when a renegade scientist decides that simultaneously with their publishing they will offer their treatment details in full free of charge to the world.  Until then, sadly, discoveries like this will be buried one after another as pharma co's find ways of purchasing the intellectual property involved (i.e. they stand only to lose money with successful cancer drugs)",
+            "title_similarity": "0.7047869",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "h09mb5k",
+            "score": 1,
+            "text": "Cool they found cannabis.",
+            "title_similarity": "0.3257746",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "h09mbxv",
+            "score": 1,
+            "text": "Wonder how long before those scientists are found dead.",
+            "title_similarity": "0.4016255",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "h09mw90",
+            "score": 1,
+            "text": "Articles like these are a weekly thing at this point.",
+            "title_similarity": "0.011167161",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "h09n83r",
+            "score": 1,
+            "text": "Can’t wait for the scientists involved to mysteriously die in an “accident”",
+            "title_similarity": "0.56556046",
+            "sentiment_compound": -0.5994
+        },
+        {
+            "id": "h09no6z",
+            "score": 1,
+            "text": "That'll be a million dollars, please.",
+            "title_similarity": "0.08846051",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "h09nuyp",
+            "score": 1,
+            "text": "I hate these articles because they give unrealistic hope. My mom had breast cancer in 2009 and the development in new treatments since then has been virtually nothing.",
+            "title_similarity": "0.51174915",
+            "sentiment_compound": -0.7351
+        },
+        {
+            "id": "h09p3y6",
+            "score": 1,
+            "text": "Does Lawrence Cheney know tho!?",
+            "title_similarity": "0.066546425",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h09r6xp",
+            "score": 1,
+            "text": "Tell me where to invest, after the catch is made public.",
+            "title_similarity": "0.23089173",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h09v5tr",
+            "score": 1,
+            "text": "Can we make this viral before it disappears out of existence?",
+            "title_similarity": "0.44134232",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "h09wy7s",
+            "score": 1,
+            "text": "Someone better keep an eye on them, don't want them to have an \"accident\" and have their research vanish.",
+            "title_similarity": "0.45307434",
+            "sentiment_compound": -0.1083
+        },
+        {
+            "id": "h09xu22",
+            "score": 1,
+            "text": "The number of times I’ve seen a cure for cancer is more than the upvotes on this post.",
+            "title_similarity": "0.5230081",
+            "sentiment_compound": -0.6249
+        },
+        {
+            "id": "h09y55m",
+            "score": 1,
+            "text": "in zebrafish - that are basically transparent.",
+            "title_similarity": "0.21735197",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h09zflr",
+            "score": 1,
+            "text": "iT'S ABOUT TIME!",
+            "title_similarity": "-0.021969017",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h09zxxv",
+            "score": 1,
+            "text": "Wow now we will never hear about this medicine again so we can continue to go through the pharma meds and make them billions.",
+            "title_similarity": "0.5688208",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "h0a1oh1",
+            "score": 1,
+            "text": "first humanity beats covid 19 then it decides it can also beat its greatest boss ever, cancer",
+            "title_similarity": "0.63964105",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "h0a28z2",
+            "score": 2,
+            "text": "If the comments from jerks find this so humorous, maybe if they had cancer as I did, they’d be more serious with their comments. I got cancer in my 30’s. Cancer knows no age or political affiliation.",
+            "title_similarity": "0.6219205",
+            "sentiment_compound": -0.9406
+        },
+        {
+            "id": "h0a39b9",
+            "score": 2,
+            "text": "Not even exaggerating, there has been break-through-sounding news about cancer research every 6 months for the last 5 years on reddit, and you never hear anything about it again.",
+            "title_similarity": "0.4787823",
+            "sentiment_compound": -0.597
+        },
+        {
+            "id": "h0a3rzm",
+            "score": 1,
+            "text": "Cost ?",
+            "title_similarity": "-0.10547377",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0a3wn7",
+            "score": 1,
+            "text": "And….now this news/discovery is gonna disappear and we will ever hear about it ever again.",
+            "title_similarity": "0.32567012",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "h0a4dtp",
+            "score": 2,
+            "text": "Any time you read about cancer cures and the person talking about it acts like it is a single disease that will have a magic bullet treatment that will kill all cancers, take it with a lot of skepticism.",
+            "title_similarity": "0.6520349",
+            "sentiment_compound": -0.8625
+        },
+        {
+            "id": "h0a72od",
+            "score": 1,
+            "text": "Hell yeah lemme light up a cig",
+            "title_similarity": "0.1966826",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "h0a862z",
+            "score": 2,
+            "text": "Hopefully this \"breakthrough\" actually does something this time",
+            "title_similarity": "0.3063411",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "h0aa0hg",
+            "score": 1,
+            "text": "LETS GOOO",
+            "title_similarity": "-0.03725458",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0acawh",
+            "score": 1,
+            "text": "[and.... ](https://m.imgur.com/gallery/9W3vtIV)",
+            "title_similarity": "0.079480946",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0acle8",
+            "score": 1,
+            "text": "This is incredible",
+            "title_similarity": "0.01961997",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0ai9i6",
+            "score": 1,
+            "text": "Yes, but despite all these advances, we'll still be using barbaric torturous chemotherapy for *another* hundred years. Just because.",
+            "title_similarity": "0.49995863",
+            "sentiment_compound": -0.6369
+        },
+        {
+            "id": "h0aidys",
+            "score": 1,
+            "text": "So can i keep smoking?",
+            "title_similarity": "0.11489936",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0ao7zn",
+            "score": 1,
+            "text": "[deleted]",
+            "title_similarity": "0.022905532"
+        },
+        {
+            "id": "h0aoltm",
+            "score": 1,
+            "text": "too late. my uncle was dead by liver cancer",
+            "title_similarity": "0.40906146",
+            "sentiment_compound": -0.8658
+        },
+        {
+            "id": "h0apbi0",
+            "score": 1,
+            "text": "*Nice*",
+            "title_similarity": "0.08700754",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "h0atbxo",
+            "score": 1,
+            "text": "now this is good news",
+            "title_similarity": "0.13304272",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "h0axf8c",
+            "score": 2,
+            "text": "Andddd we never here of this again",
+            "title_similarity": "0.105905175",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0e09wq",
+            "score": 2,
+            "text": "a) never gonna hear about this again\n\nor\n\nb) will cost as much as chemotherapy in America",
+            "title_similarity": "0.42583072",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "h0eei9r",
+            "score": 1,
+            "text": "Also breaking:\n\nEdinburgh scientists found dead",
+            "title_similarity": "0.36300293",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "h0f8tmg",
+            "score": 1,
+            "text": "Some scientists are about to have a \"accident\"",
+            "title_similarity": "0.39443153",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "h0s079j",
+            "score": 1,
+            "text": "Whenever I see articles like this, I think \"if this is legit and not an exaggerated claim by a reporter jumping the gun, I'm sure I'll hear more about it in the science news I follow\", and I rarely do.",
+            "title_similarity": "0.556714",
+            "sentiment_compound": 0.4011
+        },
+        {
+            "id": "h1juo39",
+            "score": 1,
+            "text": "Now to get the big pharma co.s to dump some money into the research.  Chemo is big money these days...",
+            "title_similarity": "0.49352401",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "h3ditzm",
+            "score": 1,
+            "text": "\"Something that is very new that I wanted to share with you guys is delta 8 hemp oil, unlike CBD where you may or may not feel the effects over time I feel better right away. If you want to try it for free I suggest the brand HiOnNature they offer a free shipped sample no purchase necessary\"",
+            "title_similarity": "0.5727542",
+            "sentiment_compound": 0.8689
+        },
+        {
+            "id": "hbtmqne",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "-0.015737962"
+        }
+    ]
+}

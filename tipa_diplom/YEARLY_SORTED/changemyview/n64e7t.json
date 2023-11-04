@@ -1,0 +1,557 @@
+{
+    "CMV: Pressing tab after typing in a username should ALWAYS bring you to the \"password\" prompt\nHey all,\n\nI think this is a pretty simple CMV. I think that when you press tab after you type in your username (or email) should ALWAYS allow you to immediately start typing in your password. I think that any other prompt (new account, forgot password) can be put AFTER the password prompt with no impact to usability and, in fact, BETTER usability.\n\nI honestly cannot think of a single reason that having a single press of the tab button bringing you to \"Forgot Password\" or something similar improves usability and user experience.": [
+        {
+            "id": "gx8cki0",
+            "score": 1,
+            "text": "/u/MyGubbins (OP) has awarded 4 delta(s) in this post.\n\nAll comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/n680ii/deltas_awarded_in_cmv_pressing_tab_after_typing/), in /r/DeltaLog.\n\nPlease note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.\n\n^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)",
+            "title_similarity": "0.629829",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "gx4xoyq",
+            "score": 2,
+            "text": "you can press tab more then once,  there are many reasons why something else might be between the 2,  and you should be staring at the screen rather then at the keyboard any way",
+            "title_similarity": "0.55917835",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx53dlw",
+            "score": 0,
+            "text": "I basically agree with this, but you should ALWAYS be using a password manager too which would render this moot",
+            "title_similarity": "0.76935506",
+            "sentiment_compound": 0.1901
+        },
+        {
+            "id": "gx51b0c",
+            "score": 1,
+            "text": "I agree , after typing username then tab, it should always bring you to the password section. I hate it when there is something in between. Especially when it’s not visible. If it’s an image capture or some other security mechanism, it’s pretty clear from the beginning. The mysteriously invisible space or button is beyond annoying. Web developers, please help us keep our sanity!!!",
+            "title_similarity": "0.7725431",
+            "sentiment_compound": 0.8472
+        },
+        {
+            "id": "gx54wq3",
+            "score": 1,
+            "text": "[deleted]",
+            "title_similarity": "0.13141073"
+        },
+        {
+            "id": "gx5rmz7",
+            "score": 3,
+            "text": "I'm surprised that no one has brought up the fact that the vast majority of password fields in the world aren't navigated using real keyboards, but on-screen ones that don't have a (readily accessible, if at all) tab key. But they do have an enter key. \n\n(sometimes they change that key to an arrow in this circumstance, but it's still always in the same position as the enter key)\n\nI.e. phones. \n\nFor consistency's sake, enter should be the key that does this rather than tab.",
+            "title_similarity": "0.7586844",
+            "sentiment_compound": -0.0387
+        },
+        {
+            "id": "gx4w16z",
+            "score": -4,
+            "text": "[removed]",
+            "title_similarity": "0.10154524"
+        },
+        {
+            "id": "gx7xck3",
+            "score": 0,
+            "text": "Some sites use passwordless login, where, for example, you send in your username and then get emailed a code to login.\n\nSince there is no password field for these sites, pressing tab after typing in your username should not bring you to the password field.",
+            "title_similarity": "0.7773931",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "gx564oe",
+            "score": 1,
+            "text": "I've got a possible counter for you because I've actually considered writing login pages that don't tab from username to password.\n\nWhy? INCONVENIENCE.\n\nWhat the hell is wrong with you r/novagenesis wanting people to have an inconvenient experience?\n\nBecause my audience is low-tech users, and not supporting a tab from username to password is a good way to push some of lazy fence-sitters (the WORST password-offenders) into at least using a password manager.\n\nThat's a single reason that having a single press of the tab button to bring you from \"username\" to \"password\" is not-ideal.",
+            "title_similarity": "0.70975435",
+            "sentiment_compound": -0.9663
+        },
+        {
+            "id": "gx74aul",
+            "score": 1,
+            "text": "I reject your opinion on the grounds that it is common sense, and that nobody would ever have logical reason to disagree.\n\nWebsite forms are designed without much thought, and often the developers just forget that they happened to put something between the username and password blanks. Developers aren't thinking about what happens when you press tab.\n\nSo if you brought this to a developer's attention, they'd either fix it because you have a common sense point, or leave it be because they're too lazy to change it.",
+            "title_similarity": "0.7482466",
+            "sentiment_compound": -0.836
+        },
+        {
+            "id": "gx4zykr",
+            "score": 2,
+            "text": "I feel hitting return and having that move to the password is better since i was trained by runescape to do this (but return on the password would obv still log in)",
+            "title_similarity": "0.7518891",
+            "sentiment_compound": 0.2382
+        },
+        {
+            "id": "gx50yvi",
+            "score": 36,
+            "text": "> Pressing tab after typing in a username should ALWAYS bring you to the \"password\" prompt\n\nIn some cases there may be another field value that needs to be specified in addition to a password before logging in, such as:\n\n* A one-time use code (e.g. as part of 2-factor authentication)\n* A checkbox like \"Open in new window\", \"Keep logged in on this device\", \"Trust this device\"\n\nIf this field is mandatory, or frequently used by users (as opposed to Forgot Password), and shown before the password field, it makes sense to also receive the tab focus before the password.",
+            "title_similarity": "0.8161458",
+            "sentiment_compound": 0.8176
+        },
+        {
+            "id": "gx56aee",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.10154524"
+        },
+        {
+            "id": "gx5iva3",
+            "score": 11,
+            "text": "I’ve done some work in identity. There’s multiple scenarios where the tab/password approach isn’t feasible. \n\n1) The login is using some sort of MFA (multi-factor authentication) which likely has user specified preferences for logging in. The intent could be to *not* use a password, but the identity (your email) needs to be passed first to retrieve the MFA step. \n\n2) Many services use SSO (single sign on) for enterprise level authentication. This can often run in parallel to an identity you create on the site. For example with Microsoft office, you could be “bob@outlook.com”. But let’s say you work at a company that uses SSO, you would be “bob@company.com”. At the login step, the email ID needs to be retrieved to detect if that identity is using SSO or not. It then prompts the next step for authentication (often a password or could be a token). So it wouldn’t make sense for a tabbed field to be the password, as at the time of email input the system has no idea what database to connect to for authentication.",
+            "title_similarity": "0.6854926",
+            "sentiment_compound": -0.0387
+        },
+        {
+            "id": "gx50ex1",
+            "score": 350,
+            "text": "Would you consider two page authentication as part of this or separate ?",
+            "title_similarity": "0.33893254",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx50sdl",
+            "score": 178,
+            "text": "What about when a bank wants you to know with confidence it's not a spoof page, so when you type your username it brings you to a picture with your personalized caption, and only then can you enter a password?",
+            "title_similarity": "0.7710752",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "gx52umu",
+            "score": 109,
+            "text": "Consistency in UX is super important. If everyone is doing something, your standard user will expect that. So the tab button should always bring you to the NEXT item. Which, based off of standard username/password field ordering it should be the password.\n\nBut personally, if the password has been auto-filled in I'm super okay with tab skipping it.",
+            "title_similarity": "0.8549502",
+            "sentiment_compound": 0.8898
+        },
+        {
+            "id": "gx55e6r",
+            "score": 1,
+            "text": "I dunno because there can be circumstances where that wouldn’t be useful, and TAB is the universal button for the next thing.\n\nMaybe pressing enter with a blank password box should move it to there, that would make more sense.",
+            "title_similarity": "0.7664834",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "gx55qys",
+            "score": 1,
+            "text": "The only reason I can think of to not have this is in small events that there is data that needs to go into another box before the site even wants your password. Maybe the site loads with the user name box ready for input, but if you press tab, you can highlight an option to select a guest or default account instead.  However, I will expand on your thought and say that pressing tab while typing anything in a form design should bring you to the next box that you are required to fill. Then, shift+tab should automatically move you back to the previous box.",
+            "title_similarity": "0.79188836",
+            "sentiment_compound": 0.7783
+        },
+        {
+            "id": "gx561j9",
+            "score": 1,
+            "text": "What if it was a website designed specifically to irritate people? It would do things like have the password box above the username box. Tab would take you anywhere else. Text that looks like links but doesn't go anywhere. Lots of popups and adds. Cookie requests for every page. Adds that masquerade as posts. Drop down list that cover other content and don't go away. Idk the possibilities are endless.\n\nIt could be an educational example of bad practice in web design or simply someone designed something to annoy everyone.\n\nI think that is at least one example where this would make sense.",
+            "title_similarity": "0.68250763",
+            "sentiment_compound": -0.8808
+        },
+        {
+            "id": "gx57tuk",
+            "score": 1,
+            "text": "What if putting the username in automatically moves the cursor to the password place, and pressing tab brings you to the \"enter\" button. I have a program that has usernames which are a pattern and always the same number of characters. Accordingly, the program knows when a username has been entered and automatically moves the cursor to the password box. It works well.",
+            "title_similarity": "0.7879348",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "gx58fi7",
+            "score": 1,
+            "text": "If that was true for every website and it was guaranteed to always happen it would only simplify the processes of hacking and having bots make accounts Because it would allow programs used for either activity to have more versatility for every website making programming them a lot easier.",
+            "title_similarity": "0.68988097",
+            "sentiment_compound": 0.7579
+        },
+        {
+            "id": "gx5949k",
+            "score": 1,
+            "text": "Personally I think you should be able to switch to the next prompt/the password prompt by either pressing tab, enter or the down arrow key. Then if you are already at the last prompt, they can make it so that pressing enter submits the information. There should just be some universal button for these things so people can easily switch to the next prompt without having to use the mouse. The down arrow key would make the most sense, because pressing enter to go to the next part of the prompt could cause confusion and it probably wouldn't be the best solution.",
+            "title_similarity": "0.7962449",
+            "sentiment_compound": -0.1542
+        },
+        {
+            "id": "gx59m7s",
+            "score": 68,
+            "text": "[removed]",
+            "title_similarity": "0.10154524"
+        },
+        {
+            "id": "gx5a0w3",
+            "score": 1,
+            "text": "Where focus goes on tab is both usability conern AND an accessibility concern.  The \"tab\" action needs to bring you to the thing you need \"experience\" next - in some cases that needs to be the thing that is _read_ to you by your screen reader.\n\nWant to verify something BEFORE the password is typed in (spoofing, instructions, verify valid username, etc. ) then it has to pre-empt the password.  These section 508 rules are important for a pretty big set of users.",
+            "title_similarity": "0.6941074",
+            "sentiment_compound": 0.6486
+        },
+        {
+            "id": "gx5d1ul",
+            "score": 2,
+            "text": "They should return to being able to do both the username and password from the first screen, they all seemed to change to enter the username first and then bring a new screen to put in the password, which sucks if you have a slow internet connection.",
+            "title_similarity": "0.77976066",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "gx5drzu",
+            "score": 3,
+            "text": "I'm assuming you are referring specifically to web forms/login pages, where I would agree with you in most cases (the only exceptions being when the password entry field is on a separate page, in which case I think the \"Submit\" button should take the focus on a tab.)\n\nHowever, there are environments where pressing tab to initiate password entry would NOT be the expected behavior. I'm specifically referring to terminal/command line interfaces. In a terminal, pressing tab is expected to auto-complete a partially typed expression, not to move focus from one field to the next.",
+            "title_similarity": "0.83102256",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gx5groh",
+            "score": 2,
+            "text": "A relatively common thing that I see is that there are 2 fields to identify a user. I've seen this in some tax and insurance software. It looks something like this:  \nUserID: (a user id within a company. So User 1 of the company might have the Id \"1\", which can be the same in many companies)  \nCompanyId: (the uniquely identifying Id for all users of a company)  \nPassword: (the password)\n\nIn that case, you want tab to move on to the next field (ie: CompanyId) instead of straight to Password. The correct thing would be to move to the next field, not necessarily always the password field.\n\nAn example, in case what I'm talking about isn't clear. Company A has 20 users and Company B has 40 users. So User #1 in Company A might have the id \"1\", but so would User #1 in Company B. \n\n  \nSo User #1 of Company A uses:  \nUserId: 1  \nCompanyId: 1234  \nPassword: The user's password\n\nAnd User #1 of Company B uses:  \nUserId: 1  \nCompanyId: 1235  \nPassword: The user's password",
+            "title_similarity": "0.66838837",
+            "sentiment_compound": 0.1921
+        },
+        {
+            "id": "gx5hjz5",
+            "score": 1,
+            "text": "What if you want to use '\\t' in your password?  It's a perfectly reasonable character value...  (/s)",
+            "title_similarity": "0.6681542",
+            "sentiment_compound": 0.7845
+        },
+        {
+            "id": "gx5i5ab",
+            "score": 1,
+            "text": "Wrong.  Pressing enter after typing in a username should bring you to the password.  \n\nWhy you gonna farm out labour to the end user and make them press tab?",
+            "title_similarity": "0.70478356",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "gx5in5o",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.10154524"
+        },
+        {
+            "id": "gx5izq8",
+            "score": 1,
+            "text": "Because your argument said \"ALWAYS\".... The tab button is often used by screen reader devices so the site is accessible to people with disabilities (i.e. visual impairments, people with mobility issues who can't maneuver a mouse) so it gives them a chance to hear what that other option is to decide whether or not they want/need to use it. While I agree these options can be ordered so that they are selected AFTER you type in the password, sometimes it would make more sense for the option to be provided beforehand. For instance, a \"show password\" option for someone who is using an alternate way to type (blowing through a tube, using eye gaze, etc) so they can verify their input is correct as they go, not just at the end when the whole thing is revealed and then they have to put in the extra work to fix any mistakes.",
+            "title_similarity": "0.7036365",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "gx5kc70",
+            "score": 1,
+            "text": "What if you're using a system that doesn't have passwords?",
+            "title_similarity": "0.46072122",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx5lh6i",
+            "score": 1,
+            "text": "One of our \"custom\" online forms that I have to fill in for every single new project has a multitude of fill in boxes.  TAB does not jump to the next box though.  It jumps down two lines.\n\n&#x200B;\n\nie, should be project number, address, city, last name, first name\n\ninstead if tabbed, project number, two lines down pipe material, another two lines to pressure.\n\n&#x200B;\n\nIn areas where we read left > right, that's where tab should take you.",
+            "title_similarity": "0.75205314",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "gx5n05b",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.10154524"
+        },
+        {
+            "id": "gx5ouek",
+            "score": 4,
+            "text": "First of all, great CMV!\n\n>I honestly cannot think of a single reason that having a single press of the tab button bringing you to \"Forgot Password\" or something similar improves usability and user experience. \n\nA reason I can think of, that's generally applicable, is you don't want to allow a user to automatically enter passwords without having to look. For example, I know with some products it has a blinking line suggesting the box is selected when, in fact, it is not. \n\nThere's potential for someone to type a password in a chat box by accident or an unexpected page if the entry is too automatic. Or someone may enter in a password incorrectly and risk automatically lock outs, etc.",
+            "title_similarity": "0.85140944",
+            "sentiment_compound": 0.6254
+        },
+        {
+            "id": "gx5r196",
+            "score": 2,
+            "text": "Change My View: Who cares about that?",
+            "title_similarity": "0.24273397",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "gx5r9t9",
+            "score": 2,
+            "text": "What if a username is associated with multiple roles that have unique passwords? Username ABC for design role uses 123, but username ABC for signoff role uses 456?",
+            "title_similarity": "0.41554236",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx5ucsv",
+            "score": 1,
+            "text": "At work, we have a slightly antiquated system we use. If you enter your username and then hit Tab to get to the password entry field, even if your info is correct, it flashes and you have to enter your info again. It just does not like tabbing to get to the password field. I work in IT and this is a common problem, especially among new hires. When you enter your username ANYWHERE else almost, hitting enter is never what you do next. You hit tab or click the password field and then hit enter. So this is ingrained in your brain to hit tab. I sat behind someone and I swear I saw her hit tab to enter her password but she said she was hitting enter. I had her try again and caught her red-handed and told her, you just hit tab. She tried again, hitting enter and got right in.",
+            "title_similarity": "0.7530689",
+            "sentiment_compound": -0.3622
+        },
+        {
+            "id": "gx5uofh",
+            "score": 1,
+            "text": "What if you’re holding ALT?",
+            "title_similarity": "0.12112063",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx5v5v2",
+            "score": 3,
+            "text": "I would bet my life savings that you’ve never done any web design ever except for maybe some HTML in grade school",
+            "title_similarity": "0.61176014",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx5y3ed",
+            "score": 2,
+            "text": "no, it should shut down your computer instead",
+            "title_similarity": "0.36819118",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx5y6k5",
+            "score": 2,
+            "text": "I can’t believe I clicked on this. What am I doing w my life",
+            "title_similarity": "0.33064017",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx5zd0h",
+            "score": 1,
+            "text": "This is basic accessibility. There are even guidelines that govern this called wait for it web content accessibility guidelines! There is 1 stating that you should be able to use a keyboard to move from interactive element to interactive element. Then there is 1 that states that flow of navigation should follow the natural reading order.",
+            "title_similarity": "0.61489284",
+            "sentiment_compound": 0.4199
+        },
+        {
+            "id": "gx5znat",
+            "score": 1,
+            "text": "Picture this hypothetical, but keep in mind it doesn't include fine details.\n\nAn automated program has stolen your information and tries to enter it into a website. after it enters your username it automatically \"presses\" Tab and enters your password. Now they are in whatever account you don't want other people in. Simply having Tab take you somewhere else neutralizes this.",
+            "title_similarity": "0.7456763",
+            "sentiment_compound": -0.7594
+        },
+        {
+            "id": "gx5zost",
+            "score": 1,
+            "text": "Yes for fucks sake pls",
+            "title_similarity": "0.14018539",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "gx5zss1",
+            "score": 1,
+            "text": "In addition to this, if I click your logo, it better take me to your home page.",
+            "title_similarity": "0.52144086",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "gx60d9i",
+            "score": 1,
+            "text": "My counter is this: So long as it does not drop focus into any element that takes text as input, it is fine to do something else. At worst, that is inconvenient, and there are security schemes that require a setup which does not immediately make the password field available.",
+            "title_similarity": "0.7012962",
+            "sentiment_compound": -0.3582
+        },
+        {
+            "id": "gx61mi6",
+            "score": 1,
+            "text": "Good tab management is a big part of ux. There is nothing more annoying than hitting tab only to jump to a control that's not sequentially next.",
+            "title_similarity": "0.6569686",
+            "sentiment_compound": 0.657
+        },
+        {
+            "id": "gx64qpe",
+            "score": 1,
+            "text": "If you're typing your password, you've already failed. Your password should be encrypted and in a password manager, then autofilled from that manager. Even I don't know most of my passwords, but I know the password to my password manager.",
+            "title_similarity": "0.79660976",
+            "sentiment_compound": -0.2846
+        },
+        {
+            "id": "gx65ovv",
+            "score": 2,
+            "text": "I think the crux of this one is that you are acting like these two separate systems should ALWAYS work a certain way. There are two distinct things in play here:\n\n1. The TAB button brings you to the next item in the *browser*. This is a browser system. It is not controlled by the web page for the most part. A standard html form will allow you to tab between the items on the page so that you can use the page without a mouse. This is an accessibility feature to accommodate those with disabilities.\n\n2. The username and password fields are setup by the html. The browser cannot control what order the items on the page are in, as it is set by the website you are currently on. The web page puts all the stuff in whatever order they like. Sometimes there is stuff between the username and password (ever seen a site that allows separate \"remember me\" entries for both username and password individually? Like that) so the browser just goes to the next item, regardless of what is next.\n\nThese two systems, the browser tab function and the web page itself produce the behaviour you are describing, together. This means to make it work ALWAYS, you would have to completely relocated where the tab function takes place, which causes untold problems for accessibility reasons. Each site would have to implement the tab function themselves, instead of having be a browser feature. **The reason it works the way it does is for accessibility, not convenience for the average user.**",
+            "title_similarity": "0.71707296",
+            "sentiment_compound": 0.8481
+        },
+        {
+            "id": "gx65whv",
+            "score": 1,
+            "text": "How about in the case of password managers that add interactive elements (e.g. credential selection dropdowns) to field inputs? Maybe this is beyond the scope of your consideration, but you did use some very extreme qualification (e.g. \"ALWAYS\") in your post.",
+            "title_similarity": "0.69838524",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx67l87",
+            "score": 1,
+            "text": "What if you are creating an account and it asks for other things before password? Like email or address?",
+            "title_similarity": "0.5812345",
+            "sentiment_compound": 0.6199
+        },
+        {
+            "id": "gx6ab1o",
+            "score": 1,
+            "text": "IMHO, the best design is to hit tab twice to reach the password field. The first tab will move the cursor to the \"remember username/stay logged in\" check box so you can just tap space to enable that or not, then tab again to get to the password field. \n\nYou are right that the other alternate login methods should be scrolled to after the password field as they are more edge cases anyway. It's silly to not have it this way since it's easy to set up in the page markup. I don't know of many websites that deviate from this design when username and password field are on the same page. \n\nAll the other people commenting about TFA or the picture verification thing are a bit irrelevant since those usually exist on different pages and those cases don't make sense for what you are talking about.",
+            "title_similarity": "0.8642064",
+            "sentiment_compound": 0.8074
+        },
+        {
+            "id": "gx6amco",
+            "score": 1,
+            "text": "As a programmer that's not a UX expert but has to do shit like this:\n\nYes, it should, provided there's no other fields to input things in.\n\nThe only reason this wouldn't be the case is that tab indexes are difficult to use across contexts, and also fuck it I don't care, I'm not going to worry about tab index unless someone asks for it.\n\nI'm a backend developer forced to do fullstack work because they wont hire a web designer or front end developer.\n\nIf the application works, I really don't care~",
+            "title_similarity": "0.7204329",
+            "sentiment_compound": -0.9589
+        },
+        {
+            "id": "gx6d3sq",
+            "score": 1,
+            "text": "Pressing enter should do this too",
+            "title_similarity": "0.32681948",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx6gb2k",
+            "score": 1,
+            "text": "Pressing tab after typing in a username should bring you to the input in the form.",
+            "title_similarity": "0.55713034",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx6icfw",
+            "score": 1,
+            "text": "I agree, but only after it automatically Control-Copies the username or email dares that was typed in.",
+            "title_similarity": "0.7329632",
+            "sentiment_compound": 0.1901
+        },
+        {
+            "id": "gx6psea",
+            "score": 1,
+            "text": "Unrelated, but I have to use this spreadsheet at work, and instead of tab going to the next cell like it does in our other spread sheets, it completely erases all of the data you’ve put in, and opens 6 more of the same spreadsheet. \n\nYou can’t even recover it by hitting ‘back’ or whatever on the original sheet. \n\nFuck. Nothing makes me angrier.",
+            "title_similarity": "0.7102367",
+            "sentiment_compound": 0.6128
+        },
+        {
+            "id": "gx6s4wt",
+            "score": 1,
+            "text": "how is anyone going to disagree, let alone change your view? I mean I guess I could argue that puts a small burden on web designers as far as ordering links and css or something",
+            "title_similarity": "0.5839412",
+            "sentiment_compound": -0.836
+        },
+        {
+            "id": "gx6tmki",
+            "score": 2,
+            "text": "Is there a scenario where this isn’t the case? I find it hard to believe this isn’t a unanimous opinion amongst everyone.",
+            "title_similarity": "0.2722935",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "gx71njd",
+            "score": 1,
+            "text": "I always thought but never understood why it’s like this, but why can you only enter certain special characters AND on top of that why a website requires a password to have requirements? It’s just to me I feel like that makes it sort of easier to figure out the password when someone knows your password has at least those requirements and can maybe use a tool at that point. But without requirements it would make someone trying to crack your password take more time i feel like? The only bad thing about no requirements I can see is easy passwords asdf1234",
+            "title_similarity": "0.8374405",
+            "sentiment_compound": 0.9522
+        },
+        {
+            "id": "gx77tgt",
+            "score": 1,
+            "text": "No. This is deliberate. It prevents bots from trying again and again to guess access credentials.\n\nDevelopers will usually change the order of the fields or have hidden fields you cannot see, but only bots can see. That is called a honey trap and designed to work out if you are a human using your vision to navigate the page or a bot, checking out the page through code.\n\nIf one of the hidden fields receives some input, then the website knows a bot is at work.",
+            "title_similarity": "0.6843208",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "gx79bih",
+            "score": 1,
+            "text": "This makes it easier to brute force attacks if the website has weak security. Since most people use one password for multiple websites, that's a bad design. Slower for users means harder for bots.",
+            "title_similarity": "0.6559273",
+            "sentiment_compound": -0.6249
+        },
+        {
+            "id": "gx7fnk4",
+            "score": 1,
+            "text": "For Me if I pressed “Enter” it used to send me to the password section. Whatever happened :(",
+            "title_similarity": "0.63100374",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "gx7k3dx",
+            "score": 1,
+            "text": "There is one instance where this principle not being adhered to is a big deal to me: comment text boxes.\n\nEvery website I've ever been on allows you to post by writing the comment, then pressing Tab + Enter. \n\nYouTube however, one of the biggest sites of the internet, instead jumps to the \"cancel\" button and just fucking deletes your comment.",
+            "title_similarity": "0.6611095",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "gx7k4eu",
+            "score": 1,
+            "text": "I'm not sure if this will \\*change\\* your view per se, but hopefully will enlighten it: tab order of objects is something that has to be manually set, and I would wager any time the behavior is different than you suggest it's an oversight, not intentional.",
+            "title_similarity": "0.6160353",
+            "sentiment_compound": 0.8186
+        },
+        {
+            "id": "gx7l1x9",
+            "score": 1,
+            "text": "I dunno man. This wouldn't make much sense if you're filling in your username to recover your account.",
+            "title_similarity": "0.5723765",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx7u408",
+            "score": 1,
+            "text": "And if you don't give in, they'll mention how they donated 10 (1%) moonbars to get you to do it",
+            "title_similarity": "0.48975158",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx82hbu",
+            "score": 1,
+            "text": "Who's going to enforce that? You'd need a one world government, or at least complete global cooperation about a pretty trivial matter.",
+            "title_similarity": "0.5579861",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "gx8ccyj",
+            "score": 1,
+            "text": "Wouldn’t that aid bots?",
+            "title_similarity": "0.35134363",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx8jkj4",
+            "score": 1,
+            "text": "How about we get rid of passwords completely as a way to authenticate?",
+            "title_similarity": "0.65721613",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gx8jq3m",
+            "score": 1,
+            "text": "UX is the most misunderstood and least regulated part in the tech industry.  It's a total mess.  Pressing tab to get to the next text field is like the tip of the tip of the iceberg.",
+            "title_similarity": "0.54991823",
+            "sentiment_compound": -0.4563
+        },
+        {
+            "id": "gx91lqa",
+            "score": 1,
+            "text": "There could be easily an add on to simulate this. It is just a simple edit to the tab index and if a website doesn't fix that, they are truly evil",
+            "title_similarity": "0.5991784",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "gx97h0q",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.10154524"
+        },
+        {
+            "id": "gx99qmc",
+            "score": 1,
+            "text": "Instead of blindly expecting the world to always be exactly the same, wouldn't it be so much more beneficial to always be watching what's happening in the world around you so you can more accurately react to it? I know what you mean and I can empathize, but you can clearly see on a computer if there is something else between the username and password, and you can plan accordingly. \n\nMaybe you don't process information as fast as me. I spent my academic career training my brain so I could spend less time on studying and more time playing video games. So this to me is a non-issue. I hate when on a phone you start entering information into a form and the keyboard and ads keep you from being able to see what you are typing. That to me is far more egregious. This just feels like a mild pet peeve.",
+            "title_similarity": "0.71951807",
+            "sentiment_compound": 0.6804
+        },
+        {
+            "id": "gx99tez",
+            "score": 1,
+            "text": "It's up to you whether you want to consider this a proper counter argument or not, but I think it's extremely important never to become too comfortable in the way you navigate a PC.\n\nA mindful power user doesn't carelessly cash in his knowledge that pressing tab is typically the fastest way to logging in by insisting on force-typing that exact combination on every site they try to log into, but instead they watch out for the effect of pressing tab on any given website, and whenever one doesn't abide by the standard, figuring out the smoothest way to fill in the login prompt barely costs them any more time than the tab combo does.\n\nAs such, a good power user considers slight deviations from the norm every once in a while no more an obstacle than the rest of the web - and in fact they appreciate the reminder to stay on guard.\n\nIn other words: Yes, developers should strive to uphold that standard but no, the expectation shouldn't be that the standard is upheld by principle.",
+            "title_similarity": "0.8345591",
+            "sentiment_compound": 0.9199
+        },
+        {
+            "id": "gxbt2ca",
+            "score": 1,
+            "text": "what? Why is it even view? We have come back to basics. huh",
+            "title_similarity": "0.37646562",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxbxgqx",
+            "score": 1,
+            "text": ">CMV: Pressing tab after typing in a username should ALWAYS bring you to the \"password\" prompt\n\nNothing is free, not even this.  If a corporation can shave a few pennies to not figure this out, they will shave a few pennies to not figure this out.\n\nThis is one of those silent QoL improvements that nobody will ever care about.  It's not noticeable enough to be a feature, and it's not cumbersome enough to be elevated to a \"bug\" or \"bug-like\".\n\nYou're just going to have a slightly higher minimally awake mental state when entering username/password, or accept the consequences with grace.",
+            "title_similarity": "0.8398874",
+            "sentiment_compound": 0.8019
+        },
+        {
+            "id": "gxc7l3f",
+            "score": 1,
+            "text": "Yeah and the next tab should engage the submit/login to just hit enter!",
+            "title_similarity": "0.50867593",
+            "sentiment_compound": 0.5983
+        }
+    ]
+}

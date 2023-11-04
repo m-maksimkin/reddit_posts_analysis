@@ -1,0 +1,448 @@
+{
+    "ELI5 If boiling water kills germs, aren't their dead bodies still in the water or do they evapourate or something\n": [
+        {
+            "id": "hqeuirx",
+            "score": 3,
+            "text": "They're still in the water, but they are harmless when dead (and mostly harmless when alive too). \"Germs\" are absolutely tiny. Way smaller than a single human cell is, and you inhale and engulf human cells constantly. Dust is mostly human cells, so you're breathing them in right now, but I bet you can't tell its happening.",
+            "title_similarity": "0.51346236"
+        },
+        {
+            "id": "hqfsfvt",
+            "score": 0,
+            "text": "Added protein in the water perhaps?",
+            "title_similarity": "0.42446455"
+        },
+        {
+            "id": "hqgg20e",
+            "score": 0,
+            "text": "I’ve always imagined it more like massive field of cellwrecks, swirling around hard mineral deposits, organelles and desiccated streamers of unbounded DNA floating around like dead messengers until eventually the Great Pour happens.",
+            "title_similarity": "0.4795249"
+        },
+        {
+            "id": "hqgc6b9",
+            "score": -1,
+            "text": "[deleted]",
+            "title_similarity": "0.36114272"
+        },
+        {
+            "id": "hqgzaaa",
+            "score": 1,
+            "text": "They're still there, but it doesn't really matter/not something to worry about. Dead ones are not harmful.",
+            "title_similarity": "0.3004784"
+        },
+        {
+            "id": "hqh1vur",
+            "score": 1,
+            "text": "Now this is a great question! I’ve always wondered this too, especially now with using hand sanitizer and Lysol wipes so much.",
+            "title_similarity": "0.40056625"
+        },
+        {
+            "id": "hqf7g7h",
+            "score": 4,
+            "text": "Their bodies, mostly made of water, will burst at boiling temperatures.  So bits of the cells are in the water but they aren't an organism anymore and are therefore harmless.",
+            "title_similarity": "0.7342179"
+        },
+        {
+            "id": "hqfgg4g",
+            "score": 13,
+            "text": "Everything you eat, drink, breath is full of microorganisms.  Most don't hurt, or help.  If we could magically purge all of them from what we consume it would not be more healthy.",
+            "title_similarity": "0.4942876"
+        },
+        {
+            "id": "hqfh0ew",
+            "score": 232,
+            "text": "[removed]",
+            "title_similarity": "0.31110004"
+        },
+        {
+            "id": "hqfeqth",
+            "score": 5,
+            "text": "The dead germs in the water are just that, dead. Because they are too tiny to see, they remain unseen but still very much dead (if they all died, that is).",
+            "title_similarity": "0.6659088"
+        },
+        {
+            "id": "hqf6d21",
+            "score": 36,
+            "text": "As far as I know, their proteins get denatured so they lose their estructures and can't work anymore. Like, the heat of the boiling water breaks the bonds between the atoms that form the proteins. The components of the germs are still there but they are dead and can't work anymore making you sick.",
+            "title_similarity": "0.7673527"
+        },
+        {
+            "id": "hqf157d",
+            "score": 50,
+            "text": "Just to add on. \n\nSome bacteria leave behind \"shells\" and other waste products which are not broken down by high heat. Which can get you sick afterwards.",
+            "title_similarity": "0.65843666"
+        },
+        {
+            "id": "hqev3rj",
+            "score": 584,
+            "text": "yes they are inside the water. but they're dead so no longer harmful. their bodies are acted upon by hcl or thrown out along poop",
+            "title_similarity": "0.70189965"
+        },
+        {
+            "id": "hqeurb6",
+            "score": 154,
+            "text": "They are still present they just dont do anything. The sheer mass/amount of them is too small to be felt by anything. They are dangerous because they go into your body and then reproduce- if they are all dead they dont do anything, body will just filter them out. Or in case of consuming water their corpses will just pass through you and be dissolved or just pass through your digestive system",
+            "title_similarity": "0.6548889"
+        },
+        {
+            "id": "hqfy8ga",
+            "score": 20,
+            "text": "Fun fact: Even the dead parts of germs can cause an immune reaction, especially if they get somewhere where they're really not supposed to be such as inside your body cavity. Because of this surgeons have to scrub their hands using a special process that doesn't just destroy germs, but also washes their debris away (as well as special chemicals that inhibit the growth of microorganisms inside of gloves)",
+            "title_similarity": "0.65274674"
+        },
+        {
+            "id": "hqfr39r",
+            "score": 1631,
+            "text": "Note, boiling water not only kills the bacteria but also destroys/deactivates their proteins so that they no longer have effect.  Basically, you not only kill the bacteria you disarm their weapons.\n\nHowever, other methods that kill bacteria but don't deactivate those proteins can still leave them dangerous.  Gram negative bacteria have things called endotoxin that can make you go \"septic\" even if the bacteria are dead.  In fact, killing the bacteria can pour those toxins out into circulation and make you very sick. \n\nFor the ELI5: it's like you kill the bacteria but they've all armed their grenades.  Even though the bacteria are dead, their bombs still go off and hurt you.",
+            "title_similarity": "0.7469462"
+        },
+        {
+            "id": "hqfweaa",
+            "score": 204,
+            "text": "Correct! They still are around in the water! As others have given you an ELI5, I'll expand a bit. \n\nThis is the source of an interesting problem in pharmaceuticals, where a particular type of bacteria (a class called Gram negative) leave behind proteins called lipopolysaccharides (LPS). There are others as well, but these are all grouped under the term 'Endotoxins' or sometimes 'Pyrogens'. If these get into patients, it can cause fevers (the pyro part of pyrogen) or even septic shock (actual clinical implications and symptoms I'm happy to be corrected/expanded on as that isn't my area of expertise!). \n\nWhile standard sterilisation techniques such as autoclaving or filtration through a 0.2uM membrane works to either kill or remove bacteria (respectively) from the drug substance, buffers or equipment, it doesn't remove endotoxins. For this, you need techniques such as: heat -place equipment in a depyrogenation oven that reaches 250C for approx 4hrs or chemical - through the use acids like HCl or (per)acetic acid or alkalis such as sodium hydroxide. The list isn't comprehensive.\n\nFor pharmaceuticals to be injected, for example, because you can't easily remove endotoxins from the drug substance, whereas removing bacteria is easy through techniques like filtration, you have to work in a way to reduce the total level of endotoxin in the final product to an acceptable level. This can involve using aforementioned techniques to try and ensure equipment is depyrogenated and working with low-endotoxin raw materials. It's an interesting topic and can go into a lot of depth in the field!",
+            "title_similarity": "0.58168113"
+        },
+        {
+            "id": "hqeuwgl",
+            "score": 15854,
+            "text": "They’re still there, dead.\n\nKilling them stops them from multiplying inside your guts later and causing a problem.\n\nIt doesn’t magically remove them or their toxic waste chemicals, which is why boiling rotten meat doesn’t make it safe.",
+            "title_similarity": "0.69749737"
+        },
+        {
+            "id": "hqfsap1",
+            "score": 4,
+            "text": "Got lost in the wild once. Had to boil swamp water and filter it with a (clean) sock. I didnt get sick but pretty sure i still drank some nasty shit that day.",
+            "title_similarity": "0.56322"
+        },
+        {
+            "id": "hqfsohr",
+            "score": 3,
+            "text": "Well not quite. They aren't just killed but rather they are also destroyed (mostly). Proteins denature at high levels of heat. So they do breakdown.",
+            "title_similarity": "0.6694752"
+        },
+        {
+            "id": "hqfv9ci",
+            "score": 1,
+            "text": "Boiling water not only kills the biologicals but 'denaturates' the proteïne they are made from, this means the shape of the protein is altered by cooking so other life can no longer be affected, much like an egg being cooked: the egg white and egg yoke transforms permanently to a different form, which are generally safe to eat. \n\nSo, YES, their corpses remain, but are cooked. 'Denaturated proteins' or cooked protein has no biological function anymore, however the amino acids(, the building blocks of proteïne) might be (partly) recovered by your gut for food or to rebuild your body. \n\nDisease is unable to be transmitted if the genetic code (stored in RNA or DNA, both also proteine)  is destroyed by (cooking and) denaturisation. \n\nGenerally poisons will lose their effectiveness if based upon a proteïne, and cooked, however poison based upon simple acids tends to survive, but will be diluted to a point where it's inactive anyways.",
+            "title_similarity": "0.71024513"
+        },
+        {
+            "id": "hqfvxjo",
+            "score": 1,
+            "text": "High temperatures de-nature proteins, exactly how egg whites change when you cook an egg. \n\nOnce a protein has been de-natured it can't return to it's original configuration, so the bacteria are considered dead.",
+            "title_similarity": "0.7313655"
+        },
+        {
+            "id": "hqg0pge",
+            "score": 1,
+            "text": "Is there a bunch of microscopic corpses floating around in boiled water?  Not really.  There won't be zero, but boiling will pulverize some of the bacteria into even smaller constituent materials.  Of course, this is not a big deal since even in regular water the circle of life means that you'll have living and dead stuff floating around.",
+            "title_similarity": "0.7224849"
+        },
+        {
+            "id": "hqg1hx5",
+            "score": 1,
+            "text": "Germs are single cell organisms. Cells, in turn, are made up of many kinds of molecules.\n\nA cell wall is made up mostly of \"fats\" (those are a category of molecules) . Why? Because oil and water don't mix. So a wall made up of fats keeps the cell sealed. Protects it from anything that dissolves in water, coming in.\n\nHowever, fats break down when heated. That's why germs (and, indeed, any other life form) die if boiled. The cell walls break down. Those molecules turn into other, simpler molecules. ( It's also why you can clean a greasy dish with hot water.)\n\nSome of the matter that used to make up the germs evaporates, some of it stays in place. But all (or at least the vast majority) of it transforms into simpler molecules. As for into what, exactly? Well a full answer to that is beyond the scope of even the most advanced science. We simply cannot know. The complexity of life is beyond our grasp.\n\nThat's also why all I can do is laugh at the \"scientists\" who go on TV to predict that if everyone took this or that vaccine, it's definitely going to end some pandemic. That's not how it works. They don't actually know that. They're over-stating how much they know.",
+            "title_similarity": "0.682376"
+        },
+        {
+            "id": "hqg1xn4",
+            "score": 1,
+            "text": "They’re dead and can’t multiply inside you.  THAT SAID some water sources and food, meat mainly, when it goes “bad” bacteria have likely been multiplying and releasing toxins that can make you ill even if you cook/boil it and kill all the bacteria.",
+            "title_similarity": "0.73147064"
+        },
+        {
+            "id": "hqg2akq",
+            "score": 26,
+            "text": "Not ELI5.. But I work in pharma... So I have a little insight\n\nGram negative bacteria shed their cellular wall as they die. These are called endotoxins. To destroy endotoxins... You have to heat it to something like 250 deg C. for at least 30 mins or so (boiling water is 100 deg C) \n\nThe bacteria are dead... But their \"poop\" is still floating around\n\nDrink it.. And you'll probably get nauseous but eventually be fine\n\nInject it into your bloodstream.... You're dead in a day or two\n\nThe dead bacteria are sterile... The \"poop\" they leave behind is not\n\nEndotoxins are washed off (rubber, metal, and plastic goods - stoppers, washers, syringe barrels, overseals) ... Or burned off (glass vials)",
+            "title_similarity": "0.764619"
+        },
+        {
+            "id": "hqg30k7",
+            "score": 1,
+            "text": "Think of it like a car from which the engine is removed. Its still a car when its body and shape are concerned but it wont work. \n\nSimilarly, Boiling the water renders the bacteria ineffective. Their threat is nullified and now they cant attack your immune system and cause problems. Your immune system will take care of the dead bodies like it does with 1000s of other micro particles.",
+            "title_similarity": "0.63462853"
+        },
+        {
+            "id": "hqg4oo1",
+            "score": 1,
+            "text": "Live germs are crawling over every square centimeter of your living flesh this exact instant.\n\nThey're in your eyes and up your nose and all over your privates and also publics.\n\nYour body is like 50% foreign critters.\n\n(Big existential shrug while you come to terms with the nature of your existence.)",
+            "title_similarity": "0.42118007"
+        },
+        {
+            "id": "hqg4sz5",
+            "score": 1,
+            "text": "When a bacteria dies all the bits are left behind, including parts of the the cellular membrane that can result in something called endotoxin.  This is a respiratory irritant and can kill if it gets into the blood stream.  Depending on the species of bacteria there could be other toxins present that are excreted by the bacteria, the bacterial toxins can cause significant illness through ingestion.\n\nHowever, these toxins are typically based on proteins, structures that are denatured by heat.  heat causes the tertiary structure of folded proteins to change, changing the biological activity of the proteins. heat meaning higher than 70 deg C. so boiling will not only kill the bacteria it will denature the bits left behind, except of course when it does not....Archaebacteria can live in hot springs at or close to the boiling point of water and in some instances (such as deep sea fissures well above boiling point.",
+            "title_similarity": "0.7248217"
+        },
+        {
+            "id": "hqg57dp",
+            "score": 1,
+            "text": "I'm a research & development bacteriologist. Bacteria can harm you in many ways. Some bacteria actively atrack your cells if they are alive, and sometimes they can even harm you if they are dead because they make endotoxins inside of them that are released when they die. The important thing is to not let them grow at all, or kill them quickly before enough of them are present to poison you with these endotoxins. Endo means internal or inside, Exo mean outside. Live bacteria can excrete exotoxin, and dead bacteria can poison you with their endotoxins when they are released after death.",
+            "title_similarity": "0.67893237"
+        },
+        {
+            "id": "hqg5id2",
+            "score": 1,
+            "text": "Fun fact: the fact that some remnants of toxins secreted by bacteria can remain after boiling is why we test vaccines with horseshoe crab blood\n\nhttps://en.wikipedia.org/wiki/Limulus_amebocyte_lysate\n\nhttps://maximumfun.org/episodes/sawbones/how-horseshoe-crabs-probably-saved-your-life/",
+            "title_similarity": "0.55091774"
+        },
+        {
+            "id": "hqg5qs0",
+            "score": 1,
+            "text": "There’s two ways that pathogens (germs) can make you sick.\n\nOne is as living organisms they can cause infection. This can harm you by directly damaging tissues/organs and causing inflammation.\n\nThe second way it through toxins they produce. \n\nMost of the common pathogens that get us sick is through active infection. Harm from toxins is relatively rare.\n\nBoiling water kills almost all pathogens, reducing/eliminating the risk of infection. Since harm pathogen toxins is rare, it’s less of a concern.\n\nThere are some exceptions. For example, botulism (which grows in improperly canned foods) caused harm through its toxin. So even if you thoroughly cook those improperly canned foods, the toxin remains and you can get sick from it.",
+            "title_similarity": "0.65722716"
+        },
+        {
+            "id": "hqg5rin",
+            "score": 1,
+            "text": "I thought I’d just add that yes all the dividing bacteria will die at the boiling point of water (and their contents remain in the liquid), however some species of bacteria produce spores which can survive boiling, anthrax being one such example",
+            "title_similarity": "0.741901"
+        },
+        {
+            "id": "hqg7qe3",
+            "score": 1,
+            "text": "The heat destroys the bacterial proteins and building blocks of their body but you are correct that it doesn't disintegrate or vaporize the cellular material.  In medicine these left over bits and pieces,  the floatsom of the boiling kettle are called pyrogens.  Internally our immune system can react to the floatsom.  This is where filtration comes in handy.  The bits and pieces arcle comparatively large compared to the atomic structure of water and so by running the water through various filters or osmotic processes you end up with sterile water.  Typically you would filter first and then boil but the order isn't particularly important.",
+            "title_similarity": "0.69949186"
+        },
+        {
+            "id": "hqg8c24",
+            "score": 1,
+            "text": "Yeah so germs and bacteria are something we eat every day, dead or alive. Our immune systems take care of them",
+            "title_similarity": "0.3334565"
+        },
+        {
+            "id": "hqg8lun",
+            "score": 3,
+            "text": "Think boiled egg. The germs are tiny fat and sugar bubbles filled mostly with protein, not a unlike an egg (the shell isn’t hard like that). Heat it up, and the proteins unfold (what you see when the egg whites go from clear to white), and the shell cracks letting stuff spill out. In the case of most germs, they tend to pop more than crack and ooze (mor like microwaving an egg in its shell.\n\nThey don’t evaporate. The materials are still there, just cooked and no longer functional.",
+            "title_similarity": "0.48192984"
+        },
+        {
+            "id": "hqgf4ab",
+            "score": 5,
+            "text": "Ok then, based on the responses why can't you just recook food that's been in the danger zone too long to make it safe again to eat?",
+            "title_similarity": "0.5453922"
+        },
+        {
+            "id": "hqglr0v",
+            "score": 2,
+            "text": "how is the sausage made you ask? don't ask that",
+            "title_similarity": "0.4559209"
+        },
+        {
+            "id": "hqglrld",
+            "score": 2,
+            "text": "There's two kinds of food contamination to worry about.  Most things parasites, salmonella, e coli etc. harm you by growing in your body.  Boiling them kills them.  Their cooked bodies just get digested like any other food.\n\nThe main exceptions are botulism and red tide which are powerful toxins produced by certain bacteria/algae that can will kill you even after the food is sanitized (cooked/boiled).  Fortunately these are both fairly rare and easily avoided.",
+            "title_similarity": "0.6895858"
+        },
+        {
+            "id": "hqgn9rj",
+            "score": 1,
+            "text": "The dead germs' bodies stay in the water, but they're dead they can't poison you it's fine.",
+            "title_similarity": "0.5734155"
+        },
+        {
+            "id": "hqgndax",
+            "score": 1,
+            "text": "Once they die, they disintegrate, and can no longer invade your cells, thus rendering them useless and practically harmless",
+            "title_similarity": "0.56563085"
+        },
+        {
+            "id": "hqgp6l9",
+            "score": 1,
+            "text": "It's important to know why something is dangerous to you. Germs are dangerous because the things they do while they're alive hurt your body. Kill them, and they stop being dangerous in that way. Some poisonous things are harmful to your body just because of what they're made of. Hand sanitizer might kill a germ but it won't get rid of a poison. This is why it's better to wash your hands when you can. Hand washing with soap and water removes germs and poisons.",
+            "title_similarity": "0.69431734"
+        },
+        {
+            "id": "hqgqdmw",
+            "score": 1,
+            "text": "This is why distillation exists - you boil the water and collect the evaporation, which becomes water again without nearly as many contaminants.",
+            "title_similarity": "0.67476416"
+        },
+        {
+            "id": "hqgrkfh",
+            "score": 3,
+            "text": "Still there. Same with hand sanitizer. That’s why washing your hands with soap is a better option if available.",
+            "title_similarity": "0.50225496"
+        },
+        {
+            "id": "hqguecj",
+            "score": 2,
+            "text": "When we sterilize drugs it’s important to remove all the parts of the bugs that were killed in the process. We test for endotoxins which occurs as residual protein and can cause fever when administered intravenously.",
+            "title_similarity": "0.59608114"
+        },
+        {
+            "id": "hqgwere",
+            "score": 1,
+            "text": "Yes they are still there.  Some of the dead bug remnants can produce what’s called endotoxin.  All sterile injectable’s are tested for these prior to release.  These, if in the product would cause fever and other more serious issues so it important that the water used in pharma and biotech processing is not only sanitary but also free of most bug bodies to be hung with even if rendered sterile.",
+            "title_similarity": "0.57096195"
+        },
+        {
+            "id": "hqgzrgv",
+            "score": 5,
+            "text": "Yes! And if you add a little salt to that boiled water and use it to make, say, IV saline, those bacterial corpses can still cause an immune response. There are extra steps to make IV fluids non-pyretic, meaning 'won't cause a fever'.",
+            "title_similarity": "0.60695076"
+        },
+        {
+            "id": "hqh2c25",
+            "score": 3,
+            "text": "Yes, this is why some spoiled foods are not safe to eat even after boiling it, although the dead bacteria usually aren't the problem, but some bacteria leave toxins while they are alive, and those toxins don't always break down with heat, so basically the bacteria poison the food whole they are alive, and then the poison stays even after the bacteria dies. \n\nIt really depends on the bacteria though.",
+            "title_similarity": "0.668574"
+        },
+        {
+            "id": "hqh8191",
+            "score": 3,
+            "text": "Over the past 2 years I’ve seen heaps of people trying to clean their hands with sanitiser. It doesn’t clean your hands, they are still dirty, just all the germs are dead",
+            "title_similarity": "0.6806187"
+        },
+        {
+            "id": "hqha505",
+            "score": 1,
+            "text": "Wait. So in a life or death situation. What is the best way to drink water from a river or lake? Without those fancy water straws it's not like I can boil it then use my shirt to strain the dead bacteria.",
+            "title_similarity": "0.66402173"
+        },
+        {
+            "id": "hqhbw5s",
+            "score": 2,
+            "text": "Do yourself a favor and decide not to over think it, and please don't go down the X number of bugs etc in packaged food items rabbit hole.",
+            "title_similarity": "0.43732208"
+        },
+        {
+            "id": "hqheu32",
+            "score": 3,
+            "text": "You know how hand sanitizer kills some bacteria and viruses? They are still on your hands, they just are dead. 🌈",
+            "title_similarity": "0.67372227"
+        },
+        {
+            "id": "hqhezqy",
+            "score": 1,
+            "text": "Imagine bringing a meat dish to your grandma's funeral. Its totally fine to show up with a casserole dish full of meaty goodness. The meat is dead. But if you brought live cattle, pigs, and chicken it would be chaos.",
+            "title_similarity": "0.46637416"
+        },
+        {
+            "id": "hqhgtdn",
+            "score": 2,
+            "text": "It took me too long to realize you weren't talking about putting dead bodies in boiling water and asking if they evaporated.\n\nI seriously came to the comments seeing why someone would know this.",
+            "title_similarity": "0.615427"
+        },
+        {
+            "id": "hqhtn4r",
+            "score": 1,
+            "text": "Yep: the dead bodies are still there. Same with the corpses of bacteria left in milk after pasteurization. Which is a drink they promote to kids! The horror! The immorality of it!\n\nMakes you wonder if anti-vaxxers know how many random bits of bio debris they breathe and eat on a daily basis, over which they have absolutely no control. Thankfully our immune system handles most of it... which is the entire point of any vaccine: to train our immune systems to know what's coming.",
+            "title_similarity": "0.5827383"
+        },
+        {
+            "id": "hqhzbqj",
+            "score": 1,
+            "text": "It can often times denature the proteins that make up their cell wall, basically making their innards spill out. However, as others have said, this doesn't work on EVERY \"germ.\" Some bacteria can withstand some pretty high heat, not to mention their toxins can't be destroyed. There's also some that are in spore form that can't be destroyed. If you're under a boil water advisory the people in charge of your water treatment can usually find out what's in the water and know that boiling it will make it safe for the majority of people drinking it.",
+            "title_similarity": "0.62955636"
+        },
+        {
+            "id": "hqi0igz",
+            "score": 1,
+            "text": "Yes the dead bacteria are still there. If you eat dead bacteria it won't cause a problem, but if they are injected into your bloodstream it can cause a fever, so are called pyrogens. For companies that make injectable drugs, they have to take extra measures to get rid of the dead bacteria on those products (after sterilization).",
+            "title_similarity": "0.6696775"
+        },
+        {
+            "id": "hqi5gdj",
+            "score": 1,
+            "text": "You’re covered in so many “germs” right now.  It’s honestly a term advertisers made up to sell cleaning products.  I mean boiling water is a good thing, but dead bacteria won’t hurt you.",
+            "title_similarity": "0.5981716"
+        },
+        {
+            "id": "hqi9833",
+            "score": 1,
+            "text": "I have a question to tack on. If I put water that has dysentery in it due to a dead animal, does boiling that water still make it clean?",
+            "title_similarity": "0.8244953"
+        },
+        {
+            "id": "hqi9p15",
+            "score": 2,
+            "text": "While the bacteria/microbes didn’t evaporate, it isn’t quite accurate to say that they’re dead bodies are there, it’s my understanding that processes that sanitize things usually rupture cell walls, denature proteins, and effectively can reduce what was a living cell to a soup of proteins and other organic matter. So any toxins that were present, probably still are, which is why you can’t just cook moldy bread and eat it without I’ll effects. The big thing to remember with microbes is that they’re automatons, biological machines, for many of them (viruses especially) if everything is still in the correct place, and the dna is still readable, they’re not dead yet. So when boiling or sanitizing with alcohol, usually the proteins making up the microbe are destroyed and rendered useless through a myriad of reactions. So any process that sanitizes will usually completely destroy most things that are organic. However the pieces/remnants of those microbes are still present, so if you boiled yogurt (which I’ve heard is largely bacteria), and then let it sit out, there would still be a mix of protein and sugar left, and while it’s sanitary now, it would be a great environment for other microbes to reproduce in.",
+            "title_similarity": "0.6403907"
+        },
+        {
+            "id": "hqiplag",
+            "score": 1,
+            "text": "Along the same lines, soap generally doesn't kill germs, it just binds with the dirt / germs and you wash it away.",
+            "title_similarity": "0.5014315"
+        },
+        {
+            "id": "hqipvj4",
+            "score": 1,
+            "text": "Dead bodies remain, other bacteria want to feed on dead bodies, makes there be more bacteria unless the dead bodies are gone.",
+            "title_similarity": "0.5818841"
+        },
+        {
+            "id": "hqj2wtz",
+            "score": 1,
+            "text": "Okay so. Boiling water means you give water energy. That means as the heat rises everything in that bowl starts moving faster and faster.\n\nCells and bacteria are made out of a wide range of proteins. These proteins are connected like you click lego bricks together but they need a different amount of energy to take apart.\n\nSo. Now you have a box with your fully built lego set in it and you start shaking it faster and faster. For the first few minutes it will hold together. As you reach a point in the strength of shake it will start falling apart (70°C 158° F). First it will be in large chunks of bricks (cellular membrane brakes down and organs are failing but still somewhat in shape) but as you shake it more and more violently it falls into individual bricks (over the boiling point).\n\nSo to put it you will have some stuff floating around your water if you boil it well but not as you would think it. It isn't becoming a dead cell soup.",
+            "title_similarity": "0.49383232"
+        },
+        {
+            "id": "hqj5had",
+            "score": 1,
+            "text": "Boiling point also doesn’t kill all the bacterias, just the ones that can harm you. It also needs to at boiling point for about 5 mins to completely kill all the harmful bacterias.",
+            "title_similarity": "0.60328937"
+        },
+        {
+            "id": "hqj981r",
+            "score": 1,
+            "text": "Actually their dead Bodies are leading to problems in food processing. If a surface is anti bacterial, it will kill the germs. Since their dead Bodies are not removed, there will be a layer of dead Bodies on the antibacterial surface on which living germs can survive.",
+            "title_similarity": "0.732422"
+        },
+        {
+            "id": "hqjbf9e",
+            "score": 1,
+            "text": "High temperature denatures or destroys the proteins and lipids that make up the microbe, so they can't multiply or actively give out toxins.\nIf they have the capacity they enter a state of hibernation called spores and they may survive and later come out of hibernation to eff us up.",
+            "title_similarity": "0.71398336"
+        },
+        {
+            "id": "hqje6jk",
+            "score": 1,
+            "text": "It reminds me of the Tide pens and things like that.  I always had this skit in my mind where someone uses a Tide pen on an entire plate of spaghetti.  In reality, that and bleaching clothes doesn’t remove the stained “stuff”… but it changes the proteins and you no longer see them… or that is at least the way it was explained to me in the past.",
+            "title_similarity": "0.51036733"
+        },
+        {
+            "id": "hqjg15h",
+            "score": 1,
+            "text": "Still there and that's part of the issue. The poisons they left are still there but at least not making more",
+            "title_similarity": "0.49624014"
+        },
+        {
+            "id": "hqjgovy",
+            "score": 1,
+            "text": "To kill a bacteria you want to denatured the materials it's made out of. Boiling water does that.",
+            "title_similarity": "0.7563958"
+        },
+        {
+            "id": "hqjhtfo",
+            "score": 1,
+            "text": "Lets call germs bacteria for sake of discussion. Bacteria (and all other eukaryotic cells) have a casing and it's made of two layers of fats, it's called the phospholipid bilayer. Inside the cell most structures are made of proteins and other lipids (fats) and carbohydrates. All these molecules are held together by chemical bonds. Since atoms have a polarity, like magnets, the atoms will bind + with - and the strength of this binding is determined by many factors, but defines this energy required to force the atom to release. Water boiling and changing from liquid to gas occurs at 100C because that's the minimum temperature for the one hydrogen and two oxygen molecules to release their bonds.\n\nSo, once a protein molecule, for example, experiences high enough  temperatures or come in contact with some solvent like alcohol, the bonds break and the individual atoms are released. These atoms are universal building blocks for life and are recycled and reused. Another interesting fact is that all cells have a finite lifespan. Red blood cells are roughly 120 days!",
+            "title_similarity": "0.39828283"
+        },
+        {
+            "id": "hqjirs2",
+            "score": 1,
+            "text": "You are constantly eating dead bodies in stuff. Particularly bits of dead bugs. There are standards for the amount of dead bug bits for different foods. Fyi, cinnamon contains a huge amount of dead bug bits.",
+            "title_similarity": "0.44895765"
+        },
+        {
+            "id": "hqjr0h0",
+            "score": 1,
+            "text": "I’ve always wondered this about cooking meats. Parasites or bacteria would be dead but you’re still eating them 😬",
+            "title_similarity": "0.5202745"
+        },
+        {
+            "id": "hqk11mi",
+            "score": 2,
+            "text": " The casts (corpses) of the bacteria are still present, either intact or in fragments. Heat cooks the proteins of the bacterial cell walls, and denatures the DNA and intracellular contents of the bug, rendering it incapable of reproduction. As Lithium said, many bacterial toxins aren't affected by heat. And some virii and prions, like the one responsible for Creuzfelt-Jacob (Mad Cow) disease can survive steam autoclaving, or even formalin embalming fluid.",
+            "title_similarity": "0.5975328"
+        },
+        {
+            "id": "hsunr99",
+            "score": 1,
+            "text": "I think also that when something semi-rotten is cooked, it might kill all the bacteria but the dead bacteria & their waste (poop) is still there- ewww",
+            "title_similarity": "0.7045783"
+        }
+    ]
+}

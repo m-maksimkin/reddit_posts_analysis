@@ -1,0 +1,3023 @@
+{
+    "Deplatforming controversial figures (Alex Jones, Milo Yiannopoulos, and Owen Benjamin) on Twitter reduced the toxicity of subsequent speech by their followers\n": [
+        {
+            "id": "hhhh2vh",
+            "score": 1,
+            "text": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are now allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will continue be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) still apply to other comments.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "title_similarity": "0.67380005",
+            "sentiment_compound": 0.7088
+        },
+        {
+            "id": "hhi5ej5",
+            "score": 26,
+            "text": "This thread is kind of awful.  A supposed subreddit based on examining thing scientifically immediately starts handwringing the nanosecond someone publishes a paper that suggest that deplatforming hatemongers is a good idea.  People here are already arguing that it's censorship, and that's always a bad thing (probably because they're not affected by the hatemonger's rhetoric), rather than engaging with the paper as published.  They quibble about methodology, and definitions, when all social sciences are somewhat nebulous.  Asking \"how do you define toxicity\" is just a way to deflect from the discussion.  Especially since they literally define it for you.  You can argue with the definition, but you can't just say \"how do you define it?\"",
+            "title_similarity": "0.7256641",
+            "sentiment_compound": -0.4981
+        },
+        {
+            "id": "hhhy90d",
+            "score": -10,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhu2mo",
+            "score": -11,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhu6au",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhxxre",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhy4fz",
+            "score": -7,
+            "text": "u/Epiccure93 asked \"why is this on a science forum?\" Here's why:\n\nBecause sociology is a science, and this is a study of social spaces. Hence, this is science, regardless of if it goes against your political views or not.",
+            "title_similarity": "0.48543656",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhhu993",
+            "score": 57,
+            "text": "The loudest voice in the room sets the culture for their followers. Change the tune of the loudest voice, change the culture",
+            "title_similarity": "0.43092564",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhhnvxt",
+            "score": 35,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhrtmq",
+            "score": 19,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi5cp8",
+            "score": -8,
+            "text": "The comments here are kind of depressing. There is so much excellent research on toxicity in online spaces. It is necessary to combat the malevolent online disinhibition effect.\n\nEvery academic says that concepts are poorly defined, and people in the comment section seem to be latching onto that. There are thousands of papers in the research area. Toxicity is reasonably well defined. Just because a term has a subjective quality doesn't mean that there aren't shared understanding of the phenomenon. \n\nI bet if you tried to define a video game I could poke holes in your definition. Does that mean we shouldn't study video games either?\n\nQuality of discussion here is lower than the standard I expect of this sub.",
+            "title_similarity": "0.71213996",
+            "sentiment_compound": -0.3508
+        },
+        {
+            "id": "hhhuvhc",
+            "score": 17,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhz1ig",
+            "score": 43,
+            "text": "Sorry, how do we measure \"toxicity\"?",
+            "title_similarity": "0.42204008",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "hhi6jjq",
+            "score": -13,
+            "text": "I want to thank everyone for the thoughtful comments. There's a lot here to ponder.  \n\nFundamentally I believe our system for managing speech is broken in the US. In most of the world, hate speech is illegal. In the US, we argue that we don't want the government making critical decisions about what speech is allowed, so hate speech is legal.  BUT then we say, corporate platforms are like private parties and can/must make decisions about what speech is allowed.  So it's too delicate for our elected officials, but we trust tech companies driven by a desire to maximize profits to do the right thing?  That's insane.  \n\nThe solution is to have lots of social networks, with their own rules and values. And I believe that more of them should be nonprofits or B-corporations guided by values rather than maximizing shareholder value.\n\nI make this argument in detail in my book \"Should You Believe Wikipedia? Online Communities and the Construction of Knowledge\", which is coming out from Cambridge University Press on 2/3/22. \n\n[https://smile.amazon.com/Should-You-Believe-Wikipedia-Construction-dp-1108748406/dp/1108748406/ref=mt\\_other?\\_encoding=UTF8&me=&qid=1634832078](https://smile.amazon.com/Should-You-Believe-Wikipedia-Construction-dp-1108748406/dp/1108748406/ref=mt_other?_encoding=UTF8&me=&qid=1634832078)\n\nA free sample chapter is here: \n\n[https://www.cc.gatech.edu/fac/Amy.Bruckman/bruckman-believe-wikipedia-draft2021.pdf](https://www.cc.gatech.edu/fac/Amy.Bruckman/bruckman-believe-wikipedia-draft2021.pdf)",
+            "title_similarity": "0.74283016",
+            "sentiment_compound": 0.9763
+        },
+        {
+            "id": "hhhhdgk",
+            "score": -77,
+            "text": "This paper was awarded best paper honorable mention at the 2021 CSCW conference. Papers in CSCW are peer reviewed, and appear in the journal PACM HCI. \n\n[https://cscw.acm.org/2021/awards/](https://cscw.acm.org/2021/awards/)\n\nIf you have trouble accessing the official link, a preprint is here: [https://shagunjhaver.com/research/articles/jhaver-2021-deplatforming/](https://shagunjhaver.com/research/articles/jhaver-2021-deplatforming/)",
+            "title_similarity": "0.47837377",
+            "sentiment_compound": 0.8271
+        },
+        {
+            "id": "hhhs7d9",
+            "score": 78,
+            "text": "To what end? At a macro level \"out of sight out of mind\" does very little. It just ignores the problem instead of dealing with it",
+            "title_similarity": "0.48318428",
+            "sentiment_compound": -0.5478
+        },
+        {
+            "id": "hhhsovz",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhum2n",
+            "score": -7,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhx3tq",
+            "score": 189,
+            "text": "\"Whats toxicity??!? How do you define it!?!?!?!??!\"\n\nGuys, they *tell* you. Read. The. Paper.\n\n> Working with over 49M tweets, we chose metrics [116] that include posting volume and content toxicity scores obtained via the Perspective API.\n\nPerspective is a machine learning API made by Google that let's developers check \"toxcitity\" of a comment. Reddit apparently uses it. Discuss seems to use it. NYT, Financial Times, etc.\n\nhttps://www.perspectiveapi.com/\n\nEssentially, they're using the same tools to measure \"toxicity\" that blog comments do. So if one of these people had put their tweet into a blog comment, it would have gotten sent to a mod for manual approval, or straight to the reject bin. If you're on the internet posting content, you've very likely interacted with this system.\n\nI actually can't think of a *better* measure of toxicity online. If this is what major players are using, then this will be the standard, for better or worse.\n\nIf you have a problem with Perspective, fine. Theres lots of articles out there about it. But at least read the damn paper before you start whining, good god.",
+            "title_similarity": "0.56970966",
+            "sentiment_compound": 0.6983
+        },
+        {
+            "id": "hhhxdcw",
+            "score": 36,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhx6p9",
+            "score": 9,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhrgxg",
+            "score": 49,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhhj13",
+            "score": -49,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhics86",
+            "score": 7,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhx93b",
+            "score": 21,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhyfik",
+            "score": 39,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhihjiq",
+            "score": 0,
+            "text": "That makes sense.  Most of their followers don't actually have a position on any of these issues.  and without their leaders to tell them what to think they wont involve themselves into the discussion.",
+            "title_similarity": "0.5389234",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhhqd9e",
+            "score": 352,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhib8yl",
+            "score": 14,
+            "text": "I believe that Freedom of Speech is more important than whatever offense anyone takes. This censorship affects us all, today is them, but we create the precedent of censorship which will be applied to anyone at anytime by those who are in power.\n\nThe power Trump had was given by the people, election after election, you never know when someone else that abuses power might come. Better not give them the tools to censor us all. Despite whatever you feel about this issue, it is wrong.",
+            "title_similarity": "0.63222206",
+            "sentiment_compound": -0.7099
+        },
+        {
+            "id": "hhhrut8",
+            "score": 6,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi0zx5",
+            "score": 29,
+            "text": "[deleted]",
+            "title_similarity": "0.23479018"
+        },
+        {
+            "id": "hhizeui",
+            "score": 2,
+            "text": "Deplataforming the opposition to Hugo Chavez Frias in Venezuela reduced the toxicity of subsequent speech by people trying to take down the dictator.",
+            "title_similarity": "0.6797695",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhihatn",
+            "score": 22,
+            "text": "Ah yes, when speech is censored to the point where everyone has a homogeneous thought pattern, there’s no room for anyone to disagree.",
+            "title_similarity": "0.40052155",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hhiaobt",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhhjah",
+            "score": 17,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi7nx5",
+            "score": 8,
+            "text": "It's a very slippery slope to only allow a 1 sided conversation to exist. I like the idea of no topic being off limits, but allow individual freedom of speech, press, and expression to be debated. That's what allows new ideas and hard topics to be addressed. De-platforming isn't the correct solution.",
+            "title_similarity": "0.6559039",
+            "sentiment_compound": 0.7722
+        },
+        {
+            "id": "hhia126",
+            "score": 36,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhixkr4",
+            "score": 17,
+            "text": "If you are happy about the censorship of your ideological opponents, just remember the pendulum will eventually swing back your way.",
+            "title_similarity": "0.6687085",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "hhhojrc",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhidy0w",
+            "score": 1,
+            "text": "problem is you push people into echo chambers this way",
+            "title_similarity": "0.4463089",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hhhu81o",
+            "score": -4,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhxddo",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhipbiq",
+            "score": 9,
+            "text": "Some people think the world is flat.  They are insane, but I don’t want them censored.  Let them have their opinion.  Let them go on a public stage to cry out so we can all see they are insane.  I don’t want someone to tell me not to listen to someone though because they already decided for me that they are insane.",
+            "title_similarity": "0.592676",
+            "sentiment_compound": -0.9201
+        },
+        {
+            "id": "hhhzi2p",
+            "score": -2,
+            "text": "[deleted]",
+            "title_similarity": "0.23479018"
+        },
+        {
+            "id": "hhjjfo9",
+            "score": -2,
+            "text": "The Internet is a breeding ground for hate. \n\nThe removal and moderation of hate speech should be more vigorous and preventative. The free speech argument doesn't apply to the Internet.",
+            "title_similarity": "0.70270807",
+            "sentiment_compound": -0.765
+        },
+        {
+            "id": "hhhtqj3",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhitk7s",
+            "score": -6,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhhiys",
+            "score": -50,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhvb3o",
+            "score": 12,
+            "text": "I cannot believe people still use Twitter. It's the cesspit of discourse.",
+            "title_similarity": "0.6553252",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhhwd74",
+            "score": 9,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhnyi9",
+            "score": 724,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhie5vg",
+            "score": 6,
+            "text": "Toxic people always want to just \"have a conversation\" or \"have a debate.\" And they say \"more speech is better.\" It's all BS platitudes that fly contrary to science. More on topic debate, where people agree about definitions and work together to solve problems, can be a good thing for sure. No one from that crowd was ever suggesting that.",
+            "title_similarity": "0.6616769",
+            "sentiment_compound": 0.7943
+        },
+        {
+            "id": "hhi7gpe",
+            "score": 38,
+            "text": "How can you forget about Trump in the \"examples of people that got deplatformed from Twitter\". Not only was he the most shining example of this, the state of **news** as a whole changed when \"Trump tweeted X\" stopped being on the headlines",
+            "title_similarity": "0.7830727",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "hhio4o4",
+            "score": 2,
+            "text": "Regardless of politics, I don’t feel anyone should be censored.  What can I learn about the person who disagrees with me if I can’t even hear his voice.",
+            "title_similarity": "0.5366725",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "hhiyv8r",
+            "score": 18,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhwt4w",
+            "score": -3,
+            "text": "Given that the reason so many people turn to and stay on the alt right is constant outrage farming by figures like this to keep them in a constant state of blind anger, this isn't too surprising. When the source of that constant supply of 'things you should be mad about' gets cut off, there's nothing to fuel the hate",
+            "title_similarity": "0.6300324",
+            "sentiment_compound": -0.9518
+        },
+        {
+            "id": "hhhxqmd",
+            "score": -6,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhitavc",
+            "score": 2,
+            "text": "I can't support these measures just because they're private companies. If they blatantly violate laws such as incitement of violence, only then should they be suspended or banned, but I am not sure that the same standard is applied to left-leaning figures too. \n\nDo we really want private companies to have the power to dictate free speech? Merkel herself was against Trump's deplatforming.",
+            "title_similarity": "0.6276236",
+            "sentiment_compound": -0.5319
+        },
+        {
+            "id": "hhhuop4",
+            "score": -7,
+            "text": "Wow...... Censoring someone limits their reach? What a great study, we didn't know this before. Censoring opposing views must be good for society, right? Think of what would have happened if Milo would have been allowed to keep saying what he wants to say.......",
+            "title_similarity": "0.67584336",
+            "sentiment_compound": 0.9054
+        },
+        {
+            "id": "hhi64et",
+            "score": 8,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhifr46",
+            "score": 17,
+            "text": "They got rewarded when their most insane rants blew up on social media. So they made their speech more extreme. Now that companies are suing for slander and they can't off set it with big influxes of new audiences, they have to tone down their shit b",
+            "title_similarity": "0.8135791",
+            "sentiment_compound": -0.7947
+        },
+        {
+            "id": "hhhs9xl",
+            "score": -5,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhxbrz",
+            "score": -8,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi4jnj",
+            "score": 6,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhzcpq",
+            "score": -4,
+            "text": "I feel like Western civilization was all about freedom and then we just switched it up and tried to make up for it with selective 'science'. When I was a kid these methods were reserved for totalitarian systems and if you asked anyone in the West they were proven to not work in the long run. I'm not sure any good will come of this but I am sure that time will show that if you suppress thought and expressions of opinion there will be backlash",
+            "title_similarity": "0.59959173",
+            "sentiment_compound": 0.4707
+        },
+        {
+            "id": "hhia9s5",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhid5w9",
+            "score": 3,
+            "text": "Anyone proporting to operate from a position of authority (claiming to be a doctor, news anchor, politician, researcher, etc...) should be liable (criminally) for deception or negligent information (especially if it causes harm) if they do not, or refuse to correct it with the same prominence as the false information. \n\nThe title these people have gives them the semblance of integrity and authority above an average citizen. That assertion should come with liability...\n\nFor example, the Trump audits... he has no evidence of fraud. Continuing to claim fraud with no concrete evidence should result in criminal penalty because he has no evidence exists, and it is destabilizing the country.\n\nObviously this would be nuanced but the general idea of free speech should start and end with normal citizens. With enhanced freedoms or asserted authority (researchers, police, politicians, etc...) they should be criminally liable to accurately represent (with evidence) their claims. \n\nResearch, hypothesis, experimentation, and investigations should be protected until sufficient evidence is obtained... after the evidence is out, the facts should  be the facts.\n\nLying isn't free speech, it is abuse of free speech.",
+            "title_similarity": "0.59549797",
+            "sentiment_compound": -0.8692
+        },
+        {
+            "id": "hhia6j9",
+            "score": 0,
+            "text": "If this is true why don't we just ban Twitter instead.",
+            "title_similarity": "0.6188774",
+            "sentiment_compound": 0.6931
+        },
+        {
+            "id": "hhimhyc",
+            "score": 0,
+            "text": "Isn’t it just pushing them to different platforms?",
+            "title_similarity": "0.26532662",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhipe8u",
+            "score": 0,
+            "text": "Their followers obviously can’t parrot their “controversial views” if they can’t access them.  And I’m OK with that in very limited, extreme cases.\n\nHowever, they WILL find other outlets to share those messages.  This will end up driving an even deeper wedge in societies because it will steer some people to the outlet that says whatever they want to hear...  and they’ll be receiving no messaging to the contrary.  \n\nThis ultimately leads to civil war.\n\nThe American right to freedom of speech is crucial to discourse and a balanced discussion.  But canceling others is not a wise move in the long term.",
+            "title_similarity": "0.6657113",
+            "sentiment_compound": -0.3941
+        },
+        {
+            "id": "hhje2bz",
+            "score": 0,
+            "text": "Deplatforming works, has always worked, and always will work.",
+            "title_similarity": "0.26774174",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi9egt",
+            "score": 44,
+            "text": "We know this from research in the past \n\nNegativity breeds more negativity. \n\nhttps://www.psychologytoday.com/us/blog/unique-everybody-else/201303/internet-ranting-and-the-myth-catharsis",
+            "title_similarity": "0.6592688",
+            "sentiment_compound": -0.7841
+        },
+        {
+            "id": "hhitv3y",
+            "score": 69,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhio85m",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhllq9",
+            "score": -43,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhic78c",
+            "score": 5,
+            "text": "I suspect most people won't go out of their  way, for any reason  really, but especially not to read or hear hatred.\n\nSpeaking of which, the GOP, in its present form, would cease to exist without constantly being propped up by the right wing media.",
+            "title_similarity": "0.59882987",
+            "sentiment_compound": -0.8126
+        },
+        {
+            "id": "hhi32bx",
+            "score": 17,
+            "text": "It also built these insulated communities kept out of the wash off higher where their supporters still congregate. But now they actually are right when they say they are silenced.\n\nIt's ok for humanity to show it's blemishes. They get sun of community over time and the good ideas flourish.\n\nLocking these people away is going to start a war.  Just because we allowed big data to heard us all into echo chambers that its shocking to hear people with different opinions than yours.. that doesn't mean that those opinions don't need to circulate and dillute.\n\nI heard a brilliant take on this issue.\n\nData that's being collected and hearding is all into the ecosystems that generate the most clicks is what had broken the internet.\n\nUsed to be if you had an Alex Jones online in a forum you would have 100 other people that would disagree in a meaningful way to progress a topic.\n\nNow you just get people filtered through data into these echo chambers where the government is forced to require these companies to censor. Instead they should be taking away the data industries intrusion into our normal way of socializing.\n\nAny ways I think these guys are assholes. I also think there is a deep divide in America that will only get deeper when you hide a big aspect of human experience. \n\nDo you remember how easily Alex Jones was debunked 15 years ago?  It's this tribal data internet now that's the problem. Not free speech. Free speech works and we should not give up on it so casually.\n\nEspecially when the problem is corporate data control",
+            "title_similarity": "0.761709",
+            "sentiment_compound": -0.9716
+        },
+        {
+            "id": "hhjtdw1",
+            "score": 3,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhied28",
+            "score": 5,
+            "text": "Everyone rushes to the comments to question the headline without reading anything.",
+            "title_similarity": "0.44692335",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhhxiqj",
+            "score": 2,
+            "text": "Physically there is no argument that if you ingest trash, you will be unhealthy.\n\nYet mentally, we don't apply that. The reality is the same. What we watch, and ingest as entertainment or \"news\" has a significant effect on our brains and who we are.",
+            "title_similarity": "0.68597126",
+            "sentiment_compound": 0.3204
+        },
+        {
+            "id": "hhhyter",
+            "score": -2,
+            "text": "Speech and ideas are like viruses. They spread. When you stop the spread of an idea, you reduce the number of people infected. \n\nYou'd think living through a pandemic would teach people that.",
+            "title_similarity": "0.67801",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "hhi4tf5",
+            "score": 2,
+            "text": "Hate to say it but because the right wing is pretty much the Nazi party these days. \n\nI’m surprise you all didn’t recognize that look on Rush Limbaugh‘s face as he spewed out his lying racist hate.",
+            "title_similarity": "0.61701816",
+            "sentiment_compound": -0.8402
+        },
+        {
+            "id": "hhidnjn",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhighpy",
+            "score": 31,
+            "text": "Twitter is a toxic cess pool on all sides, Twitter is only concerned when conservatives are toxic. Wanna dox, swat, call for violence against people, or just misinform people in general? It is all okay as long as long as you have the right political alignment.",
+            "title_similarity": "0.7602066",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "hhjj1fo",
+            "score": -1,
+            "text": "“Restricting free speech results in people speaking less freely” is probably a more accurate title. Once you ban everyone you don’t like, then you’re going to hear fewer things you don’t like.",
+            "title_similarity": "0.6765194",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "hhk2vum",
+            "score": 1,
+            "text": "Anyone with a functioning brain could have told you that",
+            "title_similarity": "0.261537",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhidizc",
+            "score": 49,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhrz7p",
+            "score": 6,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi1rhr",
+            "score": -6,
+            "text": "Thought crime is a dangerous precedent. I will never cheer for 1984 authoritarianism and will mark any one who does, including the OP. We are at war for the hearts and minds of Americans. We can not let our world be destroyed by dystopian minded bullies who work for the elite.",
+            "title_similarity": "0.54789877",
+            "sentiment_compound": -0.9022
+        },
+        {
+            "id": "hhi8ji8",
+            "score": -5,
+            "text": "Ah yes, the science of being a janny",
+            "title_similarity": "0.3281577",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hhkadko",
+            "score": 9,
+            "text": "It would be awesome if we could deplatform far left activists as well. It would reduce the toxicity of their followers",
+            "title_similarity": "0.69552314",
+            "sentiment_compound": 0.7351
+        },
+        {
+            "id": "hhhwu8v",
+            "score": 54,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhip7ab",
+            "score": 128,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhikfu2",
+            "score": 95,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhug04",
+            "score": -17,
+            "text": "Hey look we censored everyone speaking the truth and no there is less offensive truth being shared on the internet wow amazing",
+            "title_similarity": "0.6993977",
+            "sentiment_compound": 0.8323
+        },
+        {
+            "id": "hhi3hl8",
+            "score": 0,
+            "text": "Something I've mentioned lately is that these people should not be allowed to spew their nonsense on the air. Taken a step further... anyone who identifies as a conservative aka regressive should not be allowed to vote.",
+            "title_similarity": "0.5004552",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hhi9tyn",
+            "score": 0,
+            "text": "People avoid using words that result in bans.  More at 11",
+            "title_similarity": "0.44110078",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hhix5va",
+            "score": 0,
+            "text": "So silencing speech of some has chilling effect on others. This seems like an obvious point.",
+            "title_similarity": "0.56803226",
+            "sentiment_compound": 0.1548
+        },
+        {
+            "id": "hhji5dh",
+            "score": 0,
+            "text": "Curious, was any research done on Trump as well or only the people mentioned in the title?",
+            "title_similarity": "0.4082821",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "hhjmlge",
+            "score": 0,
+            "text": "Twitter is a dead platform.",
+            "title_similarity": "0.4870883",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "hhjn43x",
+            "score": 0,
+            "text": "That's very interesting. Doesn't justify censorship.",
+            "title_similarity": "0.43821144",
+            "sentiment_compound": 0.4576
+        },
+        {
+            "id": "hhid6ft",
+            "score": -10,
+            "text": "The fact that nearly every individual who has been deplatformed (read - silenced) has not been a liberal opinion is quite troubling.  Surely anyone on either side of politics should agree that only having one side of any argument presented publicly is a bad idea.  Look to history for examples.  When only one point of view is represented, bad things tend to happen.  Now we've criminalized the opposing viewpoints, which will drive supporters of those views underground and solidify them.  Soon enough we'll have the mainstream positions (left leaning and more socialistic in nature) and a resistance of opponents.  Much better to have both sides out in the open with equal coverage so that people can be educated on both sides of an agenda.",
+            "title_similarity": "0.6935543",
+            "sentiment_compound": -0.4243
+        },
+        {
+            "id": "hhi7jbw",
+            "score": -3,
+            "text": "Also reduced the truth on the platform and increased the censorship",
+            "title_similarity": "0.6664411",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "hhhyjf7",
+            "score": 46,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhicfy5",
+            "score": 93,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhwunb",
+            "score": -10,
+            "text": "It's all fun and games until someone deplatforms you. Mark my words.",
+            "title_similarity": "0.55788004",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "hhkaqry",
+            "score": 10,
+            "text": "\"Toxicity\" is so subjective that anyone can say anything is toxic. I am so sick of this word.",
+            "title_similarity": "0.5190104",
+            "sentiment_compound": -0.6418
+        },
+        {
+            "id": "hhhrosv",
+            "score": -13,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhujnl",
+            "score": -14,
+            "text": "Wow! I think you’re in to something! Maybe censoring does work after all! I wonder if beheading the  controversial figures would have an even more pronounced effect on their followers? Wait, all we have to do is look at Saudi Arabia for confirmation.",
+            "title_similarity": "0.62419033",
+            "sentiment_compound": 0.5962
+        },
+        {
+            "id": "hhim4h6",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhj6oki",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhjvqhe",
+            "score": 2,
+            "text": "Didn't banning trump from social media make disinformation drop like 70% or something close to it?",
+            "title_similarity": "0.548473",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "hhi0qvm",
+            "score": -4,
+            "text": "And yet I find it a coward's way of controlling ideas on a public platform protected by Section 230. Do I follow or even listen to these people? No. However, if the taliban can have an account, why can't these people?",
+            "title_similarity": "0.62963194",
+            "sentiment_compound": 0.504
+        },
+        {
+            "id": "hhipfju",
+            "score": 4,
+            "text": "[deleted]",
+            "title_similarity": "0.23479018"
+        },
+        {
+            "id": "hhj4dab",
+            "score": 4,
+            "text": "Removing heat sources dramatically lowers a rooms temperature.",
+            "title_similarity": "0.49694896",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "hhieg5d",
+            "score": 25,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhizdrh",
+            "score": 117,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi2gkd",
+            "score": 1,
+            "text": "It's almost as if censoring hateful people reduces hate.",
+            "title_similarity": "0.65262294",
+            "sentiment_compound": -0.7845
+        },
+        {
+            "id": "hhi2h07",
+            "score": -3,
+            "text": "Do y’all think the toxic people stoped believing the toxic thoughts or did they just take their toxicity underground?",
+            "title_similarity": "0.6453582",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhimkm6",
+            "score": -3,
+            "text": "Who decides what is toxic?  \nCan this toxicness be proved scientifically ?",
+            "title_similarity": "0.4337028",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhj5ra3",
+            "score": -3,
+            "text": "Hate these controversial figures, but I hate censorship much more...",
+            "title_similarity": "0.58312684",
+            "sentiment_compound": -0.8316
+        },
+        {
+            "id": "hhj9zdk",
+            "score": 133,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi2agn",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi4nfu",
+            "score": 1,
+            "text": "Yeah, because their followers left the platform - which would be fine if the entirety of our national dialogue didn't occur online now, at the behest of private companies.",
+            "title_similarity": "0.6715226",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "hhiboei",
+            "score": -1,
+            "text": "Alex Jones still the king of YouTube",
+            "title_similarity": "0.30842716",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhihvkd",
+            "score": -1,
+            "text": "Yet drives the crazy further underground, which is not a good thing",
+            "title_similarity": "0.435068",
+            "sentiment_compound": -0.5867
+        },
+        {
+            "id": "hhjdb1x",
+            "score": -1,
+            "text": "So where does it stop? You can start with so called “toxic” accounts but then does that turn into censoring anything the people in power just don’t agree with? And then censoring anything anyone has to say about them? Applaud it while you can because this can get really bad if left unchecked",
+            "title_similarity": "0.7588564",
+            "sentiment_compound": 0.2501
+        },
+        {
+            "id": "hhk3l8k",
+            "score": 1,
+            "text": "“Social science” congrats on squeezing politics into the science subreddit",
+            "title_similarity": "0.59958625",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "hhk6rrg",
+            "score": 1,
+            "text": "\"Deplatforming\" controversial opinions leads to less opinions. Most countries are a democracy. We have to somehow accept that people have different opinions. They're not magically going to disappear and issues aren't magically get solved by NOT talking to one another.  \n  \nThat being said, I can understand that some people are just spewing hate for the sake of hate, but I take a hard \"no\" if people are censored, because of arbitrary reasons if they haven't broken any laws.  \n  \nNo, FB, Twitter, etc. are no longer just private entities, they've basically become a necessity for human communication and free speech (and that's not just my opinion, many governments around the world share this sentiment). Be careful what you wish for: you might be next on the chopping block.",
+            "title_similarity": "0.71297574",
+            "sentiment_compound": 0.4809
+        },
+        {
+            "id": "hhhvd5i",
+            "score": -13,
+            "text": "I don't think you should quantify something you can not define.",
+            "title_similarity": "0.27029282",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi7mr9",
+            "score": -7,
+            "text": "Yes, let’s celebrate RightThink & ThoughtCrime! Freedom of expression is good… as long as it’s the sanctioned, popular, non-threatening and non-offensive expression.",
+            "title_similarity": "0.4694416",
+            "sentiment_compound": 0.9286
+        },
+        {
+            "id": "hhid0du",
+            "score": 89,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhxisp",
+            "score": -10,
+            "text": "I love the comments on here. Yay! Censorship. What has happened to this country? It would never occur to me to censor someone for having a different opinion. You have yours. I have mine. Let’s talk about it. Those of you saying that this is good because they are censoring dangerous ideas have no clue the slippery slope you’re gliding down. Also, you should see some of the “dangerous ideas” they are censoring. Often completely benign comments or harmless questions that go slightly against the narrative are censored. And in the meantime, about half the population is being neatly guided into one particular groupthink. Great to be an american right now!",
+            "title_similarity": "0.7421516",
+            "sentiment_compound": 0.9228
+        },
+        {
+            "id": "hhixsbw",
+            "score": 64,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi4s22",
+            "score": 3,
+            "text": "Of all the philosophical problems to ever face mankind, solving this one is one of the most difficult I've ever seen. Good thing these companies are private, and therefore not subject to the first amendment. It may be a band aid solution, but so far it's the best one we've come up with. I think a good next step is clandestine exposure of their (no doubt) fucked perversions to expose just what demented and deranged people they are, thereby completely disgracing them in the court of public opinion. Get your hack on anonymous",
+            "title_similarity": "0.695336",
+            "sentiment_compound": -0.4304
+        },
+        {
+            "id": "hhiiqr7",
+            "score": -5,
+            "text": "After the bans, I deleted Twitter and Facebook and just followed them directly on their websites. Also joined a discord for the kind of talk they don’t allow on those sites anymore. This study is trash.",
+            "title_similarity": "0.6931877",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "hhhu6d2",
+            "score": -12,
+            "text": "[deleted]",
+            "title_similarity": "0.23479018"
+        },
+        {
+            "id": "hhic6tj",
+            "score": -8,
+            "text": "Freedom of Speech taken away",
+            "title_similarity": "0.33952495",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "hhj5bs7",
+            "score": 5,
+            "text": "Who knew that removing violent, vitriolic hate from one's daily digest of information resulted in less violent, vitriolic hate in one's thoughts, speech, and actions?\n\nMind blowing\n\n^(/s)",
+            "title_similarity": "0.7491504",
+            "sentiment_compound": -0.9664
+        },
+        {
+            "id": "hhj7llu",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi2g9f",
+            "score": 2,
+            "text": "Seems logical. Remove the people tossing the kindling in and you mostly contain the flame.",
+            "title_similarity": "0.52496237",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi2zlc",
+            "score": 4,
+            "text": "This might be one of the most embarrassing comment sections I've seen on reddit in a long time.  So incredulous about the vagueness of toxicity measurement, yet clearly couldn't be bothered enough to actually read the paper. \n\nSeriously, the subreddit is called r/science. READ. THE. PAPER. Then you can whine about it.",
+            "title_similarity": "0.7253604",
+            "sentiment_compound": -0.3466
+        },
+        {
+            "id": "hhieinl",
+            "score": -2,
+            "text": "Does this only apply to right wing personalities or are there figures on the left as well?",
+            "title_similarity": "0.30738974",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hhieyl8",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhin8v7",
+            "score": -3,
+            "text": "Nah, they just switched platforms. There is a mass exodus of people moving to alternative sites to youtube, twitter, reddit, etc which are trigger happy censoring. The profiles left on the big platforms moderate, but real discussions are going offsite.",
+            "title_similarity": "0.7444558",
+            "sentiment_compound": 0.2846
+        },
+        {
+            "id": "hhiqtce",
+            "score": 0,
+            "text": "So less hate preachers, less hate. Makes sense.",
+            "title_similarity": "0.4828537",
+            "sentiment_compound": -0.796
+        },
+        {
+            "id": "hhitaiz",
+            "score": -3,
+            "text": "Without hate speech there is no free speech . Change my mind",
+            "title_similarity": "0.55702364",
+            "sentiment_compound": 0.0762
+        },
+        {
+            "id": "hhj5p7z",
+            "score": -2,
+            "text": "Anything that hurts anyone's feelings is considered toxic these days. Opposite opinions = toxic. U should count how many crybabys Twitter loves to cater to",
+            "title_similarity": "0.75372964",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "hhjvkrg",
+            "score": 4,
+            "text": "Cool, did it curb the toxicity of opposing sides?\n\nEdit: This thread is literally the picture perfect example of censorship.\n\nDouble Edit: Yay, Alex Jones is banned. Now how 'bout those terror groups recognized by dozens of nations.... no?",
+            "title_similarity": "0.669805",
+            "sentiment_compound": 0.5204
+        },
+        {
+            "id": "hhhnkzi",
+            "score": 1619,
+            "text": "Doubt it changed their opinions. Probably just self censored to avoid being banned\n\nEdit: all these upvotes make me think y'all think I support censorship. I don't. It's a very bad idea.",
+            "title_similarity": "0.6967956",
+            "sentiment_compound": -0.8553
+        },
+        {
+            "id": "hhhw1om",
+            "score": -9,
+            "text": "Makes sense. If you lead in an authoritarian way with banning things you don't like, people will [fearfully] fall in line.",
+            "title_similarity": "0.677608",
+            "sentiment_compound": -0.6497
+        },
+        {
+            "id": "hhhyt62",
+            "score": 20,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhuqtj",
+            "score": -11,
+            "text": "I read the abstract, and this line from it gives me pause:\n\n>\\[...\\] we show that the overall activity and toxicity levels of supporters declined after deplatforming.\n\nWhile I can understand activity as a definitive measurement, \"toxicity levels\" would seem to be something that would be widely open to interpretation. I question whether 'toxicity' as a measure can be replicated and stand up to legitimate scientific peer review.",
+            "title_similarity": "0.67422664",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hhjogye",
+            "score": 31,
+            "text": "then why is Twitter still so toxic? Is the answer more deplatforming?",
+            "title_similarity": "0.7009251",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhhxqdi",
+            "score": -4,
+            "text": "The problem is that the platforms aren't being even handed with their term and policies enforcement. While deplatforming some toxic views reduces those toxic views, they also permit other toxic views to proliferate on their platform unchecked expanding their sphere of influence. A game of one cancer is bad but let's just leave this other cancer alone.",
+            "title_similarity": "0.7577827",
+            "sentiment_compound": -0.9403
+        },
+        {
+            "id": "hhi215g",
+            "score": -3,
+            "text": "The American people should be trusted as capable of making their own decisions on who they like to listen to.\n\nSuppressing free speech is not the answer",
+            "title_similarity": "0.474721",
+            "sentiment_compound": 0.8885
+        },
+        {
+            "id": "hhi7dwv",
+            "score": -2,
+            "text": "\"Toxicity\" levels, okay who defines what or what isn't toxic? (The one's doing the study). They can label whatever they want and thus come to the conclusion they want.  If you can't see this is biased (or at least not professional) I don't think you actually believe in science.",
+            "title_similarity": "0.58766997",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "hhidglr",
+            "score": -3,
+            "text": "That’s great! But censorship is bad",
+            "title_similarity": "0.523021",
+            "sentiment_compound": -0.5411
+        },
+        {
+            "id": "hhih0px",
+            "score": -3,
+            "text": "Anything to take away people’s freedom of speech. \n\nLuckily there will be a decentralized SoCal media on the blockchain that will prevent a central authority from being able to take away ones rights solely because they disagree with them",
+            "title_similarity": "0.6436542",
+            "sentiment_compound": 0.743
+        },
+        {
+            "id": "hhiy381",
+            "score": -2,
+            "text": "No, it didn't.. it reduce their impact ON TWITTER it did NOTHING to change their outlook and NOW.. you have NO IDEA where they are, what they are doing or what they are planning...",
+            "title_similarity": "0.596444",
+            "sentiment_compound": -0.4466
+        },
+        {
+            "id": "hhji8fu",
+            "score": 36,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhyc0i",
+            "score": -8,
+            "text": "Silencing someone does not make them go away, it just makes them hide better. Those people you don't like are still there, hiding in plain sight unable to self identify and let us know who they are.",
+            "title_similarity": "0.57476217",
+            "sentiment_compound": -0.3839
+        },
+        {
+            "id": "hhi111l",
+            "score": -7,
+            "text": "Watching the nazis seethe in the comments about how censorship is okay because they don't agree is hilarious",
+            "title_similarity": "0.6433504",
+            "sentiment_compound": -0.3544
+        },
+        {
+            "id": "hhhzv3c",
+            "score": -5,
+            "text": "Typical woke mentality. Whoever supports this must have never lived in a totalitarian country like China.",
+            "title_similarity": "0.35381693",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "hhi0ecc",
+            "score": 0,
+            "text": "There are probably studies showing that nations tend to prepare to fight enemies from their recent pasts, which leaves them more likely to be blind from threats they've never faced.",
+            "title_similarity": "0.6161778",
+            "sentiment_compound": -0.8834
+        },
+        {
+            "id": "hhi0nnx",
+            "score": 0,
+            "text": "Thought this was showerthoughts for a second",
+            "title_similarity": "0.3519119",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi0pdx",
+            "score": 0,
+            "text": "This is called a \"chilling effect\", and it's not new information.",
+            "title_similarity": "0.35662445",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "hhi0r3u",
+            "score": 0,
+            "text": "\"By their followers\".   \n\n\nBut what of the followers of others? I've been on twitter lately. It's not any less toxic than it was.",
+            "title_similarity": "0.681546",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi1ml9",
+            "score": 0,
+            "text": "I saw a video where Alex Jones is standing next to a journalist declaring everything about him is un American, even his shoes. The journalist calls a friend, makes his voice a little pouty and says\n\"Alex Jones is making fun of my shoes.\"\n\nI laughed so hard.",
+            "title_similarity": "0.54536474",
+            "sentiment_compound": 0.8241
+        },
+        {
+            "id": "hhi2mfe",
+            "score": 0,
+            "text": "It’s almost like the old “ignore the bully and they’ll go away argument” works.",
+            "title_similarity": "0.61930656",
+            "sentiment_compound": -0.2484
+        },
+        {
+            "id": "hhi5wcn",
+            "score": 0,
+            "text": "It works. The problem is that a smaller, more concentrated, more extremist faction will always slither away and rejoin somewhere else to build the movement back up",
+            "title_similarity": "0.6372591",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hhi68lg",
+            "score": -4,
+            "text": "Deplatforming Rogan should be next",
+            "title_similarity": "0.30089903",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhiati2",
+            "score": 0,
+            "text": "I can't wait until they instate this as our social score and we can all have our defining number based on what narrative we are or are not following.",
+            "title_similarity": "0.41213632",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hhiattr",
+            "score": 0,
+            "text": "I just wish they'd be consistent. Milo has said a fraction of what JK Rowling has said about trans people over the past couple of years, with a fraction of the following/power she has. Don't get me wrong, I'm in favor of Milo's ban, but I think JK Rowling should've been banned too.",
+            "title_similarity": "0.61046195",
+            "sentiment_compound": 0.3491
+        },
+        {
+            "id": "hhib1eb",
+            "score": 0,
+            "text": "Censorship works?  Whats new about this",
+            "title_similarity": "0.4741983",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhiba3g",
+            "score": 0,
+            "text": "What's the LD50 of 100 milligrams of Yiannopoulos",
+            "title_similarity": "0.18714069",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhip1lr",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhiryl6",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhj2q08",
+            "score": 0,
+            "text": "Did it also reduce the toxicity of their opponent's followers?  Did this result in better overall discourse?\n\nThe title suggests lowering the \"toxicity of subsequent speech by their followers\" is the ideal goal, but theres no evicence to suggest thats a good thing or a bad thing overall.",
+            "title_similarity": "0.69966793",
+            "sentiment_compound": -0.3421
+        },
+        {
+            "id": "hhj2q0l",
+            "score": 0,
+            "text": "The fact Owen Benjamin started going through changes after he had some of Joey Diaz's \"stars of death\" will never not be hilarious to me!",
+            "title_similarity": "0.57545495",
+            "sentiment_compound": -0.5042
+        },
+        {
+            "id": "hhj7ouk",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhj8uyk",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhje7vg",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhjm1z6",
+            "score": 0,
+            "text": "Isn't censorship the first thing facists do when the take power? Why are so many ppl on reddit in favor of censorship? At what point do you realize big tech censoring ppl is harmful? I don't follow any of those ppl listed but I can't see how they could be considered so dangerous that needed to be censored.",
+            "title_similarity": "0.6886639",
+            "sentiment_compound": -0.7951
+        },
+        {
+            "id": "hhjm6ts",
+            "score": 0,
+            "text": "on how bad a person can get by following people like this.\n\na late friend of mine.\n\nstarted using twitter and follow all the  nut bags.\n\nthen it got to a point. on info.\n\ni ask him what sources. he would simple not answer.\n\nsome point last year he got sucker into written for a Russian mis info site that when election time for prez came up. the site went really into racist,nazi lvl claims and sources .\n\nit  turn him into such  a awful person.\n\nhe dead from the covid hoax he claimed.\n\nbtw i was research his old post that where capture.\n\nthe stuff he said near  when he died.\n\nwhere total racist, hateful, he even did death threats.\n\nso bad even parlor had to banned him.\n\n&#x200B;\n\nso yes i do support the deplatforming part.",
+            "title_similarity": "0.6981209",
+            "sentiment_compound": -0.9838
+        },
+        {
+            "id": "hhjmjr9",
+            "score": 0,
+            "text": "More Political Science... This subreddit should take some pride in what it allows.\n\nHow did they measure the toxicity? Litmus test?  \n\nPlease, science is not to be used by politicians and Twitter to discredit others. Science is for the betterment of humanity, not to be wielded like a sword against the opposition.  Is this thread really about science or is it bastardizing science for political gains.",
+            "title_similarity": "0.6267284",
+            "sentiment_compound": 0.6868
+        },
+        {
+            "id": "hhjn4hc",
+            "score": 0,
+            "text": "So far I’ve seen two studies posted today. \n\nOne showing that mandatory vaccinations are “better” because people don’t have a choice \n\nAnd now im seeing this….very dangerous road",
+            "title_similarity": "0.67435515",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "hhjq2rt",
+            "score": 0,
+            "text": "I would have to say so since all the smaller parrots do is mimic the larger parrots who are talking on behalf of some SUPER LARGE ALBATROSS!\n\n( uh oh they're here )",
+            "title_similarity": "0.30962157",
+            "sentiment_compound": 0.7118
+        },
+        {
+            "id": "hhjqbec",
+            "score": 0,
+            "text": "Maybe we just shut twitter down and then everything will be OK again.",
+            "title_similarity": "0.54833734",
+            "sentiment_compound": 0.4466
+        },
+        {
+            "id": "hhjrmy6",
+            "score": 0,
+            "text": "It’s almost like when someone removes trash from their life they stop parroting that trash.\n\nAmazing.",
+            "title_similarity": "0.610136",
+            "sentiment_compound": 0.5868
+        },
+        {
+            "id": "hhjrury",
+            "score": 0,
+            "text": "Might have moved to new platforms. Might be more extreme platforms, who knows. Not sure it's the right way to go.",
+            "title_similarity": "0.3943594",
+            "sentiment_compound": -0.2411
+        },
+        {
+            "id": "hhk2jhf",
+            "score": 0,
+            "text": "not shocking in the slightest. deplatforming works, so does confronting people in the street. i haven’t heard anything from richard spencer in a looong time, have yall?",
+            "title_similarity": "0.5553179",
+            "sentiment_compound": 0.0976
+        },
+        {
+            "id": "hhk35t9",
+            "score": 3,
+            "text": "Still not an excuse for censorship",
+            "title_similarity": "0.2772926",
+            "sentiment_compound": -0.0572
+        },
+        {
+            "id": "hhk5y3w",
+            "score": 0,
+            "text": "Would you look at that. Cancelling works.",
+            "title_similarity": "0.377306",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "hhkwmit",
+            "score": 0,
+            "text": "I wish I could read these comments. I guess the mods don’t like the truth.",
+            "title_similarity": "0.6299275",
+            "sentiment_compound": 0.7579
+        },
+        {
+            "id": "hhkwp0v",
+            "score": 0,
+            "text": "You are correct. Silencing highly controversial political dissidents on what is legally supposed to be an open platform and not a curator or publicist did damage the movements they created. We know silencing the opposition is effective. We just think it’s evil.",
+            "title_similarity": "0.71894646",
+            "sentiment_compound": -0.7346
+        },
+        {
+            "id": "hhkyeu6",
+            "score": 0,
+            "text": "You can deplatform people because of outcry’s of the cry babies but you can’t silence facts. They don’t care about your feelings.",
+            "title_similarity": "0.6291009",
+            "sentiment_compound": 0.5023
+        },
+        {
+            "id": "hhl09lf",
+            "score": 0,
+            "text": "\"The influencers we studied\". Any bias in who was targeted? Alex Baldwin said all Republicans AND THEIR FAMILIES should be killed. Was his analysed?",
+            "title_similarity": "0.5102974",
+            "sentiment_compound": -0.7399
+        },
+        {
+            "id": "hhl0vde",
+            "score": 0,
+            "text": "If the methods aren't biased, how come it's only right-wing/conservatives targeted. Since Trump won the presidency a large number of people voted for him. That makes him (& supporters) main-stream--not toxic. Unless you think HUGE part of population IS toxic in which case you're engaging in censorship.",
+            "title_similarity": "0.624758",
+            "sentiment_compound": 0.9209
+        },
+        {
+            "id": "hhl86fx",
+            "score": 0,
+            "text": "So we are officially living in 1984 now?",
+            "title_similarity": "0.14724287",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhl8d8s",
+            "score": 0,
+            "text": "\"offensive\" speech. Which is basically everything to some folks.",
+            "title_similarity": "0.5238528",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hhlllun",
+            "score": 0,
+            "text": "Hmmm, interestingly all three are considered right-wing. I suppose left-wing leaning people are not ever controversial and toxic in their Twitter speeches.",
+            "title_similarity": "0.5473647",
+            "sentiment_compound": 0.5093
+        },
+        {
+            "id": "hhlmknk",
+            "score": 0,
+            "text": "No it doesn’t. You just bury your head further in the sand.",
+            "title_similarity": "0.24616893",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hhln0v8",
+            "score": 0,
+            "text": "Do words hurt you widdle feelings?",
+            "title_similarity": "0.43651044",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "hhmpbd2",
+            "score": 0,
+            "text": "It’s also a move people with no spine or ability to tolerate the freedom of speech often use to make their “spaces” safe.\n\nThe world is not safe.  Very few people love you like their own. And barely anyone cares about your feelings.  Harden up.  Appreciate the honest love you get.  Enjoy your friends.  Be thankful. And train for the day you have to face the demons because they’re training for you.",
+            "title_similarity": "0.6495005",
+            "sentiment_compound": 0.9854
+        },
+        {
+            "id": "hhhu4bq",
+            "score": -9,
+            "text": "A more surgical approach would have been to deplatforming only those controversial figures who truly had no constructive contribution to make to any debate. I'm thinking about Milo here.\n\nAlex Jones was a disingenuous rabble-rouser but he wasn't entirely sterile in his discourse. There was some matter left at the bottom of the glass once you distilled all the BS.",
+            "title_similarity": "0.68670535",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "hhi7yhe",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhk3vf4",
+            "score": 7,
+            "text": "Uh oh, 75% of the comment sections been removed. Trying to replicate this study yourself?",
+            "title_similarity": "0.35589427",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhhzj8o",
+            "score": -5,
+            "text": "Now we just need to ban the freak progressive and the world can go back to normal",
+            "title_similarity": "0.4784549",
+            "sentiment_compound": -0.7579
+        },
+        {
+            "id": "hhi38wo",
+            "score": 77,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhxfox",
+            "score": -1,
+            "text": "beauty in the statistics",
+            "title_similarity": "0.2600509",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "hhhxtuy",
+            "score": -1,
+            "text": "As a MUslim our community =canary in coalmine...de platforming started happening with fb in 2012 with Israel palestine and all it did  was make islamophobia explode",
+            "title_similarity": "0.52321655",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhhzyft",
+            "score": -1,
+            "text": "That doesn't mean it's scientifically the most ethical option. I don't think many people dispute the idea that banning people that most people argue about makes people argue less.",
+            "title_similarity": "0.6505964",
+            "sentiment_compound": -0.4914
+        },
+        {
+            "id": "hhi0iq0",
+            "score": -1,
+            "text": "It changed nothing except now they are talking in the backrooms outside of everyone's view making the problem much worse and much more dangerous. Anyone who thinks censoring people work have no idea how people work. This just validates their own opinions to themselves and other easily manipulated people.",
+            "title_similarity": "0.65345407",
+            "sentiment_compound": -0.8479
+        },
+        {
+            "id": "hhi2mus",
+            "score": -1,
+            "text": "Hmm, maybe so.  However, I see and experience  ill informed strange behaviors in  people everyday. What will change them?",
+            "title_similarity": "0.5270582",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "hhi2qs5",
+            "score": -1,
+            "text": "It also greatly increased gab's userbase and other alt-tech. So thanks for that cencortards",
+            "title_similarity": "0.44730002",
+            "sentiment_compound": 0.7298
+        },
+        {
+            "id": "hhi30er",
+            "score": -1,
+            "text": "Censoring people is akin to adding people-sized ice blocks to a room.       \nIt has an instant chilling effect with long lasting, and broad reaching after-effects.\n\n>\tFirst they came for the socialists, and I did not speak out—because I was not a socialist.\n\n>\tThen they came for the trade unionists, and I did not speak out— because I was not a trade unionist.\n\n>\tThen they came for the Jews, and I did not speak out—because I was not a Jew.\n\n>\tThen they came for me—and there was no one left to speak for me.\n\n>\t[-Martin Niemöller](https://encyclopedia.ushmm.org/content/en/article/martin-niemoeller-first-they-came-for-the-socialists)\n\nCensorship of US Citizens tarnishes and cheapens the struggle all US Military personnel have fought for, for so long.  Our military, judges, law enforcement, and others, have fought long and hard for our ability to embrace freedom of speech.\n\nThis idea of censoring those who do not agree with us is millennia old.  For over 2 centuries our country has resisted this censorship.\n\nIt's a sad turn of events that has this 2 centuries old contract, inked in the blood of patriots,  forgotten and tossed aside like trash; so sad.",
+            "title_similarity": "0.556027",
+            "sentiment_compound": -0.7847
+        },
+        {
+            "id": "hhi31gl",
+            "score": -1,
+            "text": "But it has accomplished nothing overall. I would almost say it has gotten more toxic since then. It's the perfect example of echochambers radicalizing people in each little 'pocket'. It's an interesting but dangerous phenomenon when people doesn't get their values or opinions challenged by people who disagree.",
+            "title_similarity": "0.727784",
+            "sentiment_compound": 0.3427
+        },
+        {
+            "id": "hhi3kgx",
+            "score": -1,
+            "text": "Our glorious studies have proven that punishing undesirable opinions has reduced the visibility of those undesirable opinions. \n\nRejoice, citizens.",
+            "title_similarity": "0.7132712",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "hhi3xyy",
+            "score": -1,
+            "text": "See?  Censorship is actually a good thing!",
+            "title_similarity": "0.47656047",
+            "sentiment_compound": 0.4926
+        },
+        {
+            "id": "hhi3y3j",
+            "score": -1,
+            "text": "Makes sense, if you throw people in a digital gulag it will intimidate the followers of those people into thinking twice about their posts.",
+            "title_similarity": "0.7120794",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "hhi4ocw",
+            "score": -1,
+            "text": "Just imagine if they deplatformed 100% of the users. I bet there would be minimal toxicity period.",
+            "title_similarity": "0.441179",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi4tdl",
+            "score": -1,
+            "text": "Deplatforming people who don’t violate clear and present danger doctrine is for cowards.",
+            "title_similarity": "0.58967006",
+            "sentiment_compound": -0.6124
+        },
+        {
+            "id": "hhi4wkz",
+            "score": -1,
+            "text": "Yeah what the world needs is more censorship",
+            "title_similarity": "0.47373033",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "hhi5673",
+            "score": -1,
+            "text": "I would like to see some liberal talking heads (who most consider toxic) deplatformed and look at the results on their followers. Tough to do since Twitter probably is afraid to deplatform, even if they are by most standards toxic.",
+            "title_similarity": "0.81556404",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "hhi604q",
+            "score": -1,
+            "text": "Here comes \"Truth Social\" ^(Miley Cyrus - Wreckingball begins to play)",
+            "title_similarity": "0.36902818",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "hhi60ku",
+            "score": -1,
+            "text": "Deciding who can speak and what they're allowed to say is wrong.",
+            "title_similarity": "0.42217132",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hhi6q4y",
+            "score": -1,
+            "text": "Turn out the Greeks were right about ostrakon.",
+            "title_similarity": "0.34178978",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi6zbi",
+            "score": -1,
+            "text": "Using the phrase 'toxicity' in this context shows a serious lack of professionalism. There are many words in the English language, they are very useful. If the author has such a poor understanding of how to write, that they have to resort to zoomer internet jargon to get their point across, then the whole study just reeks of an appeal to emotion. What next, deplatforming Trump reduced the amount of 'caps' told on twitter? Or blocking PragerU made their followers more 'chad'? There really isn't any functional difference between those examples, and this headline. They're all unquantifiable slang.",
+            "title_similarity": "0.80041134",
+            "sentiment_compound": -0.667
+        },
+        {
+            "id": "hhi7ov6",
+            "score": -1,
+            "text": "Deplatform cancel culture",
+            "title_similarity": "0.36400247",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hhi7skx",
+            "score": -1,
+            "text": "Almost as if they, idk, moved to a different platform. Almost like this accomplished nothing",
+            "title_similarity": "0.366197",
+            "sentiment_compound": 0.593
+        },
+        {
+            "id": "hhi818s",
+            "score": -1,
+            "text": "How is “toxic” speech defined?",
+            "title_similarity": "0.49356183",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi86k2",
+            "score": -1,
+            "text": "Shut down all forms of dissent so no one can disagree with our ridiculous ideas.",
+            "title_similarity": "0.46534368",
+            "sentiment_compound": -0.7886
+        },
+        {
+            "id": "hhi8io3",
+            "score": -1,
+            "text": "This doesn't really say anything at all. They define the language and ideas of these figures as toxic and then when they are not on the platform anymore their supports don't use their ideas and language as much. It works for everything. You can ban human rights activists and you would see less of their ideas too. \n\n\nThis is not a study that supports a way to decrease toxicity, this just confirms censorship works. Sure most of what these guys spew is \"toxic\" but deplatforming like this just leads to echo chambers where a few selected people decide what kind of language is toxic and what is not. What kind of ideas are acceptable.",
+            "title_similarity": "0.7384822",
+            "sentiment_compound": 0.7935
+        },
+        {
+            "id": "hhi8lg2",
+            "score": -1,
+            "text": "so what I’m hearing is taking away freedom speech helps promote a healthy society?",
+            "title_similarity": "0.58750284",
+            "sentiment_compound": 0.9022
+        },
+        {
+            "id": "hhi8pue",
+            "score": -1,
+            "text": "And toxic speech continued for everyone else…",
+            "title_similarity": "0.50161153",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi8xf8",
+            "score": -1,
+            "text": "That's because everyone left twitter or don't say anything because they will get censored. They just moved to a different platform. This shouldn't be in science....",
+            "title_similarity": "0.6140131",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "hhi92kv",
+            "score": -1,
+            "text": "Uhh no. Deplatforming doesnt work.",
+            "title_similarity": "0.29848433",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi9d60",
+            "score": -1,
+            "text": "No it didn’t. \n\nHaha, got em.",
+            "title_similarity": "0.11822891",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "hhi9dq1",
+            "score": -1,
+            "text": "I like how controversial figures are just not left wing.",
+            "title_similarity": "0.5167041",
+            "sentiment_compound": 0.1779
+        },
+        {
+            "id": "hhi9enx",
+            "score": -1,
+            "text": "Castro and Stalin used deplatforming as well",
+            "title_similarity": "0.36045325",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hhi9h3k",
+            "score": -1,
+            "text": "Until he cannon is pointed at you.\n\n&#x200B;\n\nSunshine is the best antiseptic.",
+            "title_similarity": "0.5417055",
+            "sentiment_compound": 0.8126
+        },
+        {
+            "id": "hhi9l3c",
+            "score": -1,
+            "text": "Thank you Twitter for keeping me safe! I don't know what I'd do without all of these multi-billion dollar conglomerates looking out for me! How kind :)",
+            "title_similarity": "0.4742586",
+            "sentiment_compound": 0.9078
+        },
+        {
+            "id": "hhi9pi2",
+            "score": -1,
+            "text": "There’s hope! \n\nMakes me think that we could form some kind of RICO-esque community guidelines* for platforms to help enforce this kind of deplatforming of toxic troll ringleaders.\n\n(I am hesitant to say law, even though my example RICO is one, because of that huge slippery slope and as much as I hate those people mentioned in op’s title, the nuances in writing a law is a dangerous double-edged sword and I’m not dumb enough to touch it)",
+            "title_similarity": "0.6962684",
+            "sentiment_compound": 0.2718
+        },
+        {
+            "id": "hhi9vyc",
+            "score": -1,
+            "text": ">\"Toxicity\" \n\nIt's fun when you can use a word in common usage, redefine them in context of your study and then claim the outcome framed in this new context. \n\nPretty neat wordplay.",
+            "title_similarity": "0.59260815",
+            "sentiment_compound": 0.8591
+        },
+        {
+            "id": "hhia8p5",
+            "score": -1,
+            "text": "If we censor people we don’t like, their followers will become less influenced by them.\n\nWow genius idea",
+            "title_similarity": "0.7339895",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "hhiaaew",
+            "score": -1,
+            "text": "Hurray for censorship? Is that what this is implying?",
+            "title_similarity": "0.436749",
+            "sentiment_compound": 0.6199
+        },
+        {
+            "id": "hhiaafz",
+            "score": -1,
+            "text": "Censorship is good! Gluck gluck",
+            "title_similarity": "0.5018979",
+            "sentiment_compound": 0.4926
+        },
+        {
+            "id": "hhiac6u",
+            "score": -1,
+            "text": "So basically censorship prevents dissent? Yes and no, it just creates a bubble and a fake reality on Twitter. Just because you can't read ideas and speech it doesn't mean they don't exist. In 2016, political elitists were like where did all these Trump supporters come from? Creating a fake world that doesn't feel \"toxic\" on social media doesn't stop the real world from marching forward.",
+            "title_similarity": "0.76023304",
+            "sentiment_compound": 0.7913
+        },
+        {
+            "id": "hhiao61",
+            "score": -1,
+            "text": "Amazing insight. Youve found that suppressing speech works to suppress speech.",
+            "title_similarity": "0.58601487",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "hhiav2m",
+            "score": -1,
+            "text": "Removing instigators reduces problems. Who would have thunk it?",
+            "title_similarity": "0.5805811",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hhiay7w",
+            "score": -1,
+            "text": "Ah so if you ban right-like provocatuers you get less right-like provocation?  I say right-like because these guys are not what you think they are.  Do they say things that lgbtq and black people get upset over?  Yes, but that is different than being bigoted.  Milo is married to a black Muslim man and Jones likes trans-porn and is mostly just concerned with the reptilian incursion so it's not exactly the clear cut troop of hitlers I'm sure many would prefer.",
+            "title_similarity": "0.66313916",
+            "sentiment_compound": -0.1325
+        },
+        {
+            "id": "hhib8vt",
+            "score": 1,
+            "text": "The followers left as well and went to private chats on fb messenger.\n\nI know like 10-12 people who went that route.  They didn’t stick around and suddenly change.",
+            "title_similarity": "0.6065633",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "hhibean",
+            "score": -1,
+            "text": "Keep in mind when reading this that the right for a business to remove content as described here is a protected activity. \n\nThis isn't a Government flagrantly censoring people. \n\nThey're private entities exercising their ToS.",
+            "title_similarity": "0.5461782",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hhibj71",
+            "score": 1,
+            "text": "You really don't need a scientific study to understand that cutting the head off the snake and actual moderation on a platform actually works.",
+            "title_similarity": "0.47975808",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "hhibka9",
+            "score": -1,
+            "text": "They were only deplatformed on your social media.\nNow you don’t know where they are or what they are planning.\nBrilliant",
+            "title_similarity": "0.6733866",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "hhiblru",
+            "score": -1,
+            "text": "This just pushes it underground and leads to becoming extremist on one side and a giant echo chamber in the other.",
+            "title_similarity": "0.47213644",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhibptg",
+            "score": -1,
+            "text": "Get ride of toxic culture",
+            "title_similarity": "0.51649857",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhibsw5",
+            "score": -1,
+            "text": "No I’m pretty sure that’s when they started banning everyone for saying everything",
+            "title_similarity": "0.45664468",
+            "sentiment_compound": -0.367
+        },
+        {
+            "id": "hhibuq8",
+            "score": -1,
+            "text": "If there ever was an example of apriori circular logic. This doesn't belong in /science but in /activism.",
+            "title_similarity": "0.49659756",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhibvdq",
+            "score": -1,
+            "text": "Spurious benefit, nice!",
+            "title_similarity": "0.39772576",
+            "sentiment_compound": 0.7263
+        },
+        {
+            "id": "hhic7be",
+            "score": -1,
+            "text": "Reduced from *social media*\n\nThose people still exist, deplatforming people only spreads their line of thinking even more.",
+            "title_similarity": "0.7577389",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhicnct",
+            "score": -1,
+            "text": "\"Privatized or corporate censorship achieves the same desired results as government censorship.\"\n\nWho tf is approving funding for these dipshits.",
+            "title_similarity": "0.5794511",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hhictvf",
+            "score": -1,
+            "text": "It should be noted that all of the authors of this paper are computer scientists, with not a sociologist, legal mind, or philosopher amongst them. So, this paper is looking at the topic from a binary assumption of \"This thing is bad. How do we minimize it?\" Then they look for tools that can support their assumption. Their conclusion finishes with the following sentence:\n\n>Going forward, additional research is needed to identify the appropriate thresholds for deplatforming and examine the interactions between online speech, deplatforming and radicalization.\n\nNote that the authors do not ask whether deplatforming should happen at all, just what the thresholds should be for their starting assumption of \"what is the best way to silence The Bad Guys?\" \n\nIMO, scientifizing an inherently fuzzy and subjective debate lays a foundational block for subsequent normalization of censorship without critical analysis of whether those who are on the censor lists should be there in the first place.",
+            "title_similarity": "0.55959815",
+            "sentiment_compound": -0.6671
+        },
+        {
+            "id": "hhicych",
+            "score": -1,
+            "text": "> studies show, experts say, science reveals: Cheka, NKVD, KGB, Stasi, Gestapo did nothing wrong\n\nHey, say what you want about all of those, but it sure reduced \"toxicity\" in the general discourse",
+            "title_similarity": "0.6306871",
+            "sentiment_compound": 0.5963
+        },
+        {
+            "id": "hhicyld",
+            "score": -1,
+            "text": "But who decides what's controversial?",
+            "title_similarity": "0.27450335",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hhidd34",
+            "score": -1,
+            "text": "On Twitter maybe, but I bet they radicalized even more on other corners of the internet. Deplatforming is just a terrible idea if your wish is to reduce echo chambers.",
+            "title_similarity": "0.797438",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "hhids4t",
+            "score": -1,
+            "text": "I don't understand how you can quanitfy something so subjective. This study clearly has an extreme amount of assumptions so I don't think it can be taken as simple as the headline makes it. Any NLP models are only as good as they are trained so depending on what \"toxicity\" it was fed, it will learn that and identify accordingly. It is interesting if you did pure qualitative metrics about posting locations and frequencies but I don't think this toxicity can be measured accuratily especially because the definition changes from person to person.",
+            "title_similarity": "0.6358185",
+            "sentiment_compound": 0.5647
+        },
+        {
+            "id": "hhie89j",
+            "score": -1,
+            "text": "Why hasn’t that worked for Trump?",
+            "title_similarity": "0.32958898",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhiee0d",
+            "score": -1,
+            "text": "They just switched platforms.",
+            "title_similarity": "0.26969627",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhieu0c",
+            "score": -1,
+            "text": "It also reduces freedom of speech. Who decides the ultimate truth? Twitters CEO?",
+            "title_similarity": "0.7139262",
+            "sentiment_compound": 0.782
+        },
+        {
+            "id": "hhig226",
+            "score": -1,
+            "text": "How about open discussion and the use of facts and logic to destroy their ideas?",
+            "title_similarity": "0.51547825",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "hhih470",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhih6od",
+            "score": -1,
+            "text": "Deplatforming ppl won't destroy them or their ideology, only force them into hiding where they will survive, grow, and eventually return stronger than ever.",
+            "title_similarity": "0.5450227",
+            "sentiment_compound": 0.5023
+        },
+        {
+            "id": "hhihsst",
+            "score": 1,
+            "text": "I know I'm just a couch-guy here, but my two-sense is that we need to view most/all things like living systems or at least physical-machines that need input/power.\n\nJones, et-all, their speech is the calories or power into that system.  Systems cannot grow or maintain themselves w/o power.  Reduce the power, the inputs, the 'pumps' as you were and the system will ideally grind to a halt.  The analogy being friction, etc that all systems eventually wind DOWN vs up (unless you achieve criticality).\n\nTo me, this makes perfect sense due to my one basic rule in life, for pets, bad habits that feed a cancer, monies, or even good-habits: if you feed it, it comes back...",
+            "title_similarity": "0.5812222",
+            "sentiment_compound": 0.0387
+        },
+        {
+            "id": "hhijjyf",
+            "score": -1,
+            "text": "I'm sure it didn't. I'm sure it migrated with them.",
+            "title_similarity": "0.26200405",
+            "sentiment_compound": 0.0869
+        },
+        {
+            "id": "hhik7gt",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhikr8x",
+            "score": -1,
+            "text": "I am concerned about how deplatforming certain people could pigeonhole their followers into even more extreme mediums and radicalize them further.",
+            "title_similarity": "0.61198175",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hhiktu2",
+            "score": -1,
+            "text": "... but it makes the current followers more radical and the echo chamber more effective (see Qanon Jan. 6)",
+            "title_similarity": "0.4959606",
+            "sentiment_compound": 0.6798
+        },
+        {
+            "id": "hhimxxm",
+            "score": -1,
+            "text": "They just go elsewhere. Look at Jan 6th and antivaxxers. They aren’t gone. Their just on other platforms. You looked only at Twitter. Go check out Gab and tell me they don’t still have fervent followers. Milo has over 125k followers on there. \n\nBut now you’ve pushed them into an echo chamber where you have no one to provide counter arguments for their radical ideologies.",
+            "title_similarity": "0.6504042",
+            "sentiment_compound": -0.7003
+        },
+        {
+            "id": "hhiogug",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhiroki",
+            "score": -1,
+            "text": "AKA The intended 'chilling effect'  campaign was successful.  Mission accomplished!  Next mission: \"What problematic ideas for the state can be delegitimized with the normalization of our new suite of tools\"",
+            "title_similarity": "0.58211064",
+            "sentiment_compound": 0.6114
+        },
+        {
+            "id": "hhisiuh",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhitdfx",
+            "score": -1,
+            "text": "Ain’t controversial to call them figures toxic",
+            "title_similarity": "0.47875586",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "hhj9drp",
+            "score": -1,
+            "text": "Are you sure about that? We only need to look to Jan 6 to see that conclusion maybe flawed",
+            "title_similarity": "0.4044218",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "hhj9j9r",
+            "score": 1,
+            "text": "Even Instagram and yahoo comment sections under political topics are less crazy now.",
+            "title_similarity": "0.71232045",
+            "sentiment_compound": -0.2748
+        },
+        {
+            "id": "hhjap5e",
+            "score": 1,
+            "text": "It’s almost like bad faith actors are a unilateral problem regardless of situation",
+            "title_similarity": "0.5364182",
+            "sentiment_compound": -0.2911
+        },
+        {
+            "id": "hhjcpw1",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhjg6f1",
+            "score": 1,
+            "text": "There are two possible logical positions:\n\na) platforms should have at least some rules, and those who violate them may be removed, or\n\nb) platforms should have no rules at all\n\nI personally believe there should be lots of different platforms with different values and rules. In this respect, Reddit got the design right.  u/sirt6 didn't like the rules on r/science, so he made r/sciences\\--which now has 148k subscribers. Good for him! \n\nPosition b--no rules--is one option for what the rules are.  If you argue position b, then you still need to figure out what to do when content is illegal (like child porn, false advertising, libel, etc.). \n\nFor Twitter, these three users repeatedly broke the stated rules. It's not censorship--they broke the rules, and need to be treated just like you or I would be treated if we broke the rules.  Here's an article about each:\n\n  \nhttps://www.dailydot.com/debug/owen-benjamin-youtube-twitter/  \nhttps://www.vox.com/2016/7/20/12226070/milo-yiannopoulus-twitter-ban-explained  \nhttps://www.npr.org/2018/09/06/645352618/twitter-bans-alex-jones-and-infowars-cites-abusive-behavior",
+            "title_similarity": "0.6315067",
+            "sentiment_compound": -0.4301
+        },
+        {
+            "id": "hhjmzk2",
+            "score": -1,
+            "text": "The thing is that they just don’t go away and disappear. They just relocate to somewhere else.\n\nPart of the reason toxicity decreases is because you’re just reducing opposing minds and leaving like minded individuals left on the page to shake each other’s hand. This allows festering toxicity to increase ( read section 6.5)\n\nIt’s partly why Parlor and Gab now exists (acknowledge in section 2.3 of the paper).\n\nThe right-wing individuals got their platform because we gave it to them by opposing their ideas more provocatively than normal and did mostly nothing about it for several years.",
+            "title_similarity": "0.7280146",
+            "sentiment_compound": 0.6597
+        },
+        {
+            "id": "hhk12xo",
+            "score": -1,
+            "text": "Censorship is bad, government censorship via proxy is even worse. \n\nThe end",
+            "title_similarity": "0.59552383",
+            "sentiment_compound": -0.765
+        },
+        {
+            "id": "hhk8by0",
+            "score": 1,
+            "text": "Cool, now try it with left wing extremists and see what happens. Maybe a return to civility?",
+            "title_similarity": "0.5581901",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hhka4wc",
+            "score": -1,
+            "text": "Crazy, it’s like deplatforming works! Love to see it.",
+            "title_similarity": "0.4872759",
+            "sentiment_compound": 0.68
+        },
+        {
+            "id": "hhkvf4r",
+            "score": -1,
+            "text": "Censorship is okay when it's people I don't like",
+            "title_similarity": "0.5858953",
+            "sentiment_compound": -0.0541
+        },
+        {
+            "id": "hhk86v6",
+            "score": 8,
+            "text": "So your saying 1984 isn't fiction?",
+            "title_similarity": "0.268355",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi02jo",
+            "score": -2,
+            "text": "Is toxicity even something that can be objectively measured?",
+            "title_similarity": "0.34859306",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi0ywf",
+            "score": -2,
+            "text": "'Manipulation and Propaganda Works'",
+            "title_similarity": "0.3927804",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "hhi193q",
+            "score": -2,
+            "text": "If the speech isn't illegal it shouldn't be banned. Everyone needs coddled anymore. Republican, democrat, socialist, communist, antifa. Doesn't matter. If it isn't illegal they shouldn't be deplatformed",
+            "title_similarity": "0.5976373",
+            "sentiment_compound": 0.8049
+        },
+        {
+            "id": "hhi1piv",
+            "score": -2,
+            "text": "1. Define conservative opinions as toxic\n\n2. Censor conservatives\n\n3. \"Toxicity\" decreases",
+            "title_similarity": "0.5596836",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hhi360b",
+            "score": -2,
+            "text": "The attack on constitutional rights is an insurrection by the moderate to far left.",
+            "title_similarity": "0.46812195",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hhi3fia",
+            "score": -2,
+            "text": "Q1 is a biased study. Of course, people will talk less about the specific banned influencers after they have been deplatformed. What does this question aim to establish?\n\nWhile this was a brave attempt, I find that when looking at massive data pools as this one, some of the nuances of communication is missed out. I could jump on a #BanInfluencerX tag to say the whole idea is stupid, this doesn't translate to me being pro-ban.",
+            "title_similarity": "0.77088535",
+            "sentiment_compound": -0.743
+        },
+        {
+            "id": "hhi3ja7",
+            "score": -2,
+            "text": "Is that the right answer though? If the masses are really that stupid that they are just one rediculous thing away from beliving anything - I think we have much bigger problems.",
+            "title_similarity": "0.61412305",
+            "sentiment_compound": -0.749
+        },
+        {
+            "id": "hhi3o6n",
+            "score": -2,
+            "text": "Oh that must mean that you ultimately remove the ideas. No. You just remove that content from that platform. \n\nThis is stupid.",
+            "title_similarity": "0.5404258",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "hhi3qow",
+            "score": -2,
+            "text": "how is toxicity measured",
+            "title_similarity": "0.34775245",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi4jgt",
+            "score": 2,
+            "text": "Biggest one was removing traitor Trump",
+            "title_similarity": "0.5647769",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi531v",
+            "score": -2,
+            "text": "Tldr.  How is toxicity defined or quantified?  Is it reduced by overall number of toxic posts and/or by percentage of toxic posts within those communities?  \nHow did they determine people were or were not followers of those people as opposed to people that followed them on social media?",
+            "title_similarity": "0.75903296",
+            "sentiment_compound": 0.212
+        },
+        {
+            "id": "hhi96za",
+            "score": -2,
+            "text": "Great, now we have SCIENCE to finally squash that pesky concept of free speech.",
+            "title_similarity": "0.53705525",
+            "sentiment_compound": 0.7351
+        },
+        {
+            "id": "hhibhdq",
+            "score": -2,
+            "text": "Lying, racism, sexism, promoting violence, promoting insurrection, broadcasting misleading information, abusive language, gaslighting, promoting hate, race hating, and so on are toxic. It’s not that hard to understand, people who want to do this would like to cloud the meaning. If some of these things were happening among family members and close associates in and out of your home you would not have a problem calling the environment toxic.",
+            "title_similarity": "0.70845073",
+            "sentiment_compound": -0.9397
+        },
+        {
+            "id": "hhif5gk",
+            "score": 2,
+            "text": "Who tf is Owen Benjamin",
+            "title_similarity": "0.18598317",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhif997",
+            "score": -2,
+            "text": "Yeah being toxic is a bad thing I’ve been toxic as well which I try not to be but censorship is just bad because simple points of views are found to be toxic by some people causing arguments that should be had censored. Also it reaches over to other forms of speech for example people being censored for talking about the lab leak theory or information in regards to COVID that is not false. Censorship is bad in general.",
+            "title_similarity": "0.7243022",
+            "sentiment_compound": -0.9625
+        },
+        {
+            "id": "hhimu9g",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhiqx08",
+            "score": 2,
+            "text": "Platforming the last president increased these, so their removal reducing public sentiments/hate make sense",
+            "title_similarity": "0.72112346",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hhirkhz",
+            "score": 2,
+            "text": "The short way of saying this is that it's in the public interest to move fringe voices to fringe media.",
+            "title_similarity": "0.5707527",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "hhj5oq9",
+            "score": 2,
+            "text": "This makes sense. The comment threads under posts like theirs are essentially 4-Chan threads",
+            "title_similarity": "0.395399",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hhj5vhq",
+            "score": -2,
+            "text": "Either way it’s a hit to free speech and Twitter is the enemy of freedom.",
+            "title_similarity": "0.67852366",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "hhj5wma",
+            "score": -2,
+            "text": "No, all you've done is move it elsewhere where your delicate sensibilities can't be touched and they can grow even faster. Congrats on adding to the Streisand effect!",
+            "title_similarity": "0.51459134",
+            "sentiment_compound": 0.5983
+        },
+        {
+            "id": "hhj7ptr",
+            "score": 2,
+            "text": "It’s almost like hatred needs to be consistently stoked to flame up, otherwise people go on with their lives…go figure",
+            "title_similarity": "0.5772929",
+            "sentiment_compound": -0.4048
+        },
+        {
+            "id": "hhjffks",
+            "score": -2,
+            "text": "Not surprised in the least. People all throughout history have flocked to like minded leaders to tell them what to do and how to act. These leaders bring out the worst in these people and magnify it within their echo chambers.  This leads to opinions being consumed and passed on as facts. \n\nThe only thing that has changed is the method of delivery and the speed at which it is consumed and regurgitated.",
+            "title_similarity": "0.632215",
+            "sentiment_compound": -0.505
+        },
+        {
+            "id": "hhjhm23",
+            "score": -2,
+            "text": "They just move to other social platforms and talk crazy there.\n\nSource: my family is crazy.",
+            "title_similarity": "0.63053334",
+            "sentiment_compound": -0.5859
+        },
+        {
+            "id": "hhjnld7",
+            "score": -2,
+            "text": "Ohhhh ok so censoring people is good you say? Does china own reddit completely now or just some subs?",
+            "title_similarity": "0.59765494",
+            "sentiment_compound": 0.6662
+        },
+        {
+            "id": "hhjofgp",
+            "score": 2,
+            "text": "This is an very interesting study.  \n\nAre there more studies lon this subject out there so I can compare and contrast this study?",
+            "title_similarity": "0.47702396",
+            "sentiment_compound": 0.4576
+        },
+        {
+            "id": "hhk2hix",
+            "score": 2,
+            "text": "Doesn’t matter. You shouldn’t silence people no matter what they believe.",
+            "title_similarity": "0.38688546",
+            "sentiment_compound": 0.0067
+        },
+        {
+            "id": "hhk6qz0",
+            "score": 2,
+            "text": "But they were telling the truth so this makes no sense but you have the power",
+            "title_similarity": "0.42937306",
+            "sentiment_compound": -0.0633
+        },
+        {
+            "id": "hhj058s",
+            "score": 29,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhywe5",
+            "score": 3131,
+            "text": "How do you quantify toxicity?",
+            "title_similarity": "0.3341218",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhhspk5",
+            "score": 3,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi1784",
+            "score": -3,
+            "text": "Once censorship starts, sooner or later it will get something you believe in, but by then it's too late to turn back/fight back against it. And to be clear, I'm not saying racism (against any race), pedophilia, violence, etc. should not be censored and/or punished.\n\nI am 100% against many things I hear people saying/believing, but I support their right to say it and have those beliefs. \n\nDoes anyone want a government or private or public company determining what is a good opinion and what is a terrible opinion? \n\nBecause you know who will make those determinations, the ones with the $$ that buy 99% of those that are in power, or whatever will drive the most profit for said company.",
+            "title_similarity": "0.5954336",
+            "sentiment_compound": 0.8421
+        },
+        {
+            "id": "hhi1svc",
+            "score": -4,
+            "text": "Let's just ban everyone we don't agree with. *Solutions*",
+            "title_similarity": "0.48925087",
+            "sentiment_compound": -0.7374
+        },
+        {
+            "id": "hhi1u2n",
+            "score": -3,
+            "text": "Failing to Deplatform controversial left wing idealogues (Robert Reich, Don Lemon, Jamie Raskin) on Twitter increased the toxicity of subsequent speech by their followers.\n\nFixed it for you.",
+            "title_similarity": "0.8639374",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "hhi37om",
+            "score": -2,
+            "text": "Of course. Censorship works. I don't think anybody is really questioning that. The thing is though, is censorship moral?",
+            "title_similarity": "0.55467695",
+            "sentiment_compound": -0.1761
+        },
+        {
+            "id": "hhj7d7z",
+            "score": 3,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhhxhsj",
+            "score": -5,
+            "text": "Did this study examine alternate platforms for its evidence?  It's apparent to me it did not.",
+            "title_similarity": "0.43173864",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhj58qd",
+            "score": -5,
+            "text": "Girls have vaginas and boys have a penis.  Should I be deplatformed for this controversial viewpoint?",
+            "title_similarity": "0.50360125",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hhijfnl",
+            "score": 5,
+            "text": "Would this be considered a chilling effect?",
+            "title_similarity": "0.38159165",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "hhi06i0",
+            "score": 1,
+            "text": "Shame. Owen used to seem like a pretty cool guy until he went full alt right with his \"theories\"",
+            "title_similarity": "0.6007819",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "hhi0rss",
+            "score": 1,
+            "text": "I couldn't see on the site where to read the actual study.  How do they define \"toxicity\"?",
+            "title_similarity": "0.42672896",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhi374x",
+            "score": 1,
+            "text": "Or maybe they just learned to pay more lip service, like the Tories did after 1997, only taking the Mask Off with Brexit and becoming far nastier than Thatcher could imagine.",
+            "title_similarity": "0.6645241",
+            "sentiment_compound": -0.235
+        },
+        {
+            "id": "hhi3rdd",
+            "score": 1,
+            "text": "So sad Owen Benjamin turned into a nutterbutter, he had the looks and charm and was funny enough to make it.",
+            "title_similarity": "0.6303251",
+            "sentiment_compound": 0.2975
+        },
+        {
+            "id": "hhi4g04",
+            "score": 1,
+            "text": "I don't think it's as definitive as they are presenting it. I'm certain it results in lower toxicity metrics on Twitter, but as mentioned in other comments,  there are many responses to deplatforming that resemble improvement in temperament which are the opposite. \n\nIf your goal is a Twitter that appears more socially conscientious (and marketable), you probably are getting that. I'm not so sure it's actually changing minds.",
+            "title_similarity": "0.78530705",
+            "sentiment_compound": 0.1876
+        },
+        {
+            "id": "hhi4y6m",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi4zjd",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhi6wub",
+            "score": 1,
+            "text": "Correction : Stupid obese man",
+            "title_similarity": "0.4109335",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "hhi8j9i",
+            "score": 1,
+            "text": "Thats what i thought. See this is an easy problem to make progress on. Of course that won't solve everything",
+            "title_similarity": "0.5231178",
+            "sentiment_compound": 0.3417
+        },
+        {
+            "id": "hhi8tx4",
+            "score": 1,
+            "text": "Always feel bad for the comedian own Benjamin having to share a name with the alt right prick",
+            "title_similarity": "0.61966985",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "hhi91r5",
+            "score": 1,
+            "text": "I remember seeing Owen Benjamin's rant after Anthony bordains death. My god what a miserable person he is.",
+            "title_similarity": "0.57124454",
+            "sentiment_compound": -0.8126
+        },
+        {
+            "id": "hhiaq6e",
+            "score": 1,
+            "text": "Man milo yupalduis and Ben sharpie where everywhere in 2016. That and tucker Carlson clips,",
+            "title_similarity": "0.22040519",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhiaswn",
+            "score": 1,
+            "text": "Didn’t most of their followers get deplatformed as well. If you take out everyone, including followers, who is deemed toxic than he’s the result would be less toxicity. That doesn’t make it good for democracy it just means censoring people actual censors ideas that are toxic. Which is obvious and didn’t need to be studied to come to that conclusion.",
+            "title_similarity": "0.7436835",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hhic3m4",
+            "score": 1,
+            "text": "Subsequent speech of their followers on Twitter?",
+            "title_similarity": "0.5604019",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhidw5k",
+            "score": 1,
+            "text": "Are there any examples of such practices from the extremes on the opposite spectrum or do they only exist on the\"right/conservative\" end of the spectrum? Genuinely curious.",
+            "title_similarity": "0.39695346",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hhidych",
+            "score": 1,
+            "text": "As long as they don't break the terms of service I don't see an issue, haters going to hate\n\nOn the opposite side Twitter has the right to refuse service to anybody like any business. \n\nIn the end don't use Twitter, it's not the real world.",
+            "title_similarity": "0.7017897",
+            "sentiment_compound": -0.765
+        },
+        {
+            "id": "hhiegzz",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhiereq",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhif285",
+            "score": 1,
+            "text": "Read. De-platforming people produces a chilling effect on their followers.",
+            "title_similarity": "0.7237182",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "hhigga1",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhihleu",
+            "score": 1,
+            "text": "these are the important issues",
+            "title_similarity": "0.22160766",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "hhiiv2v",
+            "score": 1,
+            "text": "Wow didn't know Owen Benjamin was now an alt right guy. I was a fan of his for a while there, he seemed like a decent guy. Now he's talking about building paramilitary compounds? Very strange",
+            "title_similarity": "0.54909056",
+            "sentiment_compound": 0.7584
+        },
+        {
+            "id": "hhij8dn",
+            "score": 1,
+            "text": "Owen benjamin? Damn. I used to listen to that dude comedy on pandora. Didn't realize he was a controversial nutjob.",
+            "title_similarity": "0.606565",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hhik1k3",
+            "score": 1,
+            "text": "I think this is an interesting issue, because it presents two defying arguments.\n\nOn one hand, deplatforming individuals can reduce toxicity as proven, leading to less misinformation, and potentially less division in the audience as a whole. \n\nOn the other hand, deplatforming is a nice word for censorship. Censoring those with violent or criminal intentions is one thing, but “toxic” opinions are well-protected as free speech. I understand companies do not have to enforce free speech, but one begins to wonder if this mindset could lead to issues.\n\nWhose to say that dissenting political opinions are not “toxic”? Many of them are viewed as toxic, and I’m sure the ML model agrees. Is censoring unpopular political opinions really a good idea? We know historically that censoring unpopular political opinions is the catalyst for injustice of the majority. We could, for example, “silence” those that don’t support the majority class. Perhaps left-handed people will be deplatformed, or people of color since their opinions on their issues are likely to be in the minority. Definitely something to consider.",
+            "title_similarity": "0.73793507",
+            "sentiment_compound": 0.9669
+        },
+        {
+            "id": "hhilsec",
+            "score": 1,
+            "text": "That makes sense. They wouldn’t think those thoughts if toxic people don’t put them their",
+            "title_similarity": "0.6126882",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhimc43",
+            "score": 1,
+            "text": "If you're interested in how toxicity is defined or what the lines are between placing restrictions on expression of that and censorship, there's a lot of interesting work out there you could be helping dig up and bring to the discussion.  This is not just one piece that stands on its own.  Other people have already replied in this comment chain explaining and quoting from the methods section of this particular article describing the definition of toxicity used here.  There is room for us to go beyond that if this is an issue of particular concern to you.  Maybe you're right to treat it with concern if you're coming to this thread with attitudes in common with many other people (Pew research references [1](https://www.pewresearch.org/internet/2020/02/21/concerns-about-democracy-in-the-digital-age/) [2](https://www.pewresearch.org/global/2019/04/29/many-across-the-globe-are-dissatisfied-with-how-democracy-is-working/)) that many aspects of western democracy are currently under threat.\n\nScope of the problem: [https://scholars.org/contribution/countering-online-toxicity-and-hate-speech](https://scholars.org/contribution/countering-online-toxicity-and-hate-speech)\n\n>Toxic behavior is pervasive in every online environment. Maeve Duggan’s “Online Harassment,” a study released by Pew Research in 2014, leads with the finding that 40% of internet users have faced harassment and 73% of users have seen others get harassed. Although physical threats were only witnessed by a quarter of respondents in this study and only 8% said they were physically threatened, these numbers misrepresent experiences online. Seven in ten of Internet users aged 18 to 24 have been harassed while online; and 26% of women in that age group report being stalked online. Such statistics provide a first glimpse at the scale of the problem of the toxic online environments, and they show that common practices of community self-selection fail to address harassing online behaviors.\n\nA taxonomy of hateful and unconstructive online behavior derived from a review of more empirical sources: https://research.google/pubs/pub49786.pdf\n\n>We argue that existing security, privacy, and anti- abuse protections fail to address the growing threat of online hate and harassment. In order for our community to understand and address this gap, we propose a taxonomy for reasoning about online hate and harassment. Our taxonomy draws on over 150 interdisciplinary research papers that cover disparate threats ranging from intimate partner violence to coordinated mobs.\n>\n>...\n>\n> Our analysis draws on a three-year survey collated from 50,000 participants located in 22 different countries. We find that 48% of people globally report experiencing threats including sustained bullying (5%), stalking (7%), and account takeover by someone they know (6%). Over the past three years, the odds of users experiencing abuse have increased by 1.3 times. \n>\n>...\n>\n>Toxic content covers a wide range of attacks involving media (M1)\nthat attackers send to a target or audience (A1-A2), but without the necessity of more advanced capabilities (not C1-C4). Attacks in this category include bullying, trolling (e.g., intentionally provoking audiences with inflammatory remarks), threats of violence, and sexual harassment.\n>\n>...\n>\n>Numerous studies have examined toxic content that attackers spread via social networks [30], [75], [119], [124], with a particular focus on toxic content targeting minorities [123] and women [28], [35], [141]. Other threats in this space include the viral distribution of hateful or racist memes and videos [60], [115], [125], [134], [150] and abuse carried out among online gaming players [11], [98], [137]. This content, which can originate in communities dedicated to hate and harassment, often makes its way into mainstream social networks [61], [150], in turn impacting a much broader audience. All of these\nattacks are aided in part by the anonymous nature of online communication, which hampers accountability [152].\n\nThere is a much more comprehensive table on page 5 of that PDF.\n\nThere are other interesting debates to happen around this.  Getting (back to) some kind of consensus or working definition of toxicity like these papers express might be one step.  What else would be helpful in order for further conversations about issues like the role of big companies in this process and grey areas of acceptable behavior to be as meaningful and actionable as possible?",
+            "title_similarity": "0.6760913",
+            "sentiment_compound": -0.9971
+        },
+        {
+            "id": "hhimolw",
+            "score": 1,
+            "text": "Banning dissenting speech decreases instance of the usage of banned speech?  Who would have guessed that you would only have to ban everybody who disagrees with you to limit the words they say?",
+            "title_similarity": "0.6118139",
+            "sentiment_compound": -0.8504
+        },
+        {
+            "id": "hhiqo6l",
+            "score": 1,
+            "text": "Unrelated to science, but I remember Owen Benjamin’s old standup was pretty fun to listen to. Sad to hear he is now an “alt-right Internet personality and former stand-up comedian.” Seeing his name with Alex Jones is depressing",
+            "title_similarity": "0.6847663",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "hhis5ar",
+            "score": 1,
+            "text": "I agree. I want to live in a world where unknown people behind the scenes insulate me from ideas I don't like. I'm a champion of censorship. Historically it has always been in the interest of humanity.",
+            "title_similarity": "0.5765999",
+            "sentiment_compound": 0.822
+        },
+        {
+            "id": "hhis7je",
+            "score": 1,
+            "text": "Great research, but this is a first order effect. I'm concerned that, because the second order effects are so hard to measure (e.g. increasing radicalization elsewhere, increasing alienation overall) we'll assume interventions like this are without unintended consequence.",
+            "title_similarity": "0.61399347",
+            "sentiment_compound": 0.2145
+        },
+        {
+            "id": "hhisvrv",
+            "score": 1,
+            "text": "Title is missing a big one.",
+            "title_similarity": "0.30700904",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hhivfzo",
+            "score": 1,
+            "text": "[deleted]",
+            "title_similarity": "0.23479018"
+        },
+        {
+            "id": "hhiwewl",
+            "score": 1,
+            "text": "This answer seems obvious.  Those influencers spoke about controversial topics.  If everyone talked about puppies and rainbows you would see very little toxicity. Look at /r/aww vs literally any other subreddit.  The most toxic comment there is probably just how cute something is.                         \n                                        \nDo the followers of those influencers still comment at the same rate?  I doubt it.",
+            "title_similarity": "0.6975173",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "hhizfkp",
+            "score": 1,
+            "text": "Did it take trying frequency into account,  because I thought all the pro trump people went to parlor or whatever the right wing social media platform was.",
+            "title_similarity": "0.5832284",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhj3zo9",
+            "score": 1,
+            "text": "What did these guys say to get banned Its been a while, serio. us reply only",
+            "title_similarity": "0.49032784",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hhj5ele",
+            "score": 1,
+            "text": "Cut the head off the snake, they snake dies. Who knew.",
+            "title_similarity": "0.39950508",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "hhj6cgo",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhj8tw6",
+            "score": 1,
+            "text": "But the toxicity of the left continues to grow.",
+            "title_similarity": "0.40727186",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhjagys",
+            "score": 1,
+            "text": "Milo Yiannopolous got banned a long, long time ago though and has since gone straight off the deep end though. It's possible it's literally because most of these guys go further and further in their own insanity and people just don't put up with it.",
+            "title_similarity": "0.5829526",
+            "sentiment_compound": -0.7003
+        },
+        {
+            "id": "hhjcecg",
+            "score": 1,
+            "text": "Did you they do a litmus test on Twitter?",
+            "title_similarity": "0.51602286",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhjlcvr",
+            "score": 1,
+            "text": "Just like quarantining prevents the spread of communicable diseases.",
+            "title_similarity": "0.5279751",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hhjnq1f",
+            "score": 1,
+            "text": "Troublemakers cause trouble…next, on Oprah.",
+            "title_similarity": "0.5331768",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "hhjvqcx",
+            "score": 1,
+            "text": "* Doesn't this pose any concerns around freedom of speech?\n* Should large media companies be able to have such a large and unregulated level of control over public opinion?\n* Isn't it alarming that a for profit company can silence the (albeit controversial at the very best) President of the US? Because if they can silence him, they can silence anyone.\n\nDisclaimer: not American and not a Trump supporter :)",
+            "title_similarity": "0.63048625",
+            "sentiment_compound": 0.9311
+        },
+        {
+            "id": "hhjvxbh",
+            "score": 1,
+            "text": "Too bad the other radical figures are still in there.",
+            "title_similarity": "0.5704786",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "hhjw3pj",
+            "score": 1,
+            "text": "It reduces it on Twitter, at least. Then they just find an echo chamber where noone will challenge them and will be fed more misinformation and get further down the rabbit hole.\n\nI think it's a bad idea overall",
+            "title_similarity": "0.72360003",
+            "sentiment_compound": -0.6997
+        },
+        {
+            "id": "hhjw53f",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.18684928"
+        },
+        {
+            "id": "hhjxpit",
+            "score": 3,
+            "text": "How much did it actually reduce or is it just the chilling effect that made discourse stop on the platform, not their positions?",
+            "title_similarity": "0.6613295",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "hhjyoa5",
+            "score": 1,
+            "text": "The subsequent toxic speech of those followers might be reduced but how do we know they don't take the hint and engage less with that platform and/or spread their toxicity elsewhere instead?\n\n I'd imagine those users would look for another way to follow their \"leader\".",
+            "title_similarity": "0.75643504",
+            "sentiment_compound": 0.4767
+        },
+        {
+            "id": "hhk15mh",
+            "score": 1,
+            "text": "Yet admitted members of the Taliban are allowed to have Twitter accounts. I guess they're not considered toxic.",
+            "title_similarity": "0.6506041",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "hhk1lvu",
+            "score": 1,
+            "text": "As controversial or offensive as these influencers may be deplatforming them is kind of wrong they are protected under the 1st amendment with their freedom of speech now if they were calling for violence that's a different thing but as long as they keep that out of their rhetoric they shouldn't be deplatformed",
+            "title_similarity": "0.60394967",
+            "sentiment_compound": -0.3811
+        },
+        {
+            "id": "hhk21iu",
+            "score": 1,
+            "text": "Twitter just banning people that have different views than them, not the best idea to silence people.",
+            "title_similarity": "0.6874527",
+            "sentiment_compound": -0.5216
+        },
+        {
+            "id": "hhk21o8",
+            "score": 1,
+            "text": "\"Silencing evil people reduces their evil influence.\" - Science 2021\n\n(Sidenote: If you have to define evil, then you are evil too.)",
+            "title_similarity": "0.64073884",
+            "sentiment_compound": -0.9643
+        },
+        {
+            "id": "hhk23pa",
+            "score": 1,
+            "text": "Censoring is an admission of weakness and intolerance.",
+            "title_similarity": "0.44610637",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "hhk24l6",
+            "score": 1,
+            "text": "censorship is still censorship",
+            "title_similarity": "0.40857798",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhk2na4",
+            "score": 1,
+            "text": "A tolerant society has no pace for intolerance. Hate is not protected by the first amendment\n\nIf you have nothing nice to say, say nothing at all",
+            "title_similarity": "0.46553886",
+            "sentiment_compound": -0.8195
+        },
+        {
+            "id": "hhk2pd5",
+            "score": 1,
+            "text": "This is a lot of words for “if we call it toxic we can now get rid of it”",
+            "title_similarity": "0.57700986",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhk2tl6",
+            "score": 1,
+            "text": "Kinda sad you have to censor speech period. People are too sensitive. Wanna stop cyber bullying?  Block them. Go outside. Stop being thin skinned. The more you shelter people the more frail they become.",
+            "title_similarity": "0.7273067",
+            "sentiment_compound": -0.9433
+        },
+        {
+            "id": "hhk4tlk",
+            "score": 1,
+            "text": "Curious to see how they differentiate legitimate followers vs bot followers. I would guess when the sprocket was turned off, the bot followers ability to reach a wider audience would also drop, thus lessening the overall toxicity effect on the platform.",
+            "title_similarity": "0.77229834",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "hhk4yp8",
+            "score": 1,
+            "text": "Who are the idiots that manned this study?",
+            "title_similarity": "0.4726641",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhk5e8n",
+            "score": 1,
+            "text": "Not really they just went to parler, gab or trumps new social site",
+            "title_similarity": "0.50736547",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhk5mqv",
+            "score": 1,
+            "text": "…on Twitter.  They just went elsewhere.",
+            "title_similarity": "0.44460636",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhk5q9l",
+            "score": 1,
+            "text": "Appears a lot of \"deplatforming\" is taking place in this very thread.",
+            "title_similarity": "0.40773568",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhk69q0",
+            "score": 1,
+            "text": "Conveniently left out the worst offender",
+            "title_similarity": "0.5249877",
+            "sentiment_compound": -0.765
+        },
+        {
+            "id": "hhk99u6",
+            "score": 1,
+            "text": "Deplatforming is a cancer. Let them speak, leave it to the people to decided whether or not to listen.",
+            "title_similarity": "0.57805604",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "hhkaxw9",
+            "score": 2,
+            "text": "No,   no it made it worse.   Now these people scramble to vent which is in an even smaller echo chamber.",
+            "title_similarity": "0.5112971",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "hhkfn5e",
+            "score": 2,
+            "text": "Just like sending the class clown to the office helps the class get back to work",
+            "title_similarity": "0.3288862",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "hhkgahz",
+            "score": 1,
+            "text": "What's this got to do with science?",
+            "title_similarity": "0.20137303",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhkjewu",
+            "score": 1,
+            "text": "YES!! We must censor dissenting opinion in order to make the people on the platforms feel less uncomfortable when faced with facts and information that is contrary to the government approved information.",
+            "title_similarity": "0.685406",
+            "sentiment_compound": 0.3632
+        },
+        {
+            "id": "hhkjl3q",
+            "score": 1,
+            "text": "And reduced freedom of speech and opportunity to combat bad information by 100%",
+            "title_similarity": "0.5260136",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hhkkg0p",
+            "score": 1,
+            "text": "I mean that makes sense. Most of their followers said they were leaving Twitter. Now all we need is to get rid of the other toxic people on Twitter.",
+            "title_similarity": "0.7360369",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhkkpfl",
+            "score": 2,
+            "text": "Remember, they aren't sheep that just parrot what someone else's says without researching it for themselves. They are just really nice people that want to help everyone.",
+            "title_similarity": "0.5400517",
+            "sentiment_compound": 0.7264
+        },
+        {
+            "id": "hhkld8r",
+            "score": 1,
+            "text": "Yeah, fear of being censorship by fascist does that",
+            "title_similarity": "0.54252243",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "hhklv5d",
+            "score": 1,
+            "text": "Shouldnt get rid of people you disagree with cause you dont like em. Kinda childish",
+            "title_similarity": "0.54799104",
+            "sentiment_compound": -0.6825
+        },
+        {
+            "id": "hhkmkyx",
+            "score": 1,
+            "text": "\"Threatening to ruin someone's life will make them self censor.\" Why is this portrayed as advice for the future?",
+            "title_similarity": "0.5934262",
+            "sentiment_compound": -0.8807
+        },
+        {
+            "id": "hhkn6mn",
+            "score": 2,
+            "text": "Whats insane about stuff like this is they could just make it so you had to present ID to have an online presence and have all of your post linked to your name is a searchable way. The issue with social media is you rarely have ramifications to your actions the  way we all inherently understand exist in real life.\n\nMy online personality is way different to who I am in real life, and I know I can act out differently because nothing will come of it.",
+            "title_similarity": "0.69109696",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "hhkn9ae",
+            "score": 1,
+            "text": "It's also reduced freedom of speech \n\nSpeech you hate isn't hate speech.",
+            "title_similarity": "0.6541186",
+            "sentiment_compound": 0.542
+        },
+        {
+            "id": "hhknjv3",
+            "score": 1,
+            "text": "Wow look at all the freedom of speech in the comments section.",
+            "title_similarity": "0.35393244",
+            "sentiment_compound": 0.8402
+        },
+        {
+            "id": "hhkokxy",
+            "score": 1,
+            "text": "So when will the winds change and leftys start getting sensored/deplatformed. Cause that day will come unfortunately. I miss the days when you didn’t like what someone said you just didn’t listen to them by choice.",
+            "title_similarity": "0.58032537",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "hhkpdxh",
+            "score": 1,
+            "text": "'deleting every other comment ' \n shows your mentality",
+            "title_similarity": "0.49701047",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhkpio4",
+            "score": 1,
+            "text": "This is my take, and it's basically always been my position:\n\nIf you get banned on twitter or Facebook or what have you and whatever you got banned for is something that would get you banned on any other internet forum? You don't get my sympathy.",
+            "title_similarity": "0.68202317",
+            "sentiment_compound": -0.8782
+        },
+        {
+            "id": "hhkptqi",
+            "score": 1,
+            "text": "We should let AI determine who can and can’t procreate…",
+            "title_similarity": "0.3542139",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhkqty1",
+            "score": 1,
+            "text": "Slippery slope. Freedom is speech is important.",
+            "title_similarity": "0.43412632",
+            "sentiment_compound": 0.7184
+        },
+        {
+            "id": "hhkspxh",
+            "score": 1,
+            "text": "Deplatforming works people, don't let anyone tell you otherwise.",
+            "title_similarity": "0.55087173",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhktc32",
+            "score": 1,
+            "text": "because they went to another platform where the figures they followed still posted to\n\nThat’s like saying you solved the homeless problem by pushing all the homeless people into the neighboring city",
+            "title_similarity": "0.5709376",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "hhkun73",
+            "score": 1,
+            "text": "So removing a figure from a platform reduces the number of their active followers activity on said platform? You really needed to test this theory out?",
+            "title_similarity": "0.67326784",
+            "sentiment_compound": 0.5204
+        },
+        {
+            "id": "hhkusas",
+            "score": 1,
+            "text": "Weird how censoring shuts people up",
+            "title_similarity": "0.5470425",
+            "sentiment_compound": -0.1779
+        },
+        {
+            "id": "hhkv5sw",
+            "score": 1,
+            "text": "So are they gonna ban Fauci now for lying about gain of function?",
+            "title_similarity": "0.57236403",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "hhkvvk0",
+            "score": 1,
+            "text": "Humans are trash and easily led. Who knew?",
+            "title_similarity": "0.49313587",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "hhkw3v8",
+            "score": 1,
+            "text": "Because they are followers. If they don’t have something to repeat, they don’t have anything to say.",
+            "title_similarity": "0.47559038",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhkw7af",
+            "score": 1,
+            "text": "Scientific proof Joe Roman should just stop platforming extremists?",
+            "title_similarity": "0.53052646",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hhl025d",
+            "score": 1,
+            "text": "Wait so censoring speech led to less people saying the censored things… idc where you stand on what they say but I think this outcome is obvious right?",
+            "title_similarity": "0.7144411",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "hhl0iyx",
+            "score": 1,
+            "text": "Silencing people makes it harder for them to message, more news at 11.",
+            "title_similarity": "0.5417759",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "hhl2azv",
+            "score": 1,
+            "text": "What the hell happened to the subreddit",
+            "title_similarity": "0.35761157",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "hhl8jcq",
+            "score": 1,
+            "text": "Post-democracy or allowing just one official opinion",
+            "title_similarity": "0.32587695",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhl9w4n",
+            "score": 1,
+            "text": "All while the taliban have a huge presence on twitter including many other terror outfits. I have heard a leader of TTP (terror outfit in pakistan) threaten Malala on a twitter space saying they had unfinished business with her and her father.",
+            "title_similarity": "0.6033505",
+            "sentiment_compound": -0.7964
+        },
+        {
+            "id": "hhlj1sy",
+            "score": 1,
+            "text": "\"Toxicity\" isn't measurable",
+            "title_similarity": "0.2705334",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhls5tb",
+            "score": 1,
+            "text": "Deplatforming people is almost never the answer.",
+            "title_similarity": "0.46505976",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhlvr3v",
+            "score": 1,
+            "text": "Ok, so your toxic is someone else’s thought. Unlike other countries, the US does not execute people for speaking their mind.",
+            "title_similarity": "0.6172732",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhlyiom",
+            "score": 1,
+            "text": "what does this have to do with science?",
+            "title_similarity": "0.20307367",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhlyopc",
+            "score": 1,
+            "text": "Now, they banned anyone who complained about it.  Anyone who didn’t want to be banned, shut up.  All it did was silence folks who had opinions Twitter mods didn’t like.",
+            "title_similarity": "0.63825107",
+            "sentiment_compound": -0.7096
+        },
+        {
+            "id": "hhlyzim",
+            "score": 1,
+            "text": "Just curious. How do you measure the toxicity of speech?",
+            "title_similarity": "0.4713956",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hhlz8fm",
+            "score": 1,
+            "text": "So… censorship works is what I’m getting from that.",
+            "title_similarity": "0.5190868",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhm04xw",
+            "score": 1,
+            "text": "Yeah….it’s only their followers. Smfh!",
+            "title_similarity": "0.3494287",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hhm0gcq",
+            "score": 1,
+            "text": "You forgot one major force for the unruly.  I’ll give you a hint.  He lost a legit election and said he didn’t. Fools believed him.",
+            "title_similarity": "0.6380275",
+            "sentiment_compound": -0.6705
+        },
+        {
+            "id": "hhm1hp4",
+            "score": 1,
+            "text": "Silencing, deplatforming, and censorship… the best tool for an online left-wing mob hell-bent on never hearing arguments to every single thing they  ever utter.",
+            "title_similarity": "0.6410152",
+            "sentiment_compound": 0.7147
+        },
+        {
+            "id": "hhnkzdu",
+            "score": 1,
+            "text": "This is totally not biased at all",
+            "title_similarity": "0.14626327",
+            "sentiment_compound": 0.2715
+        },
+        {
+            "id": "hhtj0ep",
+            "score": 1,
+            "text": "free speech needs to be extended into the internet.",
+            "title_similarity": "0.47956002",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "hhw5pkl",
+            "score": 1,
+            "text": "Chasing people off Twitter just convinces their followers that they're right about everything.",
+            "title_similarity": "0.70023453",
+            "sentiment_compound": 0.1779
+        },
+        {
+            "id": "hi4582z",
+            "score": 1,
+            "text": "Sorry, how do we measure \"toxicity\"?",
+            "title_similarity": "0.42204008",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "hib1vto",
+            "score": 1,
+            "text": "\"men have penises\" \n\n87.89% likely to be toxic\n\nAh yes, science.",
+            "title_similarity": "0.49586797",
+            "sentiment_compound": 0.4019
+        }
+    ]
+}

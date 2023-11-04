@@ -1,0 +1,448 @@
+{
+    "ELI5: Why are metals smelted into the ingot shape? Would it not be better to just make then into cubes, so they would stack better?\n": [
+        {
+            "id": "h55o79y",
+            "score": 1,
+            "text": "An ingot isnt exactly a specific shape. You could pour lead into a muffin tin and it would be an ingot. That being said a square would also be an ingot. Typically an ingot is shaped a certain way for it to release from the mold easier like others have said.",
+            "title_similarity": "0.7386963"
+        },
+        {
+            "id": "h55689g",
+            "score": 38,
+            "text": "Cubes wouldn’t stack better.  They’d lack lateral stability that comes with the ingot shape.  Similar to why preppers who bury shipping containers find them caving in.  They’re not designed for that type of pressure.",
+            "title_similarity": "0.63726383"
+        },
+        {
+            "id": "h55or7s",
+            "score": 48,
+            "text": "So nobody has actually correctly answered your question.\n\nThese slopes are called [draft angles](https://pacdiecast.com/aluminum-die-casting/why-is-draft-angle-important-for-die-casting/). In die casting they help deal with thermal contraction as a part cools: the wide bottom of the ingot is the top surface during a pour.\n\nHistorically, they are also incredibly important in sand casting. A sloped wall is *much* less likely to crumble inwards while the sand mold is handled pre-pour.",
+            "title_similarity": "0.61878943"
+        },
+        {
+            "id": "h55sus7",
+            "score": -1,
+            "text": "I have no experience at all but I'm guessing that like most things they expand while cooling so that I got shape would cool at the top first and then slowly cool down to the bottom where it would kind of push the bar out of the form. Right?",
+            "title_similarity": "0.51002276"
+        },
+        {
+            "id": "h58j72t",
+            "score": 1,
+            "text": "Quick question for anyone smarter than me:\n\nIs there like an old time war reason?\n\nI imagine an ingot would be easier to later turn into a sword than a cube because it is slightly more sword shaped.\n\nProlly not, but as humans basically everything boil down to fucking or fighting on a long enough timeline",
+            "title_similarity": "0.6649194"
+        },
+        {
+            "id": "h55hogm",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "0.10161735"
+        },
+        {
+            "id": "h56lelk",
+            "score": 3,
+            "text": "Ever try to pick up an actual gold brick? It would be impossible if the sides were not slanted outward to get your fingers under.",
+            "title_similarity": "0.64868563"
+        },
+        {
+            "id": "h56vdgb",
+            "score": 4,
+            "text": "The only reason cubes would be better is that they stack in such a way that you can pack them more densely.\n\nMetal does not need to be packed more densely. The weight is **far** more of a restriction than the volume.",
+            "title_similarity": "0.7265435"
+        },
+        {
+            "id": "h56jdvg",
+            "score": 22,
+            "text": "you know how bricks overlap?\n\nthey are designed that way to make them easier to stack without falling over.\n\na pallet of cubes would be more likely to fall, and being metal, could injure someone pretty bad if they did.\n\nthe taper in the ingot is designed to make it easier to get out of the mold.",
+            "title_similarity": "0.79429"
+        },
+        {
+            "id": "h569fzn",
+            "score": 7,
+            "text": "So a lot of the answers here are almost right. But I actually work as an expert in the metals industry and the answer is a little more complicated. The process of extruding or forming or molding has to do with two things, the cooling and the reheating. You want to shape where it's going to cool evenly to avoid any kind of imperfections in the actual metal. If you have a shape that is inefficient at cooling, it can cause deformities and cracks, which depending on the use can really impact the final state of the metal. But more importantly it's the reheating. Space to stack things is not really expensive. You can get a giant warehouse or a yard to stack things in and it's relatively inexpensive. But heating is the most expensive process in a metal process. By using shapes that allow air flow the reheating can be done more efficiently which in turn costs a lot less. It also makes the melting more efficient, more stable, and more reliable. Iron pellets were developed because the spherical shape allows better heat transfer and thorough melting through the middle, whereas before they were having solid pieces floating around and taking forever to melt throughout the mixture. Depending on the size of your foundry mixing maybe nearly impossible so you want to thorough melt the first time through. There is also some truth to the shade being easier to remove from molds, however I would be very surprised if that's really the cause of the shape rather than a happy accident. And of course each industry is going to be different. Steel is different than gold is different than nickel is different than zinc. So each may have a variation on the process and a slightly different reason for doing so.",
+            "title_similarity": "0.6783793"
+        },
+        {
+            "id": "h55sjj8",
+            "score": 27,
+            "text": "Before ingots there were shipped like cow hides. And tied to the sides of animals for transport. The Japanese made them round, ignots were more structural sound to lock in place in travel. Like stacking a pallet of bricks",
+            "title_similarity": "0.5887841"
+        },
+        {
+            "id": "h56c7js",
+            "score": 9,
+            "text": "I work in a foundry. The reason we have have different size ingots of both shape and diameter are because of the different induction furnaces we have. We have small ingots that you can hold in your hand and others up to 74” diameter ingots that weigh 15-16 tons a piece. It has to do with the induction heating and how efficiently the charge melts.",
+            "title_similarity": "0.6399104"
+        },
+        {
+            "id": "h55nd31",
+            "score": 31,
+            "text": "Lots of good points here.\n\nI'd like to add reduction. If the material is to be forged, you're targeting a specific amount of reduction. Say you need 3.5 to 1 reduction to achieve the desired material strength. To get a forged material 4 inches thick, you need 14 inch beginning height / thickness. Having a long ingot allows you to cut the ingot to the necessary length, stand it on end, and forge down to the desired reduction. Cubes would limit the amount of reduction you can achieve, compared to 20 foot long ingots. Obviously you're not going to be reducing the entire length of the ingot, but you might start the forge process with a 4 foot length cut from that 20 foot ingot, to reduce it down to a 1 foot forging (4:1 reduction.) Then it's just a matter of choosing the right size ingot to cut the 4 foot length from, based on the size of the desired forging.",
+            "title_similarity": "0.66233844"
+        },
+        {
+            "id": "h55vqdl",
+            "score": 11,
+            "text": "A lot of steel (I think most, at least in US) to be made into simple shapes like bars, rod, or wire these days is produced by continuous casting, which produces a beam with rectangular cross-section. They stack very nicely.",
+            "title_similarity": "0.5087402"
+        },
+        {
+            "id": "h56kfl8",
+            "score": 11,
+            "text": "A rectangular form (brick) is both easy to stack and interlocks their layers, making it more stable. You can then build the individual ingots into a larger cube. Without interlocking layers, you really just have a bunch of stacks that can easily be pushing over.\n\nThe sloped sides are to make to easier to got the metal out of the molds.",
+            "title_similarity": "0.7166666"
+        },
+        {
+            "id": "h56l7qm",
+            "score": 15,
+            "text": "Not just that (the shape of the mold/removing the bar), but from someone with a background in manufacturing Quality, every cube that was made would have slight variance in them. The opposing surfaces would never be perfectly parallel with each other. The process would never be so perfect that you would be able to make the same cube twice, let alone a single cube that was a \"perfect\" cube. Eventually stacking the cubes with these variances would cause a problem as the variances added up. At first the problem would not be noticed, but eventually you would realize some form of leaning, that will eventually lead to toppling of the stack. You're kind of working with a Janga tower that is at a, or near a microscopic level. \n\nThe cost to provide even the best level of near perfection would be so hight that it would never be worth the cost to do so. For instance, I have a budget for my groceries. I know I can buy more if I shop for the off brand items, vs if I bought name brand. Just as good but some times half the price.\n\nThe shape of the bars with a wide base/narrow top can actually offer a better, more secure option for stacking, while having relaxed (and cheaper) quality control in place.\n\nEdit: Clarified that I was referring to comments about the shape of the mold/bar removal.",
+            "title_similarity": "0.6919993"
+        },
+        {
+            "id": "h55q25h",
+            "score": 25,
+            "text": "[removed]",
+            "title_similarity": "0.10161735"
+        },
+        {
+            "id": "h55v568",
+            "score": 271,
+            "text": "When you pack wet sand into a bucket and turn it upside down on your castle, the sand comes out in one piece as the shape of your bucket.  \nIf you pack sand into a coffee cup and turn it upside down, likely only the first inch would come out and the rest would be stuck in the bottom of the cup.  \nAs others have said, the angle of the walls helps the bar be removed more easily.",
+            "title_similarity": "0.5662428"
+        },
+        {
+            "id": "h555ooz",
+            "score": 377,
+            "text": "Lots of bread pans are a similar shape for a similar reason. They are wider at the top than the bottom, think about why:  \n\n\nIf they were wider at the bottom then the top if you lifted the bar it couldn't come out of the mold.   \n\n\nIf it was the same at the top and bottom the bar would scrape against the edge the entire time you lifted it. So you have to have it be perfectly smooth or pull it hard.   \n\n\nif the bottom is smaller, the second you start lifting it upwards it's no longer touching the sides. So you only need to get it to move a tiny amount then it will fall out on it's own if you turn it upside down.",
+            "title_similarity": "0.6593499"
+        },
+        {
+            "id": "h555ko5",
+            "score": 501,
+            "text": "[removed]",
+            "title_similarity": "0.10161735"
+        },
+        {
+            "id": "h56ut6r",
+            "score": 58,
+            "text": "I work in a aluminum mill where the ingots are cast in a shape that makes them easier to roll on the hotmill. Our ingots are cast into 30,000 pound rectangles. I have also seen food cooked on sidewall furnaces and full breakfast cooked on top of a fresh cast ingot. Night shift is always the stuff of legends in any facility.",
+            "title_similarity": "0.5138394"
+        },
+        {
+            "id": "h555jk3",
+            "score": 8232,
+            "text": "It’s to do with the shape of the mould an ease of getting the metal out. Needing the curved sides to release for the mould easier, theres more chance of the metal being stuck in a mould that’s cube shaped. Also, the metal cools better in this shape, cools a lot more evenly resulting in a smaller chance of cracks etc forming.",
+            "title_similarity": "0.6691786"
+        },
+        {
+            "id": "h555s3l",
+            "score": 8603,
+            "text": "Whenever you pour something into a mold to solidify, you have to worry about getting it out again, and that's much easier when the walls are at an angle like \\\\___/. That's also why molds for cakes or ice cubes are often shaped that way.",
+            "title_similarity": "0.69717467"
+        },
+        {
+            "id": "h56iwk0",
+            "score": 1458,
+            "text": "Twice as long as wide allows for an interlinking stack. All cubes would be unstable.  The slight slope to the sides makes it easier to pick up, also pops out of mold easier",
+            "title_similarity": "0.671662"
+        },
+        {
+            "id": "h55uj0a",
+            "score": 1,
+            "text": "Aluminum ingots stack neatly in to a strapped bundle that a forklift can move. Two ingots are the base, then alternating layers until the bundle is about 2000 lbs. \n\nIndividual ingots were 40 - 50 lbs, a convenient size to handle and lift.",
+            "title_similarity": "0.45603406"
+        },
+        {
+            "id": "h55z0tg",
+            "score": 1,
+            "text": "If done correctly the way the metal cools will actually make it drive itself out of the mould.  The thickness and having the mould against part and not against the top naturally makes the metal decrease at different rates cause it to slightly pull from the outsides.  This same process can be used in other mould and drying processes.",
+            "title_similarity": "0.6116092"
+        },
+        {
+            "id": "h563v5d",
+            "score": 1,
+            "text": "Related: Is ingot a shape?",
+            "title_similarity": "0.33305678"
+        },
+        {
+            "id": "h5648p1",
+            "score": 1,
+            "text": "I am pretty sure there’s melted into ingot shape because it is the easiest way to get their weight",
+            "title_similarity": "0.49125695"
+        },
+        {
+            "id": "h564t4d",
+            "score": 1,
+            "text": "Also, if you stack one upside down next to an upright   ignot, it becomes a long flat surface that you can make as long as you want.",
+            "title_similarity": "0.34064084"
+        },
+        {
+            "id": "h565xlc",
+            "score": 1,
+            "text": "Fun factoid: In the Late Bronze Age Mediterranean, they made copper ingots in the shape of skinned ox hides probably because the shape allowed for easier carrying (the legs become like handles). Tin was in little bun-shapes partly because of how much less you needed than copper to make bronze--about 90-10.",
+            "title_similarity": "0.6603807"
+        },
+        {
+            "id": "h568bgp",
+            "score": 1,
+            "text": "Why is the traditional chinese gold bar has such a weird shape?",
+            "title_similarity": "0.598598"
+        },
+        {
+            "id": "h56a7l9",
+            "score": 1,
+            "text": "The same reasons bricks are rectangular; because they stack better than a square. Ever notice how bricks are stacked in an offset way? That's to increase strength. It's easier to do with rectangles than squares as well.",
+            "title_similarity": "0.6956192"
+        },
+        {
+            "id": "h56bsfz",
+            "score": 1,
+            "text": "Most Alu ingots are cast in automated machines, the ingots stacked by robots into pallets. The mould needs to be able to release the ingot easily and last a long time; millions of heat cycles without distortion. All of these considerations are taken into account by the designers of these machines. It's not a simple answer to your simple question. But is accurate.",
+            "title_similarity": "0.556859"
+        },
+        {
+            "id": "h56f2th",
+            "score": 1,
+            "text": "if you have to work metal, it is easier to work an ingot than it is to work a cube. The ingot you can pound and make it into a rod, you push that through dies and make it into wire, the wire you can then turn into screws or nails or so on. you could do the same with a cube, but it would take a bit more effort to start with. Stacking really isn't an issue anyway.",
+            "title_similarity": "0.71579266"
+        },
+        {
+            "id": "h56gnii",
+            "score": 1,
+            "text": "Center of gravity perhaps? Same reason bricks are rectangle instead of cubes. Less likely to fall over with weight spread lower and longer than talk and narrow. Also as other have said the mold needs draft to release metal.",
+            "title_similarity": "0.79787123"
+        },
+        {
+            "id": "h56o8qg",
+            "score": 1,
+            "text": "To be blunt about it, cubes do not stack particularly well when the goal is to not have the stack fall over ever.",
+            "title_similarity": "0.51083666"
+        },
+        {
+            "id": "h56pcqs",
+            "score": 1,
+            "text": "In addition to the other answers, the shape creates “finger space” which helps avoid pinched fingers when manually stacking and unstacking.",
+            "title_similarity": "0.58344376"
+        },
+        {
+            "id": "h56pfz5",
+            "score": 1,
+            "text": "Stacking planks is safer than stacking cubes for transporting and moving around?",
+            "title_similarity": "0.7073125"
+        },
+        {
+            "id": "h56sa4f",
+            "score": 1,
+            "text": "Ingots stack fine and the wedge shape allows for easy removal of the metal from the mold.  If you had a stack of gold ingots, you would not complain :)",
+            "title_similarity": "0.58376926"
+        },
+        {
+            "id": "h56vb1i",
+            "score": 6,
+            "text": "As others have pointed out ingots are not always used anymore, continuous forging and coil/wire extrusion is pretty common ways to ship raw metal. However, I use to work for a scrape metal recycling company that produced tons and tons of small steel or aluminum ingots from the scrap that was shredded then melted down. they were slightly smaller than a common red house brick. \n\nThey were still pretty 'dirty' and needed further refining and mixed before use. We would sell and ship them by the railcar or ship load usually, often orders of several 100k tons. The size allows them be packed tightly and loaded with a frontend loader or crane with magnet or grapple.",
+            "title_similarity": "0.6311557"
+        },
+        {
+            "id": "h56vmxg",
+            "score": 2,
+            "text": "Same reason ice cube trays are not exactly cube shaped.  Easier to get them out of the mold.",
+            "title_similarity": "0.67678946"
+        },
+        {
+            "id": "h56wljo",
+            "score": 1,
+            "text": "Plus - they're heavy, and they actually stack fine like that, with room to gain a purchase. If they were perfect cubes, it would be a real PITA to pick up individual ingots.",
+            "title_similarity": "0.64903843"
+        },
+        {
+            "id": "h56xvvn",
+            "score": 1,
+            "text": "Youre probably referring more to ingots of silicon rather than metals like gold or silver. Since silicon is sliced into circular wafers rathers squares due to increased number of chips, ingots provide the highest degree of tensile strength while maintaining conformity across the entire wafer. Making the ingots so that they can stack isnt really beneficial",
+            "title_similarity": "0.76227975"
+        },
+        {
+            "id": "h56y9k6",
+            "score": 1,
+            "text": "I want you to try to take a cube out of a hard mold, then you will understand first hand why it's shaped that way.",
+            "title_similarity": "0.70124036"
+        },
+        {
+            "id": "h5704qq",
+            "score": 1,
+            "text": "In addition to the casting: the most efficient way of stacking stuff is in hexagons (as a honeycomb pattern). If you create your bar dimensions right: guess how you can stack?",
+            "title_similarity": "0.71382034"
+        },
+        {
+            "id": "h574s93",
+            "score": 1,
+            "text": "They're long and shallow to ensure they cool quickly. Narrow to to ensure you can actually lift them. Steep angle to make sure the mold you're casting them into doesn't stick to the pattern when you pull it out, specifically so you can use the pattern thousands of times without needing to repair or replace it.\n\nEvery cast object has what they call draft- added angle on vertical surfaces so pulling the mold off the pattern doesn't mess up the mold sand, or so that pulling the part from a die is helped by thermal shrinkage.\n\nI worked in a grey iron foundry as an engineer for awhile, AMA.",
+            "title_similarity": "0.5822929"
+        },
+        {
+            "id": "h574xyx",
+            "score": 1,
+            "text": "Have you ever wondered why bricks are made out of rectangles and not cubes? Flat tops/bottoms are really all that are needed for stacking. The elongated shape allows each brick/ingot to 'reach out' to every other brick/ingot; that interlocking adds strength and support. \n\nThe shape, as others have mention already, also pertains to removing the ingot quickly/easily from their respective molds. I would also add that a long/skinny bar will cool much quicker than a solid sphere (like cooling fins on an engine)",
+            "title_similarity": "0.73084676"
+        },
+        {
+            "id": "h576yrl",
+            "score": 1,
+            "text": "We...kinda do now? Now that [continuous casting](https://en.wikipedia.org/wiki/Continuous_casting) is a thing, steel and other metals are shaped into rectangular cuboid shapes such as [billets, blooms and slabs](https://qph.fs.quoracdn.net/main-qimg-c212421439a166d0d75e5d090288a972.webp). And as the photo shows, they are easily stacked.\n\nThat said, what other people have said about easily stripping ingots out of their moulds still applies.",
+            "title_similarity": "0.6013334"
+        },
+        {
+            "id": "h577ryo",
+            "score": 1,
+            "text": "Metal expands and contracts based on temp.  The shape allows the ingot to free itself from a mold.  A cube shaped mold would just be permanently filled with metal.",
+            "title_similarity": "0.62297714"
+        },
+        {
+            "id": "h577w5i",
+            "score": 2,
+            "text": "Don't bricks stack better than cubes in the first place?",
+            "title_similarity": "0.7541332"
+        },
+        {
+            "id": "h579sf6",
+            "score": 1,
+            "text": "It's called a draft angle. Every injection moulded piece of plastic has this designed in it to make it come out of the mold easier.",
+            "title_similarity": "0.49628192"
+        },
+        {
+            "id": "h57df0f",
+            "score": 1,
+            "text": "Depends on the metal, but a lot of metals are not made into ignot shape they are extruded into billets",
+            "title_similarity": "0.5317972"
+        },
+        {
+            "id": "h57eh32",
+            "score": 1,
+            "text": "There are some stackable ingots, but they cost more to make because they have to be machined. https://www.apmex.com/product/51412/1-kilo-silver-bar-apmex-stackable?msclkid=55e58a7b71a31a82f2b2ea942e501315&utm_source=bing&utm_medium=cpc&utm_campaign=CPA%20-%20Bing%20Shopping%20PLA&utm_term=4580840328642141&utm_content=All%20Products%20Bing%20Shopping%20CPA",
+            "title_similarity": "0.6303494"
+        },
+        {
+            "id": "h57eu80",
+            "score": 1,
+            "text": "Cubes?!? And pass up on calling them INGOTS!!?? do you just hate this world?",
+            "title_similarity": "0.56158626"
+        },
+        {
+            "id": "h57fjgk",
+            "score": 1,
+            "text": "Have you tried picking up a heavy cube?? It is a lot harder than a long ingot shape.",
+            "title_similarity": "0.61935186"
+        },
+        {
+            "id": "h57ic9i",
+            "score": 1,
+            "text": "For the same reason bricks aren't cubes. Better \"for stacking\" isn't better for stability or moving piles of something all together. A big stack of cubes has no structural integrity and would be prone to fall over. You don't want silos, you want overlapping pieces.",
+            "title_similarity": "0.64324313"
+        },
+        {
+            "id": "h57k09i",
+            "score": 1,
+            "text": "Rectangular ingots have a higher surface area to volume ratio, and no part of the volume is as far from the surface than if it was a cube. This enables them to cool much faster after casting so they can be handled more rapidly. You can turn them out and reuse the mold quicker than if it was a cube.",
+            "title_similarity": "0.6774369"
+        },
+        {
+            "id": "h57o4kv",
+            "score": 1,
+            "text": "I worked in a precious metals depository briefly. Silver is usually stored as \"1000 oz\" bars, which are about 6\"x8\"x30\". These are grey and dun, not shiny at all, and they are stacked up on pallets 5 or 6 bars high. They can't stack the bars much higher; the weight would crush the pallets. \n\n40,000 oz of silver @ $25 oz = $1 million bucks a pallet.",
+            "title_similarity": "0.63593566"
+        },
+        {
+            "id": "h57yj45",
+            "score": 4,
+            "text": "Its way safer..\nIngots are less likely to tip over when stacked. The shape makes it difficult to flip so when they do get knocked over they slide in a more controlled manner rather than tumbling over from the top",
+            "title_similarity": "0.5488499"
+        },
+        {
+            "id": "h58cbt8",
+            "score": 1,
+            "text": "Steel use to be cast in ingots that where 20 tons, about 4 foot by 4 foot by 8 feet. They now cast steel in a continuous slab 7 to 8 inches deep by 3 to 4 foot wide.",
+            "title_similarity": "0.4628271"
+        },
+        {
+            "id": "h58gnez",
+            "score": 1,
+            "text": "I work at Arconic Aluminum,  we have no problem stacking ingots. We make coils of Aluminum,  you have do that with ingots not cubes.",
+            "title_similarity": "0.48937982"
+        },
+        {
+            "id": "h58hnzs",
+            "score": 1,
+            "text": "Also, you need something you can pick up with one hand, so narrow. By making it rectangular, you can fit more in a single item",
+            "title_similarity": "0.42578647"
+        },
+        {
+            "id": "h58mmhp",
+            "score": 2,
+            "text": "If they are in Ingot shape you can stack them like bricks and interlock them so they will not fall over. Just a guess.",
+            "title_similarity": "0.6467943"
+        },
+        {
+            "id": "h58oj5p",
+            "score": 1,
+            "text": "As one who use to cast jewelry from silver and gold, it’s much easier to melt a flatter rectangle than a cube. It’s also much easier to break/cut with hand tools for using less than a whole one.",
+            "title_similarity": "0.71378577"
+        },
+        {
+            "id": "h58y5fp",
+            "score": 1,
+            "text": "In addition to everyone else's stuff, making it oblong makes it easier to reheat, the distance to the center of the ingot is shorter for the same volume of material than a cube, or worse, a sphere. Square-cubed law, same idea as why cells can only be so big.",
+            "title_similarity": "0.73395294"
+        },
+        {
+            "id": "h5900jh",
+            "score": 1,
+            "text": "The ingot shapes (brick shape)  stacks better.  Thats why house bricks are brick shaped and not cubed.",
+            "title_similarity": "0.6006248"
+        },
+        {
+            "id": "h5900nc",
+            "score": 1,
+            "text": "You thing cubes stack better than thin rectangles? Did you not own blocks growing up?",
+            "title_similarity": "0.75336826"
+        },
+        {
+            "id": "h590ag0",
+            "score": 1,
+            "text": "Strictly speaking, it should take less time to re-liquify the metal if it's long and flat, vs. a cube.\n\nExample:\nPut a couple large spoons worth of cold mashed potatoes in a single mound and microwave or for 30 seconds, the outside has started to warm up, but the center is still quite cold \nNow use the same amount of potatoes, but this time spread them out to cover the whole surface of the plate, and microwave them for 30 seconds.\nThe same amount of energy for the same amount of time will have heated up much more/all of the potatoes.",
+            "title_similarity": "0.60261476"
+        },
+        {
+            "id": "h590fza",
+            "score": 1,
+            "text": "Given that Gold and metal are extremely heavy and smooth. Imagine if the blocks fit perfectly together. You’d find them hard to grasp. Given there weight, if you fumble them you could hurt yourself. So the sloped slides leave a bit of space to grab them.",
+            "title_similarity": "0.64313006"
+        },
+        {
+            "id": "h594dmt",
+            "score": 1,
+            "text": "Ingots are shaped this way so they can get out of the mold again, hence why theyre smaller towards the bottom (of the mold).\n\nIn addition, cubes cant be stacked like ingots. The exact proportions vary, but longer than thick allows you to stack one layer straight, the next layer 90 degrees turned, and so on. This is much more stable than cubes, as they would essentially be several towers, each of which can individually fall",
+            "title_similarity": "0.7664063"
+        },
+        {
+            "id": "h595uuo",
+            "score": 2,
+            "text": "Look up a stack of ingots and and stack of cubes occupying the same space and tell me which one is more stable.",
+            "title_similarity": "0.6634043"
+        },
+        {
+            "id": "h599mdr",
+            "score": 1,
+            "text": "Not a blacksmith but I assume an ingot is more useful as most things that are forged are more long and flat which is closer to an ingot shape over a cube, so less heat+effort would be required to forge something like a sword out of an ingot over a cube",
+            "title_similarity": "0.71363205"
+        },
+        {
+            "id": "h59deor",
+            "score": 1,
+            "text": "Very important to mention that the more volume the piece has, the more internal defects it can have. It also requires more energy to melt a cube than a lingot.",
+            "title_similarity": "0.72407734"
+        },
+        {
+            "id": "h5pjd9s",
+            "score": 1,
+            "text": "I would think that the shallower shape also solidifies faster.  Can you imagine how long a cube of hot liquid metal would stay molten in the middle?",
+            "title_similarity": "0.7244873"
+        }
+    ]
+}

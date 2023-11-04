@@ -1,0 +1,2529 @@
+{
+    "Researchers combed through more than a decade of health data from 102,865 French volunteers. They found that consumption of artificial sweeteners was associated with an increased risk of cancer.\n": [
+        {
+            "id": "i2d40uu",
+            "score": 1,
+            "text": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are now allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will continue to be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) still apply to other comments.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "title_similarity": "0.47220922",
+            "sentiment_compound": 0.7088
+        },
+        {
+            "id": "i2davdg",
+            "score": 17,
+            "text": "This is why science reporting sucks. The headlines lead to inaccurate conclusions, because while the study takes into account, “adjustments to account for some factors relevant to cancer risk, including age, gender, and tobacco use, to make them more representative to the entire French population” they don’t take into account lifestyle and health risk. This is correlation not causation, and with no control group, so in the general population who is most likely to consumer artificial sweeteners? People with diabetes and age related diseases that are naturally more subtle to cancer, further more the increases were small and in the case of Sucralose there was an inverse correlation in terms of consumption. “Sucralose seemed to have the least association with cancer: Rates were not greater for higher consumers and 3 percent greater for low consumers”.\nThis is like when the headlines came out saying longer term usage of Tylenol had a 50% higher chance of cardiac disease than previous thought. Where it went from 1% to 1.5%. In France the rate of cancer is .00344% (344 per 100,000) so there is a correlation for a 15% increase to .00395",
+            "title_similarity": "0.6465398",
+            "sentiment_compound": -0.9708
+        },
+        {
+            "id": "i2d9pa0",
+            "score": 5,
+            "text": "Associated, not causally linked. So poor people who eat a lot of artificial sweeteners instead of going to the gym get more carcinogens in their diets because they can't afford the better versions/ they eat the blackened bits in overcooked meat etc more often.",
+            "title_similarity": "0.59192926",
+            "sentiment_compound": -0.7504
+        },
+        {
+            "id": "i2d9h9g",
+            "score": -4,
+            "text": "I think we knew since the 1970s or 80s that they could, the question was if many people would consume enough that they would.",
+            "title_similarity": "0.50956255",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2daocu",
+            "score": 4,
+            "text": "So is drinking water and eating food! [News article on it.](https://www.washingtonpost.com/health/youre-literally-eating-microplastics-how-you-can-cut-down-exposure-to-them/2019/10/04/22ebdfb6-e17a-11e9-8dc8-498eabc129a0_story.html)",
+            "title_similarity": "0.48438495",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2d9edp",
+            "score": 8,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2d8exi",
+            "score": -5,
+            "text": "[removed]",
+            "title_similarity": "-0.11772238"
+        },
+        {
+            "id": "i2d9blk",
+            "score": 17,
+            "text": "So its a 15% increase or so. About half of people will develop cancer in their lifetime. Grim.  \n\nSo does that mean the chance goes from 50 to 55.5 or to 65%?",
+            "title_similarity": "0.7325324",
+            "sentiment_compound": -0.7003
+        },
+        {
+            "id": "i2eyg9w",
+            "score": 0,
+            "text": "You can taste that it's giving you cancer...I mean my mom has been telling me the Aspartame and other stuff in it is the cancer stuff, been telling me since I was a kid, so I thought it was pretty widely known.The \"diet\" version of any drink taste 50x worse than it's sugary counterpart. \n\nLook, sugar is bad, but artificial sweetener is much worse.",
+            "title_similarity": "0.7035222",
+            "sentiment_compound": -0.81
+        },
+        {
+            "id": "i2dbltk",
+            "score": 8,
+            "text": "Where is the moderation on this one? I'd say it breaks rules 2 and 3 at a minimum.",
+            "title_similarity": "0.17181757",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2d9u8e",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "-0.11772238"
+        },
+        {
+            "id": "i2d8wi3",
+            "score": 9,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2d6ub5",
+            "score": -14,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2d9p8x",
+            "score": 6,
+            "text": "Have they figured out how you can live so that you can totally dodge cancer?",
+            "title_similarity": "0.3977876",
+            "sentiment_compound": -0.6887
+        },
+        {
+            "id": "i2dogmh",
+            "score": 0,
+            "text": "Isn't this just more confirmation data? Didn't we already know this 30 years ago?",
+            "title_similarity": "0.3222973",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dpn21",
+            "score": 0,
+            "text": "I thought this was public knowledge 20 years ago?",
+            "title_similarity": "0.27669108",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ert29",
+            "score": 0,
+            "text": "I thought this was widely known",
+            "title_similarity": "0.054101385",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dkwmb",
+            "score": 3,
+            "text": "I'd wager increased consumption of *natural* sweeteners, aka sugar, is associated with and increased risk of cancer...",
+            "title_similarity": "0.67099607",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "i2da1km",
+            "score": -8,
+            "text": "I would suspect that obese people are more likely to consume diet drinks/artificial sweetness than healthier people… and we know that obese people have significantly higher risk of cancer.\nWhile the article says that data was adjusted to account for age, gender and tobacco use, it does not state whether it was adjusted to account for obesity, to hep determine causation vs correlation.\nWithout that, it’s pretty a pretty useless conclusion.",
+            "title_similarity": "0.6174697",
+            "sentiment_compound": -0.7736
+        },
+        {
+            "id": "i2dklf0",
+            "score": -8,
+            "text": "Thought this was always known, couldn’t understand why anyone would want to drink diet soda drinks",
+            "title_similarity": "0.28707722",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "i2db5nq",
+            "score": -5,
+            "text": "Yep. The old advertising campaigns used to be \"Hey, sugar rots your teeth but Saccharin doesn't.\". Then it turned to \"Saccharin gives you cancer but sugar doesn't\".",
+            "title_similarity": "0.5316892",
+            "sentiment_compound": -0.7579
+        },
+        {
+            "id": "i2dcbqu",
+            "score": -8,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2db5zu",
+            "score": -11,
+            "text": "All sweeteners have had a cancer warning on them for 20+ years in the USA... Guess it's better to be sure, 20 years later.\n\nArtificial sweeteners were made for people who are diabetic, so they could still have something that simulates the sugar they can't have. Idiots turned it into a \"diet aid\"...",
+            "title_similarity": "0.73628247",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "i2daxp2",
+            "score": 1,
+            "text": "While cancer is not discussed because there's not as much hard data out on it. I recommend listening to The Huberman Lab Podcast episodes on artificial sweeteners and the gut microbiome.\n\nEdit: anyone unfamiliar with the Huberman Lab Podcast, Andrew Huberman and is a tenured professor at Stanford Medical school of neurobiology and Opthalmology. I really, really like his presentation style and he is a true scientist. Looking at well grounded research and if contradicting data comes out later, he presents it and retracts previous comments. He is careful to not present unfinished data as final. Very well spoken and easy to listen to.",
+            "title_similarity": "0.48642257",
+            "sentiment_compound": 0.8385
+        },
+        {
+            "id": "i2dg4fa",
+            "score": 1,
+            "text": "Great! I’m 40 and ive been having artificalnsweetner for ever",
+            "title_similarity": "0.40876758",
+            "sentiment_compound": 0.6588
+        },
+        {
+            "id": "i2dggke",
+            "score": 1,
+            "text": "If only Stevia weren't so heinous...",
+            "title_similarity": "0.14498708",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dmep8",
+            "score": -1,
+            "text": "Fun fact: Donald Rumsfeld was responsible for approving aspartame as head of the FDA... And to top it all off, he was CEO of Searle... The company that owned the patent for... You guessed it! Aspartame!",
+            "title_similarity": "0.53330106",
+            "sentiment_compound": 0.7896
+        },
+        {
+            "id": "i2eq6ot",
+            "score": 1,
+            "text": "I'm going to sound like a nut... But in 2000-2007 the FDA website had many artificial sweeteners and coloring agents as carcinogens. Ace-k (acesulfame potassium) and Titanium dioxide for example.\n\nI used to just lick it from the FDA website and sometime after 2008 the large data was taken down and the website we completely changed (the old website looked like an accountant made it so it is for sure a better site now, it was a link on the site that has raw data just stack and was all on one page). But where things used to say cancerous or bi longer did. I've shown it 100s of people back then. \n\nIdk if they got paid or maybe the studies want good enough back then. But either way me and my family stopped consuming them as much as we could sense seeing that and reading some of the studies linked to it.\n\nNow, even if the levels say it was safe, it is very easy to avoid so why take the chance? I don't need soda, I don't need flavor drinks with the stuff, I don't need candy with it either, and take a sec to check the foods. In general it has made my family healthier.",
+            "title_similarity": "0.7239959",
+            "sentiment_compound": 0.9665
+        },
+        {
+            "id": "i2dp339",
+            "score": -4,
+            "text": "Damn so better to drink regular soda vs coke zero after. Been drinking that stuff way to much lately",
+            "title_similarity": "0.40481555",
+            "sentiment_compound": 0.1263
+        },
+        {
+            "id": "i2d7l2v",
+            "score": 14,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2d9zgs",
+            "score": 12,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2de30g",
+            "score": -5,
+            "text": "Interesting.. I wonder if the companies hold any responsibility using artificial sweeteners will be transcendent and help victims and change the recipe",
+            "title_similarity": "0.4751969",
+            "sentiment_compound": 0.4767
+        },
+        {
+            "id": "i2dkwio",
+            "score": -3,
+            "text": "I’ve said it for a while now when considering diet or regular “Well, if im gonna fill my body full of garbage at least make it taste good.” Artificial sweeteners in diet soda don’t even come close to tasting as good as just regular sugar",
+            "title_similarity": "0.43373984",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "i2ddtoz",
+            "score": -6,
+            "text": "i thought this was known for so long.",
+            "title_similarity": "0.11053668",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dfhn6",
+            "score": -6,
+            "text": "Aspartame (the artificial sweetener commonly used in place of sugar in sugar free items) has also been linked to causing blindness.",
+            "title_similarity": "0.45359308",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "i2dh8t6",
+            "score": 0,
+            "text": "What about natural ones like Stevia?",
+            "title_similarity": "0.13792768",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "i2dil8v",
+            "score": 0,
+            "text": "We knew saccharin was a carcinogen decades ago.",
+            "title_similarity": "0.5861863",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dilrf",
+            "score": 0,
+            "text": "Big shocker. My grandma told me this in the 80’s",
+            "title_similarity": "0.43304843",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "i2djhup",
+            "score": 0,
+            "text": "Hasn’t this been known for decades ?",
+            "title_similarity": "0.25919217",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dluig",
+            "score": 0,
+            "text": "So is Coke Zero worse than Original Coke?",
+            "title_similarity": "0.23426661",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "i2dm0sc",
+            "score": 0,
+            "text": "Annnnnnnnd we have known this since the 80's",
+            "title_similarity": "0.28912294",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dm7k3",
+            "score": 0,
+            "text": "Hasn't this been known for awhile? My Gran removed all artificial Sweet news from the house the first time she went through chemo",
+            "title_similarity": "0.5833845",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "i2dnmtm",
+            "score": 0,
+            "text": "John Daly (well known professional golfer) known for drinking a lot of Diet Coke (amongst other things). I saw in the article it mentioned bladder cancer. John Daly was diagnosed with bladder cancer. Thought that was interesting. Love Daly and hope he pulls through",
+            "title_similarity": "0.5999127",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "i2dolvh",
+            "score": 0,
+            "text": "added sugar is far more disastrous to people's health.\n\nthis study was mostly above average use of   \nblue packet **Equal | Nutrisweet**  \nwith a marginal 13% impact in cancer risk.",
+            "title_similarity": "0.6935836",
+            "sentiment_compound": -0.8932
+        },
+        {
+            "id": "i2dqpz5",
+            "score": 0,
+            "text": "Bruh finally. Something from this subreddit that isnt super basic knowledge",
+            "title_similarity": "0.08797403",
+            "sentiment_compound": -0.4847
+        },
+        {
+            "id": "i2drffx",
+            "score": 0,
+            "text": "Correlational, not causational, right?",
+            "title_similarity": "-0.13750687",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2drl6e",
+            "score": 0,
+            "text": "This isn't new news, artificial sweeteners have always been linked to cancer, going way back.. did you hear cigarettes might cause cancer too...",
+            "title_similarity": "0.62444866",
+            "sentiment_compound": -0.8689
+        },
+        {
+            "id": "i2f0p5z",
+            "score": 0,
+            "text": "Always did think it was poison, every time I drink some fizzy drink with all that sure I say yum but back of the mind I'm thinking somethings not right",
+            "title_similarity": "0.46123666",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "i5re44p",
+            "score": 0,
+            "text": "r/science stop posting dubious research articles for 5 seconds challenge",
+            "title_similarity": "0.51317215",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "i2dbzza",
+            "score": -9,
+            "text": "My tongue told me those fake ass sugars were gross. Science just confirms what my sugar addicted brain already knew",
+            "title_similarity": "0.48125356",
+            "sentiment_compound": -0.8658
+        },
+        {
+            "id": "i2ddm8z",
+            "score": 52,
+            "text": "I think I'll take my chance with artificial sweeteners. My chance of cancer and other deadly health conditions would go up exponentially if I was overweight/obese. So I'll stick with my low carb diet and artificial sweeteners I think. This is a good data point though to keep in mind to not overdo it when adding it to my coffee.",
+            "title_similarity": "0.6001545",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "i2djkpt",
+            "score": 10,
+            "text": "I get so suspicious on findings like this knowing the history of how the sugar industry has paid for results like this before.",
+            "title_similarity": "0.47827372",
+            "sentiment_compound": 0.1923
+        },
+        {
+            "id": "i2dd1pv",
+            "score": 38,
+            "text": "Well crap, I go through at least a 12 pack of Coke Zero a week since I cut out all sugar in anything I drink. I also go through a lot of Mio water flavor enhancers.  \nI guess it's time to start making gallons of iced tea or just drink water.",
+            "title_similarity": "0.62810385",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "i2dafn3",
+            "score": 78,
+            "text": "Do the people that consume sweeteners have higher change of developing cancer by living longer than those that consume sugary drinks?",
+            "title_similarity": "0.69926935",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2d9uss",
+            "score": -4,
+            "text": "Is this because it’s bypassing the way that the body processes *edit*fructose \n\nIt’s something I admit a bias of, it kind of freaks me out that it’s essentially calorie free because it’s circumventing the process.",
+            "title_similarity": "0.25911713",
+            "sentiment_compound": 0.4601
+        },
+        {
+            "id": "i2dc1ye",
+            "score": 4,
+            "text": "Assuming this is accurate, what exactly makes sweeteners in this study carcinogens? Does it trigger something in the cells to replicate incorrectly or damages DNA?",
+            "title_similarity": "0.449801",
+            "sentiment_compound": -0.504
+        },
+        {
+            "id": "i2d8ufv",
+            "score": 12,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2dd094",
+            "score": -6,
+            "text": "I thought this was well known already? I can't imagine things called Aspartame and Acesulfame K are good for you.",
+            "title_similarity": "0.37201428",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "i2dgnnr",
+            "score": 86,
+            "text": "I'm straight addicted to diet soda, I can NOT for the life of me stop drinking it. I like the taste of diet soda over normal soda and while I don't mind water, I'm always going for diet soda. Ive tried to stop but straight up can't",
+            "title_similarity": "0.3810851",
+            "sentiment_compound": 0.3291
+        },
+        {
+            "id": "i2dkrs8",
+            "score": -1,
+            "text": "Bad study. Doesn't look at confounding factors such as obesity",
+            "title_similarity": "0.18016793",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "i2dnhkn",
+            "score": -1,
+            "text": "Yes thank you.\n\nBecause we haven't known Aspartame causes cancer for over 20 years.",
+            "title_similarity": "0.60817283",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "i2dnquk",
+            "score": -1,
+            "text": "But when we said this 15 years ago we were told to put on our tinfoil hats.",
+            "title_similarity": "0.45272887",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2do6xp",
+            "score": -1,
+            "text": "All the people I know that drink full sugar soda are skinny. The rest of us are chugging diet soda are fat. They should do a study on that.",
+            "title_similarity": "0.519255",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dqbs5",
+            "score": -1,
+            "text": "Better off just consuming sugar. Better off just not taking the artificial vaccine. Keep it natural.",
+            "title_similarity": "0.28701878",
+            "sentiment_compound": 0.8074
+        },
+        {
+            "id": "i2dqzyv",
+            "score": -1,
+            "text": "Everyone I know, including nurses, is so keen to talk about the new snack/drink theyve found that has some sort of artificial sweetener because theyre trying to lose weight and its so hard to bite my tongue because its obvious youre replacing one bad thing with another instead of just reducing your intake. There are so many food and drink options out there, make better choices dont look for shortcuts.",
+            "title_similarity": "0.5849753",
+            "sentiment_compound": -0.2323
+        },
+        {
+            "id": "i2dtc5f",
+            "score": 1,
+            "text": "Not really surprising. Seems sensible to avoid anything artificial, and keep your diet simple.",
+            "title_similarity": "0.039847583",
+            "sentiment_compound": -0.4991
+        },
+        {
+            "id": "i2dvia9",
+            "score": 1,
+            "text": "Tell that to my 89 year old Grandmother who drinks 2 Diet Cokes daily.",
+            "title_similarity": "0.55060935",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2e4bbj",
+            "score": 1,
+            "text": "I don’t even know why this is news, at this point I assume everything is going to give me cancer.",
+            "title_similarity": "0.4745031",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2e511m",
+            "score": 1,
+            "text": "Never seen anyone who wasn’t obese drinking diet soda. Doubt it was the artificial sweetener that lead to their increase in these diseases. \nIn mice and rat studies there is zero correlation with artificial sweeteners and rates of cancer",
+            "title_similarity": "0.5425798",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "i2e5u63",
+            "score": -1,
+            "text": "As others have pointed out, there is important context to consider when interpreting these stats like the lifestyles of people who consumed sugar vs artificial sweetener. But, based on the violent reaction my body has whenever I get exposed to artificial sweeteners, I wouldn’t be surprised if they did awful things to the human body. \n\nI get these little peeling sores on my finger tips that last for days when I’m exposed. It makes doing anything with my hands hell because the skin keeps cracking and peeling and the new skin underneath is thin and sensitive. I don’t even have to eat artificial sweeteners. Just touching the powder can do it. \n\nIt took me forever to figure out what was happening.",
+            "title_similarity": "0.56849754",
+            "sentiment_compound": -0.9446
+        },
+        {
+            "id": "i2e94wx",
+            "score": -1,
+            "text": "My aunt used to drink Diet Coke everyday. Like no joke she was addicted to it. Was totally her thing. She wasn’t a smoker and rarely drank alcohol. She was also VERY active. \n\nShe passed away from Brian cancer at age 43….. I still to this day think it was from that excessive drinking of Diet Coke.",
+            "title_similarity": "0.56533897",
+            "sentiment_compound": -0.016
+        },
+        {
+            "id": "i2eaqnb",
+            "score": 1,
+            "text": "Stevia and monk fruit sweeteners are the only healthy substitute for sugar, probably even healthier than sugar itself.",
+            "title_similarity": "0.39753434",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "i2ehhxg",
+            "score": 1,
+            "text": "The artificial sweetener industries will be out in full force here to insist that aspartame/saccharin/acefume-k etc. are \"totally safe\".",
+            "title_similarity": "0.33577287",
+            "sentiment_compound": 0.4927
+        },
+        {
+            "id": "i2eow8l",
+            "score": 1,
+            "text": "This makes me remember the study on these same artificial sweeteners by Nature Journal. Found out they cause microbiota changes in the GI. This changes diminishes the ability to feel satiated. Statistically speaking didn’t help actual weight loss because of not causing a satiated feeling, as one reason.",
+            "title_similarity": "0.53895396",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "i2eqofo",
+            "score": 1,
+            "text": "It should be obvious, but this should lead people to lessen their artifical sweetener intake, but not if it means increasing sugar.   Is it \"healthier\" to drink 1 coke or 1 coke zero per day?  Well, ask that question in a vaccum and I'd say coke zero is \"healthier\".   Too many people use studies like this to justify not stopping sugary drink intake.",
+            "title_similarity": "0.55091107",
+            "sentiment_compound": 0.7626
+        },
+        {
+            "id": "i2et5q5",
+            "score": 1,
+            "text": "Right, but come on now, no one is going to only start drinking water and tea",
+            "title_similarity": "0.18353647",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "i2de1qs",
+            "score": 36,
+            "text": "Artificial sweeteners appear to have their downsides, but if course, so so natural sweeteners. I'm at the moment drinking a 12oz soda which is made with plain 'ol cane sugar, so, on the one hand maybe less risky, but on the other hand, looking at the label on the bottle, that 12 oz of soda contains 39 grams of sugar, which is 92% of the recommended intake (probably more than that for me, a semi-sedentary male heading rapidly for age 60.)\n\nIt would be helpful for people to have a better understanding of how the advantages and disadvantages of various diet choices are most relevant given their family history or genetic predisposition to different morbidity and mortality causes.",
+            "title_similarity": "0.5811391",
+            "sentiment_compound": 0.9725
+        },
+        {
+            "id": "i2djrs7",
+            "score": 8,
+            "text": "I am a caffeine addict. I was drinking 3ish monsters a day. 2 of them were the zeros the other was a coffee flavored one. I actually had cancer back in 2020. Ive been slowly phasing out the zeros in favor of just straight up caffeine pills. BTW I am 33.",
+            "title_similarity": "0.64388734",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "i2dhjut",
+            "score": -2,
+            "text": "Killed my Mother at 69 in 2005. She drank that crap as long as I can remember. Liposarcoma to be exact.",
+            "title_similarity": "0.565904",
+            "sentiment_compound": -0.7964
+        },
+        {
+            "id": "i2dhrad",
+            "score": -2,
+            "text": "Welcome to 20 years ago?",
+            "title_similarity": "0.18477474",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "i2di1s4",
+            "score": -2,
+            "text": "Nooo! How can this be?!?!? But all the industry paid studies can't be wrong! All those experts! Oh mon Dieu!",
+            "title_similarity": "0.35331032",
+            "sentiment_compound": 0.7218
+        },
+        {
+            "id": "i2djo3j",
+            "score": 2,
+            "text": "Seems like everything gives you cancer. Just enjoy what you like in moderation.",
+            "title_similarity": "0.31054324",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "i2dlvnw",
+            "score": 2,
+            "text": "We're all going to die from heart disease, a stroke, cancer, or a car crash. Everything else is a statistical outlier.",
+            "title_similarity": "0.5644949",
+            "sentiment_compound": -0.7783
+        },
+        {
+            "id": "i2dm4a7",
+            "score": -2,
+            "text": "I know people drink multiple cans of diet soda a day. Every drink is a sugary diet drink with zero calories. \n\nPeople might consume much more than they would if it was regular sugar, because it’s perceived as a non-fattening option. I imagine that 1 can of regular coke is a lot better than 10 cans of Diet Coke. Health-wise.",
+            "title_similarity": "0.5209507",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "i2dmuwq",
+            "score": -2,
+            "text": "I did an experiment on these once with worms. We used 3 different kinds of sweeteners, a poison meant for that worm genus, and water as control. The worms were able to regenerate better in the poison solution than the sweeteners when concentrations were equal. Ever since then I've tried to avoid sweeteners and tell those around me what I saw but they kept consuming it. This vindication is bittersweet.",
+            "title_similarity": "0.5764147",
+            "sentiment_compound": -0.4497
+        },
+        {
+            "id": "i2d7olr",
+            "score": 96,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2dfq01",
+            "score": 10,
+            "text": "Some of y'alls Maths and Reading skills are terrifying...",
+            "title_similarity": "0.29918033",
+            "sentiment_compound": -0.5719
+        },
+        {
+            "id": "i2d9d8j",
+            "score": -21,
+            "text": "Was someone shocked that added chemicals aren't good for us?",
+            "title_similarity": "0.20322955",
+            "sentiment_compound": -0.5727
+        },
+        {
+            "id": "i2diqkw",
+            "score": 21,
+            "text": "Eat sugar, get cancer\n\nEat artificial sugar, get cancer\n\nEat crispy browned food, get cancer\n\nEat fast food, get cancer\n\nGo outside in the sunshine, get cancer\n\nSmoke tobacco, get cancer\n\nBreathe the air near someone smoking tobacco, get cancer\n\nBreathe polluted air from vehicle exhaust, get cancer\n\nBe fat, get cancer\n\nLive near power lines, get cancer\n\nHave radon, get cancer\n\nI think I'm gonna get cancer",
+            "title_similarity": "0.57906973",
+            "sentiment_compound": -0.9957
+        },
+        {
+            "id": "i2dn8de",
+            "score": 3,
+            "text": "You also need to take into account that just over 1/3 of french people smoke cigarettes daily. There's no way all 100k people were non smokers.\n\nEdit: i realize the article says it factored in tobacco use but unless there is a control there's no way this can be pinpointed that accurately.",
+            "title_similarity": "0.6875436",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "i2djwdh",
+            "score": 4,
+            "text": "Ah yes, what doesn’t cause cancer these days?",
+            "title_similarity": "0.24814567",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "i2dkn8d",
+            "score": 3,
+            "text": "And artificial sweetener is the only thing hospital dietitians have deemed allowable in Kansas hospital’s vending machines in and patient diets.",
+            "title_similarity": "0.5244651",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dcuqw",
+            "score": 14,
+            "text": "Man is there anything that doesn't cause cancer anymore ?",
+            "title_similarity": "0.2697268",
+            "sentiment_compound": 0.5448
+        },
+        {
+            "id": "i2dc49e",
+            "score": 132,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2d9mz0",
+            "score": -32,
+            "text": "You might not get fat but you will get cancer…. Naw we’re starting to see that the body treats these sweeteners like sugar and stores them like it would fat as well, so now you’ll get fat and cancer",
+            "title_similarity": "0.56651217",
+            "sentiment_compound": 0.2617
+        },
+        {
+            "id": "i2d96ok",
+            "score": 10,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2dlg6d",
+            "score": 4,
+            "text": "This really stinks for type 1 diabetics, because one way to not have to constantly dose for insulin is to switch to drinks and sweets with artificial sweeteners.",
+            "title_similarity": "0.47092456",
+            "sentiment_compound": 0.228
+        },
+        {
+            "id": "i2dlkze",
+            "score": 4,
+            "text": "As always with these studies, it’s more the confounding variables than the subject of interest having an effect.\n\nSure, heavy coffee drinkers live 7 years longer. But heavy coffee drinkers are also more likely career professionals, have higher earnings and more education which, shocking, contributes to longevity.\n\nSure people with high vitamin d levels die less frequently to Covid and influenza. But the people with the highest natural vitamin d levels are young, healthy and fit outdoorsmen that get tons of sun exposure and have less subcutaneous fat. Those same people are, you guessed it, at a much lower risk from those infections.\n\nIs it the coffee? The vitamin d? The artificial sweeteners? Usually not. It’s impossible to control for all these other lifestyle factors.",
+            "title_similarity": "0.6277497",
+            "sentiment_compound": 0.8336
+        },
+        {
+            "id": "i2dhiwr",
+            "score": 5,
+            "text": "Does this include stuff like Stevia, monk fruit, xylitol, etc.?",
+            "title_similarity": "0.3027901",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "i2dlept",
+            "score": 8,
+            "text": "Guess I will die if I want to stay dirty keto.",
+            "title_similarity": "0.23898384",
+            "sentiment_compound": -0.7579
+        },
+        {
+            "id": "i2df1wz",
+            "score": 138,
+            "text": "I am confused.  I clicked on the article and it said that consumption of artificial sweeteners is associated with a higher risk of cancer.  Then the article said that they studied three (only) sweeteners, that aspartame is associated with a higher risk,  Cancer rates were 13 percent greater for higher consumers of acesulfame potassium and 12 percent for lower consumers, and Splenda had rates which  were “not greater for higher consumers and 3 percent greater for low consumers.”  Meaning if you use a lot of Splenda, you have a lower risk of cancer than people who use less Splenda?  Or is the article in need of a good editor?  And what about all the other artificial sweeteners?  \n\nMedical and scientific reporting is generally abysmal.  This is not a cogent article.  Maybe the study made some significant findings.  But this article is nothing but clickbait.",
+            "title_similarity": "0.7120991",
+            "sentiment_compound": -0.8438
+        },
+        {
+            "id": "i2dhn0m",
+            "score": 12,
+            "text": "Is it really the artificial sweeteners though, or the stuff that it usually goes into?",
+            "title_similarity": "0.30220821",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2das8t",
+            "score": 578,
+            "text": "There are many health benefits to consuming less sugar. Are these benefits balanced out by an increased risk of cancer?\n\nIn my case, artificial sweeteners have helped me lose a lot of weight, which I am sure helps my heart, diabetes, sleeping issues, etc.\n\nNow, depending on where I look, I get about 200 to 350 cancers per 100,000 in France, which means about 20 to 40 more cancers. Not all of them are fatal.",
+            "title_similarity": "0.7735144",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "i2dfaqh",
+            "score": 397,
+            "text": "https://www.researchgate.net/publication/330134154_Association_between_intake_of_non-sugar_sweeteners_and_health_outcomes_systematic_review_and_meta-analyses_of_randomised_and_non-randomised_controlled_trials_and_observational_studies\n\nMost data I've seen contradicts this.  I'm wondering why this study found a correlation when multiple meta-analyses have found no link.",
+            "title_similarity": "0.53366303",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "i2de7rk",
+            "score": 15,
+            "text": "Question and a couple comments:\n\nQuestion: skimming through the article I don’t see much differentiation between cancers. Could it be that they cause increase in some cancers more than others? Cancers are quite diverse in mechanism, etc. (though I saw something about breast cancer )\n\nComments: as a diabetic, this doesn’t phase me much. Sugar plays havoc with my blood sugar levels no matter what mitigations I take ( eat with fat or fiber or protein) in a way that naturally occurring sugars in most fruit don’t. Diabetes (uncontrolled) is a nasty condition leading to loss of limb, blindness, kidney disease, heart disease and a whole manner of nasty outcomes. \n\nSo, yes I could learn to eliminate sugar (which for the most part I have), but damn, I like my coffee and oatmeal sweet. If the trade off for some sweetness is between a sure diabetic disaster vs a somewhat elevated risk of cancer. I’ll take the latter. \n\nAlso, they do differentiate some between types of sweeteners unless I read that wrong and sucralose seems to have little effect. So glad I use Splenda :)",
+            "title_similarity": "0.65820587",
+            "sentiment_compound": -0.2534
+        },
+        {
+            "id": "i2ddftz",
+            "score": 16,
+            "text": "Read the study and ignore any headlines or media conclusions of any scientific research. Most of the time reporters have no clue what they're talking about.",
+            "title_similarity": "0.34464693",
+            "sentiment_compound": -0.5719
+        },
+        {
+            "id": "i2d93l7",
+            "score": 2366,
+            "text": "Things to remember when interpreting [this study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003950):\n\n\"Associated with\" doesn't mean \"caused by\", there could be some other factor that's connected to both.  In this case, for example, something else about drinking diet sodas, or even about the type of people who tend to drink them, rather than the sweeteners themselves.  They've controlled for the obvious things like BMI, salt intake, and physical activity levels, of course, but you can't adjust for everything, and for example here they notably did not control for income, which could be playing some part.\n\nNot all artificial sugars are created equal, and this cuts both ways.  The main culprits implicated in this study were aspartame and acesulfame-K.  This might mean sucralose, for example, is less hazardous, or it might just mean that sucralose doesn't have as much market penetration.  Caveat emptor.\n\nEven if the correlation is real and casual, hazard ratios fire cancer always sound bigger than they are, because they're comparing an already-rare event.  Heavy smoking, for comparison, has a hazard ratio in the mid-20s (ie you're ~25 times more likely to get cancer if you smoke, a 2400% increase in risk) compared to the 1.1~1.2 HRs in this study (ie 1.2 times as likely, a 20% increase in risk).  No increase is desirable, but these numbers should not induce panic in anyone.\n\nWith those cautions in mind, however, this looks like a high-quality study, definitely worth following up on, and it's perhaps even worth cutting down if you're already at risk for breast cancer or obesity-related cancers.",
+            "title_similarity": "0.385373",
+            "sentiment_compound": -0.8496
+        },
+        {
+            "id": "i2dqqhw",
+            "score": 597,
+            "text": "Ugh.  \"Limitations of this study include potential selection bias, residual confounding, and reverse causality, though sensitivity analyses were performed to address these concerns\"\n\nThey're getting confidence intervals for the hazard ratio that are very very close to including 1.00.  Including 1.00 would mean that they're not confident that consuming artificial sweeteners actually does increase the risk for these conditions.  What other conditions did they test for?\n\nMaybe it's just a matter of people who consume artificial sweeteners have other habits that increase their chances of the problems listed in the study.  From the article: \"higher consumers tended to be more often women, younger, smokers, less physically active, more educated, and more likely to have prevalent diabetes\".  The article talks about the \"102,865 adults\", but they have sample sizes in the cited statistics in the low thousands.  What happened to the other 90,000+ people?  Sounds like selection bias to me!\n\nWhen you report 20 p-values, you expect, through normal random chance, to get one of them below .05 (the decision line for statistical significance).  In looking at the main data table on page 12, there are 16 p-values reported for \"fully adjusted\" statistics (meaning that through their model, the account for trends associated with obesity and a variety of other factors).  6 of those 16 were statistically significant, which means the other 10 were not.  Their results aren't too far off from normal variation.  Specifically, none of the sucralose p-values were statistically significant.",
+            "title_similarity": "0.5295383",
+            "sentiment_compound": 0.859
+        },
+        {
+            "id": "i2dd3hg",
+            "score": 5793,
+            "text": "Acesulfame K, Aspartame, and Sucralose namely.\n\nIt should be noted that the correlation could potentially be explained by lower risk of other fatal conditions associated with high sugar diets, but that there is a very strong difference between the three that cannot be explained as coincidence.\n\nFor Aspartame and Acesulfame K there was a particularly high correlate of 15% and 13% for high volume consumers, and an even higher 22% correlation for Aspartame and breast cancer.\n\nSucralose, however, was only a 3% higher risk and only for low volume consumers, high volume had a 0%.\n\nThis is certainly very interesting.\n\nEDIT:  The full study also tracks Steviol Glycosides (Stevia Leaf Extract) and others not mentioned here.  Check it out:  [LINK](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003950)\n\nEDIT 2:  I am sorry but I have to disable inbox replies for now.  I've inadvertently brought work home with me and there are admittedly better qualified individuals than me here in the comments below.",
+            "title_similarity": "0.6198585",
+            "sentiment_compound": 0.1479
+        },
+        {
+            "id": "i2dk6jh",
+            "score": 610,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2dcsxn",
+            "score": 19,
+            "text": "Is stevia an artificial sweetener?",
+            "title_similarity": "0.26986185",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dgktv",
+            "score": 1,
+            "text": "I can’t seem to find where differentiation in how much people consume. I know that was a thing in the previous studies but I can’t find it in this new one.",
+            "title_similarity": "0.37316182",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2did73",
+            "score": 1,
+            "text": "Yea and Anna Nichole married for love and there were WMD’s in Iraq.",
+            "title_similarity": "0.5207982",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "i2divhq",
+            "score": 1,
+            "text": "How much is \"higher levels\" and \"lower levels\"?",
+            "title_similarity": "0.06922083",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "i2dj0hr",
+            "score": 1,
+            "text": "Great. Now my insurance company will be asking how much Coke Zero I drink yearly.",
+            "title_similarity": "0.5642326",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "i2dj3ml",
+            "score": 1,
+            "text": "Every kind of gum on the market is made with artificial sweeteners.\n\nThis article and post is lies lies lies.",
+            "title_similarity": "0.49139398",
+            "sentiment_compound": -0.8126
+        },
+        {
+            "id": "i2dk58j",
+            "score": 1,
+            "text": "By Allah, this is awful!",
+            "title_similarity": "0.00835198",
+            "sentiment_compound": -0.5093
+        },
+        {
+            "id": "i2dk93i",
+            "score": 1,
+            "text": "As gene counseling has become more widely available and a greater tool for determining risks of cancer, I think studies ought to attempt to screen these people genetically to create a clearer picture of the populations health. \n\nLikely not to happen, but it would be able to more strongly correlate or disprove a lot of the information we are attempting to glean from these studies.",
+            "title_similarity": "0.57636553",
+            "sentiment_compound": 0.2823
+        },
+        {
+            "id": "i2dkam0",
+            "score": 1,
+            "text": "Immediately looks at coke zero can..",
+            "title_similarity": "0.16223314",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dkjsk",
+            "score": 2,
+            "text": "Can anyone explain how the \"higher consumers\" of ace-K (in the baseline characteristics table in the study) have a daily consumption average that is less than the typical quantity in a single Coke Zero can? I would think most diet soda consumers have at least a can a day? No? Or am I reading the data wrong? Thanks.",
+            "title_similarity": "0.5922612",
+            "sentiment_compound": -0.2869
+        },
+        {
+            "id": "i2dkmnx",
+            "score": 2,
+            "text": "I should probably stop drinking so much soda",
+            "title_similarity": "0.20375605",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "i2dl4cz",
+            "score": 2,
+            "text": "[deleted]",
+            "title_similarity": "-0.06292898"
+        },
+        {
+            "id": "i2dl5gx",
+            "score": 3,
+            "text": "how about IBS? my friend drinks diet coke religiously and has horrible ibs",
+            "title_similarity": "0.4185412",
+            "sentiment_compound": -0.0772
+        },
+        {
+            "id": "i2dlglh",
+            "score": 1,
+            "text": "What bout gallon of sweet tea with 2 cups of sugar?",
+            "title_similarity": "0.42118338",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "i2dlpva",
+            "score": 1,
+            "text": "It’s like people still get tans and we know that causes cancer- that’s how I feel about Diet Coke. Bite me.",
+            "title_similarity": "0.5464028",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "i2dly74",
+            "score": 1,
+            "text": "I mean most of us will get cancer and/or heart disease from something.",
+            "title_similarity": "0.5673462",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "i2dm29a",
+            "score": 1,
+            "text": "Or, hear me out: people who drink diet instead of sugared soda live longer and therefore are more likely to die from cancer instead of heart disease, etc.",
+            "title_similarity": "0.5986324",
+            "sentiment_compound": -0.6557
+        },
+        {
+            "id": "i2dm5su",
+            "score": 1,
+            "text": "At this point its probably easier to make a list of what doesn't give you cancer.",
+            "title_similarity": "0.30180618",
+            "sentiment_compound": 0.7443
+        },
+        {
+            "id": "i2dme04",
+            "score": 1,
+            "text": "The choice was always between obesity and cancer. Or you could drink water to avoid both.",
+            "title_similarity": "0.47974572",
+            "sentiment_compound": -0.765
+        },
+        {
+            "id": "i2dmkmr",
+            "score": 1,
+            "text": "Glad my parents raised me on water as a kid. I do enjoy a sugar coke maybe 1-2 times a year but I never have cravings for soda. I did have a Zevia phase which if you are going to drink sugar-free drinks, might as well drink Stevia drinks. Does it taste strange at first and leave a little after taste? Yes it does, but you will get used to it. When I was used to Zevia, the next time I drank a coke it tasted awful. If you are a regular soda drinker, just do yourself a favour and stick to Stevia. That's what I would have done if I didn't just cut out soda all together.",
+            "title_similarity": "0.49340025",
+            "sentiment_compound": 0.7488
+        },
+        {
+            "id": "i2dmx6m",
+            "score": 1,
+            "text": "From wikipedia:\n\n\"Reviews have found no association between aspartame and cancer.[7][8][10][27][28] This position is supported by multiple regulatory agencies like the FDA[29] and EFSA as well as scientific bodies such as the National Cancer Institute.[30] The EFSA, FDA, and the US National Cancer Institute state that aspartame is safe for human consumption.[6][31][30]\"\n\nInteresting.",
+            "title_similarity": "0.55226314",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "i2dn5kx",
+            "score": 1,
+            "text": "Interesting, but this sort of study always raises red flags to me unless all other variables can be precisely controlled.\n\nHumans put so much stuff into our bodies and do so much stuff to our bodies that it seems difficult to predict that they could narrow it down enough to artificial sweetners, moreso than perhaps saying people who drove Toyotas to work instead of Hondas, lived healthier lives, or something to that effect.\n\nEven just living in a different part of the country with different food or water supplies could potentially skew results significantly.",
+            "title_similarity": "0.5526118",
+            "sentiment_compound": -0.34
+        },
+        {
+            "id": "i2dn81w",
+            "score": 1,
+            "text": "Anybody have any good studies on sugar alcohols like erythritol, xylitol, etc?\n\nAlso, stevia?",
+            "title_similarity": "0.42362604",
+            "sentiment_compound": 0.6966
+        },
+        {
+            "id": "i2dn9jp",
+            "score": 1,
+            "text": "I work in a restaurant.  I had a teenager,  at least 100# overweight,  who had 5 pint size diet sodas during their meal. Is this the population that is at risk? We need to weed this study down to very specific foods for most people to acknowledge the risk. Anybody who should care will not give a damn about artificial sweeteners Yada Yada yada",
+            "title_similarity": "0.5707214",
+            "sentiment_compound": -0.0624
+        },
+        {
+            "id": "i2dncnw",
+            "score": 2,
+            "text": "Low consumers of Splenda had 3% greater cancer rate, yet high consumers of Splenda had 0% greater cancer rate. Hmmm, I'm guessing the error rate must be at least 3% if not more. Do we know who commissioned study? Sugar cane growers?",
+            "title_similarity": "0.67126286",
+            "sentiment_compound": -0.8738
+        },
+        {
+            "id": "i2dne0r",
+            "score": 2,
+            "text": "I don’t drink or smoke. Give me something, dang.",
+            "title_similarity": "-0.09904729",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dnjlv",
+            "score": 1,
+            "text": "oh great.\n\n>\tputs down the bottle of pepsi max no sugar",
+            "title_similarity": "0.21538743",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "i2dnn4d",
+            "score": 3,
+            "text": "What isn't going to give us cancer these days? Pick your poison and enjoy life. My dad who drinks maybe a couple times a year, never smoked and lived pretty healthy got a rare type of throat cancer. You can go through life so carefully and these just happen.",
+            "title_similarity": "0.6002029",
+            "sentiment_compound": -0.4954
+        },
+        {
+            "id": "i2dno2i",
+            "score": 1,
+            "text": "I drink Diet Coke every day it’s like crack and I’m never stopping",
+            "title_similarity": "0.41799074",
+            "sentiment_compound": 0.4486
+        },
+        {
+            "id": "i2dnryh",
+            "score": 1,
+            "text": "Literally everything is associated with an increased risk of cancer.",
+            "title_similarity": "0.5330937",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2dnv9w",
+            "score": 1,
+            "text": "It’s hilarious how hardly any food additive isn’t somehow bad for you.",
+            "title_similarity": "0.1986658",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "i2dnxqo",
+            "score": 1,
+            "text": "Not surprised, anything artificial and not natural is something I’d like to stay away from",
+            "title_similarity": "-0.048973415",
+            "sentiment_compound": -0.0711
+        },
+        {
+            "id": "i2dnxv8",
+            "score": 1,
+            "text": "Anything on erythritol?",
+            "title_similarity": "0.0881488",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dnyyb",
+            "score": 1,
+            "text": "Good thing I only chug down pints of liquid jaggery.",
+            "title_similarity": "0.2930045",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "i2do30c",
+            "score": 1,
+            "text": "Think about this really hard. California puts people 65 on everything basically. Do they place it on Diet Coke? Not that I have ever seen.",
+            "title_similarity": "0.56781065",
+            "sentiment_compound": -0.1761
+        },
+        {
+            "id": "i2do7en",
+            "score": 1,
+            "text": "God dammit. I have few addictions, but my artificially sweetened caffeinated beverages are among them.",
+            "title_similarity": "0.3471849",
+            "sentiment_compound": 0.1406
+        },
+        {
+            "id": "i2dodfq",
+            "score": 1,
+            "text": "Welp, it was nice knowing you all. Time to update my will.\n\n^((I guess I should will the Soda-stream machine to my secretly-least-favorite person...))",
+            "title_similarity": "0.3553905",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "i2doumi",
+            "score": 2,
+            "text": "The study was made by recruiting people via multimedia campaigns since 2009 and filling out online forms. (Maybe I’m wrong)\n\nI don’t doubt there’s a strong case that this is true. Specially at those numbers .\n\nBut if you made a study using the USA army recruitment office info to study if guns have a high incidence for killing people Vs cancer or other causes it might have a different outcome than a general population one. \n\nThe campaign might have been getting people that might be already worried about their health cuz of family history. Might be to a crowd that’s big soda drinkers like college kids w  red bull love . Dunno. I didn’t also see the amount of aspartame taken on average. \n\nHopefully this study will get other countries to make it so that medical forms from all doctors have to write down how much aspartame/diet soda people are drinking and get a wider net or somehow look more into it. \n\nI’m not going to even pretend I know how all of this works but recruitment via multimedia campaign and a lot of university logos on the bottom of the panflet might do something to the data. Specially on how Facebook and other tech platform do advertisement there might be something there where the recruitment portion might be doing something to the data. Again… just dilly dallying. \nI’m still gonna lower my soda intake.",
+            "title_similarity": "0.68510103",
+            "sentiment_compound": -0.7615
+        },
+        {
+            "id": "i2dpafv",
+            "score": 1,
+            "text": "Cool don’t care publish in a journal if it’s ground breaking research instead of a click bait article",
+            "title_similarity": "0.24961556",
+            "sentiment_compound": 0.6705
+        },
+        {
+            "id": "i2dpol0",
+            "score": 1,
+            "text": "What about Erythritol?",
+            "title_similarity": "0.10600795",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dpqtk",
+            "score": 1,
+            "text": "probably 100 things correlate with it",
+            "title_similarity": "0.33309",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dpufq",
+            "score": 1,
+            "text": "what's the percentage of people in this study that have a healthy body fat how do they know its the sweeteners causing the increase in cancer??",
+            "title_similarity": "0.6998681",
+            "sentiment_compound": -0.1926
+        },
+        {
+            "id": "i2dq4f1",
+            "score": 1,
+            "text": "This has been common knowledge in(America at lest) for as long as I can remember.",
+            "title_similarity": "0.31113592",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dq9rz",
+            "score": 1,
+            "text": "Ah f*ck! Gatorade Zero and Coke zero have been filling the void of sugar drinks in my life. \n\nCan't even drink regular stuff anymore, just too sweet/can feel it on my teeth",
+            "title_similarity": "0.51001275",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dqfvc",
+            "score": 1,
+            "text": "Pretty sure artificial sweetener was confirmed to be carcinogenic for decades... What is new about this?",
+            "title_similarity": "0.673664",
+            "sentiment_compound": 0.6705
+        },
+        {
+            "id": "i2dqpqw",
+            "score": 1,
+            "text": "I wish the same study was done with Stevia too.",
+            "title_similarity": "0.3359092",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "i2dqt2q",
+            "score": 1,
+            "text": "Ah man, I’ve given up so many unhealthy foods and replaced with artificially sweetened stuff to try to be healthy - don’t take this away from me, universe!!",
+            "title_similarity": "0.46870616",
+            "sentiment_compound": -0.3741
+        },
+        {
+            "id": "i2dqwqr",
+            "score": 1,
+            "text": "Wonder what (if any) are the associated cancer risks from a diet high in refined sugar?\n\nI'd like to see that added to the list for comparison",
+            "title_similarity": "0.61426044",
+            "sentiment_compound": -0.6124
+        },
+        {
+            "id": "i2dr35f",
+            "score": 1,
+            "text": "Genetics is like russian roulette you can smoke your whole life and die at 90 or smoke for 2 years and get lung cancer. \n\nSame with anything food related sugar alcohol etc. Yeh its probably going to decrease your life span but you just need eat drink live in moderation and you might have a chance to grow older.\n\n(The turning point for me was when I read about a german lady who smoked a pack a day since she was 14 turning 80 her health declining her doctor told her to stop..she did but her health decreased even faster she took up smoking cigars and lived until 112.) #genetics",
+            "title_similarity": "0.6815246",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "i2dr50e",
+            "score": 1,
+            "text": "Important question to ask any time someone makes a claim about cancer is “which cancer?” The 70’s rodent testing concluded an increase in bladder cancer, which was a controversial study as it was, but this article appears to just refer to “Cancer” which makes me wary. Does it specify in the actual study?",
+            "title_similarity": "0.67878336",
+            "sentiment_compound": -0.6261
+        },
+        {
+            "id": "i2dr5bw",
+            "score": 1,
+            "text": "This study seems to take no account of sugar at all. Were these people chugging down tons of sugar *aside from* the artificial sweeteners? Cause that makes a huge difference. Also, how can you possibly correlate just the artificial sweeteners alone and not the rest of the ingredients? Example, if they're drinking tons of diet coke, they should look for other things that are correlated with cancer in the soda too",
+            "title_similarity": "0.55659515",
+            "sentiment_compound": -0.7691
+        },
+        {
+            "id": "i2drier",
+            "score": 1,
+            "text": "I decided to try a keto diet for mental health \n\nI cut out all sugar and carbs and all kinds of stuff happened to my body and mind. I'm not here to advocate,, just tell a story.\n\nI missed sweet treats occasionally. So I learnednto make a lot of desserts using sweeteners. This really upsets me that I might lose a entire food group because they're dangerous.\n\nI can't go back at all. I was a sugar addict and it sets off uncontrollable urges. Also, I'm on an antipsychotic for OCD and it makes you gain weight rapidly. Keto is the only way I've found to maintain weight, not gan",
+            "title_similarity": "0.6163837",
+            "sentiment_compound": -0.7902
+        },
+        {
+            "id": "i2drzmi",
+            "score": 1,
+            "text": "My dad wasn't super healthy to begin with but was really into his diet coke. Ive always suspected it had something to do with the weird and aggressive cancer that took him. He was 62.",
+            "title_similarity": "0.60653615",
+            "sentiment_compound": -0.9337
+        },
+        {
+            "id": "i2dsdea",
+            "score": 1,
+            "text": "Meh.  Sugar makes me an asshole.  \n\nFakeo cancer sugar scratches an itch.",
+            "title_similarity": "0.4526718",
+            "sentiment_compound": -0.6908
+        },
+        {
+            "id": "i2dsi5s",
+            "score": 1,
+            "text": "Is this Diet Coke or Coke Zero or both?",
+            "title_similarity": "0.17662129",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dsqov",
+            "score": 1,
+            "text": "I'm curious about the relative risk for a healthy individual (no history of diabetes, cancer, or cardiovascular disease). I would assume someone who is at risk for those diseases would also be drinking diet soda?",
+            "title_similarity": "0.46238977",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "i2dss6s",
+            "score": 1,
+            "text": "Don't the French smoke that trains though?",
+            "title_similarity": "0.23757783",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dsuxc",
+            "score": 2,
+            "text": "I'm so tired of hearing this about aspartame. If you're not drinking a case of diet coke PER DAY you have nothing to worry about.",
+            "title_similarity": "0.4123654",
+            "sentiment_compound": -0.1991
+        },
+        {
+            "id": "i2dt41j",
+            "score": 1,
+            "text": "Is stevia ok? Trying to consume less sugar and stevia is saving me.",
+            "title_similarity": "0.36395067",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dt4ip",
+            "score": 1,
+            "text": "I thought this was already known, or is this a confirmation that it does happen?",
+            "title_similarity": "0.061578967",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dt9tt",
+            "score": 1,
+            "text": "Is it controlled for obesity, diabetes and other metabolic disorders?",
+            "title_similarity": "0.37527615",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dtanp",
+            "score": 1,
+            "text": "I bet if you tasted cancer it would taste like sweet n low.. That's shits disgusting",
+            "title_similarity": "0.34479314",
+            "sentiment_compound": -0.8176
+        },
+        {
+            "id": "i2dtcrq",
+            "score": 5,
+            "text": "“the fact that no difference was detected between the categories ‘higher artificial sweetener consumption and sugar intake below the official recommended limit’ and ‘no artificial sweetener consumption and sugar intake exceeding the recommended limit’ suggests that artificial sweeteners and excessive sugar intake may be equally associated with cancer risk.”\n\nSo both artificial sweeteners and sugar possibly  have a similar cancer risk, but sugar also has many other co-morbidities.",
+            "title_similarity": "0.5721643",
+            "sentiment_compound": -0.6956
+        },
+        {
+            "id": "i2dtqy1",
+            "score": 1,
+            "text": "Genuine question, hasn’t this already been known? I remember when I was young my Mom wouldn’t let me get ice breakers cause it had Aspartame",
+            "title_similarity": "0.46943185",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dtw7u",
+            "score": 1,
+            "text": "Just give me nasty-energy-water already, please\n\nNo sugar, no substitute\n\nI only want water and caffeine anyways geezzzz",
+            "title_similarity": "0.27277803",
+            "sentiment_compound": 0.3156
+        },
+        {
+            "id": "i2du0rj",
+            "score": 2,
+            "text": "I cannot support this study because it is not clear how artificial sweeteners may be linked to cancer. The study did not prove that artificial sweeteners cause cancer, only that there was an association between the two. There are many potential explanations for this link, including that people who consume artificial sweeteners may have unhealthy lifestyles or eat more processed foods. More research is needed to determine whether artificial sweeteners are truly linked to cancer.",
+            "title_similarity": "0.5420512",
+            "sentiment_compound": -0.9592
+        },
+        {
+            "id": "i2du6nw",
+            "score": 1,
+            "text": "I think actual sugar should be added to this study.",
+            "title_similarity": "0.316057",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2duewu",
+            "score": 1,
+            "text": "I still want to know about Stevia…",
+            "title_similarity": "0.021546273",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "i2duh04",
+            "score": 1,
+            "text": "It’s fine. It’s been approved by the FDA.   I mean unless man made chemicals by the tons in your diet seem like a not so great idea.",
+            "title_similarity": "0.5079713",
+            "sentiment_compound": 0.2409
+        },
+        {
+            "id": "i2duh0y",
+            "score": 1,
+            "text": "It's great that they looked at confounding factors that often lead to cancer: obesity, smoking, alcohol, etc etc, **however** anyone in Stats 101 will see that the confidence interval crosses \"1.0\" in all of these correlations. The correct interpretation is that there is no difference between groups. A quick google or dive into literally any stats book will show this as well, don't take my word for it.",
+            "title_similarity": "0.6305183",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "i2duhyp",
+            "score": 1,
+            "text": "Sips Coke Zero cherry",
+            "title_similarity": "0.17399666",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2duj8t",
+            "score": 1,
+            "text": "Sugar does too. Sugar increases inflammation, which cancer is a form of",
+            "title_similarity": "0.5599925",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2dujfl",
+            "score": 1,
+            "text": " Back when Diet Coke came out with their aspartame formula, I asked my then doctor if he thought it was safe.  He said he thought it was ok short-term, but who knows, it might give you bladder cancer in 40 years.   Guess what? Nearly 40 years later I ended up with bladder cancer.  Ok, now, we caught it early, but what a coincidence. Or not?",
+            "title_similarity": "0.6689453",
+            "sentiment_compound": -0.9187
+        },
+        {
+            "id": "i2duo6m",
+            "score": 1,
+            "text": "But they told us Diet Coke was safe and Anna Nicole married for love… Damn, I’m feeling so lied to now!",
+            "title_similarity": "0.47492582",
+            "sentiment_compound": -0.5847
+        },
+        {
+            "id": "i2duqvf",
+            "score": 1,
+            "text": "Listen I need something to get through the day. If it’s a zero calorie energy drink that gives me cancer fine. I used to do chewing tobacco every day for 5 years so I’ll take this demon over the other",
+            "title_similarity": "0.63166845",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "i2dus46",
+            "score": 1,
+            "text": "Is stevia included in this?? Can’t read it right now",
+            "title_similarity": "0.052063905",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2duvjw",
+            "score": 1,
+            "text": "Aspartame breaks down into formaldehyde, not surprised.",
+            "title_similarity": "0.30713713",
+            "sentiment_compound": -0.1695
+        },
+        {
+            "id": "i2duykg",
+            "score": 1,
+            "text": "Somebody hasn't read Cancer as a Metabolic Disease and isn't capable of thinking critically about the typical consumers of artificial sweeteners. Their name is, apparently, \"researchers\".",
+            "title_similarity": "0.36337098",
+            "sentiment_compound": 0.3252
+        },
+        {
+            "id": "i2dv3e8",
+            "score": 1,
+            "text": "OK so TL:DR they should be using Sucralose? What drinks use that?",
+            "title_similarity": "0.307239",
+            "sentiment_compound": 0.5095
+        },
+        {
+            "id": "i2dv7v1",
+            "score": 1,
+            "text": "They give me such a massive migrain too, screw that crap!",
+            "title_similarity": "0.28587335",
+            "sentiment_compound": -0.5093
+        },
+        {
+            "id": "i2dv8w2",
+            "score": 1,
+            "text": "I propose all health studies convert impact into +/- lifespan. For example how much shorter does one can of soda impact lifespan? 1 minute? 1 day? 1 week?",
+            "title_similarity": "0.58983177",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dv94a",
+            "score": 1,
+            "text": "I'd love me some research on why artificial sweeteners give me a massive debilitating headache. It's the only times I've ever experienced migraines. For me, death is preferable to a diet soda headache.",
+            "title_similarity": "0.5475518",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "i2dvihn",
+            "score": 1,
+            "text": "I hate layman science articles, why do they provide percentage like that’s how statistics work. Provide the damn confidence interval",
+            "title_similarity": "0.3816751",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "i2dvl5c",
+            "score": 1,
+            "text": "Did anyone notice if they excluded people who we’re smokers or had other cancer risks?",
+            "title_similarity": "0.427989",
+            "sentiment_compound": -0.836
+        },
+        {
+            "id": "i2dvlh2",
+            "score": 1,
+            "text": "“Cheese brains” is what my Biology professor in the 1980’s aid our children would have if we consumed artificial sweeteners.  This was found in mice.  Areas in their brains with no activity. Dead spots.",
+            "title_similarity": "0.5647319",
+            "sentiment_compound": 0.3054
+        },
+        {
+            "id": "i2dvvxm",
+            "score": 1,
+            "text": "Yet our US high schools only allow the purchase of diet soda in soda machines",
+            "title_similarity": "0.33496967",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "i2dvy0m",
+            "score": 1,
+            "text": "where is the link to the actual study?",
+            "title_similarity": "0.021495104",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dvyx8",
+            "score": 1,
+            "text": "If people are more likely to switch to diet soda, they probably are more at risk of cancer anyways. Not sure if that’s already accounted for",
+            "title_similarity": "0.53571296",
+            "sentiment_compound": -0.829
+        },
+        {
+            "id": "i2dw5ih",
+            "score": 1,
+            "text": "So is it because the substances cause cancer, or because of the effect President Trump pointed out?",
+            "title_similarity": "0.5179838",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2dw9np",
+            "score": 1,
+            "text": "Okay but is my Stevia safe?!",
+            "title_similarity": "0.116333",
+            "sentiment_compound": 0.68
+        },
+        {
+            "id": "i2dwfxs",
+            "score": 2,
+            "text": "At this point doesn’t it make more sense to try and figure out which things *don’t* cause an increased risk for cancer?",
+            "title_similarity": "0.423191",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2dx5qa",
+            "score": 1,
+            "text": "I got ripped a new one when I mentioned this before. Glad to see i wasn’t just pulling it out of my ass >.>",
+            "title_similarity": "0.3235308",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "i2dxd9h",
+            "score": 1,
+            "text": "Now what about compared to the gobs of real sugar in full-calorie food/drinks?",
+            "title_similarity": "0.3722114",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dxtlb",
+            "score": 1,
+            "text": "What’s interesting to me is, most people I personally know who consume artificially sweetened soft drinks, they hardly ever - if ever - drink water. That should be important in terms of incidence of cancer, right? I know a couple of people who don’t drink water, ever; just Diet Coke. It’s gotta be massively harmful to one’s body, and I’m not really sure exactly how much real hydration one can get from soft drinks. I’m not a scientifically trained professional, so I’d be curious to hear about the effects of long term consumption.",
+            "title_similarity": "0.59941125",
+            "sentiment_compound": -0.1318
+        },
+        {
+            "id": "i2dxvm4",
+            "score": 1,
+            "text": "Coach Greg is going to freak on this one",
+            "title_similarity": "0.17030153",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "i2dxy3g",
+            "score": 1,
+            "text": "Do I stop drinking Coke Zero now?",
+            "title_similarity": "0.24814643",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "i2dy2ny",
+            "score": 1,
+            "text": "Moral of the story don't drink 20 liters of coke a day.\n\nThese studies have been useless and every single one of them either contradicts each other or has a miniscule amount of risk multiplied by an incredibly small risk.\n\nBasically, worrying if drinking a can of coke zero a day is going to cause cancer is about as stupid as worrying about getting struck by lightning on a sunny day.\n\nNow if your like me and drinking 3 or 4 of them and not touching water you got a real problem.",
+            "title_similarity": "0.48707685",
+            "sentiment_compound": -0.9622
+        },
+        {
+            "id": "i2dy4zj",
+            "score": 1,
+            "text": "we're all gonna die anyway, might as well live as you want",
+            "title_similarity": "0.20213604",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "i2dyjeo",
+            "score": 1,
+            "text": "Well uh, I'm allergic to aspartame and sucralose.... so, I'm good then hahah",
+            "title_similarity": "0.27377272",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "i2dyjr3",
+            "score": 1,
+            "text": "Well I’m here for a tasty time not a long one, pass me a diet bepis",
+            "title_similarity": "0.2065059",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "i2dykfc",
+            "score": 1,
+            "text": "This study did not mention SGFE. Whether it was not included, or not considered at all, or in a different category entirely",
+            "title_similarity": "0.032845363",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dyn9s",
+            "score": 1,
+            "text": "I quit alcohol\n\nI quit drugs\n\nI quit meat\n\nOne thing at a time please.....",
+            "title_similarity": "0.21322805",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "i2dyt94",
+            "score": 1,
+            "text": "*Pours diet coke in to the sink*  Welp... back to tea",
+            "title_similarity": "0.34449026",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2dyuvb",
+            "score": 1,
+            "text": "They said the very same thing back in the 70's when artificial sugar, saccharin, was becoming more popular in packaged food and beverages.",
+            "title_similarity": "0.5335816",
+            "sentiment_compound": 0.4754
+        },
+        {
+            "id": "i2e0n1w",
+            "score": 1,
+            "text": "Pretty sure that that an equal amount of sugar would have been worse.",
+            "title_similarity": "0.24288838",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "i2e0u5n",
+            "score": 1,
+            "text": "What’s up with these fake gotcha headline studies? This is the most exhaustively studied substance on earth. It’s fine. It’s much better than consuming the equivalent amount of sugar. It’s fascinating that these studies have literally used the sugar equivalent of a lethal dose, then claim “See?! Cancer!” Ridiculous. Who’s giving these people grant money for such useless and misleading data?",
+            "title_similarity": "0.5974411",
+            "sentiment_compound": 0.2803
+        },
+        {
+            "id": "i2e0zfa",
+            "score": 1,
+            "text": "Sweet and Low pink packs. Says it right on the outside. Just don't consume it.",
+            "title_similarity": "0.09011118",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "i2e14pm",
+            "score": 1,
+            "text": "I drink a lot of diet coke just like Bill Gates. I pray I don't get cancer. I would rather die in my sleep.",
+            "title_similarity": "0.5033107",
+            "sentiment_compound": 0.5293
+        },
+        {
+            "id": "i2e1sqj",
+            "score": 1,
+            "text": "All that Diet Mountain Dew I drank in the 90’s will be coming back to bite me :(",
+            "title_similarity": "0.5729596",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "i2e1z0a",
+            "score": 1,
+            "text": "Interesting.\n\nDid they control for the weight of the volunteers? its possible that those drinking all the diet soda were on the heavy side to begin with",
+            "title_similarity": "0.45703512",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "i2e28qt",
+            "score": 1,
+            "text": "“Don't eat anything your great-grandmother wouldn't recognize as food.\"   \n\\-Michael Pollan",
+            "title_similarity": "0.27960303",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2e29f9",
+            "score": 1,
+            "text": "What about the rest of their diets? I know it's a stereotype here in the US if someone ordering enough garbage fast food to feed a village, then ordering Diet Coke. While the Diet Coke might be unhealthy, when compared to magnitude of the rest of the unhealthy diet, it might be the lesser evil.",
+            "title_similarity": "0.43893337",
+            "sentiment_compound": -0.926
+        },
+        {
+            "id": "i2e2guj",
+            "score": 3,
+            "text": "I’m glad for the information, but the fallout from sugar is far wider and greater. \n\nIt’s like the Sunscreen fiasco. Some sunscreen may have benzene and may give you cancer vs. the sun has UV light and will definitely give you cancer, no question.",
+            "title_similarity": "0.5258424",
+            "sentiment_compound": -0.886
+        },
+        {
+            "id": "i2e2xrk",
+            "score": 1,
+            "text": "Gotta point out that in huge data sets like this, looking at the CI is crucial here. The actual reported value is somewhat dangerous to interpret, and the lower bounds of these results are all closer to 1.01-1.03 - i.e., closer to a 1-3% difference as a conservative estimate (which we should err towards given multiple comparisons and large sample, see below).\n\nI’m also not seeing anything in the paper about family wise error correction for the litany of analyses run - assuming we can make an argument that each of the 26 analyses is in the same family and apply a straightforward Bonferroni correction, a more appropriate p-value cutoff would be .05/26=.001, knocking almost all of their controlled results out of significance range.\n\nSuper important to note that with large data sets a .05 significant finding doesn’t mean much, as virtually any difference will be significant. Meaningful or useful is far more interesting - The CI of effect size is much more important.",
+            "title_similarity": "0.47922733",
+            "sentiment_compound": 0.957
+        },
+        {
+            "id": "i2e3atx",
+            "score": 1,
+            "text": "Didn't we already know (or presume) that risk some time back?",
+            "title_similarity": "0.046197467",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "i2e6q48",
+            "score": 1,
+            "text": "Isn’t sugar associated with cancer too? Which one is worse?",
+            "title_similarity": "0.42133132",
+            "sentiment_compound": -0.8343
+        },
+        {
+            "id": "i2e7rdn",
+            "score": 1,
+            "text": "Real Sugar - You die\n\nFake sugar - You die",
+            "title_similarity": "0.30757028",
+            "sentiment_compound": -0.8979
+        },
+        {
+            "id": "i2e8r23",
+            "score": 1,
+            "text": "so eating actual raw sugar is better now, we've made a complete 360 from what we thought decades ago.",
+            "title_similarity": "0.60639966",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "i2e8tl4",
+            "score": 1,
+            "text": "I'd rather have be at a potentially higher risk of cancer by 0.1% than being at certain risk of getting fat drinking regular soda.",
+            "title_similarity": "0.49536955",
+            "sentiment_compound": -0.7579
+        },
+        {
+            "id": "i2e9fzy",
+            "score": 1,
+            "text": "still in the research phase of something we discovered 40 years ago.. seems sus till you realize who owns these artificial sweetener companies, then it all makes sense.",
+            "title_similarity": "0.63274086",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2eb66v",
+            "score": 1,
+            "text": "I take 2 cups of coffee each morning with 2 aspartame’s. Am i increasing my risk of cancer? Should I switch back to sugar in my coffee? I thought 4 aspartame/day is ok. For the rest I drink water, tea, ...  nothing with artificial sweeteners or sweeteners at all. Is that what this study is about? Thy",
+            "title_similarity": "0.6423458",
+            "sentiment_compound": -0.7929
+        },
+        {
+            "id": "i2eb9py",
+            "score": 1,
+            "text": "The dose makes the poison. Over consumption of anything can be bad for you.",
+            "title_similarity": "0.37882206",
+            "sentiment_compound": -0.7906
+        },
+        {
+            "id": "i2ebrcr",
+            "score": 1,
+            "text": "I wonder if Stevia is counted as ‘artificial sweetener’ or not.",
+            "title_similarity": "0.30331826",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ebw9g",
+            "score": 1,
+            "text": "If you search for enough correlations, you're bound to find spurious ones with a p-value ~~above~~ below whatever cutoff you want. https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106",
+            "title_similarity": "0.35197622",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "i2ebywg",
+            "score": 1,
+            "text": "I know this but I don’t like reading it while drinking Diet Coke",
+            "title_similarity": "0.20042859",
+            "sentiment_compound": 0.5023
+        },
+        {
+            "id": "i2ecq6r",
+            "score": 1,
+            "text": "I'll take dying quickly of cancer at some point to living a longer obese and/or diabetic life.\n\nBut that's just my preference, I can respect the other point of view.",
+            "title_similarity": "0.51061094",
+            "sentiment_compound": 0.3506
+        },
+        {
+            "id": "i2ecwq4",
+            "score": 1,
+            "text": "Gave that up LONG time ago",
+            "title_similarity": "0.040239595",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2edlhg",
+            "score": 1,
+            "text": "This is not scientific in any means, but my mom used to drink hot tea twice a day every day with Sweet N Low. Every day. \nShe never smoked anything, never drank, health issues. \nRandomly she started getting bad headaches and only kept getting worse. We eventually take her to the hospital and they find a giant cancerous brain tumor. \nAgain, no science behind it, but I remember hearing fake sugar can lead to cancer as a kid, but always wondered if it was the daily fake sugar consumption. \nLife is weird man",
+            "title_similarity": "0.62303215",
+            "sentiment_compound": -0.9851
+        },
+        {
+            "id": "i2edtpd",
+            "score": 1,
+            "text": "But how much more than sugar?  Id bet sugar is worse",
+            "title_similarity": "0.25119847",
+            "sentiment_compound": -0.631
+        },
+        {
+            "id": "i2ee4u1",
+            "score": 1,
+            "text": "So either have too much sugar or go diet for a slightly higher chance of cancer.\n\nThe treatments for cancer are a lot more permanent than for diabetes, so I’ll stick to that option",
+            "title_similarity": "0.55718404",
+            "sentiment_compound": -0.8434
+        },
+        {
+            "id": "i2eenct",
+            "score": 1,
+            "text": "Everyone always talked about how artificial sweeteners have all the benefits and no risks (\"It's literally 0 calories and isn't sugar!\"), but then this study comes in and everyone is switching to: \"I'll take the risk of cancer, it's probably better for me than sugar anyway\".",
+            "title_similarity": "0.5266634",
+            "sentiment_compound": -0.6105
+        },
+        {
+            "id": "i2eep1b",
+            "score": 1,
+            "text": "I drink flavoured water on the daily. Have for the last 3 years.\n\nWhelp.",
+            "title_similarity": "0.4449979",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2eewup",
+            "score": 1,
+            "text": "I’ll take inevitable cancer over diabetes, heart disease obesity and then cancer anyway",
+            "title_similarity": "0.57333314",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "i2efaif",
+            "score": 1,
+            "text": "Wow, who would've thought ingesting artificial chemicals your body can't metabolize increases your chance of getting cancer?!??!!!??",
+            "title_similarity": "0.50711733",
+            "sentiment_compound": 0.5466
+        },
+        {
+            "id": "i2eg493",
+            "score": 1,
+            "text": "I wish we could just have sugar-less food products.",
+            "title_similarity": "0.25551626",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "i2eg5j4",
+            "score": 1,
+            "text": "I remember being in highschool and being told all these types of artificial sweeteners were awful for our bodies.  I remember doing a paper on them too.  is this stuff we've known about or is this one of those \"we don't have enough data on it to be completely true\" type of things?",
+            "title_similarity": "0.5851699",
+            "sentiment_compound": 0.024
+        },
+        {
+            "id": "i2egfqv",
+            "score": 1,
+            "text": "I also explained this in me 12th grade senior project while my teacher sipped her diet dr pepper",
+            "title_similarity": "0.5652391",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2egudc",
+            "score": 2,
+            "text": "As a diabetic with a sweet tooth and little other alternative, this is depressing",
+            "title_similarity": "0.2565902",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "i2ehtjk",
+            "score": 1,
+            "text": "I certainly concluded in my own experience that stopping the daily Diet Coke made by muscle spasms in back reduce significantly",
+            "title_similarity": "0.55095315",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "i2eibj3",
+            "score": 1,
+            "text": "Which artificial sweeteners? Cuz Saccharine is a known carcinogen.",
+            "title_similarity": "0.45963466",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2eik1c",
+            "score": 1,
+            "text": "As a scientist this makes me happy I am not French. \n\nBut I should probably greatly increase my intake of Sucralose from zero to high.",
+            "title_similarity": "0.46919763",
+            "sentiment_compound": 0.6946
+        },
+        {
+            "id": "i2eipri",
+            "score": 4,
+            "text": "Damn. Good thing I’m not French.",
+            "title_similarity": "-0.037874237",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "i2ej8dl",
+            "score": 1,
+            "text": "How about monk fruit sugar?",
+            "title_similarity": "0.21364388",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ejoju",
+            "score": 1,
+            "text": "At this point, what the fk can we eat or drink that is sweet and do no harm? Except fruits or vegetables. I mean snacks. I want snacks but healthier snacks.",
+            "title_similarity": "0.2556377",
+            "sentiment_compound": 0.4723
+        },
+        {
+            "id": "i2ek0h5",
+            "score": 1,
+            "text": "I wish they would put something on the front of the drink labels warning consumers that they contain sweeteners. Every now and then I want to treat myself to a drink from a vending machine and I can’t see the back to inspect the ingredients. It’s so disappointing because they taste like crap. They used to at least say “low-calorie” but they don’t even do that anymore. I guess sweeteners are cheaper than sugar or something?",
+            "title_similarity": "0.4934298",
+            "sentiment_compound": -0.1175
+        },
+        {
+            "id": "i2ek5tz",
+            "score": 1,
+            "text": "Soon or later, those big companies will come out another research result.",
+            "title_similarity": "0.3584602",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ek84c",
+            "score": 1,
+            "text": "Was chatting with a guy who (at first) seemed really cool — we were talking about consciousness, the expanding limit of the universe… all sorts of loose philosophy.  Turned out he was the owner of a successful medium-sized homeopathic label… he started talking about sourcing organic aspartame (he pronounced it “a-spr-tah-me”) for his next round of products.\n\nNeedless to say the conversation wrapped up pretty quick.",
+            "title_similarity": "0.57152545",
+            "sentiment_compound": 0.807
+        },
+        {
+            "id": "i2emzjy",
+            "score": 1,
+            "text": "I wonder if this is due to a correlation between lifestyle choices and drinking diet sodas. People who drink diet I feel are more likely to consume ALOT of soda because they are so obsessed with it that they need to drink diet and sacrifice the flavor to not become diabetic. \n\nMost people not obsessed (obsessed here being a bottle or more a day) probably drink full fat sodas because they have it in such a moderation that diet vs full fat isn’t worth even considering.",
+            "title_similarity": "0.51010907",
+            "sentiment_compound": 0.2402
+        },
+        {
+            "id": "i2eobvq",
+            "score": 1,
+            "text": "Well lucky me then because I’m allergic to aspartame and Sucralose!",
+            "title_similarity": "0.30915636",
+            "sentiment_compound": 0.4574
+        },
+        {
+            "id": "i2eofkx",
+            "score": 1,
+            "text": "I will say that through more than thousands of years of health data from all of mankind, that consumption of water is also associated with an increased risk of cancer. In fact, 100% of the population who drink water die.",
+            "title_similarity": "0.7871782",
+            "sentiment_compound": -0.8519
+        },
+        {
+            "id": "i2epews",
+            "score": 1,
+            "text": "so now this is offical. can we do a similar study of salad? :)",
+            "title_similarity": "0.25287837",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "i2epips",
+            "score": 1,
+            "text": "One of the potential explanation that is pointed out in the abstract of the article is reverse causality, i.e. a person becomes obese, starts using artificial sweeteners and then develops cancer due to pre-existing obesity.",
+            "title_similarity": "0.6559184",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2epk65",
+            "score": 1,
+            "text": "It reminds me of Lisa Simpson on the tooth episode",
+            "title_similarity": "0.35011294",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2eqvyf",
+            "score": 1,
+            "text": "I don’t drink soda too much, but I work in a very  successful restaurant, so I do sip on diet RC, along with unsweetened cold brew every morning. It’s become a habit.",
+            "title_similarity": "0.5426748",
+            "sentiment_compound": 0.7677
+        },
+        {
+            "id": "i2er9ik",
+            "score": 1,
+            "text": "It seems like everything gives you cancer these days so I'll just continue to consume it over normal sugar.",
+            "title_similarity": "0.5802006",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "i2ersdq",
+            "score": 3,
+            "text": "I have never craved sugar more in my life than when I was drinking Diet Coke regularly. I would feel like I had massive sugar crashes and developed a mad sweet tooth. I then quit alcohol, cigarettes(actually all things tobacco/nicotine), then diet soda came next. I haven’t had one in closing in on 7 years now *except* a sip and it tastes like foul robot water... chemicals and “sharp” sweetness taste. Same with anything with added artificial sweeteners *including* stevia. I’m talking disgust and massive headaches and intense thirst. \n\n\nIt’s amazing to read labels and all the items that fake sweeteners are in. For example: the ginger that you get with sushi. Aspartame. Many granolas have sucralose or monk fruit. Even for me, toothpaste and mouthwash have saccharin (sweet n low) and sorbitol (sugar alcohols that your body doesn’t digest so not only are they exponentially more sweet than table sugar, but they give you gas and diarrhea/IBS if too much is consumed). I use Trader Joe’s peppermint toothpaste with fluoride for this reason, no added sweeteners at all.\n\nJust ditch all fake sweeteners including “natural” stevia and monk fruit. Your body wasn’t built to consume lab sugars.  Craving sweet? Just small portions/doses and you’ll be FINE. Sugar doesn’t cause obesity or diabetes. **EXCESS** could (of anything really). And cut out sodas altogether. Drink sparkling water with a splash of fruit juice or squeeze of lemon.",
+            "title_similarity": "0.6197898",
+            "sentiment_compound": 0.6403
+        },
+        {
+            "id": "i2eruj1",
+            "score": 1,
+            "text": "Drink up Mango Mussolini!",
+            "title_similarity": "0.18963906",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ery4o",
+            "score": 1,
+            "text": "When you're dealing with big data like this you are ALWAYS going to find significant correlations, the problem is figuring out what it means.\n\nAll you can tell is the type of people who use artificial sweeteners have higher rates of cancer than the type of people who don't use artificial sweeteners. But these groups are certain to differ by countless other confoundings variables, such as obesity, health consciousness, ethnicity, economic status, education, and who knows what else. Hopefully, they tried to control for at least some of these variables, but it just isn't possible to control for all of them.",
+            "title_similarity": "0.6658284",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "i2esco1",
+            "score": 1,
+            "text": "Real numbers time: before you start panicking that your Diet Coke habit has given you a 13% higher risk of getting cancer, please consider the absolute numbers (Table 2 in the study full text). Over the course of bythe study 3.10% of non-consumers got a cancer diagnosis vs. 3.99% of the higher sweetener consumers. \n\nSo the absolute risk increase over the 7ish years of the study is more like 0.9%.",
+            "title_similarity": "0.77235675",
+            "sentiment_compound": -0.868
+        },
+        {
+            "id": "i2et4st",
+            "score": 1,
+            "text": "Is it because people lived longer to get cancer?",
+            "title_similarity": "0.56663096",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2eti2w",
+            "score": 1,
+            "text": "I thought this was well known and documented already.",
+            "title_similarity": "0.09085795",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "i2eup3q",
+            "score": 1,
+            "text": "I think this needs more review. Unintentionally p-hacking is a common issue with studies like these. Needs to be reproduced independently with other random subjects.",
+            "title_similarity": "0.3594696",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "i2eux3c",
+            "score": 1,
+            "text": "Not exactly new information but it's good that the research is continuing to reinforce the findings",
+            "title_similarity": "0.16487208",
+            "sentiment_compound": 0.5927
+        },
+        {
+            "id": "i2ev69x",
+            "score": 1,
+            "text": "Just throw it in with the other trillion studies. \n\nThese additives are some of the most researched substances in the world. Where it goes really back and fourth. But currently there is no proven mechanism that show the correlation.\n\nWith how lacking this study is. I wouldn't read much into it.\n\nIn general, just dont overconsume anything.",
+            "title_similarity": "0.44915974",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "i2evtbl",
+            "score": 1,
+            "text": "*looks at my coke zero*",
+            "title_similarity": "0.20819497",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2evvv9",
+            "score": 1,
+            "text": "The study doesn’t “prove” anything. That’s not how science works. It suggests normal dietary use of artificial sweeteners slightly increased risk of cancer. It’s also worth nothing that the sugar that would have replaced would have also increased risk of premature death, possibly even more (although soda isn’t as high in calories as people think and isn’t a real danger except for people who partially or fully substitute it for water)",
+            "title_similarity": "0.53515255",
+            "sentiment_compound": -0.896
+        },
+        {
+            "id": "i2ewbnq",
+            "score": 1,
+            "text": "If I’m reading that paper right, it seems to report that sucralose decreases prostate and obesity cancer chances by 10-14%.  What is that about.",
+            "title_similarity": "0.71113455",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "i2ex7gz",
+            "score": 1,
+            "text": "So which kinds of cancer? Does the actual study say?",
+            "title_similarity": "0.4394741",
+            "sentiment_compound": -0.6966
+        },
+        {
+            "id": "i2exkc0",
+            "score": 1,
+            "text": "why is anyone suprised? they tested on lab rats in the 90s and found huge correlation of cancerous tumors.",
+            "title_similarity": "0.7722274",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "i2exmdq",
+            "score": 1,
+            "text": "But stevia wasn’t tested so it might still be ok.",
+            "title_similarity": "0.11574482",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ey91s",
+            "score": 1,
+            "text": "The French do this kind of large cohort study well.  This is the benefit of a central data collecting NHS.  But often only in French.  There is one I read that was 26.000 people in Haut Rhone that showed that atopy = less cancer.  But have yet to find a translation.  This is important\n\n“\"Although it is not yet well understood, IgE may play an important role in the immune system’s recognition of cancer,\\[10\\] in which the stimulation of a strong cytotoxic response against cells displaying only small amounts of early cancer markers would be beneficial. If this were the case, anti-IgE treatments such as omalizumab (for asthma) might have some undesirable side effects. However, a recent study, which was performed based on pooled analysis using comprehensive data from 67 phase I to IV clinical trials of omalizumab in various indications, concluded that a causal relationship between omalizumab therapy and malignancy is unlikely.\\[11\\]””  So what happens? IgE recognizes cancer.Atopic individuals can have up to 10 times the normal level of IgE in their blood (as do sufferers of hyper-IgE syndrome). However, this may not be a requirement for symptoms to occur as has been seen in asthmatics with normal IgE levels in their blood - recent research has shown that IgE production can occur locally in the nasal mucosa.\\[12\\]",
+            "title_similarity": "0.73512185",
+            "sentiment_compound": -0.5833
+        },
+        {
+            "id": "i2ez2k4",
+            "score": 2,
+            "text": "You may be interested by this study also:\n\nI just watched yesterday on the French-German TV channel \"Arte\" a documentary about comparing waste water in 2 cities: Paris & Berlin.",
+            "title_similarity": "0.58910584",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "i2ezqz9",
+            "score": 1,
+            "text": "Good thing it's not in literally everything we eat here in America",
+            "title_similarity": "0.2709555",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "i2ezwr2",
+            "score": 1,
+            "text": ">They found that consumption of artificial sweeteners was associated with an increased risk of cancer.\n\nAgain. I seem to remember this from studies of Aspartame use decades ago.",
+            "title_similarity": "0.8081179",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2f0x4y",
+            "score": 1,
+            "text": "Ok so how many shills are in this thread?",
+            "title_similarity": "0.24605858",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "i2f19i2",
+            "score": 1,
+            "text": "Meh, they say every food increases cancer risk.",
+            "title_similarity": "0.6595031",
+            "sentiment_compound": -0.7783
+        },
+        {
+            "id": "i2f2142",
+            "score": 1,
+            "text": "i don't know why we go through so much time and money to keep trying to find these vague correlations when we *know* that alcohol, UV and smoking *cause* cancer and people still commonly expose themselves to these things.",
+            "title_similarity": "0.61787677",
+            "sentiment_compound": -0.7506
+        },
+        {
+            "id": "i2f2hg0",
+            "score": 1,
+            "text": "I'm pretty bad about reading scientific papers...lifestyle studies are always rife with uncontrolled factors, so do we know if this is after controlling for things like smoking?",
+            "title_similarity": "0.47382462",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "i2f2jxn",
+            "score": 1,
+            "text": "Oh ya. I could have told you that.",
+            "title_similarity": "-0.03823888",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2f33xy",
+            "score": 1,
+            "text": "No such thing as a free lunch",
+            "title_similarity": "-0.015994016",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "i2f3rmw",
+            "score": 1,
+            "text": "Got it. If you consume lots of garbage food you have a higher chance of not being healthy. Thanks it’s not like this wasn’t common knowledge already or something.",
+            "title_similarity": "0.41838294",
+            "sentiment_compound": -0.5823
+        },
+        {
+            "id": "i2f3zv5",
+            "score": 1,
+            "text": "So does that mean there’s finally an official link between the two?",
+            "title_similarity": "0.052349657",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2f4a5h",
+            "score": 1,
+            "text": "We must do better about ridding things that aren’t healthy for the body. Needs>wants.",
+            "title_similarity": "0.21471286",
+            "sentiment_compound": 0.6808
+        },
+        {
+            "id": "i2f53u0",
+            "score": 1,
+            "text": "Why do they blame the artificial sweeteners in the side drinks ? Could it be something else ? There is no soft drink with only an artificial sweetener and water. There are other chemicals and flavours. \nMaybe it’s that.",
+            "title_similarity": "0.34098208",
+            "sentiment_compound": -0.6072
+        },
+        {
+            "id": "i2f5904",
+            "score": 1,
+            "text": "Oh wow.. thats like bad huh… *drinks my diet coke*",
+            "title_similarity": "0.28398758",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "i2f5jvh",
+            "score": 1,
+            "text": "Could have told you that myself.",
+            "title_similarity": "-0.010383554",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2f5y3i",
+            "score": 1,
+            "text": "Good luck staying on sugar then.",
+            "title_similarity": "0.071360916",
+            "sentiment_compound": 0.7096
+        },
+        {
+            "id": "i2f5zag",
+            "score": 1,
+            "text": "GOD **DAMN IT** ! Everything causes cancer nowadays.",
+            "title_similarity": "0.52015746",
+            "sentiment_compound": -0.7424
+        },
+        {
+            "id": "i2f64u6",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "-0.117722355"
+        },
+        {
+            "id": "i2f65lg",
+            "score": 1,
+            "text": "Time to stop adding sweeter to my coffee.",
+            "title_similarity": "0.32266855",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "i2f6pb6",
+            "score": 3,
+            "text": "find me something that is not associated with an increased risk of cancer.\n\nmaybe spring water.",
+            "title_similarity": "0.27638602",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2f751y",
+            "score": 1,
+            "text": "Hasn’t Aspertame been known to increase risk of cancer for like 20 years now?",
+            "title_similarity": "0.69296336",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "i2f7cdj",
+            "score": 2,
+            "text": "Thing that is bad for you is bad for you, who would've known",
+            "title_similarity": "0.102747336",
+            "sentiment_compound": -0.7906
+        },
+        {
+            "id": "i2f7mbk",
+            "score": 1,
+            "text": "Aaaaand then there was vegetable oil.",
+            "title_similarity": "0.17330572",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2f7p12",
+            "score": 1,
+            "text": "Yes but the alternative is refined sugar. Youd have to compare cancer risk from sweeteners to complications caused by being overweight. Or in my case, avoiding sugar for my teeth.",
+            "title_similarity": "0.60485405",
+            "sentiment_compound": -0.9354
+        },
+        {
+            "id": "i2f8dr1",
+            "score": 2,
+            "text": "It has been determined that living on planet earth causes cancer.",
+            "title_similarity": "0.5460852",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "i2f94v7",
+            "score": 1,
+            "text": "Increase from baseline or increase compared to sugar? Sugar increases inflamation, which results in increase risk of cancer.",
+            "title_similarity": "0.62941235",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "i2f9zra",
+            "score": 1,
+            "text": "Color me diet shocked.",
+            "title_similarity": "0.26152554",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "i2fb2ru",
+            "score": 1,
+            "text": "And no one's mad that these corporations paid politicians to hide it and allow it to continue... why should they be? They voted them in!",
+            "title_similarity": "0.36462712",
+            "sentiment_compound": 0.2311
+        },
+        {
+            "id": "i2fcbqp",
+            "score": 1,
+            "text": "Finally.  I remember an old girlfriend drinking diet soft drinks all the time.  Yeech.",
+            "title_similarity": "0.44378126",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2fcjcw",
+            "score": 1,
+            "text": "Wow I never imagined that after all those years If have to admit that the conspiracy and health quacks be right about anything but here we are.\n\nAntivax healing crystal ladies were telling me for years that sweeteners cause cancer and now I'm actually wrong...\n\nGuess I'm changing back to sugars then... what a time to be alive",
+            "title_similarity": "0.70972836",
+            "sentiment_compound": -0.8047
+        },
+        {
+            "id": "i2fd1ek",
+            "score": 1,
+            "text": "Sure, but it’s likely not as much of an increased risk as actual sugar or simple carbohydrates eaten in excess. Plus, it’s a godsend for people with diabetes or insulin resistance.",
+            "title_similarity": "0.39992416",
+            "sentiment_compound": 0.7814
+        },
+        {
+            "id": "i2fdhf2",
+            "score": 1,
+            "text": "This has me worried. I have moved away from soda to juice and there is aspartame in it. I add a little bit on the bottom then add water to the rest of the glass.",
+            "title_similarity": "0.41352218",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "i2ff22h",
+            "score": 1,
+            "text": "So what we knew in 2010 is now confirmed",
+            "title_similarity": "0.22437632",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ff7yu",
+            "score": 1,
+            "text": "This subreddit has become incredibly unscientific",
+            "title_similarity": "0.018161435",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ffdc8",
+            "score": 1,
+            "text": "So you're sharing something that's old news in America? We've known this for over a decade if not two.  I'd like to think I read a paper in high-school about this same topic, though I'm not entirely sure, that was at least 20 years ago.",
+            "title_similarity": "0.56522757",
+            "sentiment_compound": -0.0543
+        },
+        {
+            "id": "i2ffo2l",
+            "score": 1,
+            "text": "Can someone explain this one?\n\n>Sucralose seemed to have the least association with cancer: Rates were not greater for higher consumers and 3 percent greater for low consumers\n\nHow could they conclude that artificial sweeteners in general cause cancer when they basically found no evidence that Sucralose does?",
+            "title_similarity": "0.55448663",
+            "sentiment_compound": -0.9197
+        },
+        {
+            "id": "i2fhpvt",
+            "score": 1,
+            "text": "Any mice or other animals used or hurt in this scientific experiment?",
+            "title_similarity": "0.28876168",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "i2fhxkt",
+            "score": 1,
+            "text": "My cognitive dissonance is trying to say that I am fine but I should really cut those off...",
+            "title_similarity": "0.16374515",
+            "sentiment_compound": -0.3998
+        },
+        {
+            "id": "i2fi8k0",
+            "score": 1,
+            "text": "You want to know another thing associated with a risk of cancer?  Obesity.  Also, being tall. Smoking.  Consuming more than two alcohol drinks a day.  Working with petroleum products at your job.  Eating lots of cured meat products.  Eating a diet with lots of red meat.  Using dark hair dye.  Being poor, with no health insurance or inadequate health care.\n\nCorrelation is not causality.  People who consume large quantities of artificial sweeteners should be examined as a group, then compared to people who rarely if never use them.  My bet is that people who consume large quantities of artificial sweeteners have issues with sugar cravings, obesity, and a host of nutritionally associated problems.  Even artificial sweeteners trigger the body into making insulin, which causes weight gain, and stress on the kidneys and other organ systems.\n\nPeople who do not use artificial sweeteners probably don't crave sugary foods to begin with.  Or they just worked to overcome the cravings.  They may have an entire suite of behaviors and lifestyles that differ from the people who consume the artificial sweeteners.  In the US, this often is associated with income--higher income people eat better and have healthier lifestyles.  Poor people are obese and have high stress lives, and eat poor quality food.\n\nI say all this not as a nutrition expert, but someone who has worked with people and statistics in my profession in human resources.  Drawing a conclusion about human health and behavior from the measurement of one factor is erroneous analysis.",
+            "title_similarity": "0.6272087",
+            "sentiment_compound": -0.9153
+        },
+        {
+            "id": "i2fijyv",
+            "score": 1,
+            "text": "Correlation equals caucasian",
+            "title_similarity": "0.14734301",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2fj9hp",
+            "score": 1,
+            "text": "Anyone know if they factor in confounding variables like folks’ overall diets, their body composition, exercise habits, income levels, etc?\n\nWithout that this data is pretty meaningless imo",
+            "title_similarity": "0.3503532",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "i2fl75g",
+            "score": 1,
+            "text": "Ah great, another research where the majority of the people will only read the title and think they know the reason why.\n\nMore fuel to the fire for the ignorant",
+            "title_similarity": "0.4152828",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "i2flfgk",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "-0.11772238"
+        },
+        {
+            "id": "i2fmd7w",
+            "score": 1,
+            "text": "The problem with studies like this is they are correlative and not causation.  We know that there is a link to people who consume artificial sweetener and people who have a higher chance of cancer, but it is by no means directly saying it is the cause. There could also be a correlation between people who drink diet soda and people who smoke. They aren’t showing us a breakdown of how physiologically artificial sweeteners cause cancer. They are just going hmmmmm seems sus.",
+            "title_similarity": "0.47674823",
+            "sentiment_compound": -0.9042
+        },
+        {
+            "id": "i2fmdb2",
+            "score": 1,
+            "text": "Well, I’m probably going to get cancer anyways-",
+            "title_similarity": "0.39039022",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "i2fn0r5",
+            "score": 1,
+            "text": "We have known Aspartame is worse for you than sugar for a very long time. Was linked to increased risk of blood cancer many years ago.",
+            "title_similarity": "0.7287645",
+            "sentiment_compound": -0.8176
+        },
+        {
+            "id": "i2fn1ig",
+            "score": 1,
+            "text": "I thought we knew this about 25 years ago.",
+            "title_similarity": "0.2242777",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2fnjzt",
+            "score": 1,
+            "text": "I’ve always sensed this stuff was bad for you",
+            "title_similarity": "0.19047555",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "i2fnyr6",
+            "score": 1,
+            "text": "My Children, I read the thoughts of the artificial sweetner CEO's mind and he had this thought:  \"I would give up my second Lear Jet, if I thought my products hurt even one of the little Critters.\"  You see, you are protected.  He values his second Lear Jet quite highly.  Carry on.",
+            "title_similarity": "0.53023905",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "i2focau",
+            "score": 1,
+            "text": "If there's no dose-response relationship, that is a strong signal that something else is causing the association.\n\n  \n\n\n¯\\\\\\_(ツ)\\_/¯",
+            "title_similarity": "0.17135225",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "i2fp98f",
+            "score": 1,
+            "text": "My 110 year auntie said the same thing",
+            "title_similarity": "0.415939",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2fq3t6",
+            "score": 1,
+            "text": "Anything man made and/or processed can cause cancer.  Nothing new.  Just stupid people who get sucked into the marketing of bad products actually being a healthier option when in the long run it causes cancer.",
+            "title_similarity": "0.5293263",
+            "sentiment_compound": -0.9263
+        },
+        {
+            "id": "i2frb6v",
+            "score": 1,
+            "text": "I’m confused, have the packets not said for years that they cause cancer in lab rats?",
+            "title_similarity": "0.63394403",
+            "sentiment_compound": -0.7717
+        },
+        {
+            "id": "i2frx9p",
+            "score": 1,
+            "text": "Diet Coke and light cigarettes are for addicts. It’s justification to have more of them. We all know this",
+            "title_similarity": "0.40308806",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2fs1tr",
+            "score": 1,
+            "text": "My friend's dad died from liver cancer. He drank a LOT of fuckin' diet coke. Just saying.",
+            "title_similarity": "0.5657646",
+            "sentiment_compound": -0.8402
+        },
+        {
+            "id": "i2fs38n",
+            "score": 1,
+            "text": "For people consuming over 100 grams per day! Do you realize how much sweetener that is?",
+            "title_similarity": "0.6372042",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ftg4g",
+            "score": 1,
+            "text": "The data in this study, for now, are practically meaningless, and probably due to selection bias and reverse causation.",
+            "title_similarity": "0.21637997",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "i2fthph",
+            "score": 1,
+            "text": "The data in this study, for now, are practically meaningless, and probably due to selection bias and reverse causation.",
+            "title_similarity": "0.21637997",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "i2fv5x9",
+            "score": 1,
+            "text": "Is the act of chewing gum considered \"consumption\" of artificial sweeteners? You don't consume the gum per se, but do the sweeteners enter the body, or do they stay local around the mouth cavity like chewing tobacco does?",
+            "title_similarity": "0.36870217",
+            "sentiment_compound": 0.5588
+        },
+        {
+            "id": "i2fv60f",
+            "score": 1,
+            "text": "We all have to die somehow",
+            "title_similarity": "0.15719512",
+            "sentiment_compound": -0.5994
+        },
+        {
+            "id": "i2fvq7g",
+            "score": 1,
+            "text": "If the warnings are true about this, I'm just a big pile o' cancer.",
+            "title_similarity": "0.50145775",
+            "sentiment_compound": -0.5859
+        },
+        {
+            "id": "i2fw5m3",
+            "score": 1,
+            "text": "It seems everything causes cancer.",
+            "title_similarity": "0.4783341",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2fwbrm",
+            "score": 1,
+            "text": "At this point is there is something that doesn’t increase the risk of cancer might as well speed run it and start smoking tobacco",
+            "title_similarity": "0.3031618",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "i2fwi7q",
+            "score": 1,
+            "text": "Is the increased risk more or less than compared to the same amount of sucrose?",
+            "title_similarity": "0.34712064",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2fwx68",
+            "score": 1,
+            "text": "another well duhhhhh, ur guyses top posts r always so obvious",
+            "title_similarity": "0.17642042",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "i2fyaxv",
+            "score": 1,
+            "text": "I don't have any evidence, but I'll pretty much always be convinced that artificial sweeteners are what took my mother. \n\nShe had Gastric Junction Cancer which is supposedly exceedingly rare in women. She was also diabetic and drank a lot of diet coke, among sweeteners in other things.",
+            "title_similarity": "0.6521897",
+            "sentiment_compound": 0.1901
+        },
+        {
+            "id": "i2g2j7d",
+            "score": 1,
+            "text": "Back when my dad was in jail the sweet n low packets they use to get had a warning that said they've been shown to cause cancer in lab animals",
+            "title_similarity": "0.60712034",
+            "sentiment_compound": -0.7096
+        },
+        {
+            "id": "i2g5v6m",
+            "score": 1,
+            "text": "Doesn’t everything give you cancer at this point?",
+            "title_similarity": "0.41227195",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2ge0ty",
+            "score": 1,
+            "text": "You know what has aspartame? Chewing gum. Almost all chewing gum has this and it has also shown in studies to lead to dementia and Alzheimer’s",
+            "title_similarity": "0.57212126",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ggtsx",
+            "score": 1,
+            "text": "does that apply to chewing gums? ;/",
+            "title_similarity": "0.13278595",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2ghmqr",
+            "score": 1,
+            "text": "A 10% increase in risk from an observational study with food frequency questionnaire data is very likely to be confounding.",
+            "title_similarity": "0.6724508",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "i2gpu1g",
+            "score": 1,
+            "text": "This literally isnt news. If its human made it's bad for you",
+            "title_similarity": "0.11896822",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "i2griqb",
+            "score": 1,
+            "text": "Not surprising at all.  My body cannot handle fake sugar as I call it.  Aspartame and surcralose both give me bad headaches and brain fog.  Natural sugar is so much better for you",
+            "title_similarity": "0.4524068",
+            "sentiment_compound": 0.4439
+        },
+        {
+            "id": "i2gterh",
+            "score": 1,
+            "text": "Is there a study that compares artificial sweeteners vs. sugar when it comes to what level they are associated with an increased risk of cancer?",
+            "title_similarity": "0.63763773",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "i2gz8vw",
+            "score": 1,
+            "text": "63% non consumers? that sounds super high to me, considering that most soft drinks have artificial sweetners in them.\n\nOr is this just considering people that add them to their recipes or tea/coffee etc?",
+            "title_similarity": "0.63169396",
+            "sentiment_compound": 0.644
+        },
+        {
+            "id": "i2gzinz",
+            "score": 1,
+            "text": "so what everybody already knew",
+            "title_similarity": "0.04351701",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2h1leq",
+            "score": 1,
+            "text": "I’ve been trying to get my grandpa to quit drinking Diet Coke but I’ve never been able to. He sometimes has like three or four cans a day and that’s a small amount for him.",
+            "title_similarity": "0.45756236",
+            "sentiment_compound": 0.5023
+        },
+        {
+            "id": "i2h4qsy",
+            "score": 1,
+            "text": "…well… i started switching my sodas to coke zero like 3 months ago… well crap",
+            "title_similarity": "0.47987536",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "i2hb9pt",
+            "score": 1,
+            "text": "I remember when that was just a conspiracy theory.",
+            "title_similarity": "0.09377787",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "i2i4iae",
+            "score": 1,
+            "text": "Took ya guys long enough.",
+            "title_similarity": "0.116847254",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "i2izm3o",
+            "score": 1,
+            "text": "Artificial sweeteners appear to change the host microbiome, lead to decreased satiety, and alter glucose homeostasis, and are associated with increased caloric consumption and weight gain: Pearlman M. et al., “The Association Between Artificial Sweeteners and Obesity”, Curr Gastroenterol Rep. 19:12 (Nov 21, 2017), 64.\n\nThis places people at risk for obesity, type 2 diabetes, heart disease, fatty liver and several types of cancer.",
+            "title_similarity": "0.6485199",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "i2sx9gh",
+            "score": 1,
+            "text": "I just found it hilarious that some of the hazard ratios in the high consumer group were smaller than in the lower consumer group. Generally speaking, the hazard ratios weren't too far off from the \"control\". This screams confounding to me. Give me the details about the rest of the partipants' diet and lifestyles.",
+            "title_similarity": "0.43997684",
+            "sentiment_compound": -0.25
+        }
+    ]
+}

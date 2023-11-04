@@ -1,0 +1,172 @@
+{
+    "Does Mars have caves and if we discover a large enough cave system on Mars, how deep would we need to go to reach a hospitable temperature?\n": [
+        {
+            "id": "h23wke0",
+            "score": 5,
+            "text": "Because Mars has lost its magnetic shield it has no atmosphere. This allows a dangerous level of radiation to reach the surface of Mars. We would need to caves in order to build structures that humans could be in to protect themselves from the radiation. We of course would heat these structures other ways other than internal temperature of the planet.",
+            "title_similarity": "0.74234605"
+        },
+        {
+            "id": "h251dnx",
+            "score": -18,
+            "text": "[removed]",
+            "title_similarity": "0.05360552"
+        },
+        {
+            "id": "h266al4",
+            "score": 2,
+            "text": "This is an awesome question. So we would need to go deep enough into martian lava tubes to avoid radiation and solar winds. Considering Mars has been stripped of it’s atmosphere, this in turn means that it’s molten core has cooled enough to lose it’s protective magnetic fields(what keep us safe from those same solar winds/radiation here on Earth). Magnetic fields are created by the molten iron core sloshing around inside a planet. However this means that the core has most likely completely cooled and we would never find geothermic heat no matter how deep into a lava tube we traveled on Mars. For a hospitable temperature, we would need to create another atmosphere and most likely a new magnetic field. Keep asking the right questions!",
+            "title_similarity": "0.73002356"
+        },
+        {
+            "id": "h25v52i",
+            "score": 5,
+            "text": "Holes in the ground on earth are warmer than ambient temp for two reasons the first reason is that there is alot of thermal mass around you such that it heats and cools very slowly. This means its always the average temp 20 feet down (which is cooler in the summer and warmer in the winter) mars average temp is way to cold so this method can't keep colonists warm. The second way that deep holes (miles down) are hot is due to radiation this both keep the core of our planet molten and spinning and heats up the ground. Mars no longer has a spinning liquid metal core indicating its radiation levels have dropped so this method likely wouldn't keep people warm either. Assuming that mars has the same temp gradient as earth (it doesnt) you would need to go a mile and a half down to get to about 50 degrees F.",
+            "title_similarity": "0.6390923"
+        },
+        {
+            "id": "h242nf8",
+            "score": 26,
+            "text": "So the issue really isn’t temperature. That’s why people are giving other answers. \n\nThere are definitely lava tubes on Mars. So yes, you should be able to go into them. The temperature in the caves tends to reflect the average temperature of the surrounding area. The tubes will provide shielding from the outside. The lava tubes will also be larger than the ones on earth because there is less gravity. \n\nThe big issue is air. You can’t seal the lava tubes as they have lots of cracks in them. The air would get out. That means you’d have to build air tight structures within the tubes.",
+            "title_similarity": "0.73036367"
+        },
+        {
+            "id": "h24sdyt",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.05360552"
+        },
+        {
+            "id": "h25jd05",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.05360552"
+        },
+        {
+            "id": "h24dpu8",
+            "score": 14,
+            "text": "In theory yes, in reality nobody really knows given we have never put actual human boots on the ground for investigation. The best we have so far is NASA's MRO identified lava tubes around Hellas Planitia which may or may go deep into the Martian crust.\n\nAs for the second part JPL released a paper see [https://mars.nasa.gov/news/453/scientists-say-mars-has-a-liquid-iron-core/](https://mars.nasa.gov/news/453/scientists-say-mars-has-a-liquid-iron-core/) that talks about the probability of a liquid molten core which suggests that going deeper could mean a more constant temperature much like earth but again until we have boots on the ground we will never know how deep or how hospitable it would be.",
+            "title_similarity": "0.7309585"
+        },
+        {
+            "id": "h2407iw",
+            "score": 77,
+            "text": "I feel like everyone is giving  you other reasons why mars is (obviously) dangerous, and are all failing to answer your question on how deep would a cave system (or someone) would need to be to have it reach hospitable temperature.\n\nInteresting question, \n\n&#x200B;\n\nhope you get a better answer!",
+            "title_similarity": "0.69649696"
+        },
+        {
+            "id": "h2663kn",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "0.05360552"
+        },
+        {
+            "id": "h24ufkt",
+            "score": 7,
+            "text": "There's a show about that called \"mars\". Basically: There are caves on Mars. They will have to be used in order to colonize the planet. The caves will help to keep the people safe from environmental hazards like storms and most importantly block off the radiation from space. The temperature is not why they would need the caves although it would probably help with conservation of energy.",
+            "title_similarity": "0.73969954"
+        },
+        {
+            "id": "h23pywz",
+            "score": 464,
+            "text": "Hospitable temperature is a bit of a distraction relative to other challenges in living on Mars - namely the atmosphere.  Even if you get that atmosphere warm, there's not enough of it or the right composition to breathe.\n\nAs such you're always going to be in some kind of contained insulated space. The question is then just how much energy you need to keep it warm and where you get that energy.  So, outside temperature doesn't matter too much.  But really, your energy needs to grow food, generate atmosphere, clean water, etc. will probably be more significant than simple heating.\n\nSide note - in space, getting rid of heat so that you don't overheat is actually a significant issue even though it's much much colder. That won't be a problem on Mars but you can see that the intuitive \"it's cold outside\" thinking doesn't necessarily translate directly to the challenges of space travel.\n\nEdit, apologies to the good feedback by OP /u/classy_barbarian and commenter /u/saluksic \\- here are some references:\n\n* [https://www.lpi.usra.edu/meetings/geomars2001/pdf/7044.pdf](https://www.lpi.usra.edu/meetings/geomars2001/pdf/7044.pdf) talking about thermal gradient of the Mars Crust\n* [https://en.wikipedia.org/wiki/Atmosphere\\_of\\_Mars](https://en.wikipedia.org/wiki/Atmosphere_of_Mars) re the composition and pressure of the Mars atmosphere - note the very low pressure (e.g. much thinner even relative to the top of Everest)\n* [https://www.nasa.gov/pdf/473486main\\_iss\\_atcs\\_overview.pdf](https://www.nasa.gov/pdf/473486main_iss_atcs_overview.pdf) \\- makes the point that you have to remove heat even in the most cold environment we can access",
+            "title_similarity": "0.6583885"
+        },
+        {
+            "id": "h24cca0",
+            "score": 21,
+            "text": "There are two answers to the heat problem on Mars and neither of them are geothermal energy.\n\nThe first option is big glass domes with large quantities of HFC greenhouse gases filling the gaps between the different layers. We will want to produce a lot of HFCs on Mars anyway both to use as refrigerants in various parts of the infrastructure, and also to deliberately release to help warm up the planet. HFCs are ludicrously efficient greenhouse gases and it wouldn't be too challenging to keep a glass dome warm with them. \n\nThe other option is to use a nuclear reactor. With an operational nuclear reactor any base will have an effectively limitless supply of low grade heat. A single reactor can generate more than enough heat to supply an entire city.",
+            "title_similarity": "0.73960656"
+        },
+        {
+            "id": "h23px8n",
+            "score": 195,
+            "text": "[removed]",
+            "title_similarity": "0.05360552"
+        },
+        {
+            "id": "h23mn2y",
+            "score": 3265,
+            "text": "[It has lava tubes](https://en.wikipedia.org/wiki/Martian_lava_tube). Don't know about the temperature.",
+            "title_similarity": "0.6778365"
+        },
+        {
+            "id": "h24njqi",
+            "score": 738,
+            "text": "There's a lot to unpack, but let's try.     \n>Does Mars have Caves?      \n\nAlmost certainly it does, but there multiple types of caves and the type of cave you're thinking of probably doesn't exist.   \nCave Types:     \n1)Limestone caves carved by co2 disolved in water (carbonic acide) trickling through them eroding chambers in the limestone.    \n2) Lava tubes - lava flowing down a slope forms a hard outer crust and continues to flow on its interior, finally draining out, leaving a hollow tube      \n3) Ice Caves - water flowing under a glacier erodes the ice, leaving chambers in the ice in a sort of combination of 1 & 2 above   \n\nI think you're probably thinking of type 1 above since by their nature, types 2 & 3 are limited depth beneath the surface and are not going to increase in temperature with depth.     \n\nMore to the point though, it is doubtful Mars has the kind of deep limestone deposits that formed on earth as a consequence of life. The presence of limestone on mars would in fact be an almost smoking gun for life having existed; and to be deep enough to form caves, there would have to have been a both a lot of life and it would have had to exist for a long time (long enough for thick deposits of carbonate  to have accumulated into thick sedimentay layers). Most theories of a warm wet mars have a limited lifetime of conducive environment for life: 100-200 million years. Consider that life existed on earth for billions of years before it became prolific enough to create limesone, it seems unlikely there are significant deposits of limestone on mars    \n\n\n---EDIT---     \nMarkup formatting correction, spelling, punctuation",
+            "title_similarity": "0.71598077"
+        },
+        {
+            "id": "h24zdpr",
+            "score": 167,
+            "text": "We don't really know for sure.  We can construct underground temperature models for Mars but we don't have the data to verify or refute them, so mostly Mars geologists talk a lot about ranges of possible values.\n\nIn terms of survivability, it may turn out that you don't actually need to drill down until it's warm, by the way.  Mars is funny in that respect.  But I will get to that in a moment.\n\nFor now let's look at Earth for a moment.  On Earth, roughly speaking, temperature increases by 25C per km of depth.  Starting at a pleasant outdoor temperature of 15C on the surface, it's easy to see how you'd get to 1km and it would be barely tolerable .. you wouldn't want to go beyond that.\n\nNow let's compare Mars.  Mars has lower gravity (hence less subsurface pressure) and is much, much less geologically active.  Even though we don't actually know what the correct temperature per depth value is, but we do know it will be lower than Earth's.  How much lower?  We can make some guesses and see how much it makes a difference.\n\nLets's say we're starting at -60C on the Martian surface.  Let's pick a high value for Martian temperature gradient.  Let's say it's about half that of Earth, we'll round to 10C per km depth.  So then at 6km down it's icy cold but livable, and by 8km you're comfortably warm.  You wouldn't want to go below 10km if you even could dig that far.  In any case, that's a major drilling effort -- about as far as we have ever drilled on Earth.\n\nNow let's say it's 1/10 that of Earth.  Let's just say 3C / km for convenience.  At that gradient, your habitable range will be somewhere between 20km and 30km depth.  Needless to say that's a huge geoengineering project just to drill down that far, let alone stabilize and build safely.\n\nOkay so those are the likely range of depths if you want to achieve warmth through drilling.  Is the Martian thermal gradient more than half Earth's?  Or less than 1/10?  Maybe!  It certainly could be.  But I am picking values that seem like reasonable bounds for the sake of comparison.  Within those bounds, no matter how you slice it, you're talking about depths that would challenge the limits of what we know how to do today.\n\nHowever, like I said before, that might not be the only way.  The simple answer to heat on Mars is that in practice what we are really going to have to worry about is getting rid of heat, not retaining it.  The reason is that the Martian atmosphere is really actually very close to vacuum -- much more than we appreciate when we contemplate it from afar.\n\nSomeone estimated once that if you were out unprotected on the Martian surface, assuming you had plenty of air and well-insulated shoes, you would die of cold exposure after several hours.\n\nSeveral *hours*.\n\nThat's because even though it's so cold that carbon dioxide freezes, there's so little air to convey heat away from you that you wouldn't really feel it.\n\nThis person went on to estimate that if you simply put on a sweater, you would be fine.  In fact you'd be more likely to overheat.\n\nTL; DR  The real answer appears to be 0km -- you'll be fine on the surface, as long as you wear boots and a sweater.",
+            "title_similarity": "0.7552315"
+        },
+        {
+            "id": "h24ecp0",
+            "score": 2,
+            "text": "The [Mars Society YouTube Channel](https://www.youtube.com/c/TheMarsSociety/featured) might have some decent stuff on topics like this. The Mars Society posts videos from its annual conference every year, so you have a good chance of finding something that's recent. (A search for lava tubes turned up [this video](https://www.youtube.com/watch?v=CJI32sfCzuw) and [this video](https://www.youtube.com/watch?v=hffnDDw5Y08), for instance.)",
+            "title_similarity": "0.46620485"
+        },
+        {
+            "id": "h24kj44",
+            "score": 5,
+            "text": "Follow up question, how deep would you need to go to have a breathable atmosphete? Disregarding mars's actual atmospheric make up of course. (Pretty sure nearly 100% co2 is unbreathable at all pressures). Given that we're making up an atmosphere in this case, what is the answer for earth like composition, and 100% o2?",
+            "title_similarity": "0.71933365"
+        },
+        {
+            "id": "h25324l",
+            "score": 8,
+            "text": "They would need to solve the pressure problem first, as Mars has about 1% of Earth's atmosphere.  Without enough air pressure the temperature doesn't matter because you'll be living in climate controlled space suits.\n\nOnce  you seal one of these caves and pump it full of breathable air, then the temperature could be whatever you want it to be.",
+            "title_similarity": "0.7414504"
+        },
+        {
+            "id": "h25cuua",
+            "score": 26,
+            "text": "For a Mars habitat we're not too worried about temperature. We can build habitats to deal with that. The bigger danger is hard radiation which on Earth mostly gets blocked by the magnetosphere and atmosphere. But Mars has no magnetosphere and only a very thin atmosphere which is okay for a few days or weeks but if you're staying for months or maybe years you want some protection. A couple meters of dirt can provide that protection.",
+            "title_similarity": "0.68033135"
+        },
+        {
+            "id": "h25o3dc",
+            "score": 10,
+            "text": "Mars definitely has caves. There's increasing evidence that Mars used to be a hospitable planet filled with water, and this is a key component in the creation of caves. As for temperature, there are estimates we made with orbiters but this is an open question. In fact, Mars lander INSIGHT was suppose to give us this data but the temperature probe (AKA the mole) failed to deploy and NASA gave up.",
+            "title_similarity": "0.77069485"
+        },
+        {
+            "id": "h26g4cw",
+            "score": 5,
+            "text": "Mars has massive caves and holes, thee could be huge underwater oceans and entire ecosystems under the ground (and probably are):\n\nhttps://www.extremetech.com/extreme/307008-this-hole-on-mars-is-wowing-the-internet\n\nhttps://www.space.com/amp/3891-deep-hole-mars.html",
+            "title_similarity": "0.8083128"
+        },
+        {
+            "id": "h26mk2z",
+            "score": 6,
+            "text": "The title of this thread makes me want to play some sort of simulation game involving colonizing mars involving a subterranean (is it still 'subterranean' if we're no longer on terra firma?) network of insulated tunnels!",
+            "title_similarity": "0.8154161"
+        },
+        {
+            "id": "h26sen5",
+            "score": 5,
+            "text": "I scrolled and scrolled and didn't see an answer to your question. If experience from earth and climate tests of Mars give us guidance then I would expect a depth of about 20 metres should provide enough insulation to be fine with a jacket. Depths of 50 metres should provide enough insulation for cooling systems to be needed. Have a great day.",
+            "title_similarity": "0.6522089"
+        },
+        {
+            "id": "h26ugay",
+            "score": 4,
+            "text": "Lava Tubes. Lots and lots of them.\n\nI think we don't know yet, and we also don't know if this stable temperature would be hospitable (or maybe permanently below 0°C).\n\nBecause mars has a lot less geothermal activity, thinner atmosphere etc. It is in general a lot colder and has a harder time to keep heat in. So it's conceivable the stable temperature might be a freezing one.",
+            "title_similarity": "0.6736804"
+        },
+        {
+            "id": "h2sa1rk",
+            "score": 1,
+            "text": "I habit Mars to what extent/end game?  Sap resources from earth to give to a dead planet where it’s homeostasis is a constant struggle?  I could just picture the idiots at the UN and g7 summits conning to world to bilk more taxes from earthlings to “save” martians, while of course, skimming off of the top. \n\nMars is beautiful without us.",
+            "title_similarity": "0.6372131"
+        },
+        {
+            "id": "h3bf8pl",
+            "score": 1,
+            "text": "They have volcanos and mountains on Mars that makes ours look like molehills,  so it's possible they have really deep caves. At the equator the temperature can reach 70 degrees,  but plunges to  minus 170 degrees during the night due to its attenuated atmosphere which is 100th as dense as Earth.\n\nAdditionally,  Mars lacks a magnetic field so that means the core has gone cold, so even descending 300 feet below the surface of Mars wouldn't see an appreciable rise in temperature,  but what it would do is protect the colonists from lethal radiation such a gamma rays , but it's probably better to build heated domed structures where the pioneers can live in Earth-like conditions and shed their spacesuits, grow vegetables, and live off the Martian land.\n\n Other domes would contain a selection of animals bred for food. There would be nuclear power plants to create electricity and make life acceptable in this alien environment,  but once on the surface spacesuits will have to be worn unless Mars can be terraformed to create a mini Earth.",
+            "title_similarity": "0.75746375"
+        }
+    ]
+}

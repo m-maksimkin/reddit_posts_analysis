@@ -1,0 +1,94 @@
+{
+    "Is the original strain of covid-19 still being detected, or has it been subsumed by later variants?\n": [
+        {
+            "id": "hnx8eku",
+            "score": -12,
+            "text": "[removed]",
+            "title_similarity": "0.2628814"
+        },
+        {
+            "id": "hnv3usm",
+            "score": 12,
+            "text": "How can omicron be first announced only a few weeks ago and then reports on the news that it's being detected in NYC or Tampa etc.?  How does the PCR test or whatever they use know it is omicron and not delta or the original?",
+            "title_similarity": "0.5172319"
+        },
+        {
+            "id": "hnvfbgd",
+            "score": 18,
+            "text": "Might be helpful to consider there is, and has always been from an early stage, thousands (and later tens of thousands) of variants. Most are completely unremarkable, but a tiny number will become Variants of Concern due to their concerning characteristic changes (and a Greek alphabet name applied only at this point).\n\nThe \"original strain\" was just another variant of an existing zoonotic (animal) coronavirus which mutated and gained the ability to jump to humans.\n\nDelta currently accounts for over 99.9% of worldwide cases (with the best genome sequencing data we have) so has replaced most of the other 2019/20 variants. The original human strain, from China, is long gone... or partly exists within the make up of its modern relatives, depending on the way you look at it.",
+            "title_similarity": "0.46262264"
+        },
+        {
+            "id": "hnv3mr6",
+            "score": 27,
+            "text": "\"Drastically reduced circulation in the EU/EEA following the emergence of Delta; little evidence of impact on vaccine induced immunity\"\n\nAlpha is now listed under:\n\nDe-escalated variants\n\nThese additional variants of SARS-CoV-2 have been de-escalated based on at least one the following criteria: (1) the variant is no longer circulating, (2) the variant has been circulating for a long time without any impact on the overall epidemiological situation, (3) scientific evidence demonstrates that the variant is not associated with any concerning properties.\n\n\nAccording to https://www.ecdc.europa.eu/en/covid-19/variants-concern",
+            "title_similarity": "0.42670792"
+        },
+        {
+            "id": "hnxn6c1",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.2628814"
+        },
+        {
+            "id": "hnyngrt",
+            "score": -7,
+            "text": "[removed]",
+            "title_similarity": "0.2628814"
+        },
+        {
+            "id": "hnv29s6",
+            "score": 596,
+            "text": "It would be more correct to say that it's been outcompeted, as yes its no longer detected in any meaningful way. However, Denmark sequences nearly 40% of its tests which is the highest rate in the world. So the sequencing rate globally isn't all that great for making meaningful determinations on rarer strains.",
+            "title_similarity": "0.26598018"
+        },
+        {
+            "id": "hnv98x6",
+            "score": 43,
+            "text": "Others have already answered the question, but to provide more detail I thought I'd also mention that every single infection is very slightly differently genetically. Covid is constantly testing out new variations. Some mutations prove to help the virus spread and become so common that almost all copies of the virus have it, but those copies will all have slight genetic variations as well as this process of testing new ways to survive never ends.",
+            "title_similarity": "0.50916207"
+        },
+        {
+            "id": "hnw6mw4",
+            "score": 14,
+            "text": "Here is a fantastic website that compiles global information to answer these types of questions. \n\nhttps://nextstrain.org/ncov/gisaid/global\n\nIf you scroll down to the \"Frequencies\" figure, you can see that Delta makes up the majority of current cases, with Omicron making up a small fraction but gradually increasing.",
+            "title_similarity": "0.38806885"
+        },
+        {
+            "id": "hnv3dhy",
+            "score": 127,
+            "text": ">has \\[original COVID\\] been subsumed by later variants?\n\nYes. There are several variants on the original strain that make it more infectious and spread better, and these genetically outcompete their less infectious ancestors.  \n\nFor example:  If someone is exposed to (eg) both Delta and original COVID, the net effect of thousands of reproductive cycles in the host where Delta is better at infecting cells will lead to that person having millions of times more Delta virus than original virus in their system, and it will be quite likely that this person will only spread Delta to anyone else they infect.  Repeat that over time and eventually OG COVID is removed from the population.\n\nGiven that OG COVID was a very new zoonotic virus there were a lot of mutations it could make that made it a lot better adapted to its new (human) hosts and the original strain is therefore a lot less fit than later strains.\n\n&#x200B;\n\n>Is the original strain of covid-19 still being detected?\n\nThere are billions of humans so I don't know if OG COVID is literally extinct, but it has certainly become vanishingly rare.  However, with COVID circulating freely in animal reservoirs it is possible that Bats & pangolins have retained strains that are very close to the original COVID detected in Wuhan.",
+            "title_similarity": "0.48639083"
+        },
+        {
+            "id": "hnv6274",
+            "score": 286,
+            "text": "Check out [https://covariants.org/per-country](https://covariants.org/per-country)  This is test data that shows, at least within the population that is being testing, how Delta has pretty much supplanted most other variants.  Scrolling through you can see that, in most cases, Delta has dominated if not completely overwhelmed all other strains.  There seem to be some outliers and there are certainly people not being tested who may have other strain.  Some are more up-to-date and show Omicorn starting to creep in too",
+            "title_similarity": "0.53448874"
+        },
+        {
+            "id": "hnvd301",
+            "score": 390,
+            "text": "Swiss Covid-19 tracking website has [a page that tracks prevalences of various Covid-19 variants](https://www.covid19.admin.ch/en/epidemiologic/virus-variants) over time. Delta reached 99% in August and only recently started losing ground to Omicron.",
+            "title_similarity": "0.48960263"
+        },
+        {
+            "id": "hnv1kzl",
+            "score": 3638,
+            "text": "According to these sources, the original strain has been replaced by Delta and subsequent variants: [https://www.weforum.org/agenda/2021/11/what-makes-the-delta-variant-different-covid-19/](https://www.weforum.org/agenda/2021/11/what-makes-the-delta-variant-different-covid-19/) \n\n[https://www.ocregister.com/2021/10/24/does-the-first-coronavirus-that-kicked-off-the-pandemic-still-exist/](https://www.ocregister.com/2021/10/24/does-the-first-coronavirus-that-kicked-off-the-pandemic-still-exist/)",
+            "title_similarity": "0.6763143"
+        },
+        {
+            "id": "hnvxnzq",
+            "score": 5,
+            "text": "It's still being detected, along w/the Variants. That's the short answer, as there are at least (2) different tests for Covid as it is, nevermind the newer methodology pursuant to narrowing down what \"stage\" you're in, which Variant is prominent, including being able to discern b/t Delta & Omnicron now also. The BEST information will be found on the various medical sites, including of course, following the latest via the CDC, WHO, etc....",
+            "title_similarity": "0.57697433"
+        },
+        {
+            "id": "hny3qrt",
+            "score": 5,
+            "text": "Note that single mutations occur eveey 2 to 3 transmissions. That is, the virus is constantly changing. Over time, and with enogh people getting infected, those small changes add up. If there are enough changes that we think the virus might behave differently, then it is worth labeling the new strain so that we can keep track of it. Hence the labeling of new variens with greek letters.\n\nSo whatever the original strain was, countless replications and  two years later, you probably wont find it (exactly) in the wild.",
+            "title_similarity": "0.54158545"
+        }
+    ]
+}

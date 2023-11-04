@@ -1,0 +1,70 @@
+{
+    "Is the Chernobyl core still melting to this day?\n": [
+        {
+            "id": "hds3r2x",
+            "score": 210,
+            "text": "[removed]",
+            "title_similarity": "0.3685"
+        },
+        {
+            "id": "hdscqil",
+            "score": 210,
+            "text": "What do you mean? It's still hot, because of fission reactions in the mixed remnants, which contain Uranium 235. The half life of U-235 is 700 million years, so without removal it will be hot for a little while longer.",
+            "title_similarity": "0.674631"
+        },
+        {
+            "id": "hductkc",
+            "score": 25,
+            "text": "It's no longer melting, but it's still emitting radiation and will continue to emit radiation for another 24,000 years. The sarcophagus that's entombing Chernobyl is rated to last ~100 years. This means that in 2120, they're going to have to pull it back, break it apart and either throw it into a volcano or yeet it into the sun and then repeat the process again.\n\nThe sincere hope is that by 2120, we'll technology and ships that can just carve out that entire area, entomb that into the cargo of a vessel, and then yeet that vessel into the sun and the problem will be properly solved forever.\n\nSame with Fukushima btw.",
+            "title_similarity": "0.69050467"
+        },
+        {
+            "id": "hdu0yuo",
+            "score": 8,
+            "text": "Quote from the webpage (a link to the webpage is given below):\n\nBut what's even more worrisome is scientists don't know how corium might behave over the long term, like when it's stored in a nuclear waste repository. What they do know is the corium of the Elephant's Foot is likely not as active as it was, and that it is cooling down on its own — and will continue to cool. But it's still melting down and remains highly radioactive.\nIn 2016, the New Safe Confinement (NSC) was slid over Chernobyl to prevent any more radiation leaks from the nuclear power plant. Another steel structure was built within the containment shield to support the decaying concrete sarcophagus in Chernobyl's reactor No. 4. The NSC would — ideally — help prevent a massive cloud of uranium dust from dispersing into the air in case of an explosion in room 305/2. Room 305/2 was directly under the No. 4 reactor core and has been showing signs of increased neutron emissions since 2016. It's totally inaccessible to humans because of the deadly radiation levels.\n\n[Chernobyl's Elephant's foot is a toxic mass of Corium](https://science.howstuffworks.com/chernobyl-elephants-foot.htm)",
+            "title_similarity": "0.70604587"
+        },
+        {
+            "id": "hdsd3ef",
+            "score": 48,
+            "text": "[removed]",
+            "title_similarity": "0.3685"
+        },
+        {
+            "id": "hdtm3qi",
+            "score": 65,
+            "text": "No longer melting per se, it's not that hot anymore since that takes thousands of degrees to keep the fuel, steel, concrete and everything else it initially melted still molten. The fission isn't as efficient as back in 1986 anymore due to being contaminated with junk like concrete so there's less heat energy released. But the \"elephant's foot\" itself, while now quite solid, is still warm (probably a few hundred C in the center of it where outer layers insulate it)  but that's not the main issue. It's still putting out enough radiation to kill you in 5 minutes if you get close enough to it to feel the warmth (ie 1m) with just clothes for protection. This will gradually decrease over time, and alot of it (many thousands of years to be about the same as background levels, relatively safe after a guesstimate of 20,000).  It's hard to find a fixed half life of it (ie 100 year hl = it would take 10 minutes to kill you instead of 5 if you waited 100 years first before getting to the same distance from it, or 3.5 days if you waited 1000 years), probably due to it being a witch's brew of radioactive daughter elements with half lives of decades to centuries (ie strontium-90, cesium-137, etc) mixed in with the other formerly molten stuff and no one will be taking a sample of it to test in a lab for a better estimate anytime soon.",
+            "title_similarity": "0.5732019"
+        },
+        {
+            "id": "hdsfx3b",
+            "score": 196,
+            "text": "Currently published information implies that the core is essentially steady state while some instruments are indicating an increase in reaction rates.\n\nThere is no indication the there is any decrease in the mechanical stability of the melted core residue.",
+            "title_similarity": "0.5633028"
+        },
+        {
+            "id": "hdsdq12",
+            "score": 445,
+            "text": "[removed]",
+            "title_similarity": "0.3685"
+        },
+        {
+            "id": "hdshtgw",
+            "score": 18240,
+            "text": "OK, 5 things need to be separated:\n\n1.  Temperature is temperature.  It's a description of how hot it is.  Its thermal energy.  It's not describing where the heat came from.  Insulating it more would increase its temperature, but that wouldn't change the rate of heat from nuclear activity.\n\n2.  Spontaneous radioactive decay is where an unstable isotope is undergoing spontaneous decay via half-life alone.  This always generates heat, but too little to use for power generation, and it's uncontrollable by definition, as it's spontaneous.  Some fission byproducts have very long half-lives.  Many also are only part of  a \"decay chain\" as their new child isotopes may also be unstable and have a half-life.  This is unlike fire in that letting the heat from spontaneous decay build up and raise the temperature does NOT increase the rate of spontaneous decay.\n\n3.  Fission nuclear REACTIONS mean a neutron from one spontaneous decay, or from another fission event, struck another atomic nucleus of a fuel isotope in just the right way to cause a \"neutron capture\" and cause fission in that atom, which also spits out one or more neutrons which might be able to cause another fission reaction.  Most fission byproducts CANNOT participate in a reaction however, only the original fuel (uranium).  Not all radiation is neutrons.  Alpha, beta, and gamma can result from spontaneous decay or from fission, they are dangerous radiation and create heat, but cannot cause a fission *reaction* at any intensity.  FUSION reactions (helium, tritium) are different than fission and temperature matters, but it does not occur in any commercial reactor and would not occur in any \"meltdown\" situation of any sort.\n\n4.  Fission \"critical mass\" means that the overall scenario is such that the neutron(s) emitted by a fuel nuclei undergoing fission will, on average, cause at least one fission of another fuel atom.  This requires a fuel isotope to be able to create more than one neutron upon fission to be possible to sustain itself as some neutrons will always be lost.  This is not fire, and high temperature is not necessary nor does higher temp increase fission reactions.  The layout is very important.  Not only is packing a lot of fuel in close proximity essential, but neutrons are often \"too fast\" to capture and cause fission, thus they must be slowed down by a moderator or they will go right past the fuel atoms and fail to cause a reaction.\n\n5.  A nuclear EXPLOSION is a critical mass operating at an exponential increase in neutrons causing fission reactions that the system cannot possibly contain, and its rise is almost instantaneous.  The \"blowing apart\" aspect is due to pressure created by its fantastically high temperature.  Spontaneous decay (#2) cannot cause a nuclear explosion, as there is no exponentially growing reaction, and it's by definition not a reaction.\n\nChernobyl will always be undergoing lots of spontaneous decay of its fission byproducts (#2) for thousands of years.  This will make it warmer than its surroundings (#1).\n\nChernobyl was entombed with much of its uranium fuel.  SOME fission REACTIONS (#3) are still occurring, but they are rare.  Because the neutrons have to hit the fuel just right to cause fission.  It has been broken up, spread out, and no longer a \"critical mass\" (#4) that sustains a reaction of neutrons-causing-fission-causing-more-neutrons once it starts.  Far from it.\n\nIt cannot do a \"nuclear explosion\" because it's far from a critical mass.  If you put a decaying isotope (#2) in an insulated, sealed bottle with a small about of water, it could, over time, elevate its temperature (#1), boil the water, and create enough *steam pressure* to cause the container to explode and that  would spread the isotope around.  However, this is not a *nuclear* explosion (#5).  It is not a critical mass (#4) and fission reactions (#3) are not even occurring.\n\nWe are concerned that, if not cooled, Chernobyl could do that.  Water could leak in, get inside that huge pile of nuclear trash and get trapped under tons of concrete floors and dirt and stuff, heat up, and build up trapped steam pressure.  It's not really plausible to make enough steam pressure to go \"boom\" anymore, but it could build up some pressure and steam/water could break a barrier and rush out through a crack carrying dangerous isotopes.\n\nEDIT: wow, 3000 points, 36 awards and climbing!  I know it's not gonna pay any bill, but internet points are fun!  Thanks guys!",
+            "title_similarity": "0.5673131"
+        },
+        {
+            "id": "hds4r6q",
+            "score": 106,
+            "text": "[removed]",
+            "title_similarity": "0.3685"
+        },
+        {
+            "id": "hdsbmrf",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.3685"
+        }
+    ]
+}

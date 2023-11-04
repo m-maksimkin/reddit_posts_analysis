@@ -1,0 +1,118 @@
+{
+    "Is the Delta variant a result of COVID evolving against the vaccine or would we still have the Delta variant if we never created the vaccine?\n": [
+        {
+            "id": "h80zaxh",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.20232505"
+        },
+        {
+            "id": "h81qt9n",
+            "score": 2,
+            "text": "Serious question - Should we have waited for greater portion of worldwide population to have vaccine “at the ready” vs. partial vaccination? What is the calculus\n\nSeems like partial, staggered vaccination may require continuous new vaccine development for new mutations",
+            "title_similarity": "0.7859289"
+        },
+        {
+            "id": "h80nge9",
+            "score": 17,
+            "text": "[removed]",
+            "title_similarity": "0.20232505"
+        },
+        {
+            "id": "h80z4ce",
+            "score": -9,
+            "text": "[removed]",
+            "title_similarity": "0.20232505"
+        },
+        {
+            "id": "h80gemp",
+            "score": 59,
+            "text": "[removed]",
+            "title_similarity": "0.20232505"
+        },
+        {
+            "id": "h80yh69",
+            "score": -8,
+            "text": "[removed]",
+            "title_similarity": "0.20232505"
+        },
+        {
+            "id": "h81npoq",
+            "score": 4,
+            "text": "The virus wasn’t thinking of ways to defeat the vaccine. It just so happened that during its many generations this particular set of mutations helped it spread better. People not following safeguards kept the population growing and therefore at some point this happened.",
+            "title_similarity": "0.57343936"
+        },
+        {
+            "id": "h8162vh",
+            "score": 9,
+            "text": "There is actually some evidence that the variants  may arise from immunocompromised people who get COVID and end up with chronic  infections.  Namely, the variants seem to appear with several simultaneous mutations that would each normally take many virus generations to show up, yet we don't see genetic evidence of those intermediate viruses.  Doctors have also taken regular genetic sequencing of the virus in some immunocompromised people who have extended infections and they have seem similar mutations as have occurred in some of the more virulent variants.   \n\n\n[https://www.scientificamerican.com/article/covid-variants-may-arise-in-people-with-compromised-immune-systems/](https://www.scientificamerican.com/article/covid-variants-may-arise-in-people-with-compromised-immune-systems/)",
+            "title_similarity": "0.6738049"
+        },
+        {
+            "id": "h81fwp6",
+            "score": 12,
+            "text": "All mutations are random chance\n\nSome of those mutations just happen to enable better survival or reproduction over others given the setting and other factors. This then makes those favorable mutations more successful\n\nSo more vaccinated people means that strains that are better covered by the vaccine will be less favorable than those strains who are less affected. The vaccine doesn’t actively influence the strains\n\nThe replicating or reproducing an organism does the more mutations are made (the vast majority of mutations are minor and don’t do anything besides just serve as a genetic marker). So what we don’t want is a period of high COVID replication and a high amount of vaccinated people as that would favor high mutation rates and a highly favorable situation for a vaccine-resistant strain to succeed. Driving replication down via vaccination will slow down the mutation rate to a crawl\n\n\nThis is also why we need to be careful with overusing antibiotics as it creates a situation that can favor antibiotic resistant bacteria to grow and spread more (and this mutate more and risk a serious mutation). So if .0001% of bacteria are resistant, creating a situation where that small amount are favored means they’ll reproduce in number over the less severe types of bacteria",
+            "title_similarity": "0.63087624"
+        },
+        {
+            "id": "h81o0s9",
+            "score": 21,
+            "text": "Coronaviruses don’t mutate as fast as the flu, but it has a higher infection rate. Take the common cold for instance, which is a coronavirus. It’s highly infectious and so common that most everyone on the planet gets infected 2-3 times a year. So much that employers provide paid sick days to their staff because it’s expected for you to get infected.\n\nWith this vaccine, it doesn’t kill the virus. It lowers the symptoms. So there’s still a viral load in the vaccinated person. Now the spread from someone vaccinated is less than an unvaccinated person because their symptoms are less, so less sneezing and coughing. \n\nHowever, they are still apt to spread the virus as well as the unvaccinated. \n\nThe only way to minimize the spread is by killing off the virus itself. Social distancing and masks destroyed the flu and it’s come a long way to minimizing the spread of COVID which is way more infectious. \n\nIt’s best to take measures that will kill the virus. There’s a host of peer reviewed science that you can look into showing the effectiveness of helping your immune system kill it off. \n\nBest of luck everyone. Let’s all do our part to see this thing through.",
+            "title_similarity": "0.4872102"
+        },
+        {
+            "id": "h80w6jm",
+            "score": 36,
+            "text": "[removed]",
+            "title_similarity": "0.20232505"
+        },
+        {
+            "id": "h81btdh",
+            "score": 35,
+            "text": "It's just standard viral mutation. If a virus mutates in a way that makes it more transmissible, then it will be selected for, since it will spread more quickly and widely.\n\nThe big problem with Covid is that a virus gets its best opportunities to mutate into new forms when being passed from host to host, especially if it's crossing species. This is theoretically where SARS-CoV-2 came from in the first place: jumping from human to animal and back to human, mutating along the way and becoming the dangerous virus that emerged two years ago.\n\nCountries where people aren't locking down to prevent spread and/or where vaccination rates are low are viral time bombs. If infection rates are high, the virus gets passed around more, which increases its chances of mutating and makes newer, more dangerous variants more likely.\n\nThe only good news about this is that the virus doesn't benefit from killing its host, so there's no evolutionary selection pressure on deadliness. The virus COULD mutate into a deadlier new strain, but it's much less likely than features that are being positively selected for, like transmissibility, length of incubation, survival time outside the body, etc.\n\ntl;dr: Nope, viruses mutate - it's what they do - and the more they get passed around, the more mutation we're likely to see.",
+            "title_similarity": "0.64757276"
+        },
+        {
+            "id": "h81qph8",
+            "score": 71,
+            "text": "This is a example of people  confusing antibiotics and bacteria. Bacteria actually do evolve resistance to antibiotics because they can change/swap DNA to be resistant to antibiotics. Viruses change purely because of the availability of hosts to create new viruses. Errors in the DNA that makes them more survivable in a host propagate faster. The more hosts you have the more likely the virus is to mutate, beneficial mutations will outperform the non-beneficial mutations or even the original strain, that’s the way evolution works. And virus evolution is very very quick. If you give them more hosts, you get more variations. Usually variations that are lethal to the host limit the time that a virus has to spread or “live” which is why a lot of viruses that start out lethal evolve into something that’s less so.  \n\nHowever, if we’re talking about human viruses, that’s a whole lot of bodies to bury while the virus becomes “civilized”, so get the f’n vaccine please.",
+            "title_similarity": "0.60359704"
+        },
+        {
+            "id": "h80hlum",
+            "score": 386,
+            "text": "The two are almost entirely unrelated.\n\nDiseases mutate on their own. Their lifecycle is rapid. It can take a million generations for a species to mutate, and for humans who don't have kids until we're 20 years old that means a long time. When you reproduce as quickly as viruses do, it's much faster.\n\nAny virus will mutate given enough time and hosts. The existence of a vaccine isn't directly relevant. What vaccines can do, is eliminate hosts and restrict time. If enough people had gotten vaccinated earlier, there would have been less colonies of coronavirus having millions and millions of offspring, and thus the odds of a stable mutation cropping up would be far, far lower.\n\nSo, in short, if vaccines are used properly as medical experts suggest, they can kill off a virus before it mutates into something even deadlier, or something the vaccine won't stop. The existence and administration of a vaccine will basically never make a pandemic worse.",
+            "title_similarity": "0.6412606"
+        },
+        {
+            "id": "h817a4d",
+            "score": 34,
+            "text": "[removed]",
+            "title_similarity": "0.20232505"
+        },
+        {
+            "id": "h7zzinw",
+            "score": 17352,
+            "text": "Delta arose in India when vaccination levels there were extremely low. Delta has only slightly increased vaccine resistance relative to the earlier strains of SARS-CoV-2. And delta has greatly increased transmission capacity. \n\nSo delta arose in the absence of vaccination, doesn’t do much to avoid immunization, and has obvious selective advantages unrelated to vaccination. So yes, the delta variant would still be here if there was no vaccination. In fact, if vaccination had been rolled out fast enough, delta (and other variants) would have been prevented, because the simplest way to reduce variation is to reduce the pool from which variants can be selected - that is, vaccinate to make far fewer viruses, making fewer variants. \n\nFor all the huge push anti-vax liars are currently making for the meme that vaccination drives mutation, it’s obviously not true, just from common sense. A moment’s thought will tell you that this isn’t the first vaccine that’s been made - we have hundreds of years experience with vaccination — and vaccines haven’t driven mutations in the past. Measles vaccination is over 50 years old, and measles didn’t evolve vaccine resistance. Polio vaccination is around 60 years old, no vaccine resistance. Yellow fever vaccine has been used for over 90 years, no vaccine-induced mutations. Mumps, rubella, smallpox. No vaccine driven mutations.",
+            "title_similarity": "0.62756944"
+        },
+        {
+            "id": "h811yaz",
+            "score": 16,
+            "text": "[removed]",
+            "title_similarity": "0.20232505"
+        },
+        {
+            "id": "h814lya",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.20232505"
+        },
+        {
+            "id": "h81fatn",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.20232505"
+        }
+    ]
+}

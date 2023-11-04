@@ -1,0 +1,100 @@
+{
+    "Was there a decrease in other infectious diseases other than Covid due to wearing masks during the past two years?\n": [
+        {
+            "id": "hzoywfo",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "0.13693514"
+        },
+        {
+            "id": "hzp7jvm",
+            "score": -7,
+            "text": "[removed]",
+            "title_similarity": "0.13693514"
+        },
+        {
+            "id": "hzps50w",
+            "score": 110,
+            "text": "To put it simply, we used proper sanitisation and wore masks AND isolated. We don't do that with other diseases, hence the lower cases of the other ones.\n\nI say we continue to wear masks when we are sick as it prevents these other diseases spreading. COVID taught us that we weren't doing enough.",
+            "title_similarity": "0.58267796"
+        },
+        {
+            "id": "hzpgw43",
+            "score": 34,
+            "text": "[removed]",
+            "title_similarity": "0.13693514"
+        },
+        {
+            "id": "hzp2pb8",
+            "score": 70,
+            "text": "[removed]",
+            "title_similarity": "0.13693514"
+        },
+        {
+            "id": "hzpnzr9",
+            "score": 8,
+            "text": "[removed]",
+            "title_similarity": "0.13693514"
+        },
+        {
+            "id": "hzpbn5d",
+            "score": 149,
+            "text": "in Norway there was a slight, but not insignificant lowered mortality rate when flu season did not occur in both 2020 and 2021. Actually the only period we had a slightly heigthened mortality rate was in november-december 2022  when we tried opening up during delta. Total accumulated deaths over the last two years is still slightly below prognosis.  \nhttps://www.euromomo.eu/graphs-and-maps/",
+            "title_similarity": "0.69243884"
+        },
+        {
+            "id": "hzpe5hk",
+            "score": 445,
+            "text": "The cases of menigococcal meningitis (Neisseria meningitidis) and Heamophilus influenzae decreases drastically in the past two years. Given that these are quite serious infections with a potential deadly outcome that is really good news. Masks do help prevent the spread of diseases.",
+            "title_similarity": "0.7088282"
+        },
+        {
+            "id": "hzpswrk",
+            "score": 269,
+            "text": "There were huge declines in all sorts of infectious diseases during the covid situation.\n\nRemote work/school made it much harder to spread illness.  Reduced seating capacities and keeping a general distance between other people also helped.\n\nIllness generally spreads in one of two ways.  Touch or by airborne droplets containing the contagion (via cough/sneeze/talking).  Wearing a mask and limiting social contact (handshakes, etc) had a big effect.  We started disinfecting every surface regularly (door handles, counters, etc) so contagion spread via lingering on surfaces and being spread by touch was reduced also.\n\nThe flu virtually disappeared during covid.  The common cold was even pretty rare.  Strep throat runs pretty crazy through schools, then gets brought home.  That one also saw a pretty steep decline.",
+            "title_similarity": "0.5655584"
+        },
+        {
+            "id": "hzprpsl",
+            "score": 151,
+            "text": "My hospital didn’t get a typical wave of bronchiolitis in young children in winter 2020 like would normally be expected and instead ended up getting a wave in summer 2021 going into winter as restrictions eased off - that’s the starkest difference I noticed, also haven’t seen many flus around since covid started! \n\nSome evidence for the bronchiolitis drop https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8242382/",
+            "title_similarity": "0.6985128"
+        },
+        {
+            "id": "hzpj803",
+            "score": 60,
+            "text": "[removed]",
+            "title_similarity": "0.13693514"
+        },
+        {
+            "id": "hzoux51",
+            "score": 2937,
+            "text": "Yep infulenza basically disappeared for a year.\n\nhttps://www.hsph.harvard.edu/news/hsph-in-the-news/a-sharp-drop-in-flu-cases-during-covid-19-pandemic/\n\n\n\"The Centers for Disease Control and Prevention (CDC) recently reported that it had logged 1,316 positive flu cases in its surveillance network between September 2020 and the end of January 2021. During that same period last year, the CDC had recorded nearly 130,000 cases.\"",
+            "title_similarity": "0.6471244"
+        },
+        {
+            "id": "hzp2a9j",
+            "score": 3409,
+            "text": "There was no gastroenteritis seasonal surge in France during winter 2020/2021.\n\n[See link : \"réseau sentinelle\".](https://www.sentiweb.fr/france/fr/?page=table&maladie=6)\n\nWho could have thought that mask + hand washing could prevent gastroenteritis ?",
+            "title_similarity": "0.5054196"
+        },
+        {
+            "id": "hzphedl",
+            "score": 1882,
+            "text": "Short answer is yes, in Australia at least. (I’m broadening the interpretation of the question to “due to COVID precautions” rather than simply “due to masks”, as it’s impossible to entirely separate the impact of masks from all of the other associated precautions that were simultaneously applied, such as social distancing, hand sanitizer, remote work, etc.)\n\nIn Australia, 1080 people died of the flu in 2019, compared to only 55 in 2020. More interesting, the total deaths from **all causes** reduced significantly from 2019 to 2020, from 169k to 161k. Usually, the top 5 causes of death are heart disease, dementia, strokes, lung/throat cancer, and chronic lower respiratory disease. You’ll notice that all of those things are comorbidities for COVID deaths; they’re also comorbidities with seasonal cold/flu deaths. So because there was effectively no “flu season” due to all the COVID precautions, there was a 20% reduction in these top 5 death causes where flu or pneumonia was an associated cause of death, resulting in the overall death rate going down despite COVID.\n\nOther non-flu related contributors to the overall reduction in deaths:\n\n* Due to remote work, motor vehicle accidents went down 10%\n* Despite COVID-related stress, suicides were down 6.2%\n* Drug-related overdoses reduced 4%, but alcohol-related deaths went up by 8.3%\n\n[Source: Australian Bureau of Statistics](https://www.abs.gov.au/statistics/health/causes-death/causes-death-australia/latest-release#:~:text=2020%3A%20All%20cause%20mortality%20by%20age&text=on%20this%20issue.-,In%202020%3A,6.3%25%20and%207.0%25%20respectively)\n\nEdit: Thankyou to the person who gave me the handshake award, but due to my own precautions in future I would prefer a more COVID-friendly fistbump award.",
+            "title_similarity": "0.61191773"
+        },
+        {
+            "id": "hzpnufu",
+            "score": 783,
+            "text": "Flu season for winter 20-21 was incredibly minor. Our pharmacy didn't move a single Tamiflu RX. For about an 18 month window starting March 2020 we didn't fill a single RX for the stuff, compared to a hundred in the last pre-covid flu season.",
+            "title_similarity": "0.6184316"
+        },
+        {
+            "id": "hzpjcrg",
+            "score": 4734,
+            "text": "All respiratory tract diseases have fell off a cliff in terms of numbers in the last two years. Turkey had almost no influenza cases in the last two years for example. I have worked in the Pediatric Infectious Diseases department in Ankara Uni. and I can say the season passed relatively mildly in respect to past years.",
+            "title_similarity": "0.6600256"
+        }
+    ]
+}

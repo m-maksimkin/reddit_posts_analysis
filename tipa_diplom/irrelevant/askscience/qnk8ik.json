@@ -1,0 +1,46 @@
+{
+    "How deep is the Sahara deserts sand, and what's at the bottom of the sand?\nLike is it a solid bedrock kind of surface, or is it a gradient where the sand gets courser and courser until it's bedrock?\n\nEdit: My biggest post so far and it's about how deep sand is, and then it turns out more than half of it isn't sand. Oh well.": [
+        {
+            "id": "hjh43v8",
+            "score": 78,
+            "text": "[removed]",
+            "title_similarity": "0.16059643"
+        },
+        {
+            "id": "hjjr2l3",
+            "score": 41,
+            "text": "How deep can desert sand be?\n\nVery deep. Over half a mile, perhaps as much as mile under very special circumstances.\n\nThe thickness of sand under the dunes is going to depend on the length of time that deposition was greater than erosion. In a desert, deposition = sand being blown in, and erosion=sand being blown out. If you were to measure these rates in (thickness)/(time), you can imagine that it is possible to get a lot of sand built up in short times relatively speaking. However, the rate of erosion will increase if you build sand \"up\"-- so what you need is accommodation space where sand can accumulate.\n\nAnd there are thick sandstones, such as those that form the ancient geology of the American west, which you can see at parks such as Arches in Utah. When you see all the rocks at Arches, you are seeing a HUGE pile of what remains of thousands and thousands of sand dunes that were partially buried in accommodation space provided by evacuating salt.\n\nThe Navajo Sandstone is up to 2,300 ft thick, but it's been compressed--it would have been thicker before it was buried and re-exposed. And, there is some additional amount of material that would have been on top that has eroded. So, at least half a mile.\n\nBut also very cool--the Navajo sandstone was being deposited over a period of 15 million years, so the net rate of addition might have been around 2,300 ft/15 million years = 1/10000 ft/year. That's a tiny net amount, and we know that accumulation happened in fits and starts--there are packages that are the \"base\" of sand dunes that are 30' thick that show all their original structure, which means that 30' thick sand dune was laid down millions of years ago and never reactivated. So it was a lot of boring time and then boom, your sand dune gets buried and stays.\n\nWhy was there so much sand accumulation there? The answer is salt tectonics. If you fill up a basin with sea water and keep evaporating, you can end up with salt a mile thick. Then, if you blow sand over it, you end up with a sandy desert dune on top of your mile thick salt. And here's the cool thing: sand dunes are denser than salt so they start sinking into it. That's where the accommodation space comes from!\n\nOne last thing: these thick sands are great places to hold oil, and have been important targets of exploration all across the world.",
+            "title_similarity": "0.80413926"
+        },
+        {
+            "id": "hjgzi88",
+            "score": 580,
+            "text": "While waiting for an actual answer this was asked a few months ago with an answer as well as a link to an even older answer.\n\nhttps://www.reddit.com/r/askscience/comments/nduhp6/how_deep_is_the_sand_in_the_sahara_desert_whats",
+            "title_similarity": "0.68196785"
+        },
+        {
+            "id": "hjhhkus",
+            "score": 368,
+            "text": "Without addressing the main question of how deep the sand is, what *is* known is that there are major aquifers below ground, such as the Nubian Sandstone Aquifer. Some research has been done on these aquifers, but not enough to confidently give an exact map. \n\nYou can check out this article from 2012 published in Environmental Research Letters for more information: https://iopscience.iop.org/article/10.1088/1748-9326/7/2/024009\n\nFigure 3 in the article gives an estimated depth to hit groundwater.",
+            "title_similarity": "0.7228224"
+        },
+        {
+            "id": "hjh1ksr",
+            "score": 6682,
+            "text": "[removed]",
+            "title_similarity": "0.16059643"
+        },
+        {
+            "id": "hjl0muv",
+            "score": 7,
+            "text": "A friend works at a gravel mine in Minnesota, ice age deposits in much of Dakota County include 250 feet sand and gravel before bedrock. Water table is 60 feet deep, so much of the mining is in the \"lakes\" that the mining has created.",
+            "title_similarity": "0.5829734"
+        },
+        {
+            "id": "hl93f7a",
+            "score": 3,
+            "text": "There is a buried landscape below the sands.\r  \n\r  \nDuring the Pleistocene ice ages, while there were glaciers in the far north, the Sahara was a savanna grassland with lakes.\r  \n\r  \nThe boundary at the bottom of the sand is sharp. Occasionally, the sand gets blown away and the relict surface is exposed. Waterholes and oases exist where the sand is very thin. Legends say that buildings and artifacts are occasionally revealed by the shifting sands. There is even a legend of treasure waiting to be unearthed by the wind.",
+            "title_similarity": "0.59626144"
+        }
+    ]
+}

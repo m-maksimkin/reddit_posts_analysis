@@ -1,0 +1,514 @@
+{
+    "Are there any animal species whose gender ratio isn't close to balanced? If so, why?\n": [
+        {
+            "id": "gxrf26g",
+            "score": -12,
+            "text": "[removed]",
+            "title_similarity": "0.30980784"
+        },
+        {
+            "id": "gxqsjim",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.30980784"
+        },
+        {
+            "id": "gxsgrmf",
+            "score": 0,
+            "text": "In any species that doesn't have specific mechanisms to regulate gender balance, evolution always pushes the balance to 50/50.  This is because, with whichever gender is more rare, selection rewards members of that gender that produce more individuals of that gender.",
+            "title_similarity": "0.43725038"
+        },
+        {
+            "id": "gxqo5iz",
+            "score": 166,
+            "text": "If you include post-birth life stages, African lions are heavily biased toward females despite a near 50/50 ratio at birth.  \n  \n\nhttps://cbs.umn.edu/sites/cbs.umn.edu/files/public/downloads/AppliedEcology.pdf\n  \n  \nAlso remember that the concept of gender doesn’t apply to non-human animals. Sex is the biologically observable trait that animals have.",
+            "title_similarity": "0.4940211"
+        },
+        {
+            "id": "gxqrwlr",
+            "score": 28,
+            "text": "In most cases the ratio of males to females is very close to 1:1. This is because of [Fisher's equilibrium principle.](https://en.wikipedia.org/wiki/Fisher%27s_principle). Basically, if there was not a 1:1 sex ratio, genes that result in having more offspring of the rarer sex would have a selective advantage, because the rarer sex would have more opportunities for mates. But due to evolution, those genes would increase in frequency until the sex ratio became balanced at 1:1.\n\nNotable exceptions include species that use a haplodiploid sex determination system (e.g. ants and bees), and species that reproduce asexually (e.g. aphids). Here, females are more common, since they don't need males to reproduce.",
+            "title_similarity": "0.48824412"
+        },
+        {
+            "id": "gxu5klq",
+            "score": 1,
+            "text": "Cows and chickens. Because we eat the ones unable to produce milk or eggs. For example, male dairy cattle is where veal comes from. Since the vast overwhelming majority of cows and chickens are part of the farming industry, our food production practices have a serious impact on the overall gender ratio for those species.",
+            "title_similarity": "0.30066028"
+        },
+        {
+            "id": "gxu8l27",
+            "score": 1,
+            "text": "Not an example that occurs naturally, but some farm animals as a result of human action.\n\nThis just occurred to me and I did some research. You may see one rooster for every fifteen hens or about one bull for every 20-30 cows. It never dawned on me until now how many males are just culled soon after birth.",
+            "title_similarity": "0.30621338"
+        },
+        {
+            "id": "gxrh6kw",
+            "score": 10,
+            "text": "Parrot fish! They're all born female, and don't change genders until way later in life. So for adult fish it can be closer to 50-50 with good management but if you include fry there are technically a lot more females :)",
+            "title_similarity": "0.32071745"
+        },
+        {
+            "id": "gxslk2q",
+            "score": 2,
+            "text": "Follow up question: Why does this seem so rare in larger animals? Naively I'd expect there to be more females in most species, since one male can mate with multiple females. That system would seem to allow for more efficient reproduction as there wouldn't be \"wasted\" males.",
+            "title_similarity": "0.5503023"
+        },
+        {
+            "id": "gxqnwe1",
+            "score": 125,
+            "text": "Not sure what the ratio is between the number of individual, but Angular fish (those ugly fish with giant teeth and the glow bulb on a stick) was thought to be largely female population.  Turns out the little gnarled bumps on their flesh 'were' the males.\n\nThe females grow to full size, the males are these tiny guppy like creatures.  They find a female and burrow into her flesh, morphing into a gonad that the female can use to fertilize herself.",
+            "title_similarity": "0.36449853"
+        },
+        {
+            "id": "gxqqe8a",
+            "score": 31,
+            "text": "All ants in a colony are female. Only when there's a nuptial flight in the upcoming weeks they will start producing males. And those males... They will die minutes after mating with the soon-to-be queens. \n\nBonus fact: in some cases infertile queens will still lay eggs. These eggs will always be male.",
+            "title_similarity": "0.24279694"
+        },
+        {
+            "id": "gxuay5w",
+            "score": 5,
+            "text": "Make sure you don't confuse 'gender' and 'sex.'\n\nFor example, in some fish species there are multiple male 'morphs.' There are males with a different size and color pattern than females and males with the same size and color pattern as females. In this instance, there would be two sexes (two gamete sizes), but three genders (three different social roles that are losely corelated to physical features).",
+            "title_similarity": "0.5643648"
+        },
+        {
+            "id": "gxqrjd8",
+            "score": 561,
+            "text": "Look at [sequential hermaphrodism.](https://en.wikipedia.org/wiki/Sequential_hermaphroditism)  These are animals, including a decent number of fish, that are born one sex and change into another over the course of their lives.  Clownfish are an example of these.  They are all born male.  The largest (and therefore most dominant) fish in a group is the female.  The rest are male.  Remove the female and the largest male transitions to female.  So in Finding Nemo, after Coral died Marlin would start transitioning to female.  In other words, one of the main characters of that movie was early transgender.\n\nThat's how it works in clownfish.  Most (75%) of the sequential hermaphrodite fish go the other way.  They are all born female and the biggest becomes male.",
+            "title_similarity": "0.34778076"
+        },
+        {
+            "id": "gxqseky",
+            "score": 88,
+            "text": "Mourning geckos are all female. They reproduce through asexual reproduction. When scientists first found them they called them mourning geckos cause they assumed something awful had happened to all the males and the females were in mourning.",
+            "title_similarity": "0.33397686"
+        },
+        {
+            "id": "gxr8k0y",
+            "score": 30,
+            "text": "The New Mexico whiptail lizard only has females. There are no males of the species. They reproduce asexually. Unfertilised eggs develop into females. Without males to fertilise the eggs, no males can develop. It's a cycle of females reproducing to create more females.",
+            "title_similarity": "0.39176697"
+        },
+        {
+            "id": "gxqnhhe",
+            "score": 160,
+            "text": "[removed]",
+            "title_similarity": "0.30980784"
+        },
+        {
+            "id": "gxr5nl9",
+            "score": 53,
+            "text": "Wood lemmings. They have 3 female genders xx, x*x and x*y. They have a mutation on the x chromosome that makes them have female reproductive system. Only 25% of the pop is male. It's super interesting. The ones with the mutation will only have female child.  https://en.m.wikipedia.org/wiki/Wood_lemming",
+            "title_similarity": "0.44410348"
+        },
+        {
+            "id": "gxqs1xi",
+            "score": 378,
+            "text": "Some species of whiptail lizards such as the New Mexico whiptail are female-only, reproducing through parthenogenesis of said species or hybridisation of two other species which, in the latter case, prevents the production of healthy males, hence forming only females\n\nBonus: Got a notification for a Salazzle comment but I can't see it, so.. yes! Salazzle the evolution of the lizard pokémon Salandit is partly based on these reptilian Amazons, only the females can evolve so there exists no male Salazzle, for those wondering",
+            "title_similarity": "0.41525218"
+        },
+        {
+            "id": "gxqtf1w",
+            "score": 75,
+            "text": "There tends to be two male newts for every female (I'm not sure why this one is). Temperature sex-determination  occurs in crocodilians and turtles, so changing environmental conditions will alter their gender balance (warmer climates would mean more female turtles, but more male alligators)\n\nIn clownfish colonies, there is one large, dominant female and the rest are all males. When the alpha female dies, the largest male in the colony will convert into a male. There are a few other fish species that change genders as they mature\n\n In Seychelles warblers, most members are female - this is thought to be because this species non-breeding related kin will help mating pairs - ensuring the survival of the whole group's genes. \n\nIn mammals, wood lemmings have three sex possibilities, with a mutated X* chromosome that can surpress a male from from developing, even if they're X*Y. X*X and XX females can potentially produce male children, but X*Y females can only produce females, so the genders skew female",
+            "title_similarity": "0.40384594"
+        },
+        {
+            "id": "gxqoq50",
+            "score": 2250,
+            "text": "Sea turtle gender ratio is determined by egg temperature: as the world warms up due to global warming, there are likely to be more female than male sea turtles. \n\n[https://oceanservice.noaa.gov/facts/temperature-dependent.html](https://oceanservice.noaa.gov/facts/temperature-dependent.html)\n\n&#x200B;\n\nI also heard a story once (not 100% sure if true) about a turtle conservation effort, where they  took sea turtle eggs, hatched them and carefully returned them to the sea, to reduce hatchling predation and increase sea turtle population. It took several years (YEARS!) for them to realize that they were only releasing male turtles (no genetic difference between males and females, so hard to check), and that this wasn't actually helping the wild sea turtle population reproduce independently. Whoops.",
+            "title_similarity": "0.29555017"
+        },
+        {
+            "id": "gxqucju",
+            "score": 223,
+            "text": "Daphnia (water flea) populations are exclusively female from spring through sommer. Only when the weather turns colder, around autumn, do male Daphnia hatch since they are needed to produce more durable eggs. These eggs are able to survive the winter (with other benefits that come from sexual reproduction) and will hatch exclusively female Daphnia in spring.\n\nGenerally speaking the ratio can be very different depending on what stage of development the organism is in or how favorable the circumstances are.\n\nAsexual reproduction (Daphnia during spring/summer time) is very beneficial for growing a population as quickly as possible.\n\nSexual reproduction (Daphnia during autumn) creates diversity withing the population by recombining the female and male DNA and random mutations. \n\nThe combination of both allows them to produce large amounts of offspring without investing as much time and energy (sexual reproduction is \"expensive\" in that sense) while still ensuring the population is \"flexible\" and therefore able to adapt to different circumstances.",
+            "title_similarity": "0.3063107"
+        },
+        {
+            "id": "gxra8ya",
+            "score": 1655,
+            "text": "There is a species of lizard that has no males.\n\nThe females still often simulate mating but the offspring are all clones (not really clones please read the wiki) of the mother.\n\n\nIt seems the species started as a hybrid which then diverged from the original stock.\n\nIn mammals they would have all died out, but reptiles don't understand biology so they just do their own thing.\n\n\nEdit for more info on awesome lady lizards.\n\nhttps://en.m.wikipedia.org/wiki/Desert_grassland_whiptail_lizard",
+            "title_similarity": "0.37987262"
+        },
+        {
+            "id": "gxqmmpq",
+            "score": 4013,
+            "text": "Any species that’s able to reproduce by parthenogenesis (i.e the females are able to produce young on their own without genetic input from a male), so some aphids and a couple of reptile species. Hive insects like bees and ants tend to be mostly female too.",
+            "title_similarity": "0.4113648"
+        },
+        {
+            "id": "gxqmlva",
+            "score": 10186,
+            "text": "A colony of honey bees are made up of about 90% all females. They're all worker bees except the queen bee, and the males are all basically her reverse harem. The males just lounge about and eat honey all day until it's their turn to do the business.",
+            "title_similarity": "0.10640071"
+        },
+        {
+            "id": "gxr2efu",
+            "score": 185,
+            "text": "There's lots of great examples in insects, a lot of which actually have a common cause. Bacteria of the genus Wolbachia are a common parasite of insect species, and are spread by latching onto arthropod eggs. Since only female insects can spread Wolbachia, insect populations infected by these bacteria tend to have a rather dramatic female skew, since Wolbachia (by not-that-well-characterized means) kills male eggs, causes them to develop as infertile pseudofemales, prevents uninfected males from reproducing with infected females, or enables parthenogenesis where females can reproduce without males. The end result being that Wolbachia-infected insect populations wind up very female-dominant. Wolbachia is pretty common, too- to the point where some insect populations actually die out if they \\*don't\\* have Wolbachia infections!",
+            "title_similarity": "0.30762303"
+        },
+        {
+            "id": "gxr02or",
+            "score": 32,
+            "text": "In some amphibians like newts and salamanders the females are larger and have a  group of smaller males in their territory. Males are more common in these species, which probably has to do with compensating for higher rates of predation for the smaller salamanders. Some species of salamander can also reproduce without males, some also only need to mate once in their lives and then can reproduce the genetic material from the male in order to fertilize eggs.\n\nSome animals like oysters, frogs, and fish can change their sex based on what is better for mating at the time. This is also observed in some species of shark that begin life as males and develop into females later in life, an adaptation where more established individuals take on the higher energy cost of reproduction. Some environmental factors also change this, climate change and chemicals can change the sex of some animals (mostly amphibians and reptiles). \n\nSexual selection can also change the ratio of male to female animals. This is more common in birds but animals that select mates based on elaborate displays or  animals that fight each other (sometimes to the death) for mates tend to evolve traits that are detrimental to their survival in one sex. This means that a higher percentage of one sex dies than the other. This is very common in birds but we see it in mammals like mandrills, lions, deer and some species of fish as well. \n\nLast some animals like manti, some types of snake, etc. have one sex generally die during the mating process. Usually the male is eaten to provide the energy and nutrients for the egg production. The female of some of these species is able to mate multiple times and skews the sex ratio somewhat.",
+            "title_similarity": "0.45846322"
+        },
+        {
+            "id": "gxran8o",
+            "score": 15,
+            "text": "Also several species of snakes and lizards which are parthenogenic, and some salamanders are all-female but steal genes from male salamanders of other species and slice’n’dice up the genome to keep what they want (kleptogenesis)",
+            "title_similarity": "0.3791983"
+        },
+        {
+            "id": "gxrgk1i",
+            "score": 15,
+            "text": "[removed]",
+            "title_similarity": "0.30980784"
+        },
+        {
+            "id": "gxrmcgo",
+            "score": 25,
+            "text": "[Naked mole rats (SFW)](https://en.m.wikipedia.org/wiki/Naked_mole-rat) exhibit a social structure similar to that of ants. There’s no mention of sex-ratio in the Wik, but very few individuals are fertile (like, the ‘queen’ and a few breeding males).\n\nAn extraordinarily interesting species for many reasons.",
+            "title_similarity": "0.43633306"
+        },
+        {
+            "id": "gxrnzb5",
+            "score": 2,
+            "text": "They do, they're called non-fisherian sex ratois as Ronald Fisher was the first to outline a model on sex ratios within populations. They occur in insects, bees being a very prominent example, and i think theres that one all-female lizard species, though i admittedly have not read up on that. Generelly though, a 50:50 sex ratio of male and female is the only evolutionary stable strategy, because as soon as there is an advantage to birthing one sex more than the other, the birth rates increase and the advantage fades. The human sex ratio also fluctuates around the 50:50 equilibrium.",
+            "title_similarity": "0.41492516"
+        },
+        {
+            "id": "gxrx3w7",
+            "score": 1,
+            "text": "There is one genre of mites known as Adactylidium with a large ratio of females over males and where we could say that the male \"dies before being born\". What happens is that the mother lays the eggs inside her body, then the newborns exit the eggs and the male (generally there is only 1) fertilize his sisters and waits till he dies. The females will exit the mother craving a hole, look for something to eat and die, so the circle repeats. \n\nIf anybody is interested, there is a book called The Panda's thumb, by Stephen Jay Gould, where it is explained very well.",
+            "title_similarity": "0.25922593"
+        },
+        {
+            "id": "gxrxnri",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "0.30980784"
+        },
+        {
+            "id": "gxs1vzo",
+            "score": 11,
+            "text": "[removed]",
+            "title_similarity": "0.30980784"
+        },
+        {
+            "id": "gxs2qwf",
+            "score": 11,
+            "text": "There is the idea that suggests that the declining wild duck (mallard) population in The Netherlands might be in some way related to the fact that there are more male than female ducks in the population, even though the gender ratio in the eggs is thought to be 50/50.\n\nThe reason for this imbalance is being researched, but it might be because of the fact that adult female ducks raise their chicks alone (and thus have a larger chance of predation during breeding on the nest because they are stationary). And also because male ducks agressively gang up on female ducks during the mating season, sometimes with lethal consequences.",
+            "title_similarity": "0.4007331"
+        },
+        {
+            "id": "gxs4p0b",
+            "score": 13,
+            "text": "Some species of hagfish have a 100:1 sex ratio, biased towards females, but we have no idea why. They'd been traditionally hard to study reproduction in, given they were hard to breed in labs. Fun fact about hagfish, they just manifest slime all over themselves when threatened, like a weird snot-type pokemon",
+            "title_similarity": "0.46848425"
+        },
+        {
+            "id": "gxs4y3c",
+            "score": 1,
+            "text": "Calico cats are predominantly female! The colouring is related to the X chromosome, two X chromosomes are needed for the cats to have a tri-colour coat. So if a cat has an XX pair, it will be female and since male cats have an XY pair, they can’t be calico",
+            "title_similarity": "0.47108576"
+        },
+        {
+            "id": "gxs7r98",
+            "score": 1,
+            "text": "Many species of insect and some species of fish have males which die immediately after or during mating, so the male population is usually very low for these species compared to female at any given time.\n\nFemales can often mate several times in their life while males will mate only once and then die.\n\nSome social insects take this to an extreme, like ants and bees, and produce only female offspring most of the time, save for periods of producing male drones for breeding- which then die off.",
+            "title_similarity": "0.358514"
+        },
+        {
+            "id": "gxs80qq",
+            "score": 11,
+            "text": "There are many examples of extreme (usually female-heavy) sex ratios among insects. For example one group that I've studied, ambrosia beetles in the tribe Xyleborini, have a \"haplodiploid\" sex scheme, with extreme inbreeding. \n\nThese tiny beetles mostly live in tunnels in recently-dead trees. The female beetle tunnels into the wood, and lays eggs. Fertilized eggs hatch into females, with two sets of chromosomes (diploid). Unfertilized eggs hatch males, with one set of chromosomes (haploid). The males are much rarer, smaller, and flightless - they usually don't leave the tunnel they were born in. They mate with their sisters, which eventually fly off to start another colony. If by some chance the original mother beetle has no fertilized eggs, then she'll lay male eggs, and mate with her sons.\n\nThis strategy allows them to make use of a habitat (recently-dead trees) which is impermanent and sparsely scattered in the environment. All you need is one female beetle to find a suitable tree, and she can quickly start a population - no need for two or more beetles to find the same dead tree at the same time. \n\nIf you're wondering how the population avoids developing genetic problems due to recessive genes with so much inbreeding, the answer is in the haploid males. Because they only have one set of chromosomes, genes that would be \"recessive\" in a heterozygous diploid female are always expressed in the male - so detrimental genes are quickly weeded out.",
+            "title_similarity": "0.32963985"
+        },
+        {
+            "id": "gxs81md",
+            "score": 46,
+            "text": "Banana slugs are disproportionately female even though they are born hermaphroditic. In order to reduce the competition for sperm, they will chew off their mate’s penis during reproduction. The instinct to do this is so strong that some banana slugs self-mutilate in a process called apophallation.",
+            "title_similarity": "0.31546754"
+        },
+        {
+            "id": "gxsa7wr",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.30980784"
+        },
+        {
+            "id": "gxsdmu1",
+            "score": 19,
+            "text": "There is a genus of mites, adactylidium, that is essentially only female. A mother will have one male and several female eggs that will hatch inside her. The male will mate with all the females while still inside the mother. Eventually, they will eat their way out of their mother, which of course kills her. Depending on the species, the male may also emerge with them, but not really do anything before dying fairly quickly. In other species the male is already dead before his sisters get out, making effectively 0% males in a species that reproduces sexually.",
+            "title_similarity": "0.28896883"
+        },
+        {
+            "id": "gxsekz6",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.30980784"
+        },
+        {
+            "id": "gxsepye",
+            "score": 3,
+            "text": "I am not sure of the true ratio, and we probably don't have the data for it yet...But, I recently learned that researchers used to think there were vast amounts more female anglerfish than male, because they only ever found females. Then, they discovered that males are much smaller than females and basically symbiotically get absorbed into the female as part of the mating process. They're kinda just stuck to the side of her and survive like a parasite.",
+            "title_similarity": "0.44406423"
+        },
+        {
+            "id": "gxsffcy",
+            "score": 3,
+            "text": "Lots of fish like wrasse, clownfish and goby’s employ hermaphroditism as a reproductive strategy so there can be big differences in gender balance for some species. The birdnose wrasse for example are all born female and a few will turn male as need be. Other types of wrasse will replace the dead dominant male with the largest female of the harem(she then becomes the male)",
+            "title_similarity": "0.3930877"
+        },
+        {
+            "id": "gxsrsah",
+            "score": 4,
+            "text": "The palila, a critically endangered forest bird in Hawaii, has exhibited male-biased sex ratios, likely as a result of lower survival of breeding females. This can be a serious problem for small populations and can lead to early extinction. Here’s a study that goes into more detail: https://academic.oup.com/condor/article/97/2/528/5126325",
+            "title_similarity": "0.5109066"
+        },
+        {
+            "id": "gxsytzz",
+            "score": 4,
+            "text": "The soil nematode Caenorhabditis elegans (https://en.m.wikipedia.org/wiki/Caenorhabditis_elegans) one of the most commonly used model organisms in genetics and developmental biology research, is >99.9% hermaphrodite and 0.1 to 0.01% male. Reference for gender ratio determinants: https://pubmed.ncbi.nlm.nih.gov/12872911/",
+            "title_similarity": "0.3584095"
+        },
+        {
+            "id": "gxt0ojr",
+            "score": 1,
+            "text": "Some intestinal parasites have hugely skewed sex ratios (5000 females to 1 male) due to their unique habitat.\n\nThere's also the nematode worm C. Elegans which is totally hermaphroditic until the population density reaches a certain value, then some larvae take advantage of the situation and develop into males instead of hermaphrodite. There are no females in this species.",
+            "title_similarity": "0.43416312"
+        },
+        {
+            "id": "gxt1hvb",
+            "score": 5,
+            "text": "Marbled crayfish (Procambarus virginalis) an all female species. They can reproduce asexually also known as parthenogenesis. They are extremely invasive. They are also used for epigenetic studies due to all offspring being genetically identical but having different phenotypes such as size and coloration\n\nEdit: They perform a specific type of parthenogenesis known as Apomictic parthenogenesis where the egg cell does not even under go meiosis, it strictly undergoes mitosis and develops into a full organism",
+            "title_similarity": "0.30971068"
+        },
+        {
+            "id": "gxt3fen",
+            "score": 1,
+            "text": "Most species of ants are entirely female except for once a year usually in the summer months.  They birth males to copulate with virgin queens to establish or join existing hives.  A lot of social insects are like this.",
+            "title_similarity": "0.2578105"
+        },
+        {
+            "id": "gxt51ut",
+            "score": 1,
+            "text": "All sobean aphids (Aphis glycines) that feed on soybeans from June till September are female. They can reach populations that exceed thousands per plant by asexual reproduction.\nMales are produced for a brief period in the fall when they migrate back to buckthorn, a woody plant upon which they lay eggs that overwinter. It is the only time in the multigenerational lifecycle that covers a calendar year that male soybean aphids are present and sex occurs.\n\nThis is not unique to this aphid species. Asexual reproduction is common with some species alternating between asexual and sexual reproduction. In the asexual phase no males are produced.\nAbiotic cues will trigger the production of males. This typical occurs in temperate regions with the cues helping the aphid to prepare for winter.",
+            "title_similarity": "0.26113915"
+        },
+        {
+            "id": "gxt70hg",
+            "score": 1,
+            "text": "A lot of duck species have more males than females. It seems that the reason is because male ducks are jerks to females and either kill them during mating or leave them to die from stress after mating \n\nhttps://www.ducks.org/conservation/waterfowl-research-science/waterfowl-sex-ratios#:~:text=Waterfowl%20hunters%20in%20the%20United,for%20most%20other%20waterfowl%20species.",
+            "title_similarity": "0.29385188"
+        },
+        {
+            "id": "gxt8xry",
+            "score": 1,
+            "text": "Here's an attempt at a \"why?\" answer.\n\nFisher, Charnov, and others have worked out that it mathematically maximizes the population number with a sex-ratio of 1/2 when: (1) Males and females have the same resource cost. (2) Males and females have the same probability for surviving through parental age.\n\nIt stands to reason that the exceptions people are listing violate one of those conditions or the environment is undergoing a change that the species hasn't adapted to.\n\nThis is an area of research called \"sex-ratio theory\" and is a good example of optimization theory in biology.",
+            "title_similarity": "0.50742054"
+        },
+        {
+            "id": "gxtc5pf",
+            "score": 1,
+            "text": "Angler fish were apparently all female, then it turned out that the males were there, but they were tiny and basically attached to the females as parasites sort of but their bodies fused\n\n[Wikipedia article](http:// https://en.wikipedia.org/wiki/Anglerfish)",
+            "title_similarity": "0.37339473"
+        },
+        {
+            "id": "gxtengu",
+            "score": 1,
+            "text": "Ants are all (technically) female. The only time males are born are for mating season. Then they die right after. The reason I say technically is because they are more sexless.The drones or anyone other then elates and the queen, don’t have the organs to reproduce.",
+            "title_similarity": "0.40606588"
+        },
+        {
+            "id": "gxtfzxv",
+            "score": 1,
+            "text": "Canvasback (a type of diving duck) skew towards male, making up about 65-70% of the population. The sex ratio starts 50/50 but it’s thought that females have a much higher mortality rate. Biologist think this is due to many factors with two strong theories being: during the nesting season, females sit and incubate the nest alone and are much more susceptible to predation as “sitting ducks”. And then during the winter when conditions are colder and there’s less food available, the female’s smaller body size just cannot withstand adverse conditions like the larger bodied male. This is the case with a lot of duck species but it happens to be more pronounced in canvasback.",
+            "title_similarity": "0.3751279"
+        },
+        {
+            "id": "gxtgk5s",
+            "score": 1,
+            "text": "There are some species of arthropod that are all female due to a symbiotic bacteria called wolbachia that can influence their development.  It does this because it is passed from parent to offspring, but only through females.  However, it will sporadically allow some males to develop just to make sure the hosts keep breeding.  Other varieties of wolbachia can do different tricks like parthogenesis or feminizing the males.  They can even make the males incapable of breeding with an uninfected female to make sure the bacteria get passed on.  Kind of crazy to think there are tons of species of arthropods out there where the sex ratio is normally balanced, but instead is completely at the mercy of a completely different species.",
+            "title_similarity": "0.37219238"
+        },
+        {
+            "id": "gxth9cm",
+            "score": 1,
+            "text": "A lot of species of stick insects are 100% female. They have the ability to clone and found it easier to just do that than mate, thus the men have died out for the most part. \n\nWhat’s the point of ever having a male you’re probably wondering? Stick insects lay many eggs. The hatch rate is low when cloning and the eggs can take 9-24 months to hatch. This gives a lot of time for them to get damaged or eaten. If the eggs are laid after mating then the hatch rate is much higher and takes about 3-6 months to hatch, sometimes even quicker.",
+            "title_similarity": "0.32947993"
+        },
+        {
+            "id": "gxthdwk",
+            "score": 3,
+            "text": "A number, yes.  Elephant Seals, for instance.\n\nWhat is true of many (most) species with imbalanced gender ratio is that there is a very large size-difference between males and females, and that a handful of highly-successful males (where males are more likely to be successful if larger) keep a harem of females, to the exclusion of other males.  Fewer males are born, but they are much larger than females.\n\nEvolution always favors putting equal energy or effort into both sexes.  So if sexual/natural selection favors larger body size for just one gender, it tends to also favor having fewer offspring of that gender (as larger offspring require more energy).\n\nOther interesting trends in sexual selection and mating/evolution:\n\n- Monogamous species tend to have smaller testicles (relative to their body size) than polygampus species- where a higher likelihood of impregnating a mate after just one coupling (due to larger numbers of sperm delivered) provides a major selective advantage.  Species that have a mix of monogamous and polygamous behaviors tend to have intermediate testicle size (by body size ratio, humans fit in the \"intermediate\" group).\n\n- Sexual dimorphism can often LOWER the fitness of a species as a whole, as it works on a shorter/more immediate timescale (some biologists have even theorized it has led certain species to extinction- though this is doubtful).  For instance, a Peacock's feathers...  Doesn't matter if your less bright feathers as a male help you to avoid predation, if all the females will only mate with brightly-colored males instead...  Escaping an evolutionary trap like this would require a healthy and otherwise genetically fit, but dull-colored male meeting a mutant female that didn't care about feather coloration, but was otherwise healthy/fit.  Possible, but extremely rare... (requires TWO very rare mutations in a single generation in a single population)\n\n- There are a few very rare genes out there that are thought to selectively abort fetuses of just one gender in the first week or so of pregnancy in certain animals: leadimg to a gender imbalance in that individual's offspring (and lower OVERALL fitness dur to reduced fertility).  Strange/counterintuitive genes like this acting in ways that flount conventional evolutionary logic were part of what helped Richard Dawkins formulate his \"Selfish Gene Theory\" (although he is held in generally low regard among evolutionary biologists, as Dawkins had a tendency to speculate well beyond what could reasonably be inferred from the evidence...)",
+            "title_similarity": "0.39971423"
+        },
+        {
+            "id": "gxtjesi",
+            "score": 1,
+            "text": "In some states the male-to-females ratio of whitetail deer is skewed as heavily as 20:1 because of state management practices and local cultural norms around shooting male deer. It actually creates a host of problems including extremely young male deer populations, older deer that behave extremely different than herds with a more balanced ratio (due to predation), less competitive breeding practices (less intense rutting behavior), and overall decline in quality of deer population.",
+            "title_similarity": "0.38814765"
+        },
+        {
+            "id": "gxtm4lp",
+            "score": 5,
+            "text": "Lol anglerfish. Males are born as little parasites ( actually for decades scientists thought male anglerfish were parasites) lacking a digestive system or teeth or any equipment that can let them hunt. They only have huge eyes and nostrils for finding a mate. Their sole purpose in life is to find a mate. When they do, they fuse to her body and basically just become an attached sack of sperm for her to use. If not, they starve to death because they don’t have a digestive system. \n\nAlso New Mexico whiptail lizards. They are all female and undergo parthenogenesis to produce offspring( fun fact though. Often they have lesbian lizard sex to stimulate said parthenogenesis)",
+            "title_similarity": "0.2951514"
+        },
+        {
+            "id": "gxtmfmw",
+            "score": 1,
+            "text": "I guess it depends on your idea of what 'close' is, but in many deer populations (even un-hunted ones) the female to male ratio can be much greater than 1 creeping to a high of around 5:1.\n\nMany of the explanations for non-human influences on the sex ratio revolve around the physical toll the mating rituals take on the males. Deer expend a huge amount of energy and resources growing their antlers each year and, when the time comes, males will expend a lot of energy competing for females. In many cases males will be more preoccupied trying to mate rather than eat. The overall result is that many males end of malnourished and exhausted at the end of mating season, which generally is also the start of winter. Males that make it through the mating season alive may not end up making it through a cold winter.\n\nThe other high-mortality cause from mating competitions is injury. Deer antlers are made from bone and can be very sharp - the case for injury from antlers is straightforward.\n\nIn some populations there was evidence that more male babies were being born than females, but that doesn't hold true for all populations of deer. It seems the young populations are mostly an even sex ratio.",
+            "title_similarity": "0.3721164"
+        },
+        {
+            "id": "gxtnii1",
+            "score": 3,
+            "text": "Some fish can change sex, from female to male, or the other way. For example, in clownfish, there is only one dominant female in a school of them, and all the others are males. If the female dies, the largest male changes his sex to female. How convenient! In other words, Nemo's Dad became his mom after she was eaten ...",
+            "title_similarity": "0.28569812"
+        },
+        {
+            "id": "gxto0f3",
+            "score": 4,
+            "text": "The New Mexico Whiptail is an entirely female species of lizard, making the difference 100% haha.\n\nThey reproduce via parthenogenesis (laying underutilized eggs which then hatch anyways) and originate as a crossbreed if two other lizard species.",
+            "title_similarity": "0.28127977"
+        },
+        {
+            "id": "gxtxj0o",
+            "score": 1,
+            "text": "It's pretty concerning, global warming has put green turtle hatch rates at 90% female, scientists are attempting to artificially balance it which entails cooling the area as temperature during development affects the gender",
+            "title_similarity": "0.25858632"
+        },
+        {
+            "id": "gxtzbme",
+            "score": 2,
+            "text": "Any haplodiploid organism. The most common examples are eusocial Hymenopterans like ants, bees and wasps. Their gender is determined by ploidy. Fertilized eggs become female, unfertilized eggs become male. The males, therefore have no relation at all to the \"father\" of their fertilized siblings and the female siblings are usually more related to each other than to their mother. This works out to the typical .5 relationship to the mother, but it can be as high as .75 relatedness between siblings. In cases where the queen mates with many males, sibling relatedness can be much lower.",
+            "title_similarity": "0.38865054"
+        },
+        {
+            "id": "gxtzg3d",
+            "score": 1,
+            "text": "The echiura are a small group of marine worms, from the Anellida phylum.\nSex will be determined at the time of birth. The larvae, after being released by the mother, fall on the substrate and, if this is empty, they become females, while if a female is already present in the area they become males.",
+            "title_similarity": "0.31588352"
+        },
+        {
+            "id": "gxu1gc3",
+            "score": 1,
+            "text": "Male stick insects/walking sticks are considered extremely rare. They say once every 20k births you have a male (don’t have source but was told from a guy with PHD in biology who is insects expert).\n\nWhy? Perhaps theres no much room for change with their delicate camouflage? May they are perfect as they are?\n\nFemales will give birth to exact replicas of themselves, which is in short term is way better for your interest. (The sole objective interest of every living thing is to spread its genes)\n\nRecently I read they now suspect that male stick insects look so different from the females that a set from the same specie will accidently be considered to be two different species.",
+            "title_similarity": "0.3494609"
+        },
+        {
+            "id": "gxu2fq7",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.30980784"
+        },
+        {
+            "id": "gxu5gnn",
+            "score": 1,
+            "text": "Ants are all female except for the short time before their yearly nuptial flights. During this time the queen has to eat alot more protein to produce eggs that contain other queens and males. These queens and males all leave the colony to have huge orgy in the sky with other queens and males from other colony so these new queens can start their own colony. All the males die after serving their purpose. Any male or queen that doesn't mate will die after a bit of time.",
+            "title_similarity": "0.1533313"
+        },
+        {
+            "id": "gxu6ah5",
+            "score": 2,
+            "text": "Check out Antichineus species - a small marsupial found in Australia. Noted for their unique reproduction. All the males experience mass mortality after mating for two weeks from stress and exhaustion!\n\n [Antechinus](https://en.wikipedia.org/wiki/Antechinus)",
+            "title_similarity": "0.18926562"
+        },
+        {
+            "id": "gxu75ss",
+            "score": 1,
+            "text": "Komodo dragons are sexually dysmorphic. Meaning that the males are approximately ~40% larger than females.\n\nAlso, baby komodo dragons are actually very good climbers. They lose this ability once they get older however.",
+            "title_similarity": "0.30350417"
+        },
+        {
+            "id": "gxu7ith",
+            "score": 1,
+            "text": "Many fish are born all the same sex. Clownfish are all born male and a dominate one will switch to female. Domes wrasses are born female and the opposite happens. The dominate one will change to male. Anthias as well. It’s really cool to see it happen in the home aquarium.",
+            "title_similarity": "0.2825753"
+        },
+        {
+            "id": "gxu83md",
+            "score": 1,
+            "text": "Some female species of snails can reproduce either sexually or via parthenogenesis (produce female clones). Certain species of parasites attack these snails and castrate males since they feed on their gonads, making them sterile. This selective pressure pushes females to reproduce via parthenogenesis instead of sexual reproduction, resulting in a population higher in females then males.",
+            "title_similarity": "0.37568286"
+        },
+        {
+            "id": "gxuduyj",
+            "score": 1,
+            "text": "Most animals that reproduce sexually have an approximately 1:1 ratio of males to females. The simple reason for this, even in species like lions where it seems as though there are fewer males than females in prides, is that individuals of each sex carry a burden in reproduction and when that burden is unequal, the system self-corrects. \n\nFor example, a male lion can impregnate a lot of females and does not need to provide parental care, so it's genetically \"better\" for parents to have lots of male offspring as this will make their genetic lineages more likely to succeed. Genes that allow more male offspring come to dominate, and eventually a 1:1 sex ratio is reached. The result of this is that the \"cost\" of reproduction for males increases as they now have to compete for mates, and balance is struck. The opposite is the case for species where there was a genetic bias towards females at some point.\n\nThere are a lot of exceptions to this though, and here are the two main examples:\n\n1. Sequential hermaphrodites - basically species that change sex as they age or reach a growth stage. These tend to have a dominant sex and then just a few individuals of the opposite sex. The cost of reproduction is balanced as the mature individuals have usually had to survive far longer than the others. An example of this is clownfish, which are all male, except a single large female in a group that would formerly have been the largest male.\n2. Environmental sex determination - In some species, sex is not a genetic factor, but rather based on an environmental variable that occurs in early development (although genetics can influence the reactivity to that variable). In this case, sex is often skewed to the sex that carries the least reproductive cost in those conditions. Examples of this tend to be sessile animals, but crocodiles and sea turtles fit the bill too.",
+            "title_similarity": "0.45825076"
+        },
+        {
+            "id": "gxue6n2",
+            "score": 3,
+            "text": "Any wild artiodactyl in the U.S. They are managed by wildlife management agencies and hunting permits are issued to keep sex ratios at specific targets. For example in Utah the current management goal is 19 bucks per 100 does.",
+            "title_similarity": "0.32959145"
+        },
+        {
+            "id": "gxufb6i",
+            "score": 4,
+            "text": "Ants are incredible. Queens can live for decades, producing thousands of offspring every year from a single mating at the beginning of her life. Almost every ant they produce is female. \n\nAnnually, at the appearance of certain environmental cues, every ant queen of the same species will begin producing alates. Alates have wings and are either male or pre-queen. At the same time, usually over the period of a week or so, the alates will fly. They mate in the air, mingling with other colonies in the area. The males die within hours while the queen pulls off her own wings and begins searching for the perfect spot to start her own colony!\n\nMy favorite part: Claustral queens use the nutrition stored in their (now useless) wing muscles to survive without food until their workers arrive weeks later to scavenge.",
+            "title_similarity": "0.13258314"
+        },
+        {
+            "id": "gxulwkq",
+            "score": 2,
+            "text": "A lot of species of invertebrates like worms exist in populations of almost entirely hermaphrodites that reproduce asexually. It takes certain stressors in the environment for individuals of another sex to be born, to allow for sexual reproduction. It makes sense, since if there is some big change in the environment you'd want more genetic variability to hopefully find some mutation that can survive the new conditions, and this is more likely to happen through sexual reproduction.",
+            "title_similarity": "0.40006948"
+        },
+        {
+            "id": "gxume4n",
+            "score": 1,
+            "text": "I think a lot of species have more females than males. Ants and bees and naked mole rats are designed that way to be born mostly female. And then with many communal species, like with chickens and lions, it is common to only have one or two men in a group of women. They are born 50/50 but a lot of males end up going stag and not being part of a group until they die alone. Plus, with a lot of bugs the females naturally live longer than males because the males die right after mating, but the females survive longer to lay the eggs. \n\nSo in general there should be more females than males in the animal kingdom. Which makes it completely illogical that we use male pronouns as our default. When you see an animal, odds are you should call it \"she\".",
+            "title_similarity": "0.32478154"
+        },
+        {
+            "id": "gxuu0hm",
+            "score": 1,
+            "text": "Okay lots of examples of lizards and insects and such. Parthenogenesis is cool and hermaphroditism is classic and sperm selection by bees is fun But let’s get down to the really wild stuff. \n\nAdaptive sex ratios. \n\nOriginally published in a paper by Trivers and Willard in 1973. They hypothesized that it would be evolutionarily valuable for organisms to be able to modify the sex ratios of their offspring in response to conditions in the environment. You want to give your younguns just the best chance to get laid and pass on those sweet sweet genes. \n\nThe hypothesis states that in circumstances where conditions are poor (relative to the maternal condition) there should be more production of female offspring and when conditions are good then more production in male offspring. Check out the Wikipedia page for more specific info. Basically good condition males are likely to sire way more young than poor condition males, which probably get zero. And females are more limited in their production as they actually have to gestate a baby. Therefore when conditions are good organisms should gamble on making super studs to spread those sweet sweet genes far and wide. \n\nNow what crazy animal has this been document in. Not fish or insects or lizards or turtles, you know things that already have crazy sex lives...the found it in deer...and maybe also voles and perhaps a badger. All that is to say, mammals.",
+            "title_similarity": "0.32117236"
+        },
+        {
+            "id": "gxzsbww",
+            "score": 1,
+            "text": "Noisy Miner birds in Australia. The birth rate is balanced, but in actuality the flocks are made up of about 5 or more males to 1 female. They drive off the extra females and they mostly die alone. Only when an existing female dies (to essentially make space in the colony) or extra males are around do the female chicks get to join the flock.",
+            "title_similarity": "0.2714612"
+        },
+        {
+            "id": "gy12fre",
+            "score": 1,
+            "text": "Lions, the males are less prevalent than the females. This is because young male lions are more prone to being driven out or killed by their elders. Survival for male lions is much more hard than for female lions.\n\nGenetically, however, males and females both have about a 50% chance at birth.",
+            "title_similarity": "0.35631853"
+        },
+        {
+            "id": "gyhvqx2",
+            "score": 1,
+            "text": "There are many species of fish who have wildly unbalanced gender ratios. Odder yet, change from one gender to another depending on the circumstances. The basic idea idea is that a small number of male(s) can fertilize many females. However, if the male dies off, a female can take its place, with distinct behavioral changes occurring within 24 hours. Think of it like a female fish who is capable of turning into the trans version of Wilt Chamberlain. I don't know if they're capable of changing 'back' from male to female. But there's probably a lot more information in this article if you're interested in the details: https://theconversation.com/what-we-learn-from-a-fish-that-can-change-sex-in-just-10-days-129063#:~:text=Researchers%20have%20identified%20more%20than,%2C%20size%2C%20or%20social%20status.",
+            "title_similarity": "0.4549929"
+        },
+        {
+            "id": "gyjko22",
+            "score": 1,
+            "text": "The antechinus is a marsupial with a strange sexual dimorphism and gender ratio. There are significantly more males than females for a small window, however, after mating, they all die. The males will mate with as many females they can in a small period of time, and the females allow several males to mate with them. After the males finish their mating, they die. So before mating season the male population is very high, and afterwards very low.",
+            "title_similarity": "0.32366282"
+        },
+        {
+            "id": "gzwbok4",
+            "score": 3,
+            "text": "Hive insects are almost all female, with males usually only hatching to mate and then dying.\n\nClownfishes don't a gender, except for the dominant male and female. The biggest clownfish in a school will undergo a metamorphosis to become female, while the second biggest will do the same to become male. If the biggest one (the female) dies, the second biggest will change from male to female and the third biggest will become a male.",
+            "title_similarity": "0.3149503"
+        },
+        {
+            "id": "h5p5rrs",
+            "score": 1,
+            "text": "Certain fish, crocodilians and some turtles' gender is determined in the egg based on what temperature the egg is in the nest. Normally, at the depth the reptile digs the nest in, and depending on the shade and humidity of that spot, the ratio turns out somewhat even. but because of climate change the temperature can be just a few degrees different resulting in a bunch of broods being all one gender.",
+            "title_similarity": "0.36718303"
+        }
+    ]
+}

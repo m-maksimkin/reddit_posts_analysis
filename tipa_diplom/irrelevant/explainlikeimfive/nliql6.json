@@ -1,0 +1,310 @@
+{
+    "ELI5: Why, although planes are highly technological, do their speakers and microphones \"sound\" like old intercoms?\nEDIT: Okay, I didn't expect to find this post so popular this morning (CET). As a fan of these things, I'm excited to have so much to read about. THANK YOU!": [
+        {
+            "id": "gzix47k",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "-0.03849718"
+        },
+        {
+            "id": "gzjml0q",
+            "score": 51,
+            "text": "[deleted]",
+            "title_similarity": "-0.024091296"
+        },
+        {
+            "id": "gzll551",
+            "score": 3,
+            "text": "They make you sit in the cheapest, most uncomfortable, seat possible and you wonder why they don't have high-quality audio? Corporations will do anything to save a buck.",
+            "title_similarity": "0.582262"
+        },
+        {
+            "id": "gzjqtuq",
+            "score": 0,
+            "text": "I don't know the answer, but I would like to see someone address the quality of the audio amplifiers used in the speaker systems. There are various classes of amplifiers with tradeoffs in accuracy and power efficiency. I would expect the plane is not using Class A (highest accuracy; worst power efficiency) and that is contributing the the distortion we all hear on a plane.",
+            "title_similarity": "0.66773546"
+        },
+        {
+            "id": "gzjrpbr",
+            "score": 0,
+            "text": "While this has been more thoroughly explained and isn't always the case, but a lot of passenger planes are older than you realize (30-40 years or more) and have been through a lot of continual use, which may contribute to the sound on top of the technical reasons already explained.",
+            "title_similarity": "0.7258184"
+        },
+        {
+            "id": "gzium0a",
+            "score": 2079,
+            "text": "*TL;DR - the speakers, microphones, and all of the plane's audio systems have a narrow frequency response in order to maximize intelligibility over the aircraft's AM radio equipment and between crew members in noisy environments like the cockpit.*\n\nTheir audio systems, generally speaking, are all on an older, simpler analog standard, for important reasons.\n\nThe main issue (everything else stems from this) is that the radios they use in the aviation band (~118-136mhz) are AM radios (like AM broadcast radio, or like CB radio).  This is weird, because almost everybody else uses FM (like FM broadcast, or like walkie-talkies) at those \"VHF\" frequencies because of the better audio fidelity and noise suppression.\n\nHowever, when two radio operators accidentally talk over one another at the same time (\"double\") using FM, the result is a garbled mess in which neither one of them is guaranteed to be intelligible.  (A comparable effect would likely happen with some sort of digital audio transmission.)  When two operators double using AM, the result is often just hearing both of them at the same time, so pilots and air traffic controllers can still at least make out what one or even both operators are saying.  *Edit: there's been some discussion of this in the comments.  If the two AM carriers aren't exactly the same frequency, yes, you may get some nasty interference sounds.  All I can say is... FM doubling is a lot worse than two AM transmissions that are tuned to exactly the same frequency.  [Further info.](https://en.wikipedia.org/wiki/Airband#Modulation)*\n\nSo getting back to the audio quality of aviation audio systems: if you're using AM (amplitude modulation), you only want to invest your radio amplitude into audio frequencies that are useful and important to understanding a voice.  (This band pass filtering doesn't really matter for FM transmissions, which is a larger discussion.)  When, as a ham radio operator, I use amplitude-modulated voice communications to talk to someone in e.g. New Zealand from here in Montana, I limit the audio frequencies I transmit (and receive) to about 150 through 3,000hz.  When someone talks, you hear sounds all the way from 100 through 20,000hz, but only about 15% of that range is really crucial to understanding what they're saying.  Investing radio power into transmitting all those other audio frequencies is basically just a waste of your radio power, and is likely to get lost in radio noise, anyway.\n\nSo, the microphones that pilots use, any audio processing, and even the headphones/speakers, really don't need to be very high bandwidth like the speakers/headphones you'd want for hi-fi music listening - they're all geared for maximum intelligibility in the presence of noise, not maximum audio quality.  And hence you get \"from the flight deck\" or flight attendant messages over the intercom that sound like low quality audio - it's all part of the same audio system the pilots use to communicate with ATC, one another, other planes, the crew, etc.",
+            "title_similarity": "0.69607186"
+        },
+        {
+            "id": "gzk3ngy",
+            "score": 0,
+            "text": "Your assumption that planes are highly technological is not entirely accurate. See the 737 Max incidents, which raised awareness that there is a steel cable physically connecting the wheel in the cockpit to the screw adjusting the stabilizer.\n\nThe main reason is that they put in ancient tech because it was current enough when they designed the plane and didn't upgrade it much, because it's good enough.\n\nThe speakers also need to be relatively loud (because the plane is loud) and at the same time small and cheap. That doesn't result in the best quality...",
+            "title_similarity": "0.78288126"
+        },
+        {
+            "id": "gzkegsf",
+            "score": 0,
+            "text": "Cheap speakers are cheap. No one is buying a different plane ticket just because the intercom has cheap speakers so no one at the airline cares enough to change it.",
+            "title_similarity": "0.562074"
+        },
+        {
+            "id": "gziu7bs",
+            "score": -20,
+            "text": "[deleted]",
+            "title_similarity": "-0.024091296"
+        },
+        {
+            "id": "gzk2uit",
+            "score": 17,
+            "text": "While poor comms can be a problem, in general the actual quality that the pilots/ATC perceive is higher than the recordings you’ll find online. The online recordings are generally made with volunteer receivers in areas of poor reception whereas the ATC transmitter sites are professionally set up on top of mountains/towers etc. \n\nPilots do sound more muffled if they’re wearing an oxygen mask (fighter pilots or airlines under emergency) or pressure suit (U2 pilots).",
+            "title_similarity": "0.67412305"
+        },
+        {
+            "id": "gzjr91r",
+            "score": 30,
+            "text": "[removed]",
+            "title_similarity": "-0.03849718"
+        },
+        {
+            "id": "gzkly8x",
+            "score": 1,
+            "text": "They are designed for consistency, reliability, and most importantly, lower weight.\n\nIf you heard the expression \"Time is money\", for planes its \"weight is money, a hell of a lot of it\"\n\n\"Better\" speakers are heavier and you need more fuel to fly the same distance in addition to carrying less cargo.\n\nAnd the system isn't even used too much outside of occasional announcements or emergency situations.",
+            "title_similarity": "0.64657676"
+        },
+        {
+            "id": "gzkt53s",
+            "score": -1,
+            "text": "The first plane was created in 1903, 20 years after the telephone. Not exactly highly technological. Unless you are in a fighter jet.",
+            "title_similarity": "0.5783886"
+        },
+        {
+            "id": "gzl73zf",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "-0.03849718"
+        },
+        {
+            "id": "gzk63n9",
+            "score": 7,
+            "text": "[removed]",
+            "title_similarity": "-0.03849718"
+        },
+        {
+            "id": "gzl1x9d",
+            "score": 2,
+            "text": "The dynamic range of the aural frequencies for aviation VHF communications is limited. The AM modulation is highly limited per standards from the1920's and 1930's, and if the modulation depth of AM was to be increased to allow for slightly higher fidelity, most receivers would begin to sound \"scratchy\". Low frequencies are if ored, and so are higher frequencies. The result is a tinny sound. \n\nTelephones were the same way until IP tech and cellular networks moved past traditional comms fidelity beginning in the 80's.",
+            "title_similarity": "0.621588"
+        },
+        {
+            "id": "gzjqiub",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "-0.03849718"
+        },
+        {
+            "id": "gzjmuoj",
+            "score": 61,
+            "text": "[removed]",
+            "title_similarity": "-0.03849718"
+        },
+        {
+            "id": "gzjolkh",
+            "score": 142,
+            "text": "[removed]",
+            "title_similarity": "-0.03849718"
+        },
+        {
+            "id": "gzkm5du",
+            "score": 579,
+            "text": "Small cheap speakers sound bad. Small cheap microphones sound bad, but are very durable. It's not worth the cost, weight, and maintenance to get better audio since there's not much benefit to it in the first place. Good audio doesn't really contribute to a good flight in a way that's worth any of the costs.",
+            "title_similarity": "0.5562881"
+        },
+        {
+            "id": "gzl0v81",
+            "score": 240,
+            "text": "Commercial Airline Captain Checking In !\n\nÉDIT: thanks for all the upvotes and badges <3\n\nMany considerations :\n\n- in aviation and aerospace we need to make sure safety related equipment are reliable. That is why multi million dollar planes are equipped with sometimes CRT screens : they don’t break at the first turbulence. Same for the intercom in the cabin : we could install Bose PA speakers but you’d need to make sure first they are designed to be fail proof. We still do check them as part of the cockpit preflight because we need to know in case we do need to announce a no-time emergency (like « emergency descent ! » or « EVACUATE ») they were at least working. I personally listen to it on my mixer to be SURE they work when I use them\n- laws : they have to follow a specific standard that is very precisely required and there must be only a handful of makers on the market, just like my plane the B737 has only two providers of autopilot controls. In particular there is a need of everything in the plane to be ignifuged to retard fire in case one breaks out. There must be design specifications for, for example, working through interferences, not breaking during a spike surge of electricity (we do connect and disconnect several time a day massive generators of 400hz 115V Ac generators from the planes or the onboard generator or external ground generators and each time a solenoid jumps and spikes can go through the electric busses and would maybe fry mainstream grade equipment)\n- money : there are certainly weigh considerations for EVERYTHING on board. This equipment is not exempt and modern grade equipment that are not designed with weigh in mind can’t find a buyer from Boeing Airbus or the new competitors. Mind you, a big American airline decided to remove 1 or 2 olives per on-board meal after the first oil price crises : they estimated it saved them half a million dollars in fuel a year. There is no little savings when it comes to weight on a plane.\n- and finally probably the most likely reason why PA speakers don’t upgrade : Certification. Every system on a plane, every sticker, is certified. Next time you go to the toilet check the stickers : they have a number somewhere that links tl their certification. Each plane is designed with specific design plans and the most basic of its structure is part of the certification. That is notably why you pretty much never have a window perfectly adjusted to your seat : they are designed by Boeing but every airline chooses the seat configuration. The cell stays the same. Now I’m not 100% sure of it, but the speakers might be tied to the plane type. When a plane is upgraded to a more modern one like the 737 which cames from 200 (legacy) to 300 (classic) to 800 (Ng) and now max (-8), at each time the manufacturer can only modify 25% of the désign or the planes is deemed needed a new certification which means a whole complete flight test campain which is extremely costly and also means pilots need to train for the new type instead of a short transition called « difference training ». Since most of this is taken by the update of the wing design, engine, systems here and there that improve fuel efficiency and comfort, a PA speaker is probably last on the list. Mind you the overhead panel controls of the max are still the same as the -200 for some parts because changing it would mean the plane needs a new certification and although it’s 2021 the max doesn’t have push buttons with lights like the new planes because companies have too many of them to want to pay for the transition. Notably Southwest pressured Boeing to not modify the overhead to a modern styled one for this reason alone. Trust me, we pilots would love a redesign of the cockpit that is old fashioned (albeit cool because of that) and noisy for a more modern and quiet one, so if those controls are not updated, the PA will be last\n\nGiven all that though, each generation of planes gets better on all parameters and I would bet a B787 sounds better than a B727 in the cabin - unless the PA makers have stayed the same ?\n\nTL,DR : reliability, laws, weight, R&D, certification, cost to airline training due to said certification",
+            "title_similarity": "0.752991"
+        },
+        {
+            "id": "gzk93s1",
+            "score": 9829,
+            "text": "I’m a commercial airline pilot and there is a lot of misinformation here. First of all, 99% of the time we’re on VHF AM, not HF AM radio like people have suggested. Second of all, the radio has nothing to to do with the intercom anyways. The real reason is weight. Good speakers are heavy and the fuel to carry those around for the life of the airplane costs thousands to millions.\n\nTLDR; Good speakers are heavy and cost too much fuel to carry around.",
+            "title_similarity": "0.66154134"
+        },
+        {
+            "id": "gzjuu79",
+            "score": 1,
+            "text": "Because they are. If it works, why change it?",
+            "title_similarity": "0.2955886"
+        },
+        {
+            "id": "gzkjw0y",
+            "score": 1,
+            "text": "I'm positive that others have suggested the same, but I'll point out that intelligibility and euphony do not necessarily go hand in hand.",
+            "title_similarity": "0.48625895"
+        },
+        {
+            "id": "gzkochg",
+            "score": 1,
+            "text": "I’d bet they are equalized that way to improve intelligibility. When you setup PA system it is common to knock out bass at least. Focusing around the most common vocal range is also done with pots telephones as well. It made long distance calls easier to understand in the analog days.",
+            "title_similarity": "0.606392"
+        },
+        {
+            "id": "gzkpbkn",
+            "score": 1,
+            "text": "That is like how people calling in to a radio station and they put it on air the sound quality is like it was still the 60's. I think they intentionally degrade the quality so listeners can tell that it is a call in and not in studio.",
+            "title_similarity": "0.5732648"
+        },
+        {
+            "id": "gzksav3",
+            "score": 1,
+            "text": "It’s because they’re basically using the old intercoms. Airplanes are built for people using them to make profit. Good speakers are both heavy and expensive. Therefore, they will instead use crappy speakers, because it saves a lot of money. It’s not like they do anything where the tiny details of sound are particularly important. As long as you can make out the voice, that’s all it has to do.",
+            "title_similarity": "0.7469313"
+        },
+        {
+            "id": "gzktxd4",
+            "score": 13,
+            "text": "Most commerical planes are ancient, in terms of technology. Everyone assumes they are the height of technology but there is a good chance, depending on the route (in the US at least) the plane you're flying in is 20+ years old. Many of them are designs that are even older than that. Look how long the 747 has been flying lol",
+            "title_similarity": "0.6099667"
+        },
+        {
+            "id": "gzkx74l",
+            "score": 1,
+            "text": "One issue with the speakers, especially on older planes, is they have to be certified for use on planes and thus it’s difficult and expensive to upgrade them.",
+            "title_similarity": "0.6465533"
+        },
+        {
+            "id": "gzkzr4h",
+            "score": 1,
+            "text": "Good speakers = heavier magnets, heavier magnets x 200 = a LOT more weight in the plane, a lot more weight in the plane = worse fuel economy = higher ticket prices and bad ecology.",
+            "title_similarity": "0.5902765"
+        },
+        {
+            "id": "gzl93ld",
+            "score": 1,
+            "text": "Good speakers/mics - heavy. Heavy = fuel needed to fly = no make more money = no good.\n\nAirlines are running on single digit profit margins. Where they can save, they save.\n\nAre you going to be listening to the pilots/cabin crew sing in hi-fidelity during the flight? No? Then shitty speakers will suffice.",
+            "title_similarity": "0.6896491"
+        },
+        {
+            "id": "gzla7iy",
+            "score": 1,
+            "text": "It may also be due to how close the attendant's mouth is to the mike. I was taught to keep my mouth a few centimeters away from the mike to improve clarity. But attendants may have to hold it close in order to overcome the background noise.",
+            "title_similarity": "0.47327983"
+        },
+        {
+            "id": "gzlcwto",
+            "score": 3,
+            "text": "Another reason that I don't see mentioned is that there really is no reason for high fidelity in a comms system. The system they have is good enough for understanding what's being said, anything more would just raise costs in an already expensive industry",
+            "title_similarity": "0.66746485"
+        },
+        {
+            "id": "gzldd1t",
+            "score": 1,
+            "text": "For the same reason most small single engine planes that you see at your local regional airport were built in the 50’s and 60’s, and well as weight savings. Plane interiors don’t get refit often, and the speakers and overlooked 90% of the time. Good quality speakers are also heavier, which can translate to hundreds of thousands more $$$ of fuel spent over the lifetime of the aircraft.",
+            "title_similarity": "0.5888217"
+        },
+        {
+            "id": "gzloz28",
+            "score": 1,
+            "text": "Why spend extra money on something so minor? Planes aren’t cheap and airlines gotta buy a lot of them, there’s no money to waste on better intercom when the ones they got do the job.",
+            "title_similarity": "0.729825"
+        },
+        {
+            "id": "gzlp57u",
+            "score": 1,
+            "text": "Cheap, light (weight means more fuel and less cargo... every ounce counts), and not really vital for safety. Sometimes good enough it really good enough.",
+            "title_similarity": "0.4132897"
+        },
+        {
+            "id": "gzlv06w",
+            "score": 1,
+            "text": "For the speakers in the cabin you’ve got a few causes. \n\n1) your pilot is talking to you on their radio headset, which may or may not be good. \n2) planes are really, really loud so the speakers are at a very high volume, even good speakers sound like crap when running at high levels. \n3) no one really cares so no one is putting any effort or money into improving it (engineering hours, better speakers, etc)\n\nFor radio communications we’re basically stuck with low bandwidth AM because it’s really hard to upgrade every plane and ground station in the world to a new standard. AM radio is just crap for quality but it does the job.",
+            "title_similarity": "0.744218"
+        },
+        {
+            "id": "gzlyesn",
+            "score": 2,
+            "text": "Next time you are on a plane, plug in your nice high quality headphones to the entertainment system and listen to the pilot, it will sound significantly better... the issue is the speakers they use.",
+            "title_similarity": "0.77792144"
+        },
+        {
+            "id": "gzm0hqt",
+            "score": 3,
+            "text": "Petition to stop all pilots from needing to report every little detail to passengers; unless there is an emergency or change of plans. I do not know of anyone that gives a damn about airspeed or outside temperature. All the pilots are doing is waking us from our rest.",
+            "title_similarity": "0.5643157"
+        },
+        {
+            "id": "gzm3zvv",
+            "score": 3,
+            "text": "So to all the commercial airline pilots that are chiming in, here is a bit of advice. Figure out what you are going to say before you start talking.\n\n\"Hi! this is John your ahhhh pilot here. We are going to be ahhhh flying to ahhhh Albuquerque and we expect the flight to ahhhhh take about ahhhh 3 hours and ahhhhh...\" \n\nI don't know about the rest of you, but every damn flight... which is strange because I rarely fly to Albuquerque.",
+            "title_similarity": "0.62733144"
+        },
+        {
+            "id": "gzm4d35",
+            "score": 1,
+            "text": "Form/fit/function.\n\nSometimes the older stuff just works better and is better made.\n\nnew stuff has planned obsolescence and just doesn't hold up to the old stuff.\n\nIts true, they don't make em like they used too.",
+            "title_similarity": "0.5612409"
+        },
+        {
+            "id": "gzm4ejj",
+            "score": 1,
+            "text": "Novel MEMS microphones would be able check most boxes, in quality in weight. I think the delay in new technologies on the road of adoption is also a factor. Avionics has so many requirements to fulfill, long design cycles and a culture of risk aversion for the newest thing to be mounted there.",
+            "title_similarity": "0.7025821"
+        },
+        {
+            "id": "gzm6q2m",
+            "score": 1,
+            "text": "I understand the question is more related to airliners but business jets have good quality and reliable sound systems.",
+            "title_similarity": "0.76771027"
+        },
+        {
+            "id": "gzmey88",
+            "score": 1,
+            "text": "Oh nobody ever comes by when you press the assistance button either?",
+            "title_similarity": "0.27764887"
+        },
+        {
+            "id": "gzmf5l0",
+            "score": 1,
+            "text": "First, lol no maybe the controls and life support are not that old, but the rest is and cheap too\n\nSecond, because it is essentially the same thing",
+            "title_similarity": "0.502689"
+        },
+        {
+            "id": "gzmiv0v",
+            "score": 1,
+            "text": "I think another part of the answer is that once the engines are on, the speakers are going to automatically sound thinner and worse to our ears because a lot of the frequencies are being lost in the noise so you really only hear the higher frequencies that are cutting through",
+            "title_similarity": "0.55037"
+        },
+        {
+            "id": "gzmjnp7",
+            "score": 5,
+            "text": "Aircraft Technician here, I’ll presume your asking this question from the perspective of a passenger on a large transport airplane.\n\nIt’s all about expense, the manufacturers build airplanes the operators will buy, the operators don’t care about PA sound quality. It’s designed to meet the minimum requirement at the lowest cost. Some aircraft that have been designed more recently like the A350 and B787 will probably have better PA audio quality due to advances in technology, but it’s still going to be cost driven. Older aircraft PA systems usually will not be upgraded if they continue to meet the minimum requirement, again due to cost.\n\nAll this talk about AM and FM frequency bands is lol, there is a very specific HF and VHF frequency range for aircraft communication with Air Traffic Controllers. HF is for long range communication when aircraft are transiting an ocean, VHF is used while over or close to land. This has everything to do with the wavelength of the frequency and nothing else. The sound quality on these transmissions is normally higher quality then regular cabin announcements, because the type of communication on these radios is important for safe operation of the aircraft, thus the operators are willing to pay more for it. Also, any overlay these frequencies may have with AM or FM radio frequencies is coincidental, it’s not important information to answer your question.\n\nYou’ll also notice the sound quality in the cabin is better when the aircraft is on the ground as opposed to inflight. One, the cabin air pressure is different in flight and this affects the way we perceive sound due to the different pressure in our inner ear. Second, the aircraft smashing its way through the atmosphere creates a lot of air friction and noise near the cabin doors due to the irregular shape of the interface of the fuselage skin and door skin, and some small air leakage at the door seals. Third, nearly all of the PA microphones in the cabin are right next to the doors, so they pick up all the back ground noise of the doors.",
+            "title_similarity": "0.73489684"
+        },
+        {
+            "id": "gzmqcmm",
+            "score": 1,
+            "text": "Also worth mentioning that it is not mission critical to hear the pilot announcements. They're mostly about when the flight is going to land, and any upcoming turbulence/fasten seat belts issues.\n\nIf something very serious is happening, I would suggest far more effective communication takes place then just using the pilot intercom.",
+            "title_similarity": "0.73145664"
+        },
+        {
+            "id": "gzol9f2",
+            "score": 1,
+            "text": "All be told, this is the age of headphones. Especially with current noise canceling capabilities, speakers and their cabinets can now be safely deprecated.",
+            "title_similarity": "0.5627787"
+        },
+        {
+            "id": "gztucfo",
+            "score": 1,
+            "text": "Just to add a note: Commercial airplanes are not highly technological, They actually use older and basic software because of weight, simplicity and reliability.",
+            "title_similarity": "0.67446667"
+        },
+        {
+            "id": "h2iyf9h",
+            "score": 1,
+            "text": "That's not true at all. There are plenty of light weight high sound quality speakers and microphones you could use.\r  \n\rYou don't need a rock band's amp wall for a PA system.",
+            "title_similarity": "0.5996255"
+        }
+    ]
+}

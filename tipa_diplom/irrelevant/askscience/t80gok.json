@@ -1,0 +1,112 @@
+{
+    "I developed seasonal allergies when I was 33. How does my body decide that things it has encountered for decades are now hostile?\n": [
+        {
+            "id": "hzlkrut",
+            "score": 1,
+            "text": "Please remember the r/AskScience rules:\n\n>* Top level comments (direct replies to a question, not a reply to another user's comment) must be an answer to the question posed, or a follow-up question to the post.\n>* **No medical advice, speculation, or personal anecdotes.**",
+            "title_similarity": "0.33956245"
+        },
+        {
+            "id": "hzmmeu8",
+            "score": -1,
+            "text": "Part of the reason is that as the Earth continues to warm, more plants are growing for longer and releasing pollen, and other allergens. The increased levels of allergens is causing more and more people to experience seasonal allergies.",
+            "title_similarity": "0.4251543"
+        },
+        {
+            "id": "hzl68ut",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "0.13999864"
+        },
+        {
+            "id": "hzmx6a6",
+            "score": 7,
+            "text": "Scientifically, the verdict is *shrug*? I personally believe a mixture of genetics, random changes and all the damn chemicals we spray out there (pesticides, herbicides, fungicides, etc.) There's definitely been a rise in allergies since the use of chemical treatment of lawn care, plant care and farming. \n\nNot to mention we eat much less fermented foods, which our ancestors relied on for thousands of years. So while that could be circumstantial to allergies, it is proven that eating fermented foods aids in digestion, weight loss, and over all gut health.",
+            "title_similarity": "0.60242057"
+        },
+        {
+            "id": "hzmgafk",
+            "score": 10,
+            "text": "Integrative medicine practitioners (MDs) treat seasonal allergies by treating whole system inflammation. We are more prone to inflammation as we age, and the greater our inflammatory load, the less we are able to manage the inflammatory effects of seasonal allergens - that’s when our symptoms become obvious. Turmeric, fish oil, adequate sleep, adequate water consumption, strenuous exercise, lower-carb diets: these are all part of anti-inflammatory treatment recommendations.",
+            "title_similarity": "0.5751221"
+        },
+        {
+            "id": "hzlbj0f",
+            "score": 7,
+            "text": "[removed]",
+            "title_similarity": "0.13999864"
+        },
+        {
+            "id": "hzlmwnt",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "0.13999864"
+        },
+        {
+            "id": "hzl677y",
+            "score": 25,
+            "text": "[removed]",
+            "title_similarity": "0.13999864"
+        },
+        {
+            "id": "hzl7fqy",
+            "score": 4116,
+            "text": "There's a few potential causes, but I should preface this with stressing that immunology is a poorly understood and extremely variable area of medicine - meaning this answer is not going to be all encompassing and the theories presented may not be the most up to date information available.\n\nGenerally, there's two main schools of thought and they're both closely related.\n\n1. Sensitisation\n\nOver time, your body learns and adapts it's immune system. If it just so happens that eventually it decides that something you've been exposed to is a threat, it will mount a response.\n\nThis response is reinforced on repeat exposures, strengthened and ultimately becomes an ongoing allergy.\n\nWhy now? Why in this form? Essentially bad luck combined with repeat exposure. Since the pollen is present often, it can be thought of as \"only a matter of time\" before this process occured and it happened to be now.\n\nI dislike this theory because as much as many of the body's processes have a random element, it seems unlikely that developing an allergy could be entirely random.\n\nWhich leads to\n\n2: Misassociation \n\nThink scenario similar to the above, but involving a concurrent infection, virus or pathogenic substance.\n\nYour body goes on alert after an exposure to a severe virus, it wants to make sure that whatever caused it never happens again. It just so happens that every time your body is exposed to that virus, it's also exposed to the pollen (because it's pollen season).\n\nSo your body mounts a response against both and you develop an allergy as a result. Exactly how this association gets made isn't terribly clear, but my understand is that this is the prevailing theory.\n\nYou can see good examples of this when a tick bite can trigger an allergy to red meat - even if the tick was picked up in an area with no cattle for any related proteins to be carried over.\n\nAs a sneaky third option:\n\n3. Your body hasn't formed a new allergy, there's just a new pollen or funghi in your area now that you hadn't been regularly exposed to before.\n\nMaybe you moved recently, maybe there's a new weed growing. I couldn't tell you, but it's a bit of an Occam's razor solution.",
+            "title_similarity": "0.5267163"
+        },
+        {
+            "id": "hzl7v0z",
+            "score": 116,
+            "text": "People can also develop spontaneous allergic reactions to the food they've eaten their entire life. What happens there is quite interesting:   \nThere are these proteins called \"Antibodies\", you may have heard of them when talking about infections. IgE-Antibodies are partly responsible for allergic reactions.   \nIt functions like this:   \n1) Your body encounters an allergen (the stuff that causes later the allergic reaction). It may have encountered it before, doesn't matter. This time it's different. Some B-Cells get activated because their receptor fits with the allergen. Then they produce said IgE-Antibodies. Usually, nothing happens here, specialized IgE-Antibodies flow in your blood, but they die after a few days. But.   \n2) Mast cells may \"pick them up\" so they don't resolve for like a couple of months.   \n3) Your boy encounters the allergen again, but now, since you have this specialized IgE-Antibodies, an allergic reaction takes place. The antigen connects with the receptors on the igE-Antibodies on the mast cells, which causes the mast cells to set free substances like Histamin and others that cause a massive inflammation reaction, leading to all the symptoms of an allergic reaction.  \n Unfortunately, Histamin can also affect breathing musculature thus leading to real dangerous reactions.",
+            "title_similarity": "0.5815265"
+        },
+        {
+            "id": "hzld23w",
+            "score": 8,
+            "text": "[removed]",
+            "title_similarity": "0.13999864"
+        },
+        {
+            "id": "hzlkn0y",
+            "score": 12,
+            "text": "[removed]",
+            "title_similarity": "0.13999864"
+        },
+        {
+            "id": "hzlmywz",
+            "score": 8,
+            "text": "[removed]",
+            "title_similarity": "0.13999864"
+        },
+        {
+            "id": "hzlnfjq",
+            "score": 16,
+            "text": "On a cell by cell or molecule by molecule basis there is probably not a state of no immune response at all it's just a sliding scale of the level. A sub-symptomatic immune response can at any anytime become symptomatic if a mechanism dampening it down is reduced or one amplifying the immune response is increased. There are so many complicated interactions it maybe not possible to pick out the main drivers for you.\n\nThese mechanisms of dampening and amplifying are an active area of research and will lead to new therapies to undo these allergies in the future.",
+            "title_similarity": "0.47398728"
+        },
+        {
+            "id": "hzlzdqa",
+            "score": 3,
+            "text": "[removed]",
+            "title_similarity": "0.13999864"
+        },
+        {
+            "id": "hzm0ewy",
+            "score": 17,
+            "text": "Allergies aren’t always cut and dry, where exposure = reaction  \n\nThere are levels of severity, and lots of factors go into that. \n\nIf you are more stressed or have been exposed subtly to other irritants, have had less sleep, etc., you may have a more severe reaction to the same stimulus. \n\nWith an increase in pollution and other irritants in the atmosphere, many people are ‘developing allergies’. It’s more likely that they are just having more severe reactions because of additional environmental pollution, so now they notice the change whereas before it wasn’t noticeable. \n\nAnother thing could be new exposure, maybe someone is growing a non native plant that has pollens that get you. \n\nAnother thing could be that you just didn’t notice or think about what it is and now that you have a name for it, you can identify the symptoms easier. \n\nAlso, sometimes repeated exposure can cause worsening symptoms so you may in fact be reacting more to the same stimulus without any additional help and that is just how it works sometimes.",
+            "title_similarity": "0.50900495"
+        },
+        {
+            "id": "hzm10vr",
+            "score": 78,
+            "text": "It's possible that higher exposure to (car exhaust) particulates could have lead to the development of your allergies or worsened an already existing allergy. Those very fine particulates bind to all kind of things in the air. And since there are mostly male trees being planted in modern cities, there is a lot of pollen floating around in the air.\n\n[Source for 'Connection of particulates and allergies'](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6034084/)\n\n[Source for 'Male trees in cities'](https://www.theguardian.com/environment/2020/may/16/how-urban-planners-preference-for-male-trees-has-made-your-hay-fever-worse)",
+            "title_similarity": "0.42389703"
+        },
+        {
+            "id": "hzm957k",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.13999864"
+        }
+    ]
+}

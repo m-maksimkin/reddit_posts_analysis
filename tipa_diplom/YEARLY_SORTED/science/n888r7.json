@@ -1,0 +1,1680 @@
+{
+    "In Switzerland, among 645 people hospitalized with chronic heart failure, a randomized trial found those who were given regular hospital food – as opposed to a personal nutrition plan – had an almost doubled risk of mortality within 30 days.\n": [
+        {
+            "id": "gxh0ijf",
+            "score": 1,
+            "text": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are now allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will continue be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) still apply to other comments.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "title_similarity": "0.36621553",
+            "sentiment_compound": 0.7088
+        },
+        {
+            "id": "gxh171q",
+            "score": 0,
+            "text": "Only big pharma calls it food.",
+            "title_similarity": "0.37044525",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxhk3np",
+            "score": 0,
+            "text": "Causation or correlation. People who have home cooked meals most probably have better support systems. They are probably more likely to be compliant with medication, have more money and better quality of life to begin with. Maybe they are less likely to be malnourished to begin with. There are so many confounding variables in a study like this.",
+            "title_similarity": "0.45476174",
+            "sentiment_compound": 0.8892
+        },
+        {
+            "id": "gxhg33q",
+            "score": -1,
+            "text": "New study, \"what we eat effects our health!\" GROUNDBREAKING!!!",
+            "title_similarity": "0.3053022",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxhixlg",
+            "score": 7,
+            "text": "Oh look, a reddit comment thread that has bad information about the job I've done every day for over a decade from people who have never even set foot in a hospital kitchen.",
+            "title_similarity": "0.70811594",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gxhbo3d",
+            "score": 1,
+            "text": "Probably from refeeding syndrome where they don't eat food while in the hospital and then once discharged they eat a lot once home which causes fluid shifts and worsening heart failure",
+            "title_similarity": "0.6808777",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "gxhg6se",
+            "score": 1,
+            "text": "Hospital food is some of the worst food for nutrition I’ve ever had, especially with how low the calories are.",
+            "title_similarity": "0.49686652",
+            "sentiment_compound": -0.7553
+        },
+        {
+            "id": "gxhjsr1",
+            "score": 37,
+            "text": "Wow - it’s as if nutrition is critical to those suffering from heart disease. If only there were other studies, like ones showing that a whole food, plant-based diet could not only halt but reverse heart disease… oh wait, we’ve had that evidence for years, yet we are still surprised to learn that feeding garbage to sick people will kill them more often.",
+            "title_similarity": "0.65952677",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "gxhljy9",
+            "score": 0,
+            "text": "ScienceAlert. May as well be a Facebook post. Call me when the trial is repeated by peers and passes snuff.",
+            "title_similarity": "0.38516748",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "gxh83sr",
+            "score": -1,
+            "text": "Somehow this isn't a surprise.",
+            "title_similarity": "-0.16492757",
+            "sentiment_compound": -0.2057
+        },
+        {
+            "id": "gxhlyup",
+            "score": -4,
+            "text": "Plant based oil free diet. Prevent and Reverse Heart Disease.",
+            "title_similarity": "0.31859034",
+            "sentiment_compound": 0.8225
+        },
+        {
+            "id": "gxhafr1",
+            "score": 9,
+            "text": "[removed]",
+            "title_similarity": "-0.05338213"
+        },
+        {
+            "id": "gxhf7kk",
+            "score": 2,
+            "text": "Is it because of distilled sadness at how terrible the food is? I’d assume Switzerland would have next level hospital food, apparently not.",
+            "title_similarity": "0.5400408",
+            "sentiment_compound": -0.7184
+        },
+        {
+            "id": "gxhon9i",
+            "score": 1,
+            "text": "Cancer patients that have lost weight are often told to carb load to put back on weight. Milkshakes, ice-cream, chocolate, pasta etc, are all on the menu. The sad thing is that researchers and doctors interested in diets and their affect on the body know that cancer feeds on glucose. So they're trying to help the patient fight off the cancer by feeding them carbohydrates which in turn feeds the cancer.",
+            "title_similarity": "0.6380584",
+            "sentiment_compound": -0.969
+        },
+        {
+            "id": "gxhid9m",
+            "score": 3,
+            "text": "Part of me thinks that having just one person visit you and ask if actually liked that might account for the difference.",
+            "title_similarity": "0.30012143",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "gxhg7oh",
+            "score": 1,
+            "text": "Had nose surgery recently. Soup and a dry sandwich. Got em to give me two batches as I felt like I'd still not had enough nutrition, bread is trash. Deff takin a Tupperware of food next time.",
+            "title_similarity": "0.5930575",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gxhdvxt",
+            "score": 3,
+            "text": "It's almost like these results tell you the food you're eating is what puts you into the hospital for these issues in the first place.. Who knew?",
+            "title_similarity": "0.5459453",
+            "sentiment_compound": 0.2975
+        },
+        {
+            "id": "gxhjcgb",
+            "score": 8,
+            "text": "This is not an isolated incident. People who ate the food from my high school's cafeteria also had double the mortality risk.",
+            "title_similarity": "0.70076966",
+            "sentiment_compound": -0.0356
+        },
+        {
+            "id": "gxhg5wx",
+            "score": 15,
+            "text": "Chronic heart failure sounds like death with extra steps.",
+            "title_similarity": "0.589124",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "gxhjawz",
+            "score": 0,
+            "text": "How can your diet have such an impact short term? Seems almost illogical. Is the hospital food pure garbage? I dont think they feed you pure trans fat in there...",
+            "title_similarity": "0.48906076",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxhlrye",
+            "score": 0,
+            "text": "Was in a Swiss hospital for a month and had hospital food. It wasn’t bad but was really salty. My first thought was if people with heart problems had the same food. Answer is surely yes...",
+            "title_similarity": "0.77142316",
+            "sentiment_compound": 0.8555
+        },
+        {
+            "id": "gxhnule",
+            "score": 0,
+            "text": "Looks Like we Can't Help But WaKe UP!!!  I think more & more significant findings will Happen this Year...",
+            "title_similarity": "0.31094125",
+            "sentiment_compound": 0.6164
+        },
+        {
+            "id": "gxhol36",
+            "score": 0,
+            "text": "Food is necessary fr life",
+            "title_similarity": "0.06532045",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxhp87l",
+            "score": 0,
+            "text": "Doesn’t anyone want to talk about doctors doing studies on their patients diet while they’re in for a serious Heart condition... and their experiment is increasing the mortality rate... seems like a good topic.",
+            "title_similarity": "0.6265505",
+            "sentiment_compound": 0.8625
+        },
+        {
+            "id": "gxhpu10",
+            "score": 0,
+            "text": "Hospitals are a business, do not forget.",
+            "title_similarity": "0.16887686",
+            "sentiment_compound": 0.1695
+        },
+        {
+            "id": "gxhqca3",
+            "score": 0,
+            "text": "Yikes. They always said hospital food was bad, but not this bad..",
+            "title_similarity": "0.49887544",
+            "sentiment_compound": 0.4971
+        },
+        {
+            "id": "gxhqehj",
+            "score": 0,
+            "text": "There is no profit in healthy people. I mean look around. Krispy Kreme will give you a donut a day if you took the jab. Budweiser is gonna give you a beer. I'm not surprised at all.",
+            "title_similarity": "0.44341075",
+            "sentiment_compound": -0.0956
+        },
+        {
+            "id": "gxhrarf",
+            "score": 0,
+            "text": "Diabetic and in hospital?\n\nHere, have this sugary jello cup!",
+            "title_similarity": "0.45400637",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxhrpd5",
+            "score": 0,
+            "text": "Makes sense. I was just released from the hospital with a pulmonary embolism (thanks, COVID), and I was amazed at how much worse my diet was during my stay. Pancakes and syrup with breakfast, cookies with dinner, and juice with every meal. Like can I get a vegetable please? They're so adamant about limiting dietary fat/cholesterol, but they give you copious amounts of sugar. My blood sugar tested in the high range for literally the first time of my life when I was in there - it's absurd!\n\nEdit: Just wanted to note that they had margarine as a \"heart healthy\" option, and I find that to be utterly ridiculous.",
+            "title_similarity": "0.72865933",
+            "sentiment_compound": 0.8848
+        },
+        {
+            "id": "gxhyd4x",
+            "score": 0,
+            "text": "Why is this under my onlyfans posts",
+            "title_similarity": "0.108751096",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxi01xj",
+            "score": 0,
+            "text": "Hospital food is terrible. I can't believe anybody who eats it can survive. And I'm not making this up. My son had leukemia and was in and out of the hospital for years. I can tell you firsthand that most of the time it was terrible.",
+            "title_similarity": "0.6961051",
+            "sentiment_compound": -0.7351
+        },
+        {
+            "id": "gxi04sw",
+            "score": 0,
+            "text": "Hospital food sucks and kills you? What else is new. If I was hospitalized I wouldn’t want to eat the hospital food though I don’t know if you have a choice? Unless you know someone who could go out and bring you food.",
+            "title_similarity": "0.48250765",
+            "sentiment_compound": -0.7236
+        },
+        {
+            "id": "gxi0744",
+            "score": 0,
+            "text": "As a hospital employee in the emergency room I can attest to the food. It’s all about saving money. The employees are a third party contract to save money. The food given to patients is basically whatever is made in the regular cafeteria for regular hospital employees/ visitors. The special “diet” is the regular menu without French fries to save money. Everything is loaded with added salt on mass processed food to save money. It’s all about that dollar bill. Whoever was researching is the only person who benefited from the study",
+            "title_similarity": "0.63056207",
+            "sentiment_compound": 0.9081
+        },
+        {
+            "id": "gxim6d3",
+            "score": 0,
+            "text": "This makes it sounds like hospital food is bad but it’s probably more accurate to say that a personalized nutritional plan is preferable over most diets. Especially those of someone with health issues.",
+            "title_similarity": "0.44284752",
+            "sentiment_compound": -0.128
+        },
+        {
+            "id": "gxino3f",
+            "score": 0,
+            "text": "Did the patients agree with the trial? Because I'm sure there's something wrong with feeding people bad intentionally and getting them killed...",
+            "title_similarity": "0.41459382",
+            "sentiment_compound": -0.8074
+        },
+        {
+            "id": "gxiolyj",
+            "score": 0,
+            "text": "This has nothing to do with nutrition and everything with act of creating a personalised meal plan.\n\nA hospital is a big FFA and whoever has the best insurance, or voices their needs and demands in the most effective manner, wins.\n\nThose poor fellas who did not engage with clinic personal in a intimate and assertive manner as to draw up a personal meal plan, where most likely not able to voice critical concerns about their health situation.\n\nThis is not to blame the clinic personnel who is completely overworked and understaffed most of the time. It is a systemic issue.",
+            "title_similarity": "0.5477203",
+            "sentiment_compound": 0.854
+        },
+        {
+            "id": "gxiosi6",
+            "score": 0,
+            "text": "So what they've demonstrated is that morale plays a massive part is hospital recovery",
+            "title_similarity": "0.39929095",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "gxiqai1",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "-0.05338213"
+        },
+        {
+            "id": "gxir67w",
+            "score": 0,
+            "text": "This makes me think of when women go in during labor. They give you nothing and it's infuriating whenever I think of it. Imagine you are about to run a marathon and you get nothing but ice chips for 12 or more hours beforehand.",
+            "title_similarity": "0.59354246",
+            "sentiment_compound": 0.2235
+        },
+        {
+            "id": "gxiwahv",
+            "score": 0,
+            "text": "is it because hospital food is so lacking in nutrients, or is it because people with chronic heart failure are more likely to be accustomed to a specific type of unhealthy diet and taking them off that diet immediately causes stress on their body?",
+            "title_similarity": "0.6053994",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "gxhk4s6",
+            "score": 1,
+            "text": "trying giving them regular US hospital food, the mortality risk will turn from 30 days to 3 days,",
+            "title_similarity": "0.79958045",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "gxhka4a",
+            "score": -1,
+            "text": "I have worked in a big hospital in Canada. One of my tasks was ordering meals for patients. It’s interesting how little diets mattered to medical team. We couldn’t order any food unless a resident or higher wrote down the order. Once they leave the floor, they gone for the night. I would stash puddings just so I had something to give them on night shift.",
+            "title_similarity": "0.61795413",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gxhmv3n",
+            "score": 1,
+            "text": "Hospital food is totally bonkers! My friends dad was hospitalized with cancer and had the better part of his colon removed. While he was recovering from colonectomy the hospital fed him... chicken wings and jell-o. Uh, guys?",
+            "title_similarity": "0.62587106",
+            "sentiment_compound": 0.2859
+        },
+        {
+            "id": "gxhn4id",
+            "score": 1,
+            "text": "And you wonder why we have crippling diseases and health issues.. hmmm..",
+            "title_similarity": "0.3605764",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxhnjn3",
+            "score": 1,
+            "text": "As an America , I can only imagine how much worse our hospital food is for patients. I’d like to see that study done here.",
+            "title_similarity": "0.5754993",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "gxhwo0w",
+            "score": -1,
+            "text": "The film \"What the Health\" definitely  comes to mind when seeing this... Kind of validates some of the information in that film.",
+            "title_similarity": "0.20407605",
+            "sentiment_compound": 0.5868
+        },
+        {
+            "id": "gxm62wd",
+            "score": 1,
+            "text": "Having both worked in a factory that made hospital food as well as having had a multi day stay in hospital (in the UK) I can tell you this doesn't surprise me at all. Mainly because the food offered is of such disgustingly low quality.\n\nI refused to eat for my hospital stay and actually checked myself out in the end. I was no going to consume the grey disgusting filth they put in front of me at that was the end of it.\n\nUtterly shameful state of things here in the UK. I know things have improved a little on that front in the last few years. But still, I am not at all surprised that the incredibly poor nutritional value provided by the food plus it's very low quality meaning patients simply do not eat it which has a dramatic impact on survival rates.",
+            "title_similarity": "0.5959126",
+            "sentiment_compound": -0.9106
+        },
+        {
+            "id": "gxhdnwa",
+            "score": 54,
+            "text": "My guess would be that it’s the sodium content that makes the difference. Heart failure patients are supposed to restrict their sodium intake, because sodium causes water retention, which leads to worsening of the heart failure.",
+            "title_similarity": "0.5007212",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "gxh7oos",
+            "score": 23,
+            "text": "I spent almost 3 months in different hospitals about a year and a half ago, I still have nightmares of the God awful food. To this day, I can't see a turkey sandwich with wheat bread without gagging.",
+            "title_similarity": "0.74623",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "gxh4dg8",
+            "score": -10,
+            "text": "What are they eating! Deep fried Mexican burrito with mars bars inside?",
+            "title_similarity": "0.27669752",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxhosak",
+            "score": 2,
+            "text": "When I was in the hospital I had room service and ate pancakes for breakfast. It felt like hotel food tbh. Not good but not bad and convenient because delivery.\n\nThough I was in the US and the hospital bills were kinda expensive afterwards.",
+            "title_similarity": "0.6364768",
+            "sentiment_compound": 0.5889
+        },
+        {
+            "id": "gxhp3mq",
+            "score": 2,
+            "text": "Patients with heart failure need a low-salt diet so they don’t retain fluid. A regular hospital diet is just a regular diet. I think the title is misleading.",
+            "title_similarity": "0.567232",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "gxhkpee",
+            "score": 70,
+            "text": "In the USA, the American Medical Assocation recommended a mostly plant based menu same completely removing processed meats. But basically all of the hospitals here just ignored it.\n https://www.pcrm.org/news/news-releases/ama-passes-resolution-hospitals-should-provide-plant-based-meals-and-remove",
+            "title_similarity": "0.5350311",
+            "sentiment_compound": -0.3716
+        },
+        {
+            "id": "gxhhc7e",
+            "score": 1,
+            "text": "It's really disappointing that a study in 2020 can find such a big impact of diet variation in a fully controlled setting.\n\nOne would expect that in a hospital diet research has been going for 100+ years, and the perfect diet to maximize survival has been thoroughly finetuned.   I could understand research showing \"there is a 1% gain in survival rates if you give extra carrots to transplant patients\".   But to find something that *doubles* survival rates really calls into question systematic flaws in the medicinal scientific process that failed to discover and implement this 100 years ago.",
+            "title_similarity": "0.70571846",
+            "sentiment_compound": -0.4848
+        },
+        {
+            "id": "gxhmigf",
+            "score": 3,
+            "text": "Alternately, \"A randomized trial found that putting patients on a personal nutrition plan almost halved their risk of mortality\".",
+            "title_similarity": "0.7397169",
+            "sentiment_compound": -0.2111
+        },
+        {
+            "id": "gxh37mo",
+            "score": 414,
+            "text": "I think it's safe to extrapolate that if a registered dietician could coach people what and how to eat before they are sick they would be much more likely to never suffer from chronic heart failure in the first place. Take diet and exercise seriously, also hospitals need to do better with what they feed helpless patients.",
+            "title_similarity": "0.53602374",
+            "sentiment_compound": 0.3716
+        },
+        {
+            "id": "gxhm934",
+            "score": 5,
+            "text": "So not only is hospital food notoriously bad, it's literally killing you.",
+            "title_similarity": "0.40301922",
+            "sentiment_compound": -0.836
+        },
+        {
+            "id": "gxh6geu",
+            "score": 132,
+            "text": "I've always been amazed at how unhealthy hospital food is.",
+            "title_similarity": "0.37920612",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "gxicsf9",
+            "score": 9,
+            "text": "[deleted]",
+            "title_similarity": "0.011797655"
+        },
+        {
+            "id": "gxhhv5c",
+            "score": 9,
+            "text": "I spent three days in a specialized spine hospital and ate giant prawns, wagyu beef, lobster bisque... for hospital food it was unreal, and I miss it every day.",
+            "title_similarity": "0.67096263",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "gxhw1fr",
+            "score": 11,
+            "text": "I was hospitalized for a PE, clots in my leg and just overall being very sick at my 11 month post covid (long haul) mark. By day 2 I was hooked up to heparin, and on medications, however was feeling progressively worse and worse. It took until day 3 of my delusion and feeling like I was on deaths door to realize that I hadn’t had a glass of water in 3 days. I had to ask for an IV bag, to which a process ensued that as a patient I did not expect. It was not like they just handed it over. To make matters worse, they were thinking about doing a colonoscopy/upper endoscopy while I was hospitalized. I denied the request, however the hospital kept me on a liquid only diet. I was 139 pounds at 6’ 2” and 22 years old. Down nearly 20 pounds, and every time they brought me a bowl of beef broth I told them I hadn’t eaten in a while and I’m very underweight and having a little appetite and to please make a change to my meal plan. Fast forward 3 more days and every single meal I was brought was a liquid diet, for the endoscopy that was never scheduled. This was the #1 hospital in my state, I understand everyone is doing their best as I have immense respect for healthcare system but it was a little concerning. I won’t even begin to explain the map practice that occurred in other aspects.",
+            "title_similarity": "0.76344985",
+            "sentiment_compound": -0.3295
+        },
+        {
+            "id": "gxhnr0b",
+            "score": 37,
+            "text": "PSA - the people who actually go to school to study human nutrition are dietitians. Nutritionist is not a controlled term and anyone using that title is probably just an MLM rep with an internet certification.",
+            "title_similarity": "0.42901117",
+            "sentiment_compound": -0.4824
+        },
+        {
+            "id": "gxhje9l",
+            "score": 224,
+            "text": "This post title and the article title are very misleading. As is tradition.\n\nThe actual journal article title is [Individualized Nutritional Support for Hospitalized Patients With Chronic Heart Failure](https://www.sciencedirect.com/science/article/abs/pii/S0735109721009384).\n\nThey didn't just have different diets. The group with the \"personal nutrition plan”  had strong support and counseling from dieticians throughout their stay.\n\n> Within two days of being hospitalized, half the patients in the trial received nutritional support from a trained registered dietician, who helped them identify and achieve their energy, protein, and micronutrient goals with individualized meals and check-ups every one or two days. Before they were discharged, these patients also received dietary counseling and nutritional supplements if needed.\n\nI would guess that the support they got from the dietician was at least as important as the food itself. Both the added focus on eating (lots of patients tend not to feel hungry and not eat much if left to their own devices) and the information they received and took home with them.",
+            "title_similarity": "0.8107923",
+            "sentiment_compound": 0.9532
+        },
+        {
+            "id": "gxhbpdb",
+            "score": 947,
+            "text": "As a registered dietician I am not surprised. There is plenty of research showing not only what this study did but also the large numbers of patients that become malnourished during hospital stays. It is truly alarming and in many cases have detrimental effects on recovery and outcome. It is also a sad fact how little nutritional knowledge doctors and many nurses have or how little they care about it seeing how important it is.",
+            "title_similarity": "0.64815",
+            "sentiment_compound": 0.5718
+        },
+        {
+            "id": "gxh3iay",
+            "score": 180,
+            "text": "[removed]",
+            "title_similarity": "-0.05338213"
+        },
+        {
+            "id": "gxhfsgf",
+            "score": 27,
+            "text": "[removed]",
+            "title_similarity": "-0.05338213"
+        },
+        {
+            "id": "gxhb0x3",
+            "score": 26,
+            "text": "[removed]",
+            "title_similarity": "-0.05338213"
+        },
+        {
+            "id": "gxhl2o3",
+            "score": 77,
+            "text": "When my father in law went in for congestive heart failure I saw what his approved list of foods were and laughed. It was literal junk food.",
+            "title_similarity": "0.5734905",
+            "sentiment_compound": 0.7717
+        },
+        {
+            "id": "gxhl493",
+            "score": 35,
+            "text": "I'm curious how much of this effect is due to having a dietitian follow them closely, and how much is due to the standard fluid and sodium restriction we place on all of our heart failure patients.\n\nTo me it seems like borderline malpractice to not place them on a sodium/fluid restriction, since that's the reason many of them end up in the hospital. I'm surprised they could get this study approved. We don't compare a new chemotherapy drug to the alternative of not treating someone's cancer - we compare it to the standard of care.\n\n(I only read the abstract because the article is behind paywall and I don't have easy access to it right now)",
+            "title_similarity": "0.6499638",
+            "sentiment_compound": 0.8888
+        },
+        {
+            "id": "gxhiwps",
+            "score": 877,
+            "text": "Wow. That's crazy! I worked as a dietary aide at our biggest local hospital. Every floor and ward had a purpose: burn, oncology, cardiac, children's, renal, ICU, labor & delivery, etc. We had VERY strict diets for some floors set by the doctor and nurses. We wouldn't even be allowed to select options on the menu for patients if they were on these floors unless the doctor manually changed the settings in our system. Like our cardiac floor could not have sodium or caffeine. Diabetic patients could not have too much sugar, natural sugar (like in certain fruit) or carbs.",
+            "title_similarity": "0.6777297",
+            "sentiment_compound": 0.8832
+        },
+        {
+            "id": "gxh9njf",
+            "score": 728,
+            "text": "[removed]",
+            "title_similarity": "-0.05338213"
+        },
+        {
+            "id": "gxh7mij",
+            "score": 194,
+            "text": "[removed]",
+            "title_similarity": "-0.05338213"
+        },
+        {
+            "id": "gxhu4li",
+            "score": 228,
+            "text": "My father has type 2 diabetes. When he has been to the hospital they feed him total crap! White bread sandwiches and junk with orange juice on the side. His blood sugar spikes so they just control it with medicine. How completely ridiculous. It makes me so freaking mad. How can everything be like this???",
+            "title_similarity": "0.6650628",
+            "sentiment_compound": -0.9024
+        },
+        {
+            "id": "gxh1abs",
+            "score": 3192,
+            "text": "> …By 30 days, 27 of 321 intervention group patients (8.4%) died, \ncompared with 48 of 324 (14.8%) control group patients",
+            "title_similarity": "0.80826735",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "gxhdpnc",
+            "score": 144,
+            "text": "[removed]",
+            "title_similarity": "-0.05338213"
+        },
+        {
+            "id": "gxhg4t7",
+            "score": 1,
+            "text": "Man...  My wife just gave birth and the birthing center had fresh, locally made bread, choice NY strip steak from a farm the next town over, grass-fed burgers with Tillamook cheese, etc.",
+            "title_similarity": "0.5038397",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "gxhi4r0",
+            "score": 47,
+            "text": "[removed]",
+            "title_similarity": "-0.05338213"
+        },
+        {
+            "id": "gxhi7pl",
+            "score": 1,
+            "text": "My father, a diabetic, went to the er one time. They knew he was a diabetic but since he came in too late they gave him the non diabetic meal. His sugar was something like 500 absolutely insane.",
+            "title_similarity": "0.72150075",
+            "sentiment_compound": -0.1875
+        },
+        {
+            "id": "gxhmezh",
+            "score": 1,
+            "text": "The hospital is a business and if they cure everyone no more customers, poor nutrition would lengthen hospital stays and the accountants do not care if a few die. Also they are going off of the recommendations of registered dietitians and they favor breads over more nutrient dense foods.",
+            "title_similarity": "0.65127945",
+            "sentiment_compound": -0.8558
+        },
+        {
+            "id": "gxhmo28",
+            "score": 1,
+            "text": "My local hospital runs \"room service\" style. You call up and order food and it comes to your room, when you want it. So much better than sending carts everywhere at scheduled times with little of no menu choice. I expect it saves them money, seeing the massive food waste from the cart system. If it costs more in staff it is well worth it.",
+            "title_similarity": "0.56592774",
+            "sentiment_compound": 0.4131
+        },
+        {
+            "id": "gxhnnaj",
+            "score": 1,
+            "text": "I thought Switzerland was nicer 1st world country",
+            "title_similarity": "0.3065105",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "gxho783",
+            "score": 1,
+            "text": "Food is the best medicine",
+            "title_similarity": "0.18798515",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "gxho96n",
+            "score": 1,
+            "text": "A high stakes trial! You either die or you don’t",
+            "title_similarity": "0.27293384",
+            "sentiment_compound": -0.636
+        },
+        {
+            "id": "gxhp40r",
+            "score": 1,
+            "text": "[deleted]",
+            "title_similarity": "0.011797655"
+        },
+        {
+            "id": "gxhpszb",
+            "score": 1,
+            "text": "How..Swiss and ethical.",
+            "title_similarity": "0.13260277",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "gxhqe0q",
+            "score": 1,
+            "text": "There is nothing worse that a bad meal… it is soul crushing. I’d rather have a good PBJ or something simple like that than a bad meal.",
+            "title_similarity": "0.36756092",
+            "sentiment_compound": -0.3707
+        },
+        {
+            "id": "gxhqkfd",
+            "score": 1,
+            "text": "Can someone keep me honest here? Is this bad science? I feel like the study doesn’t take into account the economic status of people who could actually afford hospital nutrition plans vs those who cant. People with better economic status tend to live healthier lives due to more leisure time, money to afford better food etc.",
+            "title_similarity": "0.52071357",
+            "sentiment_compound": 0.3672
+        },
+        {
+            "id": "gxhra8r",
+            "score": 1,
+            "text": "In the U.S. it doesn't matter how much you personalize the diet, customize it, cater to patient preferences, etc. Patients are either too sick to eat, hate the food because it's typically low fat and low sodium, or would rather have family bring in McDonald's for every meal instead.",
+            "title_similarity": "0.5349096",
+            "sentiment_compound": -0.8827
+        },
+        {
+            "id": "gxhrfyx",
+            "score": 1,
+            "text": "The times I stayed in a hospital I noticed how much unhealthy food there was. There is usually a choice for healthy food too so I went with those like soup broth and tea. Mostly there was high carb food and drinks.",
+            "title_similarity": "0.5885078",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "gxhrkgc",
+            "score": 3,
+            "text": "If you’ve ever had hospital food then this is not a surprise. It’s SALTY as heck and not very healthy to begin with.",
+            "title_similarity": "0.43371576",
+            "sentiment_compound": -0.5088
+        },
+        {
+            "id": "gxhrn63",
+            "score": 1,
+            "text": "Remember fool, when life give you lemon don’t eat it",
+            "title_similarity": "0.23175125",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "gxhs0cl",
+            "score": 1,
+            "text": "In 10 years hospital are gonna have all you can eat buffet because it's the best way to heal.",
+            "title_similarity": "0.5783125",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "gxhs5xc",
+            "score": 1,
+            "text": "When they say hospital food is bad...",
+            "title_similarity": "0.3924333",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gxhsk87",
+            "score": 1,
+            "text": "Swiss scientists find correlation, headline implies causation. Story at 11.",
+            "title_similarity": "0.30615902",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxhsp2i",
+            "score": 1,
+            "text": "The last conversation I ever had with my dad was him complaining about how terrible the hospital food was. We live in Massachusetts and he was in one of the better hospitals in the country. It's really a shame that they can't provide better food. \n\nP.s my dad died of covid and the food had nothing to do with it but just saying.",
+            "title_similarity": "0.65581304",
+            "sentiment_compound": -0.69
+        },
+        {
+            "id": "gxhsru5",
+            "score": 1,
+            "text": "I guess it depends on the region. Switzerland isn't particularly known for their amazing cuisine so I get it.\n\nWhere I live hospital food is just our regular cuisine, just milder.",
+            "title_similarity": "0.47627434",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "gxhsuss",
+            "score": 1,
+            "text": "So... What was the main difference between the different meals?",
+            "title_similarity": "0.26900148",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxht7cg",
+            "score": 1,
+            "text": "I am a hospital chef supervisor . I have more control over what a patient eats than their doctor. I work in a cardiac heavy hospital. We have a full team of registered dietitians. The cost of food is barely given consideration by financial administrators. \n\nThere are two major limitations. Budgeted cook labor is the first issue. We feed between 150 and 200 patients per meal. There are only 16 labor hours budgeted to prepare the patient food. \n\nThe second major limitation is the focus on the patients satisfaction with the meal. The survey questions asked are something like: was the food the correct temperature? did the food taste good? were you given the correct meal?\n\nMost of our patients are on a low sodium or sugar free diet that is decided by their doctor, and people are always unhappy with a healthy 4 oz portion of meat. If people have been eating salt and sugar heavy diets and you take that away they are inherently dissatisfied with the flavor. There is no magic trick to replace salt, sugar or fat. We have lots of tricks to help with flavor, but you really cant replace the real thing. Not with 16 labor hours. \n\nIf too many patients answer the aforementioned survey negatively kitchen leaders can lose their job. Patients in chronic heart failure are given the same diet as a patient who's in for a knee replacement and put on a cardiac diet because they are an overweight smoker.\n\nThe people who decide the kitchen budget have no foodservice experience and make decisions by looking at a spreadsheet. Our department is given the lowest consideration as far as patient care priority. Feeding the patient what they want vs what they need can have serious consequences for kitchen staff. The truth is that the interests are at odds in a corporate world.",
+            "title_similarity": "0.7165897",
+            "sentiment_compound": 0.3329
+        },
+        {
+            "id": "gxht9pz",
+            "score": 1,
+            "text": "Spent a few weeks hospitalised (awaiting surgery) in my country, NZ, food was basic but yum and largely healthy tbh.",
+            "title_similarity": "0.63332325",
+            "sentiment_compound": 0.5499
+        },
+        {
+            "id": "gxhtvnn",
+            "score": 1,
+            "text": "Man.. thats why i love my country. I ate some of the best food in Czechia hospitals. For free.",
+            "title_similarity": "0.3865177",
+            "sentiment_compound": 0.9136
+        },
+        {
+            "id": "gxhtwlv",
+            "score": 1,
+            "text": "For real, I work in nursing homes and the food there is borderline inedible sometimes. Some places are good with actual chefs and meals, but others are downright disgusting. How am I meant to promote a healthy diet when grown adults are getting served an unbuttered cheese sandwich and watered down orange squash",
+            "title_similarity": "0.54829013",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "gxhtwo1",
+            "score": 1,
+            "text": "You mean generic high sodium menus were bad for people in CHF?\n\nSHOCKING",
+            "title_similarity": "0.47940972",
+            "sentiment_compound": -0.7865
+        },
+        {
+            "id": "gxhtx6x",
+            "score": 1,
+            "text": "As an American, this study has me scratching my head since I'd expect a European country to be better in the healthcare dept. I work with the elderly and one of them recently (6 months-ish) ago was diagnosed with Chronic Heart Failure (aka Congestive Heart Failure) and they were put on a specialized diet **immediately**. No BS it was a super big deal, annoyingly so. No added salt period and as little as possible otherwise along with fluid restrictions. Again I'm having a hard time digesting that a European country would be so lax with such a common heart condition. \n\nDiet is so important and these people are often already on their last leg given they are generally older, overweight, and have had poor diets for years if not decades.",
+            "title_similarity": "0.7528529",
+            "sentiment_compound": 0.7761
+        },
+        {
+            "id": "gxhub02",
+            "score": 1,
+            "text": "Universal healthcare? Cutting costs?",
+            "title_similarity": "0.25483817",
+            "sentiment_compound": -0.2168
+        },
+        {
+            "id": "gxhui63",
+            "score": 1,
+            "text": "This reminds me of a patient I had in hospital as a Med student. He came in with heart failure exacerbation which is when you get fluid overloaded, swollen up, and trouble breathing. Happens in the context of congestive heart failure. Can happen for a variety of reasons like medication non compliance, heart attack, infection but a another reason is salt intake. \n\nAfter stabilizing the patient, I remember when I first met him I talked to him about his diabetes and importance of decreasing salt intake for the sake of his heart. Gave him a talk on lifestyle modifications. I put him on a specialized hospital diet and said I'd see him the next morning. The following morning, to my utter disappointment, the guy has a huge grin on his face and was crushing an extra large Tim Horton's coffee, 2 breakfast sandwiches and a donought. He didn't like the taste.... I Was so mad haha...",
+            "title_similarity": "0.685398",
+            "sentiment_compound": 0.7535
+        },
+        {
+            "id": "gxhupd1",
+            "score": 1,
+            "text": "Low salt, low fat, high carb.. what a plan!",
+            "title_similarity": "0.14941877",
+            "sentiment_compound": -0.5411
+        },
+        {
+            "id": "gxhutwr",
+            "score": 1,
+            "text": "I’ve eaten a decent amount of hospital food. The only times it was good was when I worked at one down in Lethbridge, they made the tastiest breakfast sandwiches and omelettes, but that only lasted until 10:30AM.\n\nIn Calgary AB it’s usually so bad, At the brand new south health campus, there were numerous times I received a dry sandwich that consisted of one piece of meat and a leaf of soggy lettuce that literally came out when I bit into it. Basically no mayo or ~~ketchup~~ mustard. \n\nEdit: holy crap I am so half asleep that I actually wrote ketchup in there. Ketchup on sandwiches is a travesty.\n\nI could make better lunches as a 5 year old.",
+            "title_similarity": "0.6361338",
+            "sentiment_compound": -0.9285
+        },
+        {
+            "id": "gxhvfqw",
+            "score": 1,
+            "text": "My wife delivered our son at Mt Sinai in NYC last July. No food or beverages offered for 48 hours from arrival for either of us. I finally got a nurse to get coffee from the break room and eventually got the ok to leave and return so was able to get food from outside. We stayed for four days and they showed up with one tray of prison food the third morning. We told them not to bother after that. I can definitely see how that kind of hospitality impacts survival rate.",
+            "title_similarity": "0.7211546",
+            "sentiment_compound": 0.0608
+        },
+        {
+            "id": "gxhw0ki",
+            "score": 1,
+            "text": "Strange it’s like nutrition matters",
+            "title_similarity": "0.12362832",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "gxhw5d1",
+            "score": 1,
+            "text": "I recently left a job at a hospital after never being in the medical field before that job. I learned a lot. But what most shocked me was the kitchen. They would say the food was healthy because they didn't deep fry anything. Meals were not balanced and most everything was low quality. I worked in several different places like long term, er, and such and all the management cared about was getting the patient out and getting another in. Ins. Would pay for an estimated stay and if the hospital got them out earlier they would pocket the difference.",
+            "title_similarity": "0.6498823",
+            "sentiment_compound": 0.5369
+        },
+        {
+            "id": "gxhwbv5",
+            "score": 1,
+            "text": "but aren't heart patients given special light food during their treatment anyway? why would they be given regular food during treatment?",
+            "title_similarity": "0.55534184",
+            "sentiment_compound": -0.3318
+        },
+        {
+            "id": "gxhwgoe",
+            "score": 1,
+            "text": "So bad hospital food is a universal thing as well?",
+            "title_similarity": "0.4062382",
+            "sentiment_compound": -0.4005
+        },
+        {
+            "id": "gxhwl9i",
+            "score": 1,
+            "text": "I was just in the hospital ( well known in NYC) on low fiber/diabetic diet and had to negotiate carbs... if I have a sweet potato instead of regular ii van have a bun on my burger.  My blood glucose was in range without meds so I snuck a cookie though",
+            "title_similarity": "0.6231006",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "gxhwwd3",
+            "score": 1,
+            "text": "The food is disgusting in most hospitals",
+            "title_similarity": "0.460355",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "gxhx23j",
+            "score": 1,
+            "text": "I guess this doesn’t make a whole lot of sense to me because when patients come into the hospital in Texas they are put on a nutrition plan immediately if they are diagnosed with a chronic condition tied to their diet. For instance, diabetes, congestive heart failure, any chronic cardiac issue, really. There’s a diet for chronic liver disease patients. There’s a diet for chronic kidney disease patients. There’s puréed food, chopped food, thickened liquids, etc. \n\nI don’t know if that’s the way hospitals run in Switzerland but we are “protocol” to the diet in Texas.",
+            "title_similarity": "0.6613493",
+            "sentiment_compound": 0.1154
+        },
+        {
+            "id": "gxhx26m",
+            "score": 1,
+            "text": "Spent several months at a high end teaching hospital in the US. Hospital food is terrible.  My Mom was a nurse at a different high end hospital in South Africa in the late 1940s. Said the food was terrible.  I don't know why this is so difficult.",
+            "title_similarity": "0.70562327",
+            "sentiment_compound": -0.857
+        },
+        {
+            "id": "gxhxnt3",
+            "score": 1,
+            "text": "And your patients will complain about the blandness of their food.  And then their spouse, kids, whomever will bring them McDonalds because the hospital food is \"terrible\".  And they'll gleefully eat it after you've discussed with them what is wrong with their heart and what they should do to get and stay better.  \n\nOnce people are addicted to overly salted, sweet and fat foods, it's not that much different than a nicotine addiction.  And it will kill them in a similar manner.",
+            "title_similarity": "0.55729085",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "gxhxqwl",
+            "score": 38,
+            "text": "Having both worked in a factory that made hospital food as well as having had a multi day stay in hospital (in the UK) I can tell you this doesn't surprise me at all. Mainly because the food offered is of such disgustingly low quality.\n\nI refused to eat for my hospital stay and actually checked myself out in the end. I was no going to consume the grey disgusting filth they put in front of me at that was the end of it.\n\nUtterly shameful state of things here in the UK. I know things have improved a little on that front in the last few years. But still, I am not at all surprised that the incredibly poor nutritional value provided by the food plus it's very low quality meaning patients simply do not eat it which has a dramatic impact on survival rates.",
+            "title_similarity": "0.5959126",
+            "sentiment_compound": -0.9106
+        },
+        {
+            "id": "gxhxt9k",
+            "score": 1,
+            "text": "In short, hospital food can kill you.",
+            "title_similarity": "0.42321822",
+            "sentiment_compound": -0.6908
+        },
+        {
+            "id": "gxhz33a",
+            "score": 1,
+            "text": "Apparently hospital food in Switzerland is almost as bad as in the US.",
+            "title_similarity": "0.6628679",
+            "sentiment_compound": -0.4976
+        },
+        {
+            "id": "gxhz8mg",
+            "score": 1,
+            "text": "This one seems obvious???",
+            "title_similarity": "-0.18715207",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxhz9ur",
+            "score": 1,
+            "text": "Don't get chf. It's pretty preventable",
+            "title_similarity": "0.09356511",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "gxhzp81",
+            "score": 1,
+            "text": "I assume it's because of the sodium. My boyfriend has heart failure (congestive) and he ate pretty well before, but cutting back all the way on sodium made a massive difference. He wasn't storing as much water to put pressure on his very enlarged heart and he could actually breathe.p",
+            "title_similarity": "0.6848095",
+            "sentiment_compound": 0.7762
+        },
+        {
+            "id": "gxi15p1",
+            "score": 3,
+            "text": "Did not read: I bet it's less salt.",
+            "title_similarity": "0.1356805",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxi16e3",
+            "score": 1,
+            "text": "Most people in this thread seem to be focused on the fact that hospital food is bad, however the article kind of just glosses over that a nutritionist (unclear if actually an RD, but either way) counseled the patient every 2-3 days while inpatient, which for someone admitted for CHF exacerbation may be as many as 5 sessions. While it does say they created individual meal plans, these plans probably were still acquired from hospital food services (I'm assuming this because the article doesn't state). So it's not really as much hospital food versus individual food plan, but way whatever you want versus actually eating an appropriate diet",
+            "title_similarity": "0.7405373",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "gxi1f6m",
+            "score": 1,
+            "text": "I read the research abstract but don’t have access to the full document.\n\n\nHow does the study attribute this difference to hospitals food when the diet counseling could have also impacted how they ate at home after being discharged from the hospital?",
+            "title_similarity": "0.5907406",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxi1hnq",
+            "score": 1,
+            "text": "A friend who spent a couple of weeks in hospital after major head surgery was given food devoid of nutrition. It’s peculiar how they seemed so clueless about this.",
+            "title_similarity": "0.7006538",
+            "sentiment_compound": 0.1428
+        },
+        {
+            "id": "gxi1igq",
+            "score": 1,
+            "text": "This shows the worth of a randomized design in science. Uncovering a trend that can implement a life-saving regimen\nBravo!",
+            "title_similarity": "0.17772341",
+            "sentiment_compound": 0.2942
+        },
+        {
+            "id": "gxi3e97",
+            "score": 1,
+            "text": "I was fed twice my self imposed sodium limit while spending 6 days and 7 nights in hospital for HFrEF.  Tasted so bad I could not eat a majority for what was served.  Ice cream, canned fruit and jello was my diet.",
+            "title_similarity": "0.7646686",
+            "sentiment_compound": -0.6995
+        },
+        {
+            "id": "gxi3uw5",
+            "score": 1,
+            "text": "Money is the driving force and higher value than life.",
+            "title_similarity": "0.24035004",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "gxi40vj",
+            "score": 1,
+            "text": "Should artificial intelligence intervene?",
+            "title_similarity": "-0.075799935",
+            "sentiment_compound": 0.4767
+        },
+        {
+            "id": "gxi4jw7",
+            "score": 1,
+            "text": "Statistics can be misleading. There’s no way",
+            "title_similarity": "-0.00790644",
+            "sentiment_compound": -0.5994
+        },
+        {
+            "id": "gxi4m4p",
+            "score": 1,
+            "text": "... because the people with \"personal nutrition plans\" were rich and had the best of everything before and after arriving. I think this is more correlation than causation.",
+            "title_similarity": "0.34507197",
+            "sentiment_compound": 0.8316
+        },
+        {
+            "id": "gxi5lst",
+            "score": 1,
+            "text": "The type of person who is taking their own diet into their own hands is probably healthier in general",
+            "title_similarity": "0.22991721",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxi5m85",
+            "score": 1,
+            "text": "Did they die from starvation? Cus I’ve seen the crap they give people and dog food looks better at times",
+            "title_similarity": "0.5215161",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "gxi5tmt",
+            "score": 1,
+            "text": "Geez! What in God’s name are they serving them? \nA lump of salt?",
+            "title_similarity": "0.19526726",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxi6ab4",
+            "score": 1,
+            "text": "Sounds like food keeps us alive. Thanks Science!",
+            "title_similarity": "0.09317157",
+            "sentiment_compound": 0.807
+        },
+        {
+            "id": "gxi6cld",
+            "score": 1,
+            "text": "Spent a few days in a Canadian hospital a few months ago, and I wanted to die just to escape eating the food. Just had surgery with a big ass tube down my throat for hours (very sore) and they gave me an old and dry sandwich with dry crackers right after I woke up. Like do they even consider the patient?",
+            "title_similarity": "0.7122323",
+            "sentiment_compound": -0.7902
+        },
+        {
+            "id": "gxi6e0u",
+            "score": 1,
+            "text": "so hospitals are the arena where doctors battle cooks. \ni dig it",
+            "title_similarity": "0.3770477",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "gxi6vnm",
+            "score": 1,
+            "text": "I still cannot believe that in places designed to make you well and healthy they serve such depressingly awful food. How do their staff nutritionists justify serving such garbage to patients?",
+            "title_similarity": "0.4524242",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "gxi71z6",
+            "score": 1,
+            "text": "When my friend was studying to be a Doctor I was shocked at how there was no time spent on nutrition. \nBut he did know what medicine to administer. But no idea how to prevent.",
+            "title_similarity": "0.5082277",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "gxi79py",
+            "score": 2,
+            "text": "How can anyone expect good health care from professionals who don't care or understand the importance of diet for health and wellness? ESPECIALLY at a time of physiological and psychological stress, when your body is desperate for nutrients to repair from major surgery/treatment, diet is unbelievably important!\n\nI would also hazard a guess that hospital food in Switzerland is better than many other countries around the world.\n\nIt's factors like this, obesity, and air + water pollution which are the background silent killers. These are the biggest problem we collectively face in regards to our health and wellness, and it's time for the ostrich to pick its head up from the sand.",
+            "title_similarity": "0.6177006",
+            "sentiment_compound": 0.7548
+        },
+        {
+            "id": "gxi7xhh",
+            "score": 1,
+            "text": "I spent a week in the hospital with a kidney infection. I couldn't keep any food or liquid down the whole time. No one ever cared. No one ever told me what I should be trying to eat. No one kept track of my calories in. No dietitian ever saw me. I kept ordering soup and plain rice, brat diet. Still couldn't keep it down. By the end of the stay I was so low on sodium, I had to have 3 iv bags in a row and they were manually squeezing them in faster. \n\nSo this doesnt surprise me at all.",
+            "title_similarity": "0.62007403",
+            "sentiment_compound": -0.8325
+        },
+        {
+            "id": "gxi86ha",
+            "score": 1,
+            "text": "The absolute blindness that western medicine has to nutrition for health still blows my mind.   Nutrition studies are expensive to run properly, bring in moral concerns for some, and hard to finance because no one financially benefits from them so there’s no hard, hard science.   I’d imagine any GP will tell you that their healthiest and unhealthiest patients all share certain habits and traits.  Food choice is certainly in there.",
+            "title_similarity": "0.5348082",
+            "sentiment_compound": 0.7804
+        },
+        {
+            "id": "gxi8dez",
+            "score": 1,
+            "text": "So not LITERALLY nothing.",
+            "title_similarity": "-0.16638616",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxi8f50",
+            "score": 1,
+            "text": "(Cartoon xylophone blink)\n\nBemused.",
+            "title_similarity": "0.08382583",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxi8g8e",
+            "score": 1,
+            "text": "I can only imagine the results if they'd feed another group with regular food from a state hospital in Poland.",
+            "title_similarity": "0.55291045",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxi8rym",
+            "score": 1,
+            "text": "My doctor said hospital food is bad on purpose so you won’t want to stay. Boy is that an effective ploy!!!",
+            "title_similarity": "0.4460766",
+            "sentiment_compound": 0.2593
+        },
+        {
+            "id": "gxi9k8c",
+            "score": 1,
+            "text": "well here is the reason: the Body adapts to what we eat. It optimizes itself to the food we regularly consume. If you throw in some new food it is going to get confused!",
+            "title_similarity": "0.30647847",
+            "sentiment_compound": 0.4389
+        },
+        {
+            "id": "gxi9udg",
+            "score": 1,
+            "text": "Go into hospitals. Offer people some very healthy food for free. Maybe Make some friends.",
+            "title_similarity": "0.4534678",
+            "sentiment_compound": 0.8553
+        },
+        {
+            "id": "gxi9wjz",
+            "score": 1,
+            "text": "Hospital is just trying to drum up continued business",
+            "title_similarity": "0.2108154",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxia8cs",
+            "score": 1,
+            "text": "What we put in our bodies affects our health.",
+            "title_similarity": "0.24200517",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxiabgc",
+            "score": 1,
+            "text": "I'm in the USA. I had a time where I had several surgeries. I  sent hubby out for healthy food from the natural foods store. Hospital food is processed food and unhealthy.",
+            "title_similarity": "0.6287949",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "gxib02i",
+            "score": 1,
+            "text": "I can’t find a source for this, but I’ve read before that this sort of thing often comes down to patient choices. If patients are offered “comfort food” or healthy food (usually higher cost also) they choose comfort food. If they are only offered healthy food they sometimes will not eat it, which is also detrimental. The reason a diet plan can be needed is because of the person has never eaten certain foods it won’t agree with them, which is also detrimental.  \nIt’s definitely an area that science need to look closer at, but it also will need some very nuanced solutions that will be hard to implement for most health systems.",
+            "title_similarity": "0.49637187",
+            "sentiment_compound": 0.9501
+        },
+        {
+            "id": "gxiberf",
+            "score": 1,
+            "text": "It’s so sad to see that hospitals feed people so poorly. At the end of the day, it’s not about health, it’s about money. Hospitals are a business and to feed people healthy meals, cuts into their profits. If hospitals were all about making people healthier and making sure everyone was looked after well, they wouldn’t be serving people such crap and be so understaffed.",
+            "title_similarity": "0.5931734",
+            "sentiment_compound": 0.204
+        },
+        {
+            "id": "gxibpvf",
+            "score": 1,
+            "text": "Was in the hospital for 10 days once. Could not believe how bad the food was. Would’ve been 1999. The bill was $80k (90’s buxxx. Seems like a deal now, right?)\n  \nBut for that kind of money, I mean. Holy smokes. Super demoralizing day in and day out to have such crappy food.",
+            "title_similarity": "0.75978",
+            "sentiment_compound": 0.481
+        },
+        {
+            "id": "gxibtc7",
+            "score": 1,
+            "text": "Love this study! As an RD (Registered Dietitian), I can personally say it’s a constant struggle to that I need to emphasize the positive impacts of early nutrition. I don’t have full access to the study, so I can’t dive into the limitations as much as I’d like. \n\nI do want to note that along with a personal nutrition plan from an RD, the RD was checking up on the patient every one or two days. This is a rarity. The most I will be able to check up on my patients is AT MOST twice a week, and normally those are reserved for patients on tube feeds/TPN. Having the luxury of time to provide more check-ins is something that all healthcare professionals should have access to.\n\nAgain, couldn’t read the full study, but it seemed like that along with the nutrition personal plan, the RD was providing counseling/finding motivators. Having the time to be able to provide empathetic care  and understanding the patients story makes such a HUGE improvement in the patient’s intake. \n\nIf anyone does have access to this study, I would love to see the average percentage of “standard hospital diet” plate eaten compared to the “personalized nutrition plan” plate. \n\nThe unfortunate part is that I don’t get consulted for every patient. If I don’t get consulted, I can’t see the patient. The patient could be at a high nutrition risk without me knowing because I was never consulted. Not bashing on other disciples for not consulting me, but explaining ways that RDs could be more involved.\n\nI think this study goes a long way in how we need to transform healthcare as a whole and be able to involve RDs more.",
+            "title_similarity": "0.66833097",
+            "sentiment_compound": 0.977
+        },
+        {
+            "id": "gxic4hk",
+            "score": 1,
+            "text": "Hospitals are NOT restaurants.   I don’t expect good food from hospitals.  I expect good medicine.  Do you expect good food from a funeral home?  Auto body shop?  I hate food from hospitals.   Absolute trash.",
+            "title_similarity": "0.43410918",
+            "sentiment_compound": 0.4329
+        },
+        {
+            "id": "gxid7bm",
+            "score": 1,
+            "text": "Last time I checked, hospitals are businesses. Money has always been the aim. How can u change something like that?",
+            "title_similarity": "0.5384776",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "gxidk0w",
+            "score": 1,
+            "text": "Does the study accounts for food items brought by family/SO to the patient?",
+            "title_similarity": "0.45249152",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxiez5f",
+            "score": 1,
+            "text": "I knew hospital food was bad...this more than confirms it",
+            "title_similarity": "0.35984814",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxiezp2",
+            "score": 2,
+            "text": "I work with heart failure patients every day. This shouldn’t be news to anybody. It’s standard of care for heart failure patients to be on a restricted diet. “Regular hospital food” is not the sodium restricted diet that heart failure patients should be eating. We’ve known this.",
+            "title_similarity": "0.62267447",
+            "sentiment_compound": 0.7568
+        },
+        {
+            "id": "gxifn76",
+            "score": 1,
+            "text": "Pretty mind blowing isn’t it! I mean one would expect the hospital to have the healthiest food on the planet!",
+            "title_similarity": "0.39556557",
+            "sentiment_compound": 0.5837
+        },
+        {
+            "id": "gxig0k3",
+            "score": 1,
+            "text": "The food was so bad they wanted to die?",
+            "title_similarity": "0.363895",
+            "sentiment_compound": -0.8552
+        },
+        {
+            "id": "gxiga7u",
+            "score": 1,
+            "text": "Every time I've seen a chronic heart failure person in a hospital.. they are on a specialized diet.   Low sodium..etc...   is that a \"personal nutrition plan\"?",
+            "title_similarity": "0.74294835",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "gxigl82",
+            "score": 1,
+            "text": "Honestly feels comforting to know that my country isn't the only place where publicly served food (school lunches, hospitals, jail) isn't actually edible food. Only thing is I expect mine might be worse.",
+            "title_similarity": "0.44822857",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "gxihq81",
+            "score": 1,
+            "text": "I was in a hospital once and the food I was fed caused a reaction and they thought I had some strange disease...the food was the problem.",
+            "title_similarity": "0.5840138",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gxii8x5",
+            "score": 2,
+            "text": "It's hard to realize how backwards the approach is to hospital dining. It's not even just that they make food for mass consumption, it's that they *largely make unhealthy food for mass consumption* in a place that supposed to help people improve their health. Somehow nutrition isn't factored into improving patient outcomes? It's bewildering",
+            "title_similarity": "0.49628145",
+            "sentiment_compound": -0.1361
+        },
+        {
+            "id": "gxijw8x",
+            "score": 1,
+            "text": "\"Within two days of being hospitalized, half the patients in the trial received nutritional support from a trained registered dietician, who helped them identify and achieve their energy, protein, and micronutrient goals with individualized meals and check-ups every one or two days.\nBefore they were discharged, these patients also received dietary counseling and nutritional supplements if needed.\"\n\nThis is my job. I'm a dietitian and this is what I do for patients in the hospital. \nThe title is misleading, the article isn't talking about the effect of hospital food but rather the impact of a dietitian.",
+            "title_similarity": "0.73547673",
+            "sentiment_compound": 0.1406
+        },
+        {
+            "id": "gxikmfm",
+            "score": 1,
+            "text": "wonder what else is bad in hospitals for people",
+            "title_similarity": "0.39494756",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gxikotc",
+            "score": 1,
+            "text": "It make sense that when your body is fighting for survival that it would imperative that it has the right nutrients to give you the best chance.",
+            "title_similarity": "0.08994655",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "gxilb4y",
+            "score": 2,
+            "text": "My entire family works in healthcare, and i both grew up in hospitals and have worked in a hospital personally. The food that most hospitals serve may genuinely have less nutritional attention than mcdonalds, not an exaggeration. Disregard that most hospital kitchens won’t make accomodations for nearly any alternative diet even if it’s being done for health concerns which i have witnessed personally.",
+            "title_similarity": "0.70586145",
+            "sentiment_compound": 0.2057
+        },
+        {
+            "id": "gximhtw",
+            "score": 1,
+            "text": "Hospitals are lonely, depressing and stressful places and all of those things have physical effects of general health and the recovery of people who have experienced mental and physical trauma from disease or injury.\nFood... regardless if its nutritional value is often used by people to give themselves comfort.\nI could easily see a sudden change is quality, nutritional value, quantity, frequency and variety having a detrimental effect on anyone over an extended stay.",
+            "title_similarity": "0.5596303",
+            "sentiment_compound": -0.6486
+        },
+        {
+            "id": "gximoqo",
+            "score": 1,
+            "text": "My sister and bro-in law are nurses and they said the food is loaded with sodium. Maybe that’s a factor?",
+            "title_similarity": "0.5306049",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gximxo9",
+            "score": 1,
+            "text": "Really!? Who knew diet was linked to health?",
+            "title_similarity": "0.32217395",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxin0p9",
+            "score": 1,
+            "text": "Do I understand this wrong or are these tests unethical? Giving people who had chronic heart failure the wrong diet sounds wrong.",
+            "title_similarity": "0.48605412",
+            "sentiment_compound": -0.8697
+        },
+        {
+            "id": "gxiofnz",
+            "score": 1,
+            "text": "Most of this could be fairly automated. All the data is collected by the hospital about what they need and don't need, then it can just be matched up against the food that gives them what they require. Money saved here will surely pay for part of that dietary food.",
+            "title_similarity": "0.56137526",
+            "sentiment_compound": 0.6486
+        },
+        {
+            "id": "gxipcsc",
+            "score": 1,
+            "text": "I wouldn’t be surprised if it was the same, if not worse in the USA. I’ve had countless meals at the hospital due to my GF having several surgeries and the only really healthy thing that’s served there is a salad, which isn’t all that healthy after being smothered in dressing. The rest are things like Pizza and burgers and tacos. One or two isn’t bad but when that’s all you’re eating for your entire stay, I can only guess as to what that’s doing to your body.",
+            "title_similarity": "0.72385716",
+            "sentiment_compound": 0.4808
+        },
+        {
+            "id": "gxipllf",
+            "score": 1,
+            "text": "This is why I pack my lunch when I go to work. Saved my self 6 years and counting of garbage salt loaded cafeteria food. It's appalling",
+            "title_similarity": "0.57686794",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "gxipxrb",
+            "score": 2,
+            "text": "As someone that’s been hospitalized, I am absolutely not shocked by this.\n\nHospital oatmeal is glue. No one can convince me otherwise.",
+            "title_similarity": "0.32485747",
+            "sentiment_compound": 0.2594
+        },
+        {
+            "id": "gxiq5p6",
+            "score": 1,
+            "text": "Thank god my parents always brought homemade food whenever I get confined in the hospital as a kid.",
+            "title_similarity": "0.6018044",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "gxira20",
+            "score": 1,
+            "text": "Exciting to read as a registered dietitian who works in a hospital!!",
+            "title_similarity": "0.43986064",
+            "sentiment_compound": 0.5837
+        },
+        {
+            "id": "gxirabt",
+            "score": 1,
+            "text": "Does anybody know if this study controlled for the extra attention the patients with the personal nutrition plan got? I find it really odd that the effect is so quick.",
+            "title_similarity": "0.4831355",
+            "sentiment_compound": -0.3804
+        },
+        {
+            "id": "gxirf0g",
+            "score": 1,
+            "text": "I had an extended hospital stay once. I quite liked the food.",
+            "title_similarity": "0.40921426",
+            "sentiment_compound": 0.4754
+        },
+        {
+            "id": "gxirgdr",
+            "score": 1,
+            "text": "Was recently in the hospital for diverticulitis, after a few days of clear liquids I was finally allowed full liquid...they brought me some thick soup which I wolfed down and about an hour later realized it had dairy in it...I am lactose intolerant (this was noted on my chart and on my food service ticket). Needless to say, had a pretty rough night.\nAlso, surprised I didn’t leave the hospital with diabetes given the amount of sugar in what they served me.",
+            "title_similarity": "0.7437824",
+            "sentiment_compound": 0.7579
+        },
+        {
+            "id": "gxishfl",
+            "score": 1,
+            "text": "I used to work on a cardiology unit as a CNA. Although some of the patients were “diet” restricted, they still could order as much food as they wanted. And they often would sneak in outside food. I wonder if they took this into account during the study",
+            "title_similarity": "0.55720556",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "gxisq94",
+            "score": 2,
+            "text": "To confirm this try and get fresh fruit for a meal...or any fruit at all. Kaiser California couldn't do it.",
+            "title_similarity": "0.32128724",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "gxit974",
+            "score": 13,
+            "text": "I worked with terminal patients (typically heart failure, Alzheimer’s, and/or cancer) for 5 years. \n\nI honestly feel one of the most meaningful things was small cheat meals. The patients often had no salt, no sugar, little fat diets but with prognosis of very limited time remaining. One guy loved fried chicken and went on a hunger strike because they had him on what he called “the cardboard diet” (every thing tastes like cardboard). I double checked with a Pharmacist and couple of floor nurses and gave him a single piece of fried chicken three times a week. He went from having his family discuss forcing a feeding tube to willingly eating. While this doesn’t work in all cases, terminal cases IMO should be about patient comfort (within reason). The guy just wanted some fried chicken :(",
+            "title_similarity": "0.7105195",
+            "sentiment_compound": 0.5928
+        },
+        {
+            "id": "gxitq1k",
+            "score": 1,
+            "text": "I gotta say, the magnitude of this effect is quite surprising. I hope this is replicated.\n\nThis should immediately change the way food is managed in hospitals, in extremely short order.",
+            "title_similarity": "0.39241746",
+            "sentiment_compound": 0.6764
+        },
+        {
+            "id": "gxity05",
+            "score": 1,
+            "text": "Hospitals need better food",
+            "title_similarity": "0.32116553",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "gxivci2",
+            "score": 1,
+            "text": "We need more studies like this one. Hopefully, better controlled.",
+            "title_similarity": "0.09964851",
+            "sentiment_compound": 0.8115
+        },
+        {
+            "id": "gxixbgz",
+            "score": 1,
+            "text": "In the us when I was in TBI rehab, we only had no salt added food, besides chicken tendies of course",
+            "title_similarity": "0.48681575",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "gxixsbj",
+            "score": 1,
+            "text": "My dad with stage four cancer gets jello, pancakes covered in maple syrup, super processed bacon, chocolate pudding, PBJ on white bread, and not a single fruit/vegetable during his stays at the hospital. Nothing but processed added sugars and hyper processed factory farm meats…you know, the things that are literally causing cancer in so many people.",
+            "title_similarity": "0.65257764",
+            "sentiment_compound": -0.81
+        },
+        {
+            "id": "gxiy0cf",
+            "score": 1,
+            "text": "I always heard hospital food was bad but I never would have guessed its THAT bad.",
+            "title_similarity": "0.48358008",
+            "sentiment_compound": -0.7906
+        },
+        {
+            "id": "gxiyk7o",
+            "score": 1,
+            "text": "I don’t understand why hospitals here in US are serving burgers, pizza and other junk food. I saw patients are getting enchiladas and burgers in a birthing center.",
+            "title_similarity": "0.55421877",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxiz27f",
+            "score": 1,
+            "text": "My mother was in the hospital, last year, and I saw her food. It didn’t look appetizing at all.\n\nIf someone is in the hospital, I think we should be giving them really-really good food.\n\nWe are what we eat. To feel good, one must eat well, no?",
+            "title_similarity": "0.6069154",
+            "sentiment_compound": 0.8519
+        },
+        {
+            "id": "gxizeeh",
+            "score": 1,
+            "text": "wow I would accept that in my country, but Switzerland? Seems like hospitals everywhere only care about how to make the cheapest, plainest food that just about covers basic nutritional needs.",
+            "title_similarity": "0.5111859",
+            "sentiment_compound": 0.8945
+        },
+        {
+            "id": "gxj0hww",
+            "score": 2,
+            "text": "Pays 120,000$ for a visit, gets fed nutrient deficient food.",
+            "title_similarity": "0.6195367",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxj0ok5",
+            "score": 1,
+            "text": "When I'm in the hospital, I am always on a renal, diabetic diet.",
+            "title_similarity": "0.58709824",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxj1klw",
+            "score": 1,
+            "text": "I'll definitely keep this in mind for the next time I'm in a Swiss hospital for chronic heart failure & hungry",
+            "title_similarity": "0.59599245",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "gxj2k6q",
+            "score": 1,
+            "text": "So the question is:\n\nDo patients have the choice to get personal nutrition plan if they want instead of the regular hospital food or is that something extra the patients have to find personally outside of the hospital?",
+            "title_similarity": "0.49334094",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "gxj375p",
+            "score": 1,
+            "text": "Patients don’t often want the “heart healthy” diet option at our hospital.",
+            "title_similarity": "0.60102975",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "gxj3g8b",
+            "score": 1,
+            "text": "Just one bad review for the Staphylococcus Grill.",
+            "title_similarity": "0.35852402",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gxj3hy6",
+            "score": 1,
+            "text": "Something about assisted dying and the canteen.",
+            "title_similarity": "0.2901248",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxj45s1",
+            "score": 1,
+            "text": "There’s no accountability for whether or not the hospital food is even eaten which I can attest to because the hospital my husband was in for a triple bypass almost starved for two weeks before they realized his digestive system had shut down after the operation.",
+            "title_similarity": "0.76761997",
+            "sentiment_compound": -0.6712
+        },
+        {
+            "id": "gxj46vu",
+            "score": 1,
+            "text": "I guess I never considered the fact the hospital food could actually kill someone",
+            "title_similarity": "0.38286445",
+            "sentiment_compound": -0.6908
+        },
+        {
+            "id": "gxj4een",
+            "score": 1,
+            "text": "I am not surprised by this at all. The last time I heard of any praise for hospital food, it was about the meals served at the Michael Reese hospital in Chicago, and it’s been gone a good ten years or more.",
+            "title_similarity": "0.6669954",
+            "sentiment_compound": 0.7035
+        },
+        {
+            "id": "gxj4fu2",
+            "score": 1,
+            "text": "I work for the Food and Nutrition Service's department for a level 1 trauma center. Every patient we receive will be given a diet order by the doctor and dieticians. These can range from NPO (nothing by mouth) dysphagia (patient has problems swallowing), AHA Step 1 (American Heart Association. Low sodium diet), and various other specialized diets. There are diets for people with cancer/immunocompromised and even renal (kidney) diet orders. The point being that what you're feeding yourself is extremely important. Even more so when suffering from an ailment. The way to one's heart is through their stomach. Food is an important healing tool. I love food and everything that encompasses food service in a healthcare setting.",
+            "title_similarity": "0.62635183",
+            "sentiment_compound": 0.7392
+        },
+        {
+            "id": "gxj4ssh",
+            "score": 1,
+            "text": "The day after my Dad had a heart attack I visited him in hospital. They had just served him a roast pork dinner. I was speechless",
+            "title_similarity": "0.6522123",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "gxj54bq",
+            "score": 3,
+            "text": "It’s all fun and games until someone tries to stick a chicken nugget in grandma’s trach. \n\n\nI wish I was kidding.",
+            "title_similarity": "0.35972464",
+            "sentiment_compound": 0.7506
+        },
+        {
+            "id": "gxj5p16",
+            "score": 1,
+            "text": "One time I got two slices of bread and a yogurt. Nothing to put on the bread, just bread. And yogurt... thank god.",
+            "title_similarity": "0.3626793",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "gxj5z9q",
+            "score": 1,
+            "text": "Hospital food kills your will to live.",
+            "title_similarity": "0.4006062",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gxj75ei",
+            "score": 2,
+            "text": "I'm a US physician.\n\nThe first issue I notice is that the article mentions the control group receiving \"standard\" or \"regular\" hospital food (not expanded upon in the free version of the linked study). To me this implies the patients were receiving a *general diet*.\n\nIf that's the case I'd argue this is against the standard of care. Patients who have CHF and are admitted (regardless of whether CHF is related to their reason for hospitalization) will be given either a *cardiac diet* or a sodium restricted diet (typically 2000mg/day or less whereas general diet is 2400mg/day). A cardiac diet is also restricted in fat/cholesterol, but these are much less important than sodium in the short term. Eating bad fats may increase your risk of adverse cardiac events in years to decades, but one overly salty meal can throw a CHF patient into an acute exacerbation and land them in the hospital for IV diuresis (if you think this is a joke, ask any ER doc or hospitalist whether they notice an uptick in CHF admissions right after Thanksgiving).\n\nHaving said that, I will say that registered dietitians do seem to be underutilized in the acute inpatient setting. My guess is that this isn't because doctors don't think nutrition is important, it's just that the medical problems will always take precedence. Another issue may be availability. Smaller community hospitals may only employ one dietitian, but have an average inpatient census of 50+ patients. There's just no logistic way to get a nutrition consult on every patient in that environment, so the patients with acute nutritional concerns (TPN/PPN, tube feeds, etc) are going to be the main focus. An otherwise stable CHF patient is not really a priority from a nutrition standpoint in that scenario.\n\nAnd on discharge- it is a real nightmare trying to get dietitian services covered for an outpatient. If the patient's insurance will cover it at all, it's usually only for specific diagnoses (obesity, diabetes). Most patients in my experience are not willing to pay out of pocket for counseling from a dietitian (and yes, I'm aware this is a symptom of much larger problems with the US healthcare system).",
+            "title_similarity": "0.68459237",
+            "sentiment_compound": -0.7092
+        },
+        {
+            "id": "gxj7nfj",
+            "score": 1,
+            "text": "That’s cause hospital food is basically a buffet.",
+            "title_similarity": "0.35025108",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxj8fsh",
+            "score": 1,
+            "text": "\"Among hospitalized patients with chronic heart failure at high nutritional risk\"\n\nThat is, patients where nutrition is an identified factor in their condition fared better with specific nutritional interventions. Shocker. This has nothing to do with the quality of the hospital food.",
+            "title_similarity": "0.65407753",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "gxj8gvq",
+            "score": 1,
+            "text": "When I broke my arm I brought my own food with me for good reason.",
+            "title_similarity": "0.36562774",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "gxj8hm8",
+            "score": 1,
+            "text": "It's almost if people cant live off of nothing",
+            "title_similarity": "0.18989594",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxja5j0",
+            "score": 1,
+            "text": "My wife and I just had a baby. I think the hospital food may have given me food poisoning",
+            "title_similarity": "0.61324453",
+            "sentiment_compound": -0.5859
+        },
+        {
+            "id": "gxjaazj",
+            "score": 1,
+            "text": "So, what I'm hearing is hospital food kills you. Seems entirely plausible.",
+            "title_similarity": "0.39652973",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "gxjblfn",
+            "score": 1,
+            "text": "The hospital food where I am is ok. Maybe more greasy than what I eat at home though.",
+            "title_similarity": "0.46926045",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxjdtxw",
+            "score": 1,
+            "text": "I work at a great organization in Denver called Project Angel Heart.  They design, cook, and deliver nutritionally balanced meals to those with chronic or acute medical needs.  It's a great non-profit and I wish more cities had such opportunities available to their sick members.  Thanks for the post OP!",
+            "title_similarity": "0.4955118",
+            "sentiment_compound": 0.9558
+        },
+        {
+            "id": "gxjeazc",
+            "score": 1,
+            "text": "Recently had my son. Had to stay in the hospital for a few days with my girl because covid and I can say hospital food is by far the worst I’ve ever had in my entire life. So bad it seems intentional",
+            "title_similarity": "0.73637164",
+            "sentiment_compound": -0.8622
+        },
+        {
+            "id": "gxjeoud",
+            "score": 1,
+            "text": "Amazing! I like the study design! So simple and so effective to do a nutritional study in the hospital. They are so complicated to do because you can't really control what people eat and changing their diet for a study is difficult. But in a hospital you can perfectly control what the patients are eating. I guess the nutrition really is this important and the underlying condition doesn't matter that much.",
+            "title_similarity": "0.4801278",
+            "sentiment_compound": 0.9344
+        },
+        {
+            "id": "gxjfr8k",
+            "score": 1,
+            "text": "hahahah n=645 xD In different hospitals with different food, jeez. That is a laughable study. Srsly. 645 Patients, uncomfortable and unknown environment. Statistically really weak study.",
+            "title_similarity": "0.6080088",
+            "sentiment_compound": -0.2006
+        },
+        {
+            "id": "gxjfxjq",
+            "score": 1,
+            "text": "I spent 6 weeks in the hospital in the US. I didn’t eat any of the food any of the days. Maybe a couple bites of a grilled cheese. It was disgusting and not real food. Honestly, a sandwich on Hawaiian bread would have been more edible. I survived on boost drinks, jello and graham crackers. None of the food was food I would ever eat at home in real life. People need to eat food. Real food. Not whatever the food that food is.",
+            "title_similarity": "0.6030612",
+            "sentiment_compound": 0.0986
+        },
+        {
+            "id": "gxjim3r",
+            "score": 1,
+            "text": "Not surprising when you consider that most medical students learn absolutely nothing about the importance of diet. The whole profession itself takes very much a reactionary versus a preventative approach towards most health problems, which means diet is not considered while drugs and treatment is the priority.\n\nI guess it makes sense from a business standpoint you have more to gain when things go wrong, although this shouldn't be what it's about. Also, don't want to piss off major food companies (benefactors).",
+            "title_similarity": "0.4784639",
+            "sentiment_compound": -0.5086
+        },
+        {
+            "id": "gxjkl1g",
+            "score": 1,
+            "text": "I bet it’s worse here in NA.\n\nCanada here. Was t-boned about 10y ago. Spent 3 days in the hospital. The first night I ask for some food (was admitted about 6pm). The nurse said they were done with dinner but said she’d find something.\n\nCame back with a tiny scoop of hard mashed potatoes (obviously made from powder) and some mixed carrots and string beans that would out rubber food to shame. I ate neither and wheeled myself to the Tim’s just down the hall.\n\nNext day no breakfast and dinner was basically a TV tray dinner that made the potatoes look pretty damn decent. Wondered then how people were supposed to get better when fed this garbage.\n\nThis world continues to baffle me.",
+            "title_similarity": "0.7074852",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "gxjl8x0",
+            "score": 1,
+            "text": "… so the ethics boards in Switzerland are pretty lax it seems",
+            "title_similarity": "0.36051714",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "gxjoflo",
+            "score": 1,
+            "text": "Dad was in hospital for 3 weeks due to COVID aftermath. Once his appetite had returned by the second week, he BEGGED us to bring a small hamper every couple days. \n\nThey expected him to live on a fraction of his recommended caloric intake, which those “meals” spread far apart. Apparently there were a few guys in his ward having their families bring them a bunch of food as well. \n\nHow are you supposed to rest and recover when you feel like you’re starving to death?",
+            "title_similarity": "0.8024688",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "gxjqtkq",
+            "score": 1,
+            "text": "No ethical questions with this study? It was a big impact.",
+            "title_similarity": "0.14942862",
+            "sentiment_compound": -0.4023
+        },
+        {
+            "id": "gxjtdnv",
+            "score": 2,
+            "text": "I literally had to take milk, pudding, jello, and mash potatoes away from my dialysis patient an hour ago ..  why give this man who is going through renal failure due to diabetes and high blood pressure   all that food that is terrible for him?. Don't get me started on the feeds they give  patients who can't swallow . That glucerna crap  just gives them diarrhea all day .",
+            "title_similarity": "0.7069467",
+            "sentiment_compound": -0.8807
+        },
+        {
+            "id": "gxjtyd4",
+            "score": 1,
+            "text": "Basically, if you have a relative in hospital, please bring them good food.",
+            "title_similarity": "0.39029875",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "gxjw11w",
+            "score": 1,
+            "text": "You know how ghetto hospital food is? Shiiit my big local hospital has a salad bar, but other than that it's pretty much straight fried deli food and stuff.",
+            "title_similarity": "0.49364865",
+            "sentiment_compound": 0.7684
+        },
+        {
+            "id": "gxjwgr5",
+            "score": 1,
+            "text": "All of the diet literature the hospital gave me after having my aortic valve replaced would literally have killed me. Their guidance assumed that every person who had heart surgery had it because they were obese and need a better diet.\n\nI'm my case, I suffer from an extremely high metabolism, no desire to eat, and am on blood thinners. \n\nA diet high in low calorie, vitamin k rich vegetables is really, really bad for me. \n\nI had to sign pretend contacts saying I would attempt to follow their diet and that I understood the risk of not doing so. It was honestly really offensive and disappointing. \n\nI paid a lot of money for that experience too.",
+            "title_similarity": "0.6537845",
+            "sentiment_compound": -0.8598
+        },
+        {
+            "id": "gxjx4cg",
+            "score": 1,
+            "text": "Something else insurance wouldn't cover and hospitals tack on exorbitant fees for.\n\nSouthern US",
+            "title_similarity": "0.3363589",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxk6i88",
+            "score": 1,
+            "text": "The hospital I work at used private caterer for the foods - so ya the foods suck!",
+            "title_similarity": "0.48725897",
+            "sentiment_compound": -0.4926
+        },
+        {
+            "id": "gxkctlw",
+            "score": 1,
+            "text": "Normally a hospital does not cater for food based on each patient's need unless specified. \n\nIs the finding not already a foregone conclusion everywhere?",
+            "title_similarity": "0.54530025",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxkmnix",
+            "score": 1,
+            "text": "Isn’t this standard practice? I’ve been hospitalized a couple of times and always had my diet personalized by a nutritionist with doctor’s input.",
+            "title_similarity": "0.6084086",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "gxktqsh",
+            "score": 1,
+            "text": "I’m not all that surprised honestly? Higher risk of contamination and all.",
+            "title_similarity": "0.24752857",
+            "sentiment_compound": 0.0603
+        },
+        {
+            "id": "gxlrewi",
+            "score": 1,
+            "text": "I don’t find this surprising at all. i spent 30 days in the hospital and ended up having my colon removed and an ostomy bag for 9 months. \n\nDuring that 30 days i was on an incredibly restricted diet. toast- specifically white bread and butter was what i wanted and could eat but no matter how many times i begged i would  be sent wheat toast with margarine along with a mess of eggs or pancakes i couldn’t eat.\n\nMany nurses privately told me i should have my family bring in my food, so i did, until my mom’s homemade soup started disappearing out of the nurse fridge. \n\nby day 25 i felt and looked skeletal. I demanded the doctors do something bc i felt i was starving to death. when they weighed me i had lost almost 30 lbs, now well into underweight for my height, i weighed 110 lbs. \n\nOn my very last day i got white toast with butter. it took 30 days to get something on my approved diet list. \n\nthis was major boston hospital too, should anyone think this happened in a rural or less developed place I have no doubt that hospitals inability to follow the diets their own doctors provide causes all kinds of problems we don’t necessarily see bc they don’t result in death.",
+            "title_similarity": "0.7300116",
+            "sentiment_compound": -0.9732
+        },
+        {
+            "id": "h6tu5y7",
+            "score": 1,
+            "text": "Oh man, I had anti-reflux surgery 5 weeks ago. Room was nice, staff was nice, but the food was just horrible! I just pray that I won't ever have to stay in a hospital for more than a week. I would definitely die of malnutrition.",
+            "title_similarity": "0.72412264",
+            "sentiment_compound": -0.4753
+        }
+    ]
+}

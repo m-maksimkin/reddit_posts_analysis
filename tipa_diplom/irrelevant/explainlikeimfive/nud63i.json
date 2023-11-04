@@ -1,0 +1,460 @@
+{
+    "ELI5: Why did old TVs require that the channel be on 3 before accessories like VCRs and game consoles could work on them?\nAnyone who grew up in the CRT era of TVs remembers that you had to turn the channel to 3 before you turned on the VCR or game console. Otherwise, the picture would not work. Why was this so necessary?\n\nEdit: woah this blew up while I wasn't looking! Thanks for the replies!": [
+        {
+            "id": "h0x1nhl",
+            "score": 2,
+            "text": "You only had to do that when connecting via the TV's antenna or coax jack. With any other inputs, like composite or s-video, you did not.\n\nAs for why, it's self-evident, don't you think?  With the tuner input, stations are selected by channel. Your VCR or game console \"station\" can't broadcast on EVERY channel, so you have to tune into its channel.",
+            "title_similarity": "0.7448338"
+        },
+        {
+            "id": "h0x3njm",
+            "score": 24,
+            "text": "Can someone explain like I'm 5 instead of talking about switchboxes, frequencies, bleed-over, accessories and TV transmitters. Fack",
+            "title_similarity": "0.54727596"
+        },
+        {
+            "id": "h0x13uz",
+            "score": 1,
+            "text": "My CRT TVs didn't have the channel option, but rather a TV/Video button you had to push on the remote. It sucked because if the remote stopped working, you would have to get another one and hope its version of the button worked. We had a couple that didn't work, and one that did work and was only used for that one button lol.",
+            "title_similarity": "0.77264833"
+        },
+        {
+            "id": "h0yg94g",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.08354552"
+        },
+        {
+            "id": "h10yb1u",
+            "score": 0,
+            "text": "Rule 2.\n\nr/gaming might know better, or you can find this from a web search or on Wikipedia.",
+            "title_similarity": "0.4074096"
+        },
+        {
+            "id": "h0xeh29",
+            "score": 1,
+            "text": "If you look at a modern TV, you will see HDMI inputs labelled HDMI1, HDMI2, et cetera.  If you connect something to HDMI2, you won't see anything if the TV is set to HDMI1, you have to put it on HDMI2.  You have to match the input number on the cable connection and the TV.\n\nOld TVs only have 1 connector but internally has several numbered inputs running together.  Many old devices have a switch that selects channel 3 or channel 4.  Some only have channel 3, and a few have several channel numbers.  The TV has to match the input channel just like the HDMI numbers have to match on a new TV.",
+            "title_similarity": "0.79217535"
+        },
+        {
+            "id": "h0yymjj",
+            "score": -1,
+            "text": "Seems you are specifically saying you had to turn the TV to 3 before turning on the accessory or else the image wouldn't work? I've never seen a single TV that needed a specific order like that and I think you're either misremembering or you weren't alive then. Does anyone else remember it this way?",
+            "title_similarity": "0.8896776"
+        },
+        {
+            "id": "h0ws1bx",
+            "score": 30,
+            "text": "You would have your normal cable line that had all the channels on it. You would plug this into your VCR. You plug another cable from your VCR into your TV.\n\nWhen your VCR was idle, it would just forward the signal from its line in onto its line out. However, when your VCR was on, it would interrupt the signal for one channel and put its own signal on that channel instead.",
+            "title_similarity": "0.6953026"
+        },
+        {
+            "id": "h0x8dpi",
+            "score": 23,
+            "text": "It's a cultural thing. In the UK we had two dedicated AV channels which didn't take up existing channel slots. And as far as I can tell, this is still the case for TV that don't have digital channels built into them.",
+            "title_similarity": "0.58192873"
+        },
+        {
+            "id": "h0x0doa",
+            "score": 11,
+            "text": "The joy when you found the right channel and you could hear the music and see Mario jumping around.\n\nYou can hear it in your head now, right?",
+            "title_similarity": "0.44277495"
+        },
+        {
+            "id": "h0x4lzg",
+            "score": 4,
+            "text": "You used to have to hook up consoles to TVs using something called an \"RF adapter\" - radiofrequency adapter.  This adapter would sit between antenna/cable and your TV.  The way it would work is it would knock out the signal on that channel and replace it with that from your console.  These adapters were noisy and sucked.  For car audio, before aux inputs became standard on cars, they used to sell adapters that worked in a similar manner - you'd plug them into the cassette tape in the stereo, and they'd broadcast a really strong signal on a certain FM channel and occlude whatever was supposed to come over the radio that way, and those adapters also sucked and were noisy.",
+            "title_similarity": "0.6996143"
+        },
+        {
+            "id": "h0wrffj",
+            "score": 18,
+            "text": "The accessory had a built inn TV transmitter. It would not output a high power signal so you could not use it to transmitt the signal over the air very far. But if you connected it to the antenna cable in your house it would be picked up by the TV. You would often be able to select what channel to transmitt on which would have to match the channel on your TV. But some channels such as channel 3 and 7 were common ones. This would be so that you did not accidentally transmitt on the same channel as your local TV station as then you would not be able to watch this TV station.",
+            "title_similarity": "0.75720716"
+        },
+        {
+            "id": "h0xmibf",
+            "score": 22,
+            "text": "Is this a US spesific thing? Cause I had several CRTs growing up, the oldest one being from the 70s (which only has 2 tunable channels), and every one of these would work directly with game consoles.",
+            "title_similarity": "0.61406434"
+        },
+        {
+            "id": "h0xer6x",
+            "score": 6,
+            "text": "each channel is a different frequency.  let's pretend that you have three people sending notes to three other people, but they're couples, and you can't mix the notes up.  you mark each note with a color.  now each person knows which note is theirs when they arrive\n\nfrequency is how they're all sent together but the tv can know how to separate the channels\n\nold tv's didn't have extra inputs.  it was the antenna or nothing.  so you have to get a splitter so you can have more than one thing going in.  and to the tv, it doesn't know what's connected.  it just looks for the tv signals, so basically a signal that has all of those frequencies (like the colors in my example).  so the vcr and nintendo and such all came with their frequency set to use the frequency that channel 3 is.  (but not all, some used different ones, but not often)  \n\nso, to be clear, let's say in the people example, let's say these notes are like the written subtitles for the different tv stations.  you now get a new source of subtitles, how about a nintendo game.  you just know that all extra sources send notes with a red label.  so to view these outside sources of information, you have to go to the red note guy, as he is receiving them.\n\nand in the same way, the tv just thinks you want to watch whatever is being broadcast on channel 3.  it thinks you're receiving this from the antenna.  it doesn't know that you have a vcr or nintendo\n\ni think either 3 was the least used tv channel or maybe it was set aside for this purpose, but it's what everyone used for extra sources of media",
+            "title_similarity": "0.77046764"
+        },
+        {
+            "id": "h0wt8d5",
+            "score": 592,
+            "text": "Very similar to those audio device adapters which transmit on particular FM station frequencies, it's a very very localized pirate radio station.\n\nExcept the switchbox was a direct interface to the antenna input, and did not transmit into the air.  Channel 3 is a particular frequency and was commonly unused in most places (over the air) so there would be less interference/collision.  If you area did have a channel 3 over the air then you had the choice of 4.  And no market had channels immediately next to each other due to bleed-over, so if you had a 3 you didn't have a 4 or if you had a 4 you didn't have a 3.  Usually the channels were 2,5,7,9,11 or such, nicely spread out, many markets didn't have a 3 OR 4 at all.\n\nOf course when over the air was mostly replaced by cable, there was less need for channel separations.  And digital has no neighbor-bleed problem at all.",
+            "title_similarity": "0.65370184"
+        },
+        {
+            "id": "h0xi5sh",
+            "score": 16,
+            "text": "I never got this - all the analogue CRT TVs I had were tunable, I used to put the console on channel 6 because we had 4 TV channels and I'd put the VHS on 5. Did American TVs not let you do that?",
+            "title_similarity": "0.70631474"
+        },
+        {
+            "id": "h0x4h1t",
+            "score": 334,
+            "text": "Older TV sets did not have inputs for devices. They could only display pictures that came in as TV signals. So the devices had to emit a TV signal.\n\nTV signals have to be on some channel. By convention channel 3 was used (only a few areas had a Channel 3 station).",
+            "title_similarity": "0.78037655"
+        },
+        {
+            "id": "h0yb1y6",
+            "score": 118,
+            "text": "Here's a cable TV company [\"Keep It On 3\"](https://www.youtube.com/watch?v=QYOImTAV4Zg) customer education series of commercials from 1995, produced so that people with cable boxes didn't tie up the Customer Service lines, and trigger truck rolls, just because they didn't have their damn TV sets on Ch 3.\n\nOK, I made this.  I went nuts.  Managers gave me this assignment, they expected just a single commercial, perhaps with a service tech, wearing hardhat, standing in front of his van, saying: \"Please keep your TV set on Channel 3.\"\n\nInstead they got this.",
+            "title_similarity": "0.76384854"
+        },
+        {
+            "id": "h0wsq4b",
+            "score": 8226,
+            "text": "Channels on old CRTVs that had TV *tuners* are basically different frequencies that you tune your TV to, like how you turn your radio to a specific frequency to pick up a channel you wanted to listen to.\n\nEdit: it was channel 3 (or the selectable alternative to avoid interference) because the NES/VCR had to be talking in the same \"language\" (channel 3 frequency 60-66 MHz, channel 4 frequency 66-72 MHz, or channel 5 frequency 76-82 MHz depending on where you live and which had the least interference for you).\n\nBack in that day we had no way of transmitting the image and sound from the game console or VCR directly to the TV like we do today with S-video, component, HDMI, Display port, etc. So the simple solution was to turn the image and sound into radio ~~waves~~ frequencies and transmit it to the TV like a TV station. To comply with Federal regulations this TV signal from the console would have to be very weak so that it wouldn't interfere with any other signal. This means that the console could only transmit the signal a few millimeters to centimeters. To get around this limitation they used coaxial cable to carry the signal but you still had to tune the TV into the frequency the console/VCR was transmitting at.\n\nThis guy does a good job explaining that a NES and similar devices are actually mini TV transmitter stations. [~~https://youtu.be/8sQF\\_K9MqpA~~](https://youtu.be/8sQF_K9MqpA) [https://www.youtube.com/watch?v=8sQF\\_K9MqpA](https://www.youtube.com/watch?v=8sQF_K9MqpA) (I'm not sure what's going on with URLs today, people are saying my link is broken but when I click on their links, I get the exact same URL that I posted...)\n\nEdit: this really blew up. To clarify some things:\n\n* I accidently put radio ***waves***, the NES doesn't transmit (yes it's a transmitter) radio waves, it transmits electric Radio Frequency (RF) to the RF modulator/adaptor that translates that signal into the frequency range used by the selected channel. (There's probably something I don't understand about this as I understand modulation is changing the frequency rate to transmit more and varied information u/maxwellwood did a great job expounding on this [here](https://www.reddit.com/r/explainlikeimfive/comments/nud63i/eli5_why_did_old_tvs_require_that_the_channel_be/h10vhzt?utm_source=share&utm_medium=web2x&context=3)).\n* Technically speaking anything that transmits electric RF also inadvertently transmits radio waves in the form of electromagnetic RF radiation. This is mitigated. Blocked by what is known as shielding.\n* Yes, I know about the two screw antenna connection. Technically, a coaxial cable is that two screw connection bundled into a single, shielded cable with a universal/standardized connector.\n* Yes, you can transmit your game console's frequency over the air to your TV with the appropriate Electric RF to electromagnetic RF amplifier. All electric RF produces radio waves as far as I'm aware whether on purpose or not. Doing this while remaining in the grey area of legality in most countries would get you a pretty crappy signal to the TV though at any distance you couldn't just use the cable.\n* All cables used to take audio/video (AV, A/V) from a device to a TV is a transmission of data regardless of electric verses electromagnetic.",
+            "title_similarity": "0.76383007"
+        },
+        {
+            "id": "h0x4htp",
+            "score": 154,
+            "text": "When TVs were invented, it never occurred to the manufacturers that they could be used for anything besides broadcast content from regional television stations. That's what they are set up for: VHF broadcast reception within several predefined channels.\n\nWhen the first home video devices were invented (VCRs, computers, video games, etc) the only way for your television to recognize the signal was if the device in question created a signal identical to what the broadcast station would create.\n\nConveniently, most televisions had the ability to connect an external antenna in the back. All your device had to do was convert the desired composite video into an NTSC broadcast signal with appropriate levels, and feed it into an antenna cable, which you wired directly to your television.\n\nThe last step is telling your television where to find the signal. Most devices broadcast on either channel 3 or channel 4, and there was usually a switch on the back to choose.",
+            "title_similarity": "0.70511854"
+        },
+        {
+            "id": "h0x3gjs",
+            "score": 3,
+            "text": "In the US it seems that each channel had a very specific part of the frequency spectrum. 3 or 4 was usually empty so that was a good place to put in the console. The Console/VCR was setup to \"broadcast\" to that frequency.\n\nAs far as I know, in the NL where I grew up, there was no standard channel distribution - you had to look up the frequencies in a little book and setup each channel separately. Probably because it's a small country and there is no need for many overlapping broadcasting areas.",
+            "title_similarity": "0.67938423"
+        },
+        {
+            "id": "h0x3ww1",
+            "score": 1,
+            "text": "Well we all had to agree that some channel or identifier had to be it. Similar to the way your computer has a fixed \"localhost\" address or has a fixed understanding of what port to look for web servers on (e.g. 80 and 443).\n\nFor these old TVs, at first it was channel 3 and 4 then it became its own input in the late 90s and early 00s then was replaced entirely by digital/HDMI/etc.",
+            "title_similarity": "0.67221"
+        },
+        {
+            "id": "h0x41rk",
+            "score": 1,
+            "text": "it wasnt 3.  There were switches to change to 2 3 or 4 because in different regions each channel might have been in use.   So you picked one not in use and used that",
+            "title_similarity": "0.6831881"
+        },
+        {
+            "id": "h0x5ys6",
+            "score": 1,
+            "text": "Old VCRs, video games and stuff need to transmit a broadcast TV signal in order to feed an old TV, since old TVs didn't have auxiliary inputs.\n\nChannels 3 and 4 are close enough in frequency that you'll almost never find both being used in the same area. So whichever channel isn't a TV station where you live, that's the frequency you set your VCR, etc. to transmit on. Look on the back, and you'll see a 3-4 switch somewhere.",
+            "title_similarity": "0.83695537"
+        },
+        {
+            "id": "h0xc58u",
+            "score": 2,
+            "text": "Old analog-style TV transmissions (in US markets at least) wouldn't necessarily use every channel available in an area and it was unusual to have a Channel 3 *and* a Channel 4 in a given area. Therefore, the RF Modulator (which is the name for the device you are describing) for video games and computers offered a switch to display your device's output on either of those channels and then you'd just switch your dial to the appropriate one on the TV. \n\nBut why do this dance in the first place?  Because old TVs were not built to have anything connect to them other than an antenna! \n\nSeparate monitors were hideously expensive and bulky so, if you were trying to sell video game systems or early home computers, why not use a display device that the consumer already has in their home - their TV. \n\nAnd how do you connect to that TV? Through the antenna connection.",
+            "title_similarity": "0.8204307"
+        },
+        {
+            "id": "h0xdhme",
+            "score": 2,
+            "text": "It's the same thing as car FM modulators that require you to tune to a certain station to hear the music from your phone or whatever you have plugged into it. The VCR or the little box takes over the frequency Channel 3 (or channel 4) occupies and basically becomes the TV station.",
+            "title_similarity": "0.61154145"
+        },
+        {
+            "id": "h0xdxq4",
+            "score": 1,
+            "text": "Smart TVs also require this if you use the coaxial cable input to connect any device that isn’t an antenna. Sometimes its channel 4.  It depends on what the device tunes to.",
+            "title_similarity": "0.63624215"
+        },
+        {
+            "id": "h0xe8hq",
+            "score": 1,
+            "text": "You didn't.  You chose any channel you wanted and tuned it to the VCR, just like tuning it to a station.  Mine had 6 for one VCR, 7 for the other, and 8 for the computer.",
+            "title_similarity": "0.5766599"
+        },
+        {
+            "id": "h0xg7s6",
+            "score": 1,
+            "text": "It didnt \"need\" to be 3, it was whatever channel you tuned the appliance into. I always used 0",
+            "title_similarity": "0.5046061"
+        },
+        {
+            "id": "h0xioov",
+            "score": 1,
+            "text": "I've grown up using old TVs for consoles and PCs, but I never had to do that.\n\nWas that before the 80s,when scart wasn't a thing yet? I didn't know there were already commonly available consoles then",
+            "title_similarity": "0.6959567"
+        },
+        {
+            "id": "h0xk7vk",
+            "score": 1,
+            "text": "I dont have any real answer but im assuming there was some kind of agreement in place, because there was never a channel 3 tv station.",
+            "title_similarity": "0.5820387"
+        },
+        {
+            "id": "h0xm0k6",
+            "score": 1,
+            "text": "Back then, there was no a/v input of any kind, so all the peripherals used specific channel frequencies to transfer the signal to the tv. Those frequencies were stored like channels on the tv (a 'tv channel' is nothing more than a specific frequency)",
+            "title_similarity": "0.5791212"
+        },
+        {
+            "id": "h0xp7kg",
+            "score": 2,
+            "text": "Early televisions did not have a video-in capability.  All they had was the tuner/channel selector.  So if you wanted to display something, like a VCR or a computer game, they would have to transmit the video signal using a radio frequency (RF) modulator - essentially a small tv transmitter.  They would usually do that on channel 3 or 4.\n\nLater, as VCRs, video games, and computers became more popular, televisions were developed with a separate video-in capability.  this gave the VCR/game/computer a better picture and sound than could be obtained with an RF modulator, and it avoided having too many things on channels 3 and 4.",
+            "title_similarity": "0.78250057"
+        },
+        {
+            "id": "h0xpy0j",
+            "score": 1,
+            "text": "I recall you having to choose btwn 3 and 4 and part if the setup was trying both ti see which worked better. Also the first wired \"remote\" did the same thing. Yoy set it to 3 or 4 then once on you could change to 11 or 9 ir whatever channel you wanted on either the VHF or UHF bands.",
+            "title_similarity": "0.6648787"
+        },
+        {
+            "id": "h0xrao7",
+            "score": 1,
+            "text": "To keep the VCR simple, they picked one channel that the output would operate on. You need to pick a channel, that both the source (TV station, VCR) and destination (TV set) agree, or else nothing works. They literally need to be \"on the same frequency\". That's how TV and radio always work. What the postal address is for mail, the frequency (or \"channel\") is for TV.\n\nSo what's the simplest way to do this? Just have the VCR always pump the signal out on the same channel, and print that sucker in big obvious font size in the manual. Then users only need to remember that one number - always tune the TV to channel 3 to pick up the VCR signal.\n\nThere were VCRs where you could tune the output channel (change it to a different channel), but usually that setting was not obvious because it was rarely needed. E.g. if some local station was on 3, then you'd want to move the VCR to an unused channel in your area. You move it once, and that's it, you leave it there.",
+            "title_similarity": "0.653693"
+        },
+        {
+            "id": "h0xt0kf",
+            "score": 3,
+            "text": "In France you had to set an unused channel and turn this $@?! wheel indefinitely until you see a scrappy picture.",
+            "title_similarity": "0.52939475"
+        },
+        {
+            "id": "h0xtcu9",
+            "score": 1,
+            "text": "It wasn't Channel 3 specifically. It may have been on yours, but it would've been a different number of different sets. On TVs of that era, the 'channels' were essentially just preset frequencies that tuned in to a certain broadcast. Because this model of operation existed before VCRs and consoles, when they came along they chose that method to send their signals to the TV. They modulate their video signal in the same way of a broadcast TV signal, at a certain frequency that would have to be 'tuned' into the TV. Very old models needed a screw dial at the back of the TV to set the frequency for each preset, each channel. Later on digital tuners with auto-scanners were added, but the mechanism of sending the signal from the VCR remained essentially the same.\n\nIn other news I am apparently very old.\n\nEdit: apparently things may have worked differently in the US.",
+            "title_similarity": "0.8032207"
+        },
+        {
+            "id": "h0xtf9t",
+            "score": 1,
+            "text": "Because early TVs didn't have a dedicated display connection (Composite, VGA, HDMI, etc.).\n\nThe only connection they did have was 2 screws for an antenna or a coaxial cable. So early game consoles and VCRs had to exploit this connection to get an A/V signal through. At the time, channel 3 wasn't being used by anything else, so they designed  the display adapter to broadcast on channel 3.",
+            "title_similarity": "0.8131143"
+        },
+        {
+            "id": "h0xv4u8",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.08354552"
+        },
+        {
+            "id": "h0xvba5",
+            "score": 1,
+            "text": "So when I was a kid we had to cancel our cable at one point due to the expense. The company came and got the cable box, and plugged our rooftop antenna back into the back of the TV. A couple weeks later, I was messing around with my SNES, trying to have it plugged in at the same time as the VCR and inadvertently plugged the old coaxial cable from the wall into our VCR instead of the rooftop antenna. I accidentally discovered that if I put my TV on channel 3 and turned on the VCR, it worked as a pass-through cable box and we got to watch cable through our VCR for free for about 10 years. My mom never knew we had it or would have put an end to it but my sis and I knew the trick yo watch free cable whenever we wanted. Oh yeah… all the premium were broadcasting and pay-per-view channels were also available, continuously looping the movie of the day. Good times….",
+            "title_similarity": "0.79808044"
+        },
+        {
+            "id": "h0xvgt0",
+            "score": 1,
+            "text": "As to ***why*** channel 3 vs any other channel. It's actually quite simple. The American standard broadcast was 29.97 frames per second. Channel 3's VHF (Very high frequency) frequency was 60 to 66 Mhz. Consoles in America used that frequency to push 29.97 frames in what is called interlaced signals to reduce flicker and shorten phosphor decay and to reduce motion blur. 29.97 interlaced frames fit perfectly into the 60Mhz bandwidth without interference from other signals.\n\nBasically it came down to simple math.",
+            "title_similarity": "0.5454349"
+        },
+        {
+            "id": "h0xvywd",
+            "score": 1,
+            "text": "You know how you change input? 3 was an input. It pointed to the connections on the back. \n\nYour picture wont work on your new tv as well if its not on '3' aka the right input.",
+            "title_similarity": "0.8469603"
+        },
+        {
+            "id": "h0xxmvd",
+            "score": 1,
+            "text": "It was either 3 *OR* 4, not just channel 3.\n\n3 happened to be the one most often used because channels 2 and 4 were very common (the original Big Three of CBS, NBC and ABC had flagship stations on both coasts on the same channels: WCBS, WNBC & WABC in New York and KCBS, KNBC & KABC in Los Angeles, both sets are Ch 2, 4 & 7 respectively). \n\nHence, channel 3 was not used in those markets to avoid signal \"bleed\" between them (I'm trying to leave the whole VHF and UHF thing out of this because it's not really germane). Obviously, in some areas two Ch 4's were too close to allow another one without bleed (where the TV will flip back and forth between the two different signals on the same channel) so a new station needed to be at Ch 3.  But it was WAY more common to have a local channel 4 than 3 which is why most devices came set to the default of 3 on the switch.\n\nAnd VCRs & videogames weren't the first to use Ch 3 or 4 to input a non-broadcast signal for consumers, **cable television** was. Which then created a probem when VCRs & videogames arrived. Sure, some people had the money to simply buy another set but most of us had to get switchers to go back & forth if we didn't want to unscrew the cable every time (some people did, however).",
+            "title_similarity": "0.72715247"
+        },
+        {
+            "id": "h0y3eg6",
+            "score": 1,
+            "text": "Not sure why there  aren't many simple answers here.\n\nAn old game console acted a bit like a TV station, sending out its video signal in the same way as a TV channel would be.  So you would just plug it into the TV the same as you would plug in an antenna (usually with a splitter to also have an antenna), and the TV receives the signal from the game console or VCR the same exact way as it would any other TV station on the antenna.   \n\nIt looks the same to the TV, the TV doesn't need to do anything special to use a game console or VCR.\n\nIn the US it was uncommon to have a real TV station on channel 3.  On most game consoles or VCRs there was a switch so you could use channel 4 instead if you wanted to.\n\n(Other countries use different channel numbers but the technique was the same.) \n\nLater on TV makers started adding other ways to plug stuff in. (With better image quality.)",
+            "title_similarity": "0.6723276"
+        },
+        {
+            "id": "h0y3vo7",
+            "score": 4,
+            "text": "Atari 2600 had a switch for 3-4 in case the channel 2 in the area was too strong and interfered with 3.",
+            "title_similarity": "0.7301028"
+        },
+        {
+            "id": "h0y5vv1",
+            "score": 1,
+            "text": "When I got my N64 I couldn't get it to work on my TV, and I tried everything. Had to call the Nintendo hotline, \"have you tried the AV?\" the bastardz asked... felt stupid",
+            "title_similarity": "0.72138083"
+        },
+        {
+            "id": "h0yafs6",
+            "score": 1,
+            "text": "Televisions originally didn't have a composite input on them. They only had antenna hookups. Even the signal coming on on a co-ax cable for cable television is still an RF signal like over the air, but coming in over the wire. So in order to get anything to show up on your TV you'd have to have it output on an existing TV channel. Channels 3 and 4 were rarely used and so would be free of most interference.",
+            "title_similarity": "0.7399993"
+        },
+        {
+            "id": "h0yc5g6",
+            "score": 1,
+            "text": "Most of the science has been covered here, but wanted to give a little more input between time periods.\n\nThe family's Atari 2600 had the transmitter with the spade hookups for the antenna - no coaxial. That's how old / backwards compatible that was. [Example here, not my auction, etc.](https://www.ebay.com/itm/334005517368?hash=item4dc447bc38:g:4LEAAOSw6Nxgo8ZC)\n\nThe Atari 5200 was a straight coaxial however but it had a hookup for the spades as well. [Example here, again not my auction, etc.](https://www.ebay.com/itm/304006523042?hash=item46c83368a2:g:D7sAAOSwVNRgqXi9)\n\nReason I pass this on: holy fuck dealing with those spade adapters SUCKED. Parents didn't exactly leave flathead screwdrivers lying around and you'd have to fuck around getting behind the TV to hook it up every time. Hated it, and I know we had at least two of the 2600 adapters because they were so fucking flimsy. But I always thought putting the power into the switch was weird for the 5200 because it was just into the back of the 2600. 5200 was a weird system overall though, but fun.",
+            "title_similarity": "0.6891291"
+        },
+        {
+            "id": "h0yfd9k",
+            "score": 1,
+            "text": "Ahh a nostalgia thread.\n\nOn top of all the good answers:\n\nThe VCR did the same of course and it had it's own tuner. For the most part the antenna went into that and it 'added' its signal to the line then that went to the TV. The home computer or console had it's channel too so you could actually record your game output on your VCR if you were so inclined. \nBut this really wasn't a thing back then, noone swapped tapes of them playing their games. VCR twitch never happened. \n\nYou tuned the VCR to channel 8 usually but the bandwidth hogging was a thing. When Channel 4 arrived in the UK anyone that had been foolish enough to use that button simply retubed. When Channel 5 arrived, well shit, they wanted to use the spectrum that most VCRs were set to. Cue a lot of fiddling with VCRs trying to find the little adjuster screw that set the modulation frequency. Of course your Dad, being a technical genius, would promptly shift it to the same as your console, instantly ruining your life.\n\nAnd that people, is why portable colour TVs suddenly exploded in popularity.",
+            "title_similarity": "0.6944837"
+        },
+        {
+            "id": "h0yff8x",
+            "score": 3,
+            "text": "Didnt have to be 3.  You could use any channel.\n\nMy house used channel 8 for whatever reason for the vcr/console.  Channel 3 wouldn't have worked as here in the UK we have ITV which is traditionally associated with channel 3 following BBC 1 and bbc2.  We also have Channel 4 which would obviously be tuned to 4 and later came channel 5 which you would tune to 5.",
+            "title_similarity": "0.7386559"
+        },
+        {
+            "id": "h0yk4z0",
+            "score": 1,
+            "text": "Am I allowed to ask a followup question in the comments?\n\nOften, the channel that was used for my nintendo would get wrecked on the device.  Was that a real thing or just my imagination with a confirmation bias?\n\nBased on the answers here, it seems like the nintendo was just transmitting, so I have no idea how it would make a channel more staticky (a word I just made up) during regular TV watching time.",
+            "title_similarity": "0.77859116"
+        },
+        {
+            "id": "h0ymdl0",
+            "score": 1,
+            "text": "While we’re at it, why is there no channel 1? And why is VHF channels 2-13, but UHF is 14-infinity?",
+            "title_similarity": "0.52110696"
+        },
+        {
+            "id": "h0ymz7q",
+            "score": 1,
+            "text": "We had old tv when I was kid but my father cut off the subscription so tv was useless one day I  found that game consoles cable so I just plug that cable and tune to the channel and suddenly tv started showing game video and I m amazed by this so I started watching game when my father wasn't around. So one day I went to my neighbours house and saw the kid was playing the game I always use to watch in my tv and I realised that I have been watching his game play the whole time. So  our TVs share the same wall and I have been catching his games in my tv by that cable . So now I understand how that have worked..",
+            "title_similarity": "0.7336015"
+        },
+        {
+            "id": "h0yoos4",
+            "score": 5,
+            "text": "I don't feel like the other answers here really make this as simple as it could be, so I'm going to summarize my [video](https://www.youtube.com/watch?v=8sQF_K9MqpA) on the topic:\n\nTelevisions sold prior to the 2010s were mostly intended to receive a picture sent by a TV station over radio waves, called a \"signal.\" There are multiple TV stations in every town, so to keep signals from interfering with each other, they use a process called \"modulation\" which lets all the stations send the same kind of television signal, but using radio waves of different \"frequencies.\"\n\nA TV set can receive signals of many frequencies, then choose one and ignore the rest. This is called \"tuning,\" and it's how you choose one program to watch out of the many available.\n\nTV stations all use standard frequencies, to make sure every TV can receive from every station, and for convenience those frequencies are given numbers, and called \"channels,\" so channel 3, 4, 5, and so on, are always the same frequency no matter where you are.\n\nAlthough you can make a TV signal that isn't modulated, which we started calling \"composite\" when it became popular, there was nowhere to put that kind of signal into many TVs made before the late 80s. Old TVs only understood how to receive pictures on the standard TV station channels.\n\nTo solve this, VCRs and game consoles all contained tiny \"TV stations\" that produced a very weak signal - too weak to travel through the air, but strong enough to be recognized by your TV if you put it into the antenna input.\n\nYour VCR had to send the signal on one of those standard channels, so the manufacturers chose channel 3, because it was available on every TV ever made, while some other channels weren't.\n\nSometimes you already had a channel 3 in your town, and that could cause interference, which is why you could also switch your VCR to channel 4. Because of how television signals work, there can never be a channel 3 and 4 in the same region, so if you already had a real channel 3 station in your town, you'd use channel 4 on your VCR, and vice versa.",
+            "title_similarity": "0.7474294"
+        },
+        {
+            "id": "h0yvj01",
+            "score": 1,
+            "text": "If you’ve ever used one of those things in the car to listen to your iPhone where you have to to tune the radio to a specific station, it’s the same thing.",
+            "title_similarity": "0.4858587"
+        },
+        {
+            "id": "h0yzql2",
+            "score": 1,
+            "text": "Not only that but most devices had 75 ohm to 300 ohm [Balun transformers](https://images.philips.com/is/image/PhilipsConsumer/SWV2008_37-IMS-en_CA?$jpglarge$&wid=1250) for TVs that had antenna but no coax inputs.",
+            "title_similarity": "0.5260571"
+        },
+        {
+            "id": "h0z0nbg",
+            "score": 1,
+            "text": "OK, analog gang, tell me if you had this: channel 91 for VCR and 92 for Nintendo. Anyone? My dad had our TV set up so weird. \n\nNot using channel 3 was yet another thing that made my family feel different, along with the way all our VHS boxes were swapped put for clear platic cases with numbered labels and a video catalog printed off a dot matrix printer. Instead of just visually scanning the shelf for the movie you wanted to watch, you had to look it up in an alphabetized list and then locate the corresponding numbered cassette.",
+            "title_similarity": "0.809265"
+        },
+        {
+            "id": "h0z19en",
+            "score": 2,
+            "text": "Also of note is that it wasn't always channel 3 or 4, depending on the country you were in! Those channels were chosen here in the USA as they had less chance of interference, but over in Japan, the Famicom (the Japanese version of the NES) transmitted to Channels 1 and 2, but due to channels being laid out on different frequencies here vs there, those would be equivalent to Channels 95 and 96 here!",
+            "title_similarity": "0.6386299"
+        },
+        {
+            "id": "h0z5jgw",
+            "score": 1,
+            "text": "Not sure if it's been mentioned but the reason they chose channel 3 is because it was rarely used for over the air local broadcast. If there was a local channel 3 (Phoenix) you'd have to use 4 because if your connections weren't tight you'd get both the air and your device clashing frequencies.",
+            "title_similarity": "0.7043856"
+        },
+        {
+            "id": "h0z7t3h",
+            "score": 1,
+            "text": "I remember that one of the TV we had at home was able to pickup the signal of a neighbour's Nintendo",
+            "title_similarity": "0.5312448"
+        },
+        {
+            "id": "h0zahsm",
+            "score": 1,
+            "text": "I remember thinking I was a genius by taking a cable cord and wrapping it around a clothes hanger to get local television stations as a kid.",
+            "title_similarity": "0.5589324"
+        },
+        {
+            "id": "h0zan3p",
+            "score": 1,
+            "text": "Never had to do this here, maybe it was an NTSC thing?",
+            "title_similarity": "0.5146848"
+        },
+        {
+            "id": "h0ze7mi",
+            "score": 1,
+            "text": "During that era, devices like consoles and VCRs used coaxial cable, just like an antenna, and output a particular analog frequency. One of your TV's channels needed to be tuned to the frequency of the device.\n\nThis is before we had digital inputs, and we could just change the TV to display whatever was attached to a certain input port.",
+            "title_similarity": "0.6360689"
+        },
+        {
+            "id": "h0zfxlx",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.08354552"
+        },
+        {
+            "id": "h0zgkb8",
+            "score": 2,
+            "text": "Because those accessories fed their signal into the TV as if it were Channel 3 coming in from an antenna. When TVs were manufactured in the 70's and earlier there were no devices made to attach to TVs so there were no other ways to get a signal into the TV other than through the tuner (that thing that the antenna attaches to)",
+            "title_similarity": "0.68444955"
+        },
+        {
+            "id": "h0zhegy",
+            "score": 1,
+            "text": "Because most tv's did not have an audio or video input. In fact, most TV's only had spade terminals for an antenna. Later TV's had 75 ohm coaxial cable connectors. \n\nThe problem was getting the picture and sound on the tv. In that era of technology, picture and sound were signals in a dedicated radio frequency spectrum that were modulated in the carrier frequencies. That means the only way to get a picture and sound from a game system was to turn the signal from the game into television radio signals. This was accomplished by the adapter that was essentially a TV transmitter in a box that only put out one or two channels....channel three or four. \n\nSo to make it simple....the game system signal...picture and sound...was turned into a tv signal 3 or 4 that fed the tv radio signals....just like an old fashioned TV antenna...to give the TV the signal from the game. From there, the TV tuner (essentially a demodulator that strips away the carrier frequency and just leaves the audio and video that gets sent to the TV screen and speakers) takes the information and turns it into a tv channel.",
+            "title_similarity": "0.69623053"
+        },
+        {
+            "id": "h0znqr5",
+            "score": 1,
+            "text": "Basically the same idea behind streaming music from your phone to an FM transmitter so can tune in on any old stereo. Channel 3/4 just because it was easy and honestly probably only a few manufacturers of the core tech (guessing but seems plausible)",
+            "title_similarity": "0.573318"
+        },
+        {
+            "id": "h0zxyfa",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.08354552"
+        },
+        {
+            "id": "h1003r7",
+            "score": 1,
+            "text": "The device you put the coax on is called a modulator. It broadcasts a tv frequency similar to what an antenna would broadcast. This device won’t send it over the air though like an antenna. It just plugs in and sends it directly.",
+            "title_similarity": "0.6341356"
+        },
+        {
+            "id": "h105m5s",
+            "score": 1,
+            "text": "I've still got a few VHS tapes that were never digitised and I'm finally getting around to buying a VHS player and kit to create files on my laptop and I'm somehow stuck at the RF adaptor stage. I need a converter so I emailed Radio Shack for advice and the poor guy didn't know anything about it and just sent me a link to a website I already had found (and didn't answer the question)",
+            "title_similarity": "0.69769084"
+        },
+        {
+            "id": "h1065km",
+            "score": 1,
+            "text": "The lower the channel number the less power was required to broadcast (or the more power your signal had for the wattage)  2nd. FCC required a gap between channels.  So the most desired frequency was channel 2, followed by channel 4 and 3 was never used  (fyi, channel one was reserved for government or military but they never got around to doing anything with it.)  So auxillary devices defaulted to the vacant channel 3 with little worry of interference.",
+            "title_similarity": "0.6834844"
+        },
+        {
+            "id": "h106pe6",
+            "score": 1,
+            "text": "The VCR has something called an \"RF Modulator\", which essentially simulates a TV channel, and broadcasts the audio and video from the VCR on channel 3.",
+            "title_similarity": "0.62170994"
+        },
+        {
+            "id": "h10bdau",
+            "score": 1,
+            "text": "channel 3 (sometimes 4) was just the input channel. it made it so you could use a cable box and have 9999 channels when your tv set only allowed you to use 99 channels or less sometimes. it allowed other inputs like a vcr or game console etc. all of them were inputs set for channel 3 on the tv.\n\nnow if you didnt have any devices hooked up with it you would only have basic channel options like 4 6 8 10 12 and the rest of the channels would be static.",
+            "title_similarity": "0.76751125"
+        },
+        {
+            "id": "h10efqd",
+            "score": 1,
+            "text": "TVs today still need to be set a certain channel to work with connected devices. For example, HDMI-1, HDMI-2, HDMI-3, COMP, ANT. Old tvs had knob dials surrounded by numbers Usually 2-13 with the letter U instead of number 1.  You set the knob to U if you wanted to use the second dial to view UHF channels above channel 13.  Channel 2 or 3 were channels we used to  watch a connected VCR or play games on the Atari. When tvs started coming with more ways to hook up devices and having digital menus, they named the input channels for clarity.",
+            "title_similarity": "0.80561197"
+        },
+        {
+            "id": "h10iyxd",
+            "score": 1,
+            "text": "In the early days of broadcast TV, the FCC required that both channel 3 and channel 4 not be used in the same market.  Some chose to use 3 and not 4, others the opposite.\n\nThose early toys required you to tune to either 3 or 4, whichever wasn't being used.\n\nFor some reason, that tended to be 3.  But not always.",
+            "title_similarity": "0.81525075"
+        },
+        {
+            "id": "h10o7w0",
+            "score": 1,
+            "text": "Most TVs didn't have composite connections or other direct inputs yet (since there was no need prior to the late 1970s), only a tuner. So, the easiest way to get a TV to display a picture was to actually make a tiny tv transmitter built into the device. These were typically (but not always!) set to transmit on the Channel 3 television frequency.",
+            "title_similarity": "0.7127099"
+        }
+    ]
+}

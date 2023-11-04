@@ -1,0 +1,850 @@
+{
+    "ELI5: How does calculator know and use pi if even super computers can't know all the digits. Does it use like first 100 digits?\n": [
+        {
+            "id": "gyc0iks",
+            "score": 8,
+            "text": "My math teacher said your calculator uses a taylor polynomial to find pi and other irrational numbers.",
+            "title_similarity": "0.57176304"
+        },
+        {
+            "id": "gyc7c76",
+            "score": -3,
+            "text": "You just realized that irrational numbers are as fake as imaginary numbers. You only work with fractions in the real world.",
+            "title_similarity": "0.6059202"
+        },
+        {
+            "id": "gyc76cx",
+            "score": -1,
+            "text": "True circles don't exist. They are just many sided shapes with so many sides we can't tell they aren't true circles.\nAnd that's one way how pi is calculated. You figure out the true diameter to a many sided object for lower and upper bounds of pi. And if you want a common sense view how we know pi is infinite you can always add another side to get a more accurate number.",
+            "title_similarity": "0.7062253"
+        },
+        {
+            "id": "gybo5a4",
+            "score": 10,
+            "text": "https://www.vox.com/2016/4/2/11350518/nasa-digits-pi\n\nIf you used 40 digits of pi you could calculate the circumference of the entire visible universe — an area with the radius of about 46 billion light-years — \"to an accuracy equal to the diameter of a hydrogen atom.\"",
+            "title_similarity": "0.6179793"
+        },
+        {
+            "id": "gybjfiw",
+            "score": -5,
+            "text": "Would it not use Pi as a ratio or a fraction rather than an integer?",
+            "title_similarity": "0.63147503"
+        },
+        {
+            "id": "gyc8g79",
+            "score": 0,
+            "text": "It’s actually much worse than that. Any irrational number - that is, a number that can’t be written out in decimal form with a finite set of numbers, will need to be appropriated in a calculator. Unfortunately, calculators use binary (base 2) instead of decimal (base 10). Many numbers that are rational in base 10 are irrational in binary. Here are some examples: \nUsing  base 10, 1/3 = .33333333333(repeat forever) but 1/10 can be represented exactly as .1.  In binary, 1/10 is also repeating number, so any time your calculator  uses 1/10 in a calculation it has to approximate it out to a lot of places, then round the results off.   So 1/10 + 1/10 does not equal 2/10 in your calculator, but it’s close enough that it just rounds it off to 2/10.",
+            "title_similarity": "0.74122775"
+        },
+        {
+            "id": "gycbpbl",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.048323765"
+        },
+        {
+            "id": "gyd7pf6",
+            "score": 0,
+            "text": "Outside chance it just uses the formula? But whatever digits after the decimal that your calculator returns- it probably used that one.",
+            "title_similarity": "0.67260987"
+        },
+        {
+            "id": "gydau98",
+            "score": 0,
+            "text": "Less than 100. Apparently, for most reasonable computations we'd need at most 40 decimals. \n\nThat's the extreme, which was calculated with currently known physical limits: Since Pi is a constant that relates to the ratio between the diameter and the perimeter of a circle, if you wanted to use pi to relate the diameter and the perimeter of the known universe (the biggest size in physical world as far as we know), to the precision of a hydrogen atom (the simplest/\"smallest\" one), you'd need pi with 40 decimals for precision.\n\nOf course, you can use pi to calculate other things, but this is a computation for huge extremes and the amount of digits needed is pretty small.",
+            "title_similarity": "0.7528484"
+        },
+        {
+            "id": "gydc1t7",
+            "score": 0,
+            "text": "When a calculator doesn't have a pi button I use 22/7.  That's close enough for most of my stuff.",
+            "title_similarity": "0.5474234"
+        },
+        {
+            "id": "gyddba6",
+            "score": 0,
+            "text": "Use pi in a fraction form, and the precision of your calculation will be based on the data types you use during the calculation.",
+            "title_similarity": "0.45330155"
+        },
+        {
+            "id": "gydiaxq",
+            "score": 0,
+            "text": "We do it for enough digits, and then say \"close enough\". Essentially everything is approximated in computers :)",
+            "title_similarity": "0.46920723"
+        },
+        {
+            "id": "gydku3r",
+            "score": 0,
+            "text": "I'm pretty sure my calculators in school only used pi up to 10 digits because they weren't designed to handle numbers with more than 10 digits. I'm not so sure about graphing calculators though, like the TI-84 etc that we used in trig and calculus in high school; those could obviously handle larger numbers but idr offhand how many digits of pi it stored. I just remember memorizing the first 10 digits of pi (3.14159265) from the old analog calculators we used in like middle school... and I graduated high school 10 years ago this year 😬 if that tells you how long ago THAT was lmao 😂",
+            "title_similarity": "0.7282908"
+        },
+        {
+            "id": "gydondn",
+            "score": 0,
+            "text": "Calculators use like 8 digits max. They just save the number. For more complicated  trigonometric functions they can always describe things as of some fraction of π/2, or 0-90° because trig functions repeat themselves forever, so they only really need to calculate an estimate within that 0-90° range.",
+            "title_similarity": "0.6231642"
+        },
+        {
+            "id": "gydprs0",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.048323765"
+        },
+        {
+            "id": "gye8e21",
+            "score": 0,
+            "text": "[deleted]",
+            "title_similarity": "0.0792972"
+        },
+        {
+            "id": "gyf249e",
+            "score": 0,
+            "text": "So many good responses, let's see if I can put it in perspective.\n\nBefore newton invented the modern way of calculating pi, people would divvi up a circle to measure it for pi.\n\nI don't know what the ultimate maximum was, but it was in the millions (I think).\n\nIf humans can make perfectly suitable structures with a rough estimate of 3, I think there's little reason to use more than a few decimal places in ordinary calculations.\n\nGoing out into space there may be used, but here on Earth? Meh.",
+            "title_similarity": "0.7418072"
+        },
+        {
+            "id": "gybqx85",
+            "score": 71,
+            "text": "May I provide an engineering perspective?\n\nWe don't need infinite precision in pi; we just need *enough* for the job at hand. Say you have a 3\" wide hole, and you need a bolt that goes through with 1/64\" clearance on either side. To calculate the size of the bolt, you just need pi to enough decimal places that any error is going to be much less than 1/64. (1/64=.015)\n\nSo, 3/3.14 = .95541, and 3/3.1415 = .9549 The difference between the two is only .0045, which is less than our required tolerance, so two digits of pi suffices in this example.\n\nNow, say you need a match tighter than 1/64. Say you need a tolerance of 1/10000, or .0001. Then 4 digits of pi would not be enough. In fact, even five digits of pi would leave you with an error of .0004. In this case, you would need six digits of pi to get to your required tolerance.\n\nIn space flight, you might need pi to hundreds of digits if you're going to calculate where Pioneer might end up in another 50 years to some reasonable degree of certainty. But for most earth-bound applications, 10 or 15 digits is more than enough precision.",
+            "title_similarity": "0.6623929"
+        },
+        {
+            "id": "gyc2hms",
+            "score": -1,
+            "text": "If pi in calculators has a few decimals... How does it give us the correct answer on operations where pi must be in his infinite mode to make sense. \n\nFor example I remember to try in a calculator the famous Euler's identity: e^(i*pi) + 1 and gave me -1 as expected, but this makes sense only when e and pi are complete.",
+            "title_similarity": "0.7842208"
+        },
+        {
+            "id": "gyd1ylr",
+            "score": -2,
+            "text": "Yasss! Finally, the story of how I got an A in AP Physics is relevant! For the record, I’m not an idiot, but this was sheer dumb luck. \n\nAs a class we were doing a problem on the board and the answer kept coming out wrong. The instructor said that anyone who would figure out why would get an A. \n\nI found the error! We had rounded Pi too early. Probably the most satisfying moments of my high school experience, especially being the only female in a class full of males.",
+            "title_similarity": "0.55133665"
+        },
+        {
+            "id": "gydfd6n",
+            "score": 2,
+            "text": "Back in 2019 [the record for calculating Pi was 31.4 trillion digits](https://cloud.google.com/blog/products/compute/calculating-31-4-trillion-digits-of-archimedes-constant-on-google-cloud)\n\nObviously we don't need that level of precision for everyday tasks.\n\nFirst, we need to note the difference between precision and accuracy.\n\n* Accuracy refers to how closely a measured value agrees with the correct value.\n* Precision refers to how closely individual measurements agree with each other.\n\nfor example, in shooting I can hit the absolute centre of the target and that is called accuracy.\n\nIf I shoot more shots close to the bullseye and measure the distance from the centre I can measure the distance (accuracy) either roughly (1 inch) or precisely (1.0253 inch) by using tools with a different level of precision.\n\n\n**Back to calculating with Pi**\n\nThe number of digits used for a constant like Pi can effect the precision of our calculations, and there are rules for understanding [significant figures](https://en.wikipedia.org/wiki/Significant_figures) commonly considered in math, science and engineering.\n\nSo here is the thing.  We don't often need many digits of Pi to properly do calculations.  If I am calculating the circumference of a circle I want to draw  that is 100.0 cm across (precisely measured to 1/10th of a cm) I need to use the same number of significant digits when I multiply by pi.\n\nCircumference =  π × Diameter = 3.1415 x 100.0 = 314.15 \n\nbut we are only accurate to 4 significant figures, so we present the answer as 314.2 cm.  (my original measurement was only precise to 1/10 of a cm)\n\n**We generally don't need a high level of precision in calculations**, and inexpensive calculators often make sacrifices to the number of significant figures they carry.\n\nThere are lots of factors beyond ELI5, like the number of bits of the CPU (8 bit, 16 bit, 32 bit, 64 bit) and the format for storing and working with numbers.\n\nIf you are doing simple calculations with really big numbers you use \"[scientific notation](https://en.wikipedia.org/wiki/Scientific_notation)\" **to display the level of precision** of your measurements.\n\nThere is also the question of what format (binary code) you are using to store these numbers.  [look here](https://www.exploringbinary.com/pi-and-e-in-binary/)\n\n* **Binary Floating-Point Formats**\n\nIn binary floating-point, irrational numbers (infinitely precise) are rounded to a set limit. Here’s how rounding works in five different levels of precision:\n\n *   In half-precision, values are rounded to **11 significant bits**.\n\n   This equals 3.140625 in decimal \n\n *   In single-precision, values are rounded to **24 significant bits**.\n\n  This equals 3.1415927410125732421875,\n\n *   In double-precision, values are rounded to **53 significant bits**.\n\n  3.141592653589793115997963468544185161590576171875\n\n *   In extended-precision, values are rounded to **64 significant bits**.\n\n *   In quadruple-precision, values are rounded to **113 significant bits**.\n\nIn this format Pi is a stream of 1s and 0s.  Here are the first 43 bits of Pi in binary\n\n* 11.00100100001111101101010100010001000001011\n\nAs you see from the stuff above, we seldom need more than single precision (24 bits binary)\n\nlots of [good info here](https://www.exploringbinary.com/pi-and-e-in-binary/)",
+            "title_similarity": "0.64551246"
+        },
+        {
+            "id": "gydk7im",
+            "score": 2,
+            "text": "Pi is cool as a concept because it has a lot of interesting mathematical properties.\n\nIn reality, you only need the first dozen or so digits for even the most advanced calculations.\n\nI'm pretty sure TI-84 calculators use 10 digits, don't quote me on that though",
+            "title_similarity": "0.75256896"
+        },
+        {
+            "id": "gycadlc",
+            "score": 30,
+            "text": "As a mechanical engineer, what is OP talking bout? Pi is 3, right?",
+            "title_similarity": "0.45271525"
+        },
+        {
+            "id": "gyc9b1r",
+            "score": 11,
+            "text": "Your calculator is built using a processor that does math using the binary system.\n\nIt all depends on the length of the binary registers (i.e. how many bits are used to store each number). But, it's an informed guess that they chose to store one full register worth of decimal places. \nIf the calculator uses 64 bits to store the number, then it has about 16 decimal numbers of precision^[1].\n\n[1] [stackoverflow](https://stackoverflow.com/questions/13542944/how-many-significant-digits-do-floats-and-doubles-have-in-java)",
+            "title_similarity": "0.71571857"
+        },
+        {
+            "id": "gybcdk6",
+            "score": -13,
+            "text": "[removed]",
+            "title_similarity": "0.048323765"
+        },
+        {
+            "id": "gybd2by",
+            "score": 4,
+            "text": "It probably uses as many digits that will fit into 8 bytes of memory.  That’s about 15 digits (including the 3 out front).\n\nComputers use a fixed number of bytes for all non-integer numbers.  It doesn’t matter if it’s 5.0 or 4.1 or 6.789543 or pi or the square root of two.  That’s probably 8 bytes (15 digits), but on some older machines it could be 4 bytes (7 digits).",
+            "title_similarity": "0.65271735"
+        },
+        {
+            "id": "gybeerb",
+            "score": 423,
+            "text": "Pi is whats called an irrational number, this means that it never repeats, this also means its infinitely long. Noone will ever be able to know the whole of pi, since it never repeats and goes on for eternity.\n\nBut, you dont need to know the whole of pi. Just a small number of it is needed. For example, for us to calculate the circumference of the known universe to within the width of an hydrogen atom, we only need 39 digits of pi. NASA only uses 15 or 16 digits for their space missions, it doesnt have to be exact, just very close. A millimeter of miscalculation here or there wont matter, since human error will account for much larger distances.\n\nSo a calculator doesnt need to know the whole of pi, 15 digits of pi would be enough to launch a space station, and most people dont need to be more accurate than that (i hope?).",
+            "title_similarity": "0.65010786"
+        },
+        {
+            "id": "gybke8o",
+            "score": -18,
+            "text": "this whole \"pie is infinite\" thing is kind of a misconception. It's not infinite, it's between 3 and 4. Decimal get exponentially less important the more you go down. After 3 or 4 decimal points, it's literally the same as far as normal calculations are concerned. Kinda the same as how .99 is mathematically 1",
+            "title_similarity": "0.6713197"
+        },
+        {
+            "id": "gybcdza",
+            "score": -15,
+            "text": "[removed]",
+            "title_similarity": "0.048323765"
+        },
+        {
+            "id": "gybjt08",
+            "score": 18,
+            "text": "Loads of people have already stated this, but a calculator will have the first few digits of Pi hard coded into it. You can find out how many decimal points by multiplying by 1000000 then subtracting the digits before the decimal point.",
+            "title_similarity": "0.7696156"
+        },
+        {
+            "id": "gyd1ftk",
+            "score": 24,
+            "text": "The calculator only does arithmetic to about 12 significant figures. \n\nThere is  a mathematical theorem by Fermat which states the equation x^n + y^n = z^n has no solution when x, y and z are positive whole numbers and n is a whole number greater than 2. Andrew Wiles proved the theorem in 1995.\n\n\n\n\nFrom [Homer’s Last Theorem](https://slate.com/culture/2013/10/the-simpsons-and-fermats-last-theorem-wizard-of-evergreen-terrace-has-brilliant-math-joke-photo.html)\n\nIn the Simpsons “The Wizard of Evergreen Terrace Homer appears to have found an exception to the proof\n\n3,987^12 + 4,365^12 = 4,472^12\n\nIf you try it on a calculator it will appear to be true.\n\n\n*Simpsons writer David Cohen obviously knew that Fermat’s equation had no solutions, but he wanted to pay homage to Pierre de Fermat and Andrew Wiles by creating a solution that was so close to being correct that it would apparently pass the test if checked with only a simple calculator. In order to find his pseudo-solution, he wrote a computer program that would scan through values of x, y, z, and n until it found numbers that almost balanced. Cohen finally settled on 3,987^12 + 4,365^12 = 4,472^12 because the resulting margin of error is minuscule—the left side of the equation is only 0.000000002 percent larger than the right side*",
+            "title_similarity": "0.73624"
+        },
+        {
+            "id": "gyc35ah",
+            "score": 29,
+            "text": "Most calculators internally use more decimal places than they display, it's how the displayed figure is rounded.",
+            "title_similarity": "0.6439469"
+        },
+        {
+            "id": "gycixg3",
+            "score": 179,
+            "text": "If you want to see how many digits it stores, subtract the first number, then multiply by 10.  Repeat until it runs out of numbers.\n\neg. assume calculator actually had 3.1415, but it only showed 2 decimals at a time, so all you see if 3.14\n\n3.1415     (calculator shows 3.14)\n\n3.1415-3 = 0.1415.   (calculator shows 0.14)\n\n0.1415 x 10 = 1.415. (calculator shows 1.42)\n\n1.415-1 = 0.415 (calculator shows 0.42)\n\n0.415 x 10 = 4.15 (calculator shows 4.15)\n\n4.15-4 = 0.15 (calculator shows 0.15)\n\n0.15x10 = 1.5 (calculator shows 1.5)\n\n1.5 -1 = 0.5 (calculator shows 0.5)\n\n0.5 x 10 = 5 (calculator shows 5)\n\n5-5 = 0 (calculator shows 0)\n\nAnd you are done.  Calculator only showed 3.14, but you can figure out the unseen numbers.   It can also be done more efficiently, a lot more efficiently, but I was trying to lay it out :).",
+            "title_similarity": "0.78649735"
+        },
+        {
+            "id": "gyclhj4",
+            "score": 48,
+            "text": "Other people have really good explanations, but I want to talk about error. \n\nUsing the first 2 digits is fairly accurate for most calculations. The error introduced by using is negligible (about 0.051% error) which becomes even smaller if you use pi approximations in trig functions like Sine, Cosine, Tangent, etc which you usually will be doing with pi.\n\nEx: sin(90) = 1, but sin(90.1) = 0.99999848. The error we willingly introduced (90.1 instead of 90) is about 1.1111% error, but the error in the output comes out to be 0.000152%. In general, introducing error into a system can compound itself as you carry that number further into your calculations. But the trig functions are a special case where they are not sensitive to error. Since pi is frequently used in the trig functions, the digits of pi don’t really matter in most cases. \n\nAn example of how much error is okay, think of 1/2 an inch of error and apply to context. Landing a spaceship on the moon and being off by 1/2 an inch in the landing is amazing. Building a patio with one side 1/2 inch short is acceptable if it was a DIY project, though you might notice it eventually. However, I’d start panicking if my dentist told me he was 1/2 an inch off in the root canal. \n\nSource: I’m an engineer in training, so I am okay with errors and being close enough within context.",
+            "title_similarity": "0.6541414"
+        },
+        {
+            "id": "gybciva",
+            "score": 3771,
+            "text": "If you press Pi and then Enter, it will probably display a short sequence of pi. Thats what is hard coded into the calculator.",
+            "title_similarity": "0.61266327"
+        },
+        {
+            "id": "gybdpdz",
+            "score": 310,
+            "text": "Even if you wanted to send a rocket to a point somewhere in the known universe, 100 digits of Pi would already be overkill.\nA normal calculator works just fine with ~10 digits",
+            "title_similarity": "0.72751147"
+        },
+        {
+            "id": "gybcui0",
+            "score": 7935,
+            "text": "Probably way less than that. For any real-world application, even a few decimal places are totally sufficient. Use 6 digits, and the circumference of a kilometer-wide circle is less than a centimeter off the true value. That's already better than most measurement methods. And additionally to that, computers in general can't handle infinitely precise numbers.\n\nIf you do the right calculations, the error could stack up, but in this case you rather use mathematical tricks to simplify the calculations first, before using any hard-coded numbers.",
+            "title_similarity": "0.6954442"
+        },
+        {
+            "id": "gybc8lk",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.048323765"
+        },
+        {
+            "id": "gybgzki",
+            "score": 2,
+            "text": "It aims to give you an acceptable accurate answer, depending on how many digits / decimal places it needs to show on screen.\n\nOn top of this, many (most?) calculators do a lot of extra work to tidy up how they handle their calculations, to give more accurate results when chaining maths together, more fitting to algebra than fire-and-forget calculations.",
+            "title_similarity": "0.65981424"
+        },
+        {
+            "id": "gybr7qi",
+            "score": 3,
+            "text": "For many calculations, a calculator may only need a dozen or so digits of π to get an accurate answer.\n\nHowever, there are some calculations that require many more digits. The trigonometric functions are periodic, with period 2π. To calculate the sine of 9.999999999•10^(99), you need to calculate the remainder when that number is divided by 2π (and then the remainder is used in an engineered polynomial that approximates sine or in some other algorithm for computing trigonometric functions, such as CORDIC).\n\nNow, somebody normally should not be taking the sine of a number that large. There are various numerical problems that arise using numbers that large. However, that is the user’s problem. If they give us a number and ask for the sine, we want to calculate it accurately. (And sometimes large multiples of angles might arise through manipulating various trigonometric identities, and they will largely reduce if the calculation is done correctly. So we want to try to do a good job.)\n\nSo, for the sine function in a calculator to work well, it has to be able to calculate that remainder accurately. In effect, that requires having over a hundred digits of 2π—in addition to calculating 100 integer digits of a number around 10^(99)•2π, you need more fraction digits to calculate the residue accurately.\n\nUsually, that information is not stored directly as digits of 2π. Depending on the hardware available, it may be stored as pieces of prepared reciprocals of 2π (or related numbers like π or π/2). Whatever data is needed, it is computed when designing the calculator, using extended-precision software, and stored in the programming of the calculator.\n\nAdditionally, if we wanted to be fancy, we do not need to store the digits of π in order to have them available when we need them. We know ways to calculate the digits, using series that add up to π or other methods. This is how extended-precision software obtains π—it calculates as many digits as needed when they are needed. It can never calculate all of them, but it can calculate as many as you need at the moment.",
+            "title_similarity": "0.7441925"
+        },
+        {
+            "id": "gyc11ij",
+            "score": 1,
+            "text": "Your calc uses an abbreviated value for pi, as does anything that uses pi. Remember that each decimal place is exactly 1/10 as meaningful as the one before. You very quickly get to the point where additional digits change the value so little that they don't matter for anything outside of theoretical applications.",
+            "title_similarity": "0.70138496"
+        },
+        {
+            "id": "gyc1nx8",
+            "score": 2,
+            "text": "Download a program called super pi it's pretty cool to see how fast different computers calculate it\n\nBack in Pentium 4 days it took about 30 seconds and now it can be done in like 5 or less my core i3 did it in like 8 seconds I never tried on my i9 yet for some reason lol I may report back later but it's a single threaded performance test to calculate millions of digits of pi the standard is 1million tho \n\nIt has a log file of the actual digits of pi it produced",
+            "title_similarity": "0.6974437"
+        },
+        {
+            "id": "gyc2kss",
+            "score": 1,
+            "text": "Your calculator probably came woth a manual that tells you what value it is using to approximate pi",
+            "title_similarity": "0.5646424"
+        },
+        {
+            "id": "gyc2rs0",
+            "score": 1,
+            "text": "Pi has been calculated to a few billion places thus far. For most cases, accuracy isn't needed beyond the first 20 places, tops. Because Pi has been calculated and recalculated so many times, these first X places have been hardcoded into most programming languages to avoid calculating them unnecessarily.",
+            "title_similarity": "0.68216795"
+        },
+        {
+            "id": "gyc43zf",
+            "score": 1,
+            "text": "I want to say that when NASA put a man on the moon their calculations only use Pi to six digits. You don’t need that much.",
+            "title_similarity": "0.55749017"
+        },
+        {
+            "id": "gyc4dw3",
+            "score": 1,
+            "text": "As a matter of fact, there is an exact formula to know the n-th decimal of π (but in hexadecimal basis). Something like 4/(8n+1) - 2/(8n+4) - 1/(8n + 5) - 1/(8n + 6). \n\nThere are also a lot of other exact formulas that can be used to compute an approximation of π (these are called series in mathematics, they are basically infinite sum). \n\nYou can get more info [here](https://en.wikipedia.org/wiki/Approximations_of_pi) \n\nSo I am not 100% sure that what everyone is saying here is true, which is that the value of π is pre-recorded in the calculator, as it could be easily computed each time using these formulas. \n\nIt could easily be verified by writing a script to going through the decimals of π in a calculator though.",
+            "title_similarity": "0.6692122"
+        },
+        {
+            "id": "gyc4f85",
+            "score": 1,
+            "text": "I remember reading that using 25 decimal places of pi when calculating the dimension of massive spheres or circles yields a margin of error only notable on the atomic scale",
+            "title_similarity": "0.7211694"
+        },
+        {
+            "id": "gyc4fn3",
+            "score": 3,
+            "text": "How many places does your calculator display? That should be enough.",
+            "title_similarity": "0.51681054"
+        },
+        {
+            "id": "gyc6yop",
+            "score": 1,
+            "text": "ELI5 -- many math calculations on a calculate are an approximation, even something as simple as '1/3' -- pi is just a specific case, but \"rounding errors\" are everywhere. [Here's the detailed R-rated version](https://stackoverflow.com/questions/21895756/why-are-floating-point-numbers-inaccurate#:~:text=Because%20often%2Dtimes%2C%20they%20are,many%20digits%20in%20any%20base).",
+            "title_similarity": "0.63911885"
+        },
+        {
+            "id": "gyc8cw1",
+            "score": 1,
+            "text": "Computers store numbers in binary.  IEEE has standard for how to store [double precision (64-bit) floating points](https://en.wikipedia.org/wiki/Double-precision_floating-point_format) in binary, and I assume most computers would use that for general calcs unless you code up something special.  \n\n[Looks like pi stored as 64 bit would be accurate to about 16 digits when displayed in decimal format.](https://stackoverflow.com/questions/507819/pi-and-accuracy-of-a-floating-point-number)",
+            "title_similarity": "0.6695932"
+        },
+        {
+            "id": "gyc93da",
+            "score": 1,
+            "text": "If you've ever used Pi to calculate anything, you know that you don't need so many decimals to get the correct number. 3.14 is sufficient for most stuff.",
+            "title_similarity": "0.65598845"
+        },
+        {
+            "id": "gycaai4",
+            "score": 1,
+            "text": "It's likely hard-coded to a certain number of decimal places, and for good reason.\n\n1.) It doesn't change (obviously)\n\n2.) It's very accurate, even with a small number of decimal places. [According to NASA,](https://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/) we'd only need 39-40 decimal places to calculate the circumference of the known universe, accurate \"to the diameter of a single hydrogen atom.\"",
+            "title_similarity": "0.6828585"
+        },
+        {
+            "id": "gycb0gt",
+            "score": 2,
+            "text": "Your phone calculator and probably most hand calculators use 64bit for floating point operations. For reasons, this corresponds to 16 digits (or 15 decimal places after a non-normalized mantissa). Pi (and a select few other mathematical constants) are hardcoded as constants.\n\nSee [IEEE Standard 754](https://en.wikipedia.org/wiki/IEEE_754?wprov=sfti1) for details.",
+            "title_similarity": "0.6311413"
+        },
+        {
+            "id": "gycbpjk",
+            "score": 2,
+            "text": "No it doesnt. That would be absurdily unnecessary. It only takes 39 digits to calculate the circumference of the known universe to within the width of one hydrogen atom.",
+            "title_similarity": "0.67947376"
+        },
+        {
+            "id": "gycbqs1",
+            "score": 1,
+            "text": "I just want to add some extra context, which may sound a bit advanced for an eli5 but here’s my attempt. \n\nMathematicians have proven that there are infinite sequences that are equivalent to pi (and various other numbers!). Sequences like this are formulated as a sum of decreasing numbers, which have nice properties. \n\n 0.1, 0.01, 0.001, 0.0001, and so on is a decreasing sequence like this. If you sum it you get 0.111111... \n\nIt can be expressed as the sum from i = 1 to infinity of: 1 / ( 10^i )\n\nThis isn’t such a crazy abstract thing— This infinite sum is equal to 1/9. “Prove” it to yourself by doing long division of 1/9 and take note of an inescapable pattern. \n\nIt’s just another tool mathematicians have developed to express and work with numbers. We approximate 1/9 by stopping after a few digits. So, maybe 0.111 for example. That’s like cutting off the sequence from going to infinity and instead going to i = 3. How much do you lose by cutting out i = 4 to infinity? It’s not an infinitely large number (!) just an infinite number of decimals. \n\nThe entire sum of i = 4 to infinity for this sequence is smaller than 0.001 \n:)\n\nWe get to pick and choose how precise we need the number to be. In your calculators case, it goes out to 9 digits of pi. The remaining digits of pi are, in total, less than 0.000000001, even though there are infinite digits !\n\nMost likely your calculator is just storing a hard coded number going to 9 decimals. But in some calculators, they may actually use a sequence approximation. \n\nMathematical Easter egg: what happens when you multiply the sequence by 9?\nYou get 0.99999999... infinitely repeating. But we said the sequence was 1/9, so it should be 9/9 aka 1. What is the truth?!",
+            "title_similarity": "0.64498186"
+        },
+        {
+            "id": "gycf8eq",
+            "score": 1,
+            "text": "The most convenient thing about the real world is that most functions we encounter are continuous---in fact, if this were not the case engineering would largely be impossible. Continuity means that small changes in the input result in small changes in the output. Using 3.14 instead of pi in a computation only changes the input by less than 0.002, which is usually a small number. Hence, the result of our computation will usually be close to its \"true value\", and in the real world close enough is good enough.",
+            "title_similarity": "0.5583097"
+        },
+        {
+            "id": "gycfq4p",
+            "score": 1,
+            "text": "For irrational numbers your calculator will give you an estimate of the number that is calculated using something called a Taylor Series.",
+            "title_similarity": "0.5392749"
+        },
+        {
+            "id": "gycfxk4",
+            "score": 1,
+            "text": "Pi is usually claculated at least in basic math as 3.14. Calaculatirs use possobly more digits but it's infinite so it's whatever the calculator is programmed to use.",
+            "title_similarity": "0.74635106"
+        },
+        {
+            "id": "gychb80",
+            "score": 1,
+            "text": "I remember my calculus teacher saying that with like 100 digits of pi you could calculate the size of the universe to the meter. I'm paraphrasing here, but computers generally only need like 5 digits of pi",
+            "title_similarity": "0.7560812"
+        },
+        {
+            "id": "gychywl",
+            "score": 2,
+            "text": "Most calculators use 15 decimal places of precision, I would assume that pi is hard coded to the same precision",
+            "title_similarity": "0.6665348"
+        },
+        {
+            "id": "gycilv7",
+            "score": 1,
+            "text": "I mean... should we be using exact numbers for calculations? Sure... but at a certain point rounding would be good enough. We are generally making things on a small enough scale that it wouldn't change a lot. Now if we are building a perfectly round spaceship the size of the sun? Yeah we probably are gonna need more exact numbers than what we've got.",
+            "title_similarity": "0.6244082"
+        },
+        {
+            "id": "gycka0p",
+            "score": 1,
+            "text": "Nothing in life that requires a calculator requires more digits of pi than a calculator can compute.  There is no need to be so accurate to the 100th decimal place if you're going to round off at the 10th place.  It's just a waste of space and power.",
+            "title_similarity": "0.7311285"
+        },
+        {
+            "id": "gycmyk0",
+            "score": 3,
+            "text": "You ever see the video [*Powers of 10*](https://youtu.be/0fKBhvDjuy0)?\n\nRemember, each additional decimal digit of Pi is a factor of 10 additional precision.\n\nNASA only needs 14 decimal digits. The diameter of the universe, to the precision the width of a hydrogen atom, needs only 39 digits.\n\nThink about it: 1/1,000,000,000,000,000,000,000,000,000,000,000,000,000 is hella small / hella precise.",
+            "title_similarity": "0.75067115"
+        },
+        {
+            "id": "gycnc6a",
+            "score": 3,
+            "text": "You don't need many digits of pi for accurate calculation. \n\nTo calculate a circle with circumference equal to the observable universe, that is accurate to the smallest thing, a hydrogen atom, you would only need 39-40 digits of pi. \n\nMost things are much smaller and don't need to be as accurate. \n\nhttps://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/",
+            "title_similarity": "0.71363974"
+        },
+        {
+            "id": "gycp0a5",
+            "score": 2,
+            "text": "Software engineering answer: It uses a constant,  usually defined in the operating system or a standard math library \n\nOn [Posix systems](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/math.h.html) (MacOS/iOS/Android/Linux) it’s defined as M_PI with the value of 3.14159265358979323846264338327950288\n\nOn [Windows](https://docs.microsoft.com/en-us/cpp/c-runtime-library/math-constants?view=msvc-160) it’s also defined as M_PI but with a value of 3.14159265358979323846",
+            "title_similarity": "0.5542124"
+        },
+        {
+            "id": "gycp3dh",
+            "score": 1,
+            "text": "What I always found interesting is that since pi is infinite, that means anything calculated with it is \"Eh, close enough.\"",
+            "title_similarity": "0.4067689"
+        },
+        {
+            "id": "gycpmtu",
+            "score": 3,
+            "text": "Its not calculating anything. Its retrieving saved data.\n\n&#x200B;\n\nCopy pi to a million digits and put it in notepad. Save it. Open that document up and ask yourself if the computer calculated that number when you opened the file???",
+            "title_similarity": "0.6805699"
+        },
+        {
+            "id": "gycrd3n",
+            "score": 1,
+            "text": "You can actually get as many digits of pi as you want, using only simple calculations repeated over and over again. If you take;\n\n1 - 1/3 + 1/5 - 1/7 + 1/9 ...\n\nFor all odd numbers, it equals pi. \n\nThis is actually a version of an alternating series, and can be written as\n\nΣ(n=1, infinity) of (-1^(n+1)) /2n-1\n\nWhere the e thingy is a sigma and basically says “add in all whole numbers of n from 1 to infinity”\n\nThis is relatively simple for a calculator to do (and it’s actually similar to how things like roots and trig functions are done!) as well as having as much or as little precision as you’d need",
+            "title_similarity": "0.64687186"
+        },
+        {
+            "id": "gycrjln",
+            "score": 1,
+            "text": "You don't need to know 100 digits to do math with pi. \nWhat regular calculator can even display the first 100 digits of anything? \n\nWithout knowing exactly what the software does, most likely it will round to some number of significant figures\n\nEven if super computers are needed to get these long list of digits, remember the fact that pi (like various other constants) are 'irrational' in that they go on forever and can't exactly be written as a fraction.\n\nEven these big computers have to round at some point\n\nHow many applications even require such precision? Very few i would imagine",
+            "title_similarity": "0.8570589"
+        },
+        {
+            "id": "gycsdq6",
+            "score": 1,
+            "text": "It's impossible to know all the digits of pi, it's infinite. You would only go up to a number of decimal places depending on how accurate you need to be.",
+            "title_similarity": "0.71310973"
+        },
+        {
+            "id": "gycslnr",
+            "score": 1,
+            "text": "Calculator has very limited memory, so it can't store even 100 digits. Depending on the calculator model they could store 10 to 20 digits of it's value in read-only memory.",
+            "title_similarity": "0.669973"
+        },
+        {
+            "id": "gycssbd",
+            "score": 1,
+            "text": "The first 40 digits are pretty much the only useful ones. You can use the first 40 digits to find the circumference of the universe using the width of a Hydrogen Atom",
+            "title_similarity": "0.6365926"
+        },
+        {
+            "id": "gyctjxo",
+            "score": 3,
+            "text": "So pi in a Ti83 is stored as: 3.1415926535898. I figured this out by doing pi -3.1415926 and it told me it was 5.35898*10^-7.",
+            "title_similarity": "0.5175982"
+        },
+        {
+            "id": "gyctm3p",
+            "score": 1,
+            "text": "It doesn't.   Depending on how much you paid for your calculator, that changes whether it just knows the digits presented on the screen, or knows some additional ones on top of that.   \n   \nAside: the realm of pi to even merely a hundred places is typically just in the realm of pure mathematics.  Most of the time that level of precision simply isn't needed.",
+            "title_similarity": "0.7028984"
+        },
+        {
+            "id": "gyctowc",
+            "score": 1,
+            "text": "Maybe you can try finding it out by multiply pi by let's say 1000, then subtract all the numbers after the decimal point (all the digits in the thousandths, hundredths, tens and ones place) and repeat the process until you find the end.",
+            "title_similarity": "0.7123636"
+        },
+        {
+            "id": "gycupzc",
+            "score": 1,
+            "text": "Pocket calculators typically internally keep track of twice as many digits as fit in the display, e.g., when doing multiple consecutive calculations. This is why you can take `1÷7=`, `×7=` and get `1` rather than `0.999999999999` - the calculator might have *displayed* `0.142857142857` as the answer to the first calculation, but internally it remembered the answer as `0.1428571428571428571428571`, which multiplied by 7 gives `0.9999999999999999999999997`, and when this is rounded to the 13 digits that fit in the display, rounds to `1`.\n\nI would guess that the stored value for pi has one of the following lengths:\n\n* the number of displayed digits\n* the number of displayed digits plus one\n* double the number of displayed digits\n\nFrom high school science classes I remember the rule of \"significant digits\": when you get your final answer, you round it to the total number of digits equal to the number within your calculations that had the fewest digits (excluding any temperature values, which for whatever reason are always treated as \"exact\" and therefore are ignored in this determination).\\*\n\nExample:  \n`175.4 × 362.6 ÷ 20.0 = 3180.002` but this gets rounded to 3 significant digits, as that's how many are in `20.0`, so you report it as `3180`.\n\nSince any number that you manually enter into the calculator can never have more digits than fit in the display, the second of the above guesses should generally be able to provide sufficient precision to ensure that final results are accurate to at least as many decimal places as the operand with the fewest significant digits.\n\nAs for calculators in phones and computers, they probably store quite a few more digits than most people would ever need - probably all of the digits that can be stored in a particular type of floating point variable. After all, while *calculating* the true value of pi to many decimal places may be very computationally intensive, *storing* the value to the same number of digits is quite trivial.\n\n\\* Actually, I now remember that the rule I stated above applies to multiplication and division; for addition and subtraction you go by the digit column of the least precise value, so for example if you're adding/subtracting these numbers: `1700` `675` `224.8`, then that answer would be rounded to the hundreds place.",
+            "title_similarity": "0.69720507"
+        },
+        {
+            "id": "gycuynx",
+            "score": 3,
+            "text": "A lot of things are some approximation.   A good research topic related to this Taylor series/McLaren serious.",
+            "title_similarity": "0.29277658"
+        },
+        {
+            "id": "gycv053",
+            "score": 2,
+            "text": "Yeah pretty much. In engineering we're usually fine to round to 2 decimal places. Mathematicians always RIP on us by saying pi=3.",
+            "title_similarity": "0.63349044"
+        },
+        {
+            "id": "gycvpsh",
+            "score": 3,
+            "text": "As others have already mentioned, the calculator stores only a finite number of digits of PI. If you want to know *exactly* how many digits, you can look it up in the manual.\n\nFor example, in the [manual](https://support.casio.com/en/manual/manualfile.php?cid=004009138) of the **Casio fx-991EX** it says on page 14:\n\n>pi is displayed as 3.141592654, but pi = 3.14159265358980 is used for internal calculations.\n\nFor programs on PC we can look into the [Intel Developer Manual](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html#nine-volume), volume 1, subsection 8.3.8 (page 219): Approximation of Pi\n\n>The numerical value of PI can be written as: Pi = 0.f \\* 2^(2) where the fraction f is expressed in binary form as: f = C90FDAA2 2168C234 C  \n>  \n>The internal approximation Pi of the value π has a 66 significant bits. Since the exact value of π represented in binary has the next 3 bits equal to 0, it means that Pi is the value of π rounded to nearest-even to 68 bits.\n\nSo interestingly, on 64bit systems, pi is saved with 68 bits.",
+            "title_similarity": "0.70126975"
+        },
+        {
+            "id": "gycwg66",
+            "score": 2,
+            "text": "It's most likely represented as a single or double precision [float](https://en.m.wikipedia.org/wiki/IEEE_754), which has enough digits as to be overkill for any practical application, per other comments here.",
+            "title_similarity": "0.60897225"
+        },
+        {
+            "id": "gyczvyt",
+            "score": 1,
+            "text": "If you were to try and calculate one third of something, the difference between calculating something divided by 3.3 or 3.33 and dividing it by 3.33333333333333333333(etc) is negligible even if it is technically more accurate. So if you're trying to work out the area or circumference of a circle, or angles in a wave, the difference between 3.14 or 3.14159 and the actual excessively large amount of decimals in pi is negligible.\n\nPi is more of a mathematical rabbit hole, we know it's big, we know it keeps going, but how far and how can we find out how many digits a computer can work out, or how many digits a person can remember is more of a challenge in itself than something that's required for mathematical accuracy. but the actual numbers themselves are redundant because if we can accurately work out the area of a circle (PiR2 - or pi times radius, squared) with pi to 3-5 decimal places, then we don't need to use the rest of the decimal places to calculate the answer, because all it's going to do is confuse the person or computer calculating it.",
+            "title_similarity": "0.71513855"
+        },
+        {
+            "id": "gyczza8",
+            "score": 1,
+            "text": "Why would a computer use decimal digits? Computers use binary. Probably uses a IEEE 754 64-bit double to store it internally.\n\nThat’s 64 binary digits, aka bits.",
+            "title_similarity": "0.7119652"
+        },
+        {
+            "id": "gyd0mja",
+            "score": 1,
+            "text": "I once heard you can calculate the circumference of the expanding universe with just 15 digits of pi. Everything beyond that is totally hypothetical math to non-tangible distance/space/area/volume/ect.",
+            "title_similarity": "0.7169669"
+        },
+        {
+            "id": "gyd17ml",
+            "score": 2,
+            "text": "Your cheap calculator just estimates.  Even if you knew pi to the last digit (which doesn't exist) you'd still have to deal with the estimate floating point numbers can represent.\n\nYour expensive calculator (eg TI-89) uses a Computer Algebraic System and doesn't calculate floating point numbers or pi unless you ask it to.  If you say `9x * pi = 9 / pi`, it will dutifully tell you `x = 1 / pi^2`, and you'll have to press \"estimate answer\" to get 0.1013...  For that it doesn't matter what the value of pi is, only that it never changes.",
+            "title_similarity": "0.7106505"
+        },
+        {
+            "id": "gyd1jcx",
+            "score": 1,
+            "text": "I think a better question would be how does scientific calculator knows when to use Pi in output.\nAnd I believe that's a pretty hard problem to solve from my perspective as a software developer.",
+            "title_similarity": "0.6332116"
+        },
+        {
+            "id": "gyd2z43",
+            "score": 1,
+            "text": "Doom source code used the wrong number for PI in its calculations, in fact you could use 3.14 as PI and the game would work remarkably the same. Precision is just not needed for many use cases.",
+            "title_similarity": "0.60255086"
+        },
+        {
+            "id": "gydamm6",
+            "score": 1,
+            "text": "Pi is actually very well approximated early on in the decimal places. \n\n[don’t take my word for it I’m stupid. ](https://youtu.be/sj8Sg8qnjOg)",
+            "title_similarity": "0.67323184"
+        },
+        {
+            "id": "gydb9bm",
+            "score": 1,
+            "text": "As noted by the previous posters, many calculators use far less than the first 100 digits. However, there is no standard number of digits to use--it can vary from one calculator model to another, so you could theoretically get two different results for the same equation on different calculators if they use different approximations of pi (but any such difference would be much too small to matter for any practical purpose).",
+            "title_similarity": "0.75435567"
+        },
+        {
+            "id": "gydgxtk",
+            "score": 1,
+            "text": "Thinking back to my “slide rule” days it was more than three less than 4.  Wtf we landed on the moon. Some constants are only approximations",
+            "title_similarity": "0.42808795"
+        },
+        {
+            "id": "gydq18h",
+            "score": 1,
+            "text": "I thought the whole point of a x64 bit computer was that it could do 64 numbers of accuracy in a calculation? \n\nI don't think a calculator running off a x64 bit operating system can use all 64 numbers, but it can use a lot. The entire computer can run off the inaccuracy of 64 number places, so I think your assumption is correct, it uses the first couple of digits when calculating Pi.",
+            "title_similarity": "0.71742666"
+        },
+        {
+            "id": "gydrqrf",
+            "score": 1,
+            "text": "100 digits would be WAY too much.\n\nYou could calculate the circumference of the visible universe to the accuracy of a hydrogen atom with about 40 digits of pi.",
+            "title_similarity": "0.73324484"
+        },
+        {
+            "id": "gyds7kq",
+            "score": 1,
+            "text": "My superpower on display .. memorized digits of pi\n\n3.1415926535897932384626433\n\nKind of useless but I have it memorized(hopefully correct still lol?) from my old calc class had it wrapped around the entire wall. Most calculators only taking it out like 8 or 9 digits from what I've seen. I'd imagine that covers the accuracy for most applications though.",
+            "title_similarity": "0.7058626"
+        },
+        {
+            "id": "gydt6z3",
+            "score": 1,
+            "text": "Most calculators only show about 10 decimal places. They might calculate using a few more behind the scenes. \n\nSo they would only need to know Pi to about 15 decimal places to be very accurate in their calculations for the 10 that they show.",
+            "title_similarity": "0.75695324"
+        },
+        {
+            "id": "gydt7f9",
+            "score": 1,
+            "text": "Remeber your trig. Pi =2*arcCOS(0)\nSo, you want to know how your calculator computes trig and the key to that is some has been named Leonard Eular claims there are infinite **trigonometric series** which converge to the true number so all you have to do is crunch those out to, as was mentioned, a surprisingly small number of terms.",
+            "title_similarity": "0.7177848"
+        },
+        {
+            "id": "gydtsfk",
+            "score": 1,
+            "text": "Probably less than that, because even just 10 decimal digits is already enough to calculate most things accurately, 100 is probably overkill for most things and just slows down calculation.",
+            "title_similarity": "0.66853285"
+        },
+        {
+            "id": "gydufsd",
+            "score": 1,
+            "text": "I kind of assumed it used a different form instead of the calculated value. Like, two-thirds has an infinitely repeating decimal number, but if you do all the arithmetic in the fraction form, the number stays accurate.",
+            "title_similarity": "0.70055324"
+        },
+        {
+            "id": "gydutqt",
+            "score": 1,
+            "text": "Computers store everything in bits. A bit is a unit that can be one or zero, but nothing else. You could think of it like \"on\" or \"off.\" Bits are grouped together into sets of 8 called \"bytes.\" When you want to store a decimal number in a computer, you have to first convert it to bits. When a decimal number is represented in binary, it's called a \"floating point\" number. It's called a floating point number because the precision, or the number of meaningful (or significant) digits you can store, stays the same, but the decimal place can move around. The more bits you use, the more significant digits you can store. \n\nMost calculators use something called \"single precision,\" which is 32 bits, or 4 bytes. Those can store decimal numbers with up to 9 significant digits. That means you can represent a number like pi out to 8 decimal places accurately (the first digit is for the 3 before the decimal). If you have a calculator that can display pi, and it is using single precision, you'll see that there is a 9th decimal place too. That is the last bit, and it is not \"significant.\" This means it is rounded, and when you use that number in calculations, the error due to rounding will start to accumulate. If you (for example) added pi to itself many times, the answer would become less and less accurate as you continued to add it. You can check this yourself by adding it to itself 50 or so times, then dividing by pi. You won't get a whole number back, and the difference between it and the expected number is the accumulated error.\n\nScientific programs often use something called \"double precision\" for important calculations. Double-precision floating point numbers can store 15-17 significant digits, which means the numbers can be added, multiplied, and divided many more times before reaching a similar amount of error.\n\nIf you really need more precision, they have even larger floating point representations - quadruple, octuple, and \"extended.\" However, those are not widely available and I don't believe any calculators support them.",
+            "title_similarity": "0.66688335"
+        },
+        {
+            "id": "gydz3v7",
+            "score": 1,
+            "text": "Pi is a ratio of a circle's circumference to the diameter of that circle. So, it uses ratio approximation of 22/7.",
+            "title_similarity": "0.49287766"
+        },
+        {
+            "id": "gye4bli",
+            "score": 1,
+            "text": "There is a very short sequence hard coded into the calculator. Most real world applications are fine with only a few digits of precision",
+            "title_similarity": "0.53019303"
+        },
+        {
+            "id": "gye4yoi",
+            "score": 1,
+            "text": "Anything past the tenth decimal place is completely negligible. It's only taught that there's more because it would be misinformation to say otherwise. But those puny numbers just don't even matter. Like say, what about the rest of the numbers in 3.3333333\\_ as if it matters that the nine millionth 3 is still....get this....a 3",
+            "title_similarity": "0.65386355"
+        },
+        {
+            "id": "gye5bke",
+            "score": 1,
+            "text": "My phone calculator got to this and counting:\n\n3,14159265358979323846264338327950288419716939937510582097494459230781640628620899862803482534211706798214808651328230664709384460955058223172535940812848111745028410270193852110555964462294895493038196442881097566593344612847564823378678316527120190914564856692346034861045432664821339360726024914127372458700660631558817488152092096282925409171536436789259036001133053054882046652138414695194151160943305727036575959195309218611738193261179310511854807446237996274956735188575272489122793818301194912983367336244065664308602139494639522473719070217986094370277053921717629317675238467481846766940513200056812714526356082778577134275778960917363717872146844090122495343014654958537105079227968925892354201995611212902196086403441815981362977477130996051870721134999999837297804995105973173281609631859502445945534690830264252230825334468503526193118817101000313783875288658753320838142061717766914730359825349042875546873115956286388235378759375195778185778053217122680661300192787661119590921642019893809525720106548586327886593615338182796823030195203530185296899577362259941389124972177528347913151557485724245415069595082953311686172785588907509838175463746493931925506040092770167113900984882401285836160356370766010471018194295559619894676783744944825537977472684710404753464620804668425906949129331367702898915210475216205696602405803815019351125338243003558764024749647326391419927260426992279678235478163600934172164121992458631503028618297455570674983850549458858692699569092721079750930295532116534498720275596023648066549911988183479775356636980742654252786255181841757467289097777279380008164706001614524919217321721477235014144197356854816136115735255213347574184946843852332390739414333454776241686251898356948556209921922218427255025425688767179049460165346680498862723279178608578438382796797668145410095388378636095068006422512520511739298489608412848862694560424196528502221066118630674427862203919494504712371378696095636437191728746776465757396241389086583264599581339047802759009946576407895126946839835259570982582262052248940772671947826848260147699090264013639443745530506820349625245174939965143142980919065925093722169646151570985",
+            "title_similarity": "0.38342947"
+        },
+        {
+            "id": "gye5qpb",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.048323765"
+        },
+        {
+            "id": "gye633w",
+            "score": 1,
+            "text": "With a hundred decimals of pi you can calculate the circumference of the observable universe to within a tolerance of a hydrogen atom (thats 1.2x10^-10m compared to 867 billion light-years and growing) so for solving even the tightest machining tolerances you may need 20 decimal places at the most",
+            "title_similarity": "0.6927028"
+        },
+        {
+            "id": "gye6iii",
+            "score": 1,
+            "text": "Huh, seeing the question I assumed calculators used a model of pi that could just be used as a placeholder.  But it makes sense that just hard coding a number is easier",
+            "title_similarity": "0.64580435"
+        },
+        {
+            "id": "gye7vp9",
+            "score": 1,
+            "text": "The calculator I used to have in school would use the first 8 digits. When we did calculations, we were only required to use the first 2.",
+            "title_similarity": "0.54116464"
+        },
+        {
+            "id": "gye81ya",
+            "score": 1,
+            "text": "Decimal numbers in computing are known as floating point numbers and there are two variants of those - single precision floating point numbers which are 7 digits and double precision floating point numbers which are 14 digits long. Single precision floating point numbers are fine for most day-to-day applications, however if you like to increase the accuracy use double precision which are used in the scientific/engineering programs. So my guess for a typical calculator, it probably uses 7 digits or at most 14 digits.",
+            "title_similarity": "0.657203"
+        },
+        {
+            "id": "gye96tr",
+            "score": 1,
+            "text": "Using higher level math numbers like Pi can be represented using something called a series. Some calculators may use a series to approximate Pi,  but that would be kinda inefficient and pointless. \n\nA calculator is a computer, and has memory. So a value for Pi with however many decimals you want can be saved and called whenever the button is pushed just like the letter A is called when I push the A on my keyboard.",
+            "title_similarity": "0.74432784"
+        },
+        {
+            "id": "gye9lwt",
+            "score": 1,
+            "text": "Here's how you can potentially figure out how many places of pi your calculator stores:\n\nMultiply by 1000. Subtract 3141. Now you see the next 'n' digits. Keep doing the multiply-and-subtract until you run into a wall of zeros. That's your end point.",
+            "title_similarity": "0.763998"
+        },
+        {
+            "id": "gyeahzr",
+            "score": 1,
+            "text": "It isn't just Pi that is approximated.  \n\nPretty much every calculation a computer or calculator does is a high precision approximation simply because we never really need \"exact\" answers to almost anything in real life.",
+            "title_similarity": "0.63234806"
+        },
+        {
+            "id": "gyec4p2",
+            "score": 1,
+            "text": "I want to say that some calculators use the series approximation for pi (1-1/3+1/5-1/7...=pi/4) which allows for faster calculation and less rounding error when more complicated arithmetic operations are applied.",
+            "title_similarity": "0.58924246"
+        },
+        {
+            "id": "gyeddsu",
+            "score": 1,
+            "text": "In engineering, any calculations of measurable value are considered to be limited in accuracy to the value with the fewest decimal  points.  So extended values of pi will not necessarily increase accuracy.",
+            "title_similarity": "0.6166402"
+        },
+        {
+            "id": "gyede50",
+            "score": 1,
+            "text": "Why waste time say lot digits when few digits do trick?",
+            "title_similarity": "0.5886586"
+        },
+        {
+            "id": "gyedv7n",
+            "score": 1,
+            "text": "The short answer is yes. It uses a constant value instead of pi, which is a good approximation\n\n\nFor example, dot net, c++ and many languages use 3.1415926535897931 and it is defined as that in computer memory.\n\nIn C Pi is defined in math.h: #define M_PI 3.14159265358979323846\n\nIt’s worth noticing that many algorithms that need pi for calculations just do algebraic and mathematical tricks to use the value of pi the least amount of times to avoid loosing prediction. For example, if you need to sum 3/4pi radians + 1/3pi radians, you might as well factor out pi and use (3/4 + 1/3)pi instead",
+            "title_similarity": "0.65099704"
+        },
+        {
+            "id": "gyefn5d",
+            "score": 1,
+            "text": "Most calculators store numbers like e and pi up to 9 digits in their hard memory (ROM??). If the display allows it, perhaps more.",
+            "title_similarity": "0.63422537"
+        },
+        {
+            "id": "gyegg5w",
+            "score": 1,
+            "text": "It depends on your calculator. \n\nSome will store a constant as a binary number : a single precision floating point representation will give you approximately 7 digits, while some arbitrary precision formats can give you as many digits as you want. \n\nSome calculators use symbolic math, when you ask \"what is 2*π\", they'll tell you \"2π\" (really helpful). \n\nIf you need to get a certain number of digits for your calculation, the value can also be computed on the fly. There are many techniques for that, mostly using series : for instance π = 4*(1-1/3+1/5-1/7+...). If you add and substract enough terms, you'll end up with the number of digits you need.\n\nBut realistically, the 7 digits precision I mentioned earlier is probably enough to get a close enough approximation of the result you need. (See the NASA thing all over the comments)",
+            "title_similarity": "0.6726524"
+        },
+        {
+            "id": "gyegl6s",
+            "score": 1,
+            "text": "I assumed that there’s a mathematical way to know if going beyond x amount of digits would be arbitrary given you know how you are going to round it. As if you’d compute the n’th digit of pie could be anything and it wouldn’t change the  output of your . I don’t think I am right though",
+            "title_similarity": "0.66451"
+        },
+        {
+            "id": "gyeh6sh",
+            "score": 1,
+            "text": "Here's a relevant article for a ti-84: [http://rockyroer.blogspot.com/2012/06/how-many-digits-of-pi-does-your.html](http://rockyroer.blogspot.com/2012/06/how-many-digits-of-pi-does-your.html). He figures out that his calculator stores a 14 digit version of pi. \n\nIf you click pi, then enter, you'll see 10 total digits. But this is because the ti-84 only shows a maximum of 10 digits. The author does a series of operations to reveal more and more digits, until the calculator stops spitting out new results. This happens at 14 digits of pi.(the 3, then 13 more digits)",
+            "title_similarity": "0.7446532"
+        },
+        {
+            "id": "gyehi3l",
+            "score": 1,
+            "text": "Due to my late 90s calculator, I will forever remember Pi as 3.141592654.  Thats all I know and with all these replies, its more than I ever need.  (My math teacher told us to use only 3.14).\n\nBTW, what supercomputer do you know that knows all the digits?  AFAIK, Pi is an endless number.",
+            "title_similarity": "0.7092186"
+        },
+        {
+            "id": "gyejv0w",
+            "score": 1,
+            "text": "You can figure this out yourself!\n\n1. Hit the pi button on your calculator.\n2. Subtract 3\n3. Multiply by 10\n4. Subtract 1\n5. Keep multiplying by 10 and subtracting the units digit until you run out of digits.",
+            "title_similarity": "0.7107299"
+        },
+        {
+            "id": "gyeoad7",
+            "score": 1,
+            "text": "Slightly off-topic here:\n\nHow do we actually calculate pi?\n\nI know pi is a ratio of (circumference/diameter), but given that pi is infinitely long, how is the actual decimal numbers known?",
+            "title_similarity": "0.7592395"
+        },
+        {
+            "id": "gyeq1dp",
+            "score": 1,
+            "text": "Lets say you wrapped a rope around the earth and pulled it tight. Add 3.14 feet to the rope. Now the rope is 1 foot off the ground, if a bunch of redditorz held it up that high all over. Drunkish.",
+            "title_similarity": "0.32650575"
+        },
+        {
+            "id": "gyer4f7",
+            "score": 1,
+            "text": "There are WAY too many responses to this. OP is on the right track but it's not more complicated than having a copy of Pi stored in ROM with no more precision than what the calculator is capable of using and displaying.",
+            "title_similarity": "0.608603"
+        },
+        {
+            "id": "gyesjg0",
+            "score": 1,
+            "text": "Doesn't it calculate using as many digets rounded to the neast amount of decimal places the calculator screen can hold?",
+            "title_similarity": "0.7745009"
+        },
+        {
+            "id": "gyeulu7",
+            "score": 1,
+            "text": "While pi is a really cool natural number, there's nothing that innately special about it's number of decimal places as compared to other infinitely repeating or irrational numbers.\n\nImagine asking the same question about 1/3, how many decimal places does a computer use for that?  What about the square root of 2?  What about the result in the calculator if you multiply them together?\n\nThe truth is that base 10 is a messy choice numerically and that is only half the story because computers can only think in base 2 which is even more messy.  There is a lot of rounding and cleaning up behind the curtain to keep the appearance of cleanliness and order for users.  If you have ever had problems in Excel for example where 1.00 did not equal another cell of 1.00, you have probably experienced this effect in real life.\n\nThere are ways to work around all of this if you use high precision computing, but that is usually only for high tech scientific computing and not something that the casual user often has need of or access to.  As an example, look how Nvidia locks down high precision computing on their consumer graphics cards.\n\nAs an example, a short variable is 2 byte or 16 bits and this let's you store numbers as large as 65536.  Imagine that you are making a decimal out of that and you get 6.5536.  This would let you only store 4 decimal places or 3.1416.\n\nA long variable is 4 bytes or 32 bits and that lets you get all the way up to 9 decimal places.  That's definitely a big improvement over 4, but the \"costs\" quickly outweigh the benefits for most applications.",
+            "title_similarity": "0.79539496"
+        },
+        {
+            "id": "gyew0wg",
+            "score": 1,
+            "text": "A calculator will have a predefined level of floating point precision. The calculator only needs to store the amount of digits for the level of precision it is capable of.\n\nExcel for example has 15 digits of precision.",
+            "title_similarity": "0.6924305"
+        },
+        {
+            "id": "gyezvwz",
+            "score": 2,
+            "text": "Gauss once said something along the lines of 'nothing shows a misunderstanding of maths more than unnecessary precision.\n\nUsing 100 digits of pi would be very, very precise. Such Precision is unnecessary in any application i could imagine",
+            "title_similarity": "0.7844283"
+        },
+        {
+            "id": "gyf0c5b",
+            "score": 1,
+            "text": "Most calculators use between 90 to 100 digits, if you type enough the calculator will think that you typed pi",
+            "title_similarity": "0.745561"
+        },
+        {
+            "id": "gyf14mb",
+            "score": 1,
+            "text": "Lets just guess that you have a 32 bit electronic calculator. If they use ieee 754 floating point numbers, then you have 1 sign bit, 8 exponent bits, and then 23 bits for the raw mumber.\n\nIeee 754 lets you represent any number from 0 to 8,388,608, then the sign bit lets you set that to positive or negative, and the exponent bits let you shift that.\n\nSo they probably have pi set to 3,141,590 and shift it over so that in ieee 754 you have 01000000010010010000111111010000.\n\nReason they do this is because binary floating point (which is what ieee 754 standardizes) is really easy to do math with with digital circuits.",
+            "title_similarity": "0.6237304"
+        },
+        {
+            "id": "gyf1ojk",
+            "score": 1,
+            "text": "my calculator is pretty lazy and only has the same 9 numbers. once you go above 9, it just starts using the bottom number again :/",
+            "title_similarity": "0.5319128"
+        },
+        {
+            "id": "gyf1ybt",
+            "score": 1,
+            "text": "This is what my phone calculator shows: 3,1415926535897932384626433832795028841971\n\n\nIf I multiply Pi by 2, it shows this: 6,2831853071795864769252867665590057683943\n\nSo yeah my phone apparently uses a lot of decimals for Pi.",
+            "title_similarity": "0.74065304"
+        },
+        {
+            "id": "gyfazbu",
+            "score": 1,
+            "text": "this is like asking \"how does my gpu create a curve\". When the mathemathical, inherently logical, answer is *defined* all it takes is recursion and repetition to resolve it into terms humans can understand.",
+            "title_similarity": "0.6085185"
+        },
+        {
+            "id": "gyfbtoe",
+            "score": 1,
+            "text": "My physics prof liked to joke that \"PI is 3.\"\n\nObviously not *quite* but it's only off by about 5% when used for lengths, 9% for areas and 13% for volumes.\n\nAdding just one decimal digit pulls this down to 1%, 3% and 4%.\n\nWith two digits (3.14) it's 0.05%, 0.1% and 0.15%. Over a kilometer that's less than a single step from an adult. Over a square kilometer that's about the seat of an office chair. And if you filled an olympic swimming pool into a water balloon calculated this way is would be off by just 12 bathtubs or 3 small jacuzzis.\n\nAnother digit and were down to a single small jacuzzi or about as much water as would evaporate in a single day if it's outside.\n\nAnd with a fourth decimal digit the difference would barely fill a bathtub.\n\nWith a fifth decimal digit, which is about what is easy to remember (because when you type (3.)14159, the numbers form a check mark on the number pad), the difference between that olympic pool sized water baloon calculated properly and calculated cheaply are about 3-4 large bottles of coke.\n\nThose 3-4 bottles of coke are about the amount an adult couple should drink each day (well, not coke) and the city is going to deal with a lot more water than that each day. So the difference matters. But those aren't the kind of problems that are solved using pocket calculators. And at that point other sources of errors need to be accounted for as well.",
+            "title_similarity": "0.65266585"
+        },
+        {
+            "id": "gyfeuek",
+            "score": 1,
+            "text": "Most will probably use like 5-10 digits after decimal. That is precise enough for most people.\nComputer calculations are done on Floating point arithmetics,  and the way a computer is made/coded influences the outcome a lot. Epsilon errors, absolute error, relative error, truncation error, round off error etc change the output, especially if your given calculation is an ill conditioned statement, where even small changes can bring very different results.",
+            "title_similarity": "0.6321663"
+        },
+        {
+            "id": "gyfg410",
+            "score": 2,
+            "text": "You see, sometimes there's a point where good enough is good enough. NASA only uses the first fifteen digits of pi to calculate trajectories. Which is good enough for an astronomical scale.",
+            "title_similarity": "0.69402343"
+        },
+        {
+            "id": "gyfmlag",
+            "score": 1,
+            "text": "Most calculators just use, say 12 digits but some (for example the calculator on Android phones) actually have a formula to calculate pi and they calculate more digits as needed. You can actually scroll sideways on the Android calculator and it will just keep calculating more digits!\n\nWhy bother? I think someone had a fun time implementing it 😆 . However, using the complex algorithms does let them deal with fractions and the like really cleanly so they can show the result as pi/2 instead of a decimal.",
+            "title_similarity": "0.70369196"
+        },
+        {
+            "id": "gygeysj",
+            "score": 1,
+            "text": "PI on a calculator for all intents and purposes is a constant. Yes, we know it isn’t in math but for computers it is, and a calculator is a computer. The designer then takes the calculator and determines what constants it needs. For instance, the TI-83 has fairly limited amount of memory and registers. So PI is represented as 3.1415926535898. As calculators get more advanced, probably going to see more but I doubt it’s up to a 100 places.",
+            "title_similarity": "0.7529535"
+        },
+        {
+            "id": "gygftoo",
+            "score": 1,
+            "text": "Unless you are going to do some very precise and exact math, typically you are going to only use the first few digits. In electronics, 3.14 is as exact as you get. This is also because there tends to be a lot of wiggle room included for the tolerance of the components used. \n\nThat being said, I do not know how many digits an \"off the shelf\" pc is going to use. I would assume no more than 10 digits.",
+            "title_similarity": "0.7494521"
+        },
+        {
+            "id": "gygoat9",
+            "score": 1,
+            "text": "Many people have used examples of how many digits are needed. One example I really enjoy is that you only need 40 digits to calculate the circumference of the observable universe to within one hydrogen atom. 100 digits would be far beyond any reasonable value necessary for any real world scenario. If you really wanted to could round up your answer a little bitt to even out the increase that more digits would have but that is still quite unnecessary.",
+            "title_similarity": "0.7220947"
+        },
+        {
+            "id": "gyh3enu",
+            "score": 1,
+            "text": "It only uses a few digits, probably something like the first 10 or 20 digits depending on which calculator you use. On your scientific/graphic calculator, you can try typing in 1 * pi to see how many digits it spits out. That's probably how many it uses.",
+            "title_similarity": "0.7027824"
+        },
+        {
+            "id": "h1jhyhn",
+            "score": 1,
+            "text": "IIRC, don't calculators use infinite series (not *really* infinite) to approximate numbers like this?",
+            "title_similarity": "0.7142788"
+        },
+        {
+            "id": "h2aqfl4",
+            "score": 1,
+            "text": "Usually calculators use the first 12 or 14 digits and that’s precise enough to calculate pretty much anything",
+            "title_similarity": "0.558"
+        }
+    ]
+}

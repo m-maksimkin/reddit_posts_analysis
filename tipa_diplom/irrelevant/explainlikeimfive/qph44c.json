@@ -1,0 +1,676 @@
+{
+    "ELI5 Why does it take a computer minutes to search if a certain file exists, but a browser can search through millions of sites in less than a second?\n": [
+        {
+            "id": "hjwkaik",
+            "score": 1,
+            "text": "Hi Everyone,\n\nPlease read [**rule 3**](https://www.reddit.com/r/explainlikeimfive/about/rules) (and the rest really) before participating. This is a pretty strict sub, and we know that. Rule 3 covers four main things that are really relevant here:\n\n**No Joke Answers**\n\n**No Anecdotes**\n\n**No Off Topic comments**\n\n**No Links Without a Written Explanation**\n\nThis only applies at **top level**, your top level comment needs to be a direct explanation to the question in the title, child comments (comments that are replies to comments) are fair game so long as you don't break Rule 1 (Be Nice).\n\nPlease note that many dozens of you have posted about \"Everything\" already, please stop!\n\nI do hope you guys enjoy the sub and the post otherwise!\n\nIf you have questions you can let us know here or in modmail. If you have suggestions for the sub we also have r/IdeasForELI5 as basically our suggestions box.\n\nHappy commenting!",
+            "title_similarity": "0.36947536"
+        },
+        {
+            "id": "hjtitgk",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjtis0u",
+            "score": 6,
+            "text": "There is no sense in which \"browser can search through millions of sites\" is correct.  The browser is displaying results computed in the search engine servers located in some distant Google datacenter.  Displaying the results is the least difficult part of the search problem, and Google has millions of computers doing the hard part, behind the scenes.",
+            "title_similarity": "0.7333539"
+        },
+        {
+            "id": "hjtzb3l",
+            "score": 4,
+            "text": "A bunch of the posts on here are talking about indexing to explain why searching the internet is so fast. But the real question here is why searching a local (or networked) filesystem is so slow.\n\n(This, by the way, is applicable specifically to Windows.)\n\nComputer file systems are fully indexed and it would be trivial to list all of the files and filter the list to the search query in a few seconds, except...\n\nThe standard APIs for filesystem access weren't written that way. Anything which lists files and folders wants a folder to search in and the API is not recursive. It won't return a tree of files and folders, just a list of files and folders at the level of the folder you called the API with. This means that if you want to list ALL of the files and folders, you'll call the (iirc) EnumerateFiles API call many thousands of times.\n\nWindows Search does this but it saves the result in a database so that subsequent searches can refer to that index.\n\nThat sounds pretty efficient, right? Well it would be if it weren't for the fact that files can be changed and there's no way an app can be notified of arbitrary changes to files. (Yes, you can set up a file watch hook, but that doesn't give you a heads up when a different folder and set of files is created somewhere you didn't think to point a hook at.)\n\nSo we're stuck, right?\n\nNope. Filesystems are already indexed. No idea why Windows Search needs to take time building an index when $MFT is sitting right there. Granted, it needs admin/system access to read it, but Windows Search already runs as a system service so this should be nbd. And it's not like Microsoft would have to reverse engineer anything; they developed NTFS and $MFT should be fully documented internally.\n\nIn the mean time, you can use WizTree by Antibody Software to see the entire contents of the drive. On my system, it enumerated all of the files completely in 8.34 seconds. The search in it isn't great but you can export to csv and filter using Excel or something.\n\nThe only caveat to using the $MFT as a search index from the admin or developer standpoint is that it completely bypasses file access control lists. Anyone who can read the $MFT sees all files (but not contents) on the drive regardless of file permissions. All apps reading the $MFT require admin when running so WizTree, for example, will popup User Account Control prompt when launched.",
+            "title_similarity": "0.68719745"
+        },
+        {
+            "id": "hju4qnz",
+            "score": 0,
+            "text": "TL;DR Cache is King  \n\n\nimagine you were given a name of a classmate and had to tell me where they sat. You are new to class so you dont know anyone's names yet. you'd have to ask everyone one by one what there name is and where they sit until you found the classmate with the right name.   \n\n\nthis would take a long time.  \n\n\nnow instead imagine you've already met everyone in the class and already know where they sit because you are friends with them all. when i ask you where a certain name sits you can easily remember exactly who that friend is and where they sit.  \n\n\nalready knowing the information is like when a computer has already looked at all the files and added them to an index. most computers dont do this by default because it can take a long time to talk to every kid in the class the first time.  \n\n\ninternet search creates indexes constantly and creates lots of what's called \"cache\" where the indexes created are kept in a really really fast server to be instantly looked up when needed.",
+            "title_similarity": "0.46640658"
+        },
+        {
+            "id": "hju58ei",
+            "score": 0,
+            "text": "the answer on a high level is curation: google \\_oraganizes\\_ all the webpages in a nice, retrievable way like a good library, whereas your file system on your local computer is a messy room.\n\nwhen a new website becomes available in public, it is not indexed right-away via google either, google needs to be made aware of its existence, find out what keywords exists in it that would allow it to be searched, and then \"curate\" and integrate it with all the other websites that can be indexed, and it will be available in a few hours to a day, after which point it can be searched within a second anywhere. this takes significant efforts of computation, i.e. what makes google google.\n\nyou are searching for files in your local PC from scratch each time, i.e. going through each one  at a time seeing if it matches your search description.",
+            "title_similarity": "0.70462966"
+        },
+        {
+            "id": "hju9yck",
+            "score": 0,
+            "text": "To hugely simplify and to assume the file searching you you are using is the one for windows 10, the method in which is searches relies on cached search information. It is very slow to do directly. It dynamically keeps this cache but it rarely contains less visited by hints specifically. There are alternatives for Linux users that have a better “search functionality”, however, even then there is a huge reliance on something similar for more standard uses. As far as search browsers specifically, they usually use keywords to search pre categorized terms from a massive database. Again simplifying, but the big distinction is this database is for lack of a better word pre sorted and the database is far easier to search because of this. I tried to keep this response very approachable and not confound this with overly heavy technical detail. Hopefully that somewhat makes sense and is helpful at getting some intuition for why this is the case.",
+            "title_similarity": "0.5997114"
+        },
+        {
+            "id": "hjud80z",
+            "score": 0,
+            "text": "A lot of people are talking about indexing which is definitely part of the whole thing but that's not really the only difference. Let's say both your computer and Google are using an Index, Google is still probably faster. Why?\n\nBecause Google has multiple GIANT POWERFUL computers all over the world that can do almost anything in less than a second. When you do a search you send a request to the big computer and in an instant it does all the work. Your personal computer is a tiny fraction of that power, so even if you're just going through your personal index, it takes your computer a bit to do that.",
+            "title_similarity": "0.78644073"
+        },
+        {
+            "id": "hjvwm4i",
+            "score": 0,
+            "text": "DNS, your home router has a DNS server. When you type a url into the browser, DNS attempts to resolve it to an IP address. If your DNS server doesn't know the address, it will query another DNS server to find it. Most likely this will be a DNS server that belongs to your ISP but it doesn't have to be. This is known as a recursive query. The information will then be stored on your DNS server for faster resolution the next time. When your DNS server is able to resolve the IP address by itself, it is known as an iterative query as opposed to recursive. Once you reboot your router or flush the DNS records the process starts over again. You will notice the first time it fetches the url if you do not have the DNS record for an iterative query, it will perform a recursive query and the page will take a bit longer to load that first time. \n\nSearching your PC for a file relies on the OS, IOPS, hardware specs (ram/cpu etc..) also the state of the Windows search index, which usually sucks and probably needs to be rebuilt. Indexing helps, as others have mentioned. It's an apples to oranges comparison tho.",
+            "title_similarity": "0.5741377"
+        },
+        {
+            "id": "hjwxlj7",
+            "score": 0,
+            "text": "The real question is why does it take windows minutes, while a simple program called \"everything\" can do it in a fraction of a second?",
+            "title_similarity": "0.77619076"
+        },
+        {
+            "id": "hjxsgwl",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjueix2",
+            "score": 11,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjtj5uu",
+            "score": 1,
+            "text": "Indexing; your home computer is usually moderately to poorly indexed, whereas your browser doesn’t actually do any lifting at all - the web search is done by supercomputers at the search engine, quickly going through vast indexes without your home computer being involved beyond waiting for an answer.\n\nIt’s pretty much the difference between you looking for a specific book in the library, compared to a trained librarian rifling through the index cards and going straight to the right shelf.",
+            "title_similarity": "0.6596613"
+        },
+        {
+            "id": "hjtl4o3",
+            "score": 1,
+            "text": "A combination of indexing and processing power.\n\nBasically, when your computer’s looking for a file, it’s doing the equivalent of going into a library and searching every shelf for that file.\n\nWhen using a search engine, or any properly indexed database, it’s like going up to the librarian and asking where to find a particular book.\n\nWhen you add the processing power that, say, Google has at its disposal, it’s like fifty people went up to fifty librarians and asked for a particular book.",
+            "title_similarity": "0.69403315"
+        },
+        {
+            "id": "hju66m8",
+            "score": -1,
+            "text": "When you search on your computer it’s like a horse pulling a wagon. When you search online your browser calls Google data centers and uses 10,000 horses to pull that same wagon, then displays the results that data center tells it to. $800 vs $8 Billion. Also, Windows 10 sucks.",
+            "title_similarity": "0.6602416"
+        },
+        {
+            "id": "hjv8kg7",
+            "score": 1,
+            "text": "When you ask for a computer to look for a file, it tries to find it alone, and this a slow and tiring process.\nThe internet browser on the other hand doesnt look for the website link by itself. Instead it asks a computer to find the right website for it. And that computer has a lot of other computer friends who love to find things too!\nYou see kid, those computers know that when they work together as a team, they can accomplish great things!\nThat's why you end up receiving the information much faster.",
+            "title_similarity": "0.62591136"
+        },
+        {
+            "id": "hju18n2",
+            "score": 8,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjtjqjl",
+            "score": 23,
+            "text": "Ah. Lets talk about INDEXING. \n\nComputer indexing is the key here. Basically giant lookup tables based on URL names, keywords, other metadata. Probably for every website/page or document in a real search engine is in more than a dozen indexes. And for the ones that are truly massive there's a first level index that drills down into lower level ones and so on. So basically every request is dissassembled into key metadata components; these are analyzed to find out which indeces to search in and queries branch out; where results are consistent across the various indeces, results are sent back. \n\nThe only reason your computer takes minutes to serach for videogame.cfg is because that file isn't stored somewhere your computer's build in file indexing has been told to bother looking. \n\nThe cost to all this indexing is 1) the index has to be stored somewhere - depending on how its implemented, it can be quite large 2) some service has to spend time maintaining the index: discovering and parsing/adding new files to the index, updating existing ones, pruning results for files that no longer exist. All of this takes time.  More often than not, this is what Windows, Dropbox, Gdrive etc. spends a good time doing behind the scenes; you know, after you computer has booted to desktop and you're browsing reddit, then your hard drive seems to be going insane for an hour or two? the indexing service is reparsing everywhere you told it to, looking for changes. \n\nBy default, the only places where Windows Search indexer _indexes_ are your outlook email, browser history and your user folder (My Documents, My Music and your appdata). If you keep files you want to search elsewhere you have to add those locations to its \"Index these locations\" list. \nDue to the nature of my work I value being able to find any file super fast. Therefore I have Windows Search index pretty much every drive on my computer outside of C:\\Windows and C:\\Program Files\\(x86)\\.    But again, sometimes my computer spends a lot of time indexing and reindexing.\n\nFurthermore, Windows Search indexing can sometimes only get you filename indexing. Like searching for *.cfg or \"videogame.*\" will hit that file, but if you search for something IN that file it won't work because the indexing doesn't know how to read or handle *.cfg files.  PDF files for example are NOT automatically parsed for contents Windows Search Indexing unless you specifically add a PDF index reading plugin and associate the filetype and do a bunch of things (can't recall the specifics).",
+            "title_similarity": "0.72017556"
+        },
+        {
+            "id": "hjtjct1",
+            "score": 2,
+            "text": "If you use Google to search through sites, it actually searches through its immense index of sites, and it uses unimaginable computing power to do it. Your computer, on the other hand, is limited to the power of one computer, and that power may be inhibited by problems with your software, which is probably not maintained as well as Google's programming. Google also benefits from the results of millions of other searches that help it answer your search if it's been asked before, which it very likely has.\n\nNote that sometimes a browser can be quick, but wrong. You may turn up a company that went out of business five years ago, shrug your shoulders, and try a slightly different and more successful search. It's not like there's only one correct result. Whereas if you are searching for a specific file in your computer, you won't accept anything other than that file as an answer to the search.",
+            "title_similarity": "0.7287144"
+        },
+        {
+            "id": "hjtis1e",
+            "score": 22,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjtjdmw",
+            "score": 141,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjvbxon",
+            "score": 23,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjtnvcr",
+            "score": 29,
+            "text": "Behold the power of indexing. It is the difference between rummaging through a card catalog and starting in one side of the library and searching each row of books until you find the one you are looking for. The index isn't just good at telling us where things are, but you can also index the information contained within the source - not unlike a card catalog. \n\nWhen you google something, google has already indexed most of the sites you would possibly go to, so when you search for an item it uses an algorithm to grab from the index and present you with results. They also use caching algorithms so searches that are similar go even faster. Say some other person has searched what you just searched for, when that person did the search it was unique, but you do the search and it isn't unique anymore. \n\nYou can index a file system, in fact it is often automatically done. Indexing operations take resources, so sometimes you don't bother indexing things that are non-important.",
+            "title_similarity": "0.6313263"
+        },
+        {
+            "id": "hjtijna",
+            "score": 1477,
+            "text": "The magic is called indexing.\n\nInstead of searching the whole web when you enter your query it searches only a prebuilt index. They already have a list of all the websites they could give you and have them neatly sorted by keywords.\n\nThe difference is like searching a library for a book instead of just going to the counter and then checking where the book you want is in their database.",
+            "title_similarity": "0.61771846"
+        },
+        {
+            "id": "hju8xy3",
+            "score": 392,
+            "text": "ELI5: Your hard drive is like a giant box of legos. Now when you need to find the red bricks that is only three dots long, you have to dig around looking for it. This takes time because you didn't organize the legos into an easy to find system.  \nThe search engines have already presearched the web and organized sites by keywords. That's like the lego store where every brick is sorted by size and by color.  \n\n\nNow it's much easier to ask the store clerk \"Where are the size 3 red lego bricks\" because he's organized everything and he can tell you \"aisle 4, second shelf\", but if you had to dig them out of your lego bucket it takes a lot more time.  \n\n\nYou CAN actually run an indexing program on your hard drive. It takes a while initially, but once it's done, any new files get added to it. So THEN when you search, it's as fast as a search engine if not faster. But by default your drive is not indexed because indexing uses up some harddrive space to store the index and it adds overhead. If your job requires a lot of file manipulation, then it's certainly worth it.",
+            "title_similarity": "0.5982465"
+        },
+        {
+            "id": "hjtk19g",
+            "score": 13010,
+            "text": "A browser can't do that. What it *can* do is send a request to an enormous data center which has *already* read through those millions of sites, and has created an index of their contents, So when it gets a request to search for a word, it just has to look that word up in its index, and it can go \"yep, that occurs in these websites\".\n\nSo there are two pieces of trickery involved. One is that all the hard work has been done ahead of time, indexing millions and millions of websites *before* receiving your request.\nThe other is that your request isn't handled by your computer, but by some of the biggest data centers on the planet. Literally hundreds of computers may be involved in answering your Google search query.",
+            "title_similarity": "0.81873274"
+        },
+        {
+            "id": "hjtn5hd",
+            "score": 3,
+            "text": "- the browser isn't searching.\n\nGoogle is like a librarian that happens to know where every book in the library is. You ask the librarian where Dune is and they tell you the exact shelf that it should be.\n\nGoogle goes through in the background and examines and makes an \"index\" of all the sites that it can find. \n\nThe index is made up of keywords and prioritizes results based on how often people click the link, how many other sites link to it and other metrics.\n\nIt's then optimized that search by using various strategies like search trees (if the word starts with a go to these servers, etc) so that it can bring up the results as fast as possible.\n\nYour computer likely isn't indexed very well and has to do a full text search of every file by opening the file and looking through it rather than having it indexed.\n\nAnother way of thinking about it is like a dictionary.\n\nIf you want to look up \"zebra\" you flip to the z section so it takes less time. If you were to go through the dictionary word by word, it would take you hours to days.",
+            "title_similarity": "0.6029088"
+        },
+        {
+            "id": "hjtxn4s",
+            "score": 1,
+            "text": "Because the browser isn't searching, the search engine is. And that search engine is in fact thousands of computers that specialize in searching. Your browser is simply asking those computers to give you the result of that search. The thing that connects the search engine to you browser is called the world wide web, which is the website part of the internet.",
+            "title_similarity": "0.725884"
+        },
+        {
+            "id": "hju319b",
+            "score": 1,
+            "text": "**Distributed indexing.**\n\n/u/Luckbot **already covered indexing**, so I'll cover the distributed part.\n\nI've provided several increasingly complex examples below.\n\n&#x200B;\n\n**Thread distribution:**\n\nLet's say you lose your car keys. There are two dozen places they could be.\n\nIn the worst case scenario, you find your keys on your 24th check.\n\nYes, you eventually found them, but it took you 24 tries.\n\nWhat if you have a spouse, significant other, room mate, etc? If you add a second person, your worst case scenario is that you find your keys on your 12th check.\n\nYou've cut your search time in half by distributing the workload.\n\nWhat about four people? You cut it in half again.\n\n&#x200B;\n\nAt its most basic level, searching for information is similar. Most operating systems are written to use maybe two or four threads when performing an action, which are their equivalent to pulling in extra people to help.\n\nIf I perform an action on Google's database, that action is distributed across specialized and optimized systems that utilize how ever many threads are necessary.\n\n  \n**Resource distribution:**\n\nDistribution isn't just for threads. It's for resources as well. My key search example doesn't work if you're trying to find something in a textbook. So then, you give each person helping you search their own textbook.\n\n&#x200B;\n\n**Process distribution:**\n\nNext, you can further distribute your search by using multiple search processes. In my original example, you start at your 1st option, and go through one at a time. 1,2,3,4...24. When you add people, you get 1-12 and 13-24, and then 1-6/7-12/13-18/19-24.\n\nBut if you're able to replicate resources to additional people, you can have different people use different methods. If we say you have 24 pages of information, and each person has their own copy - One person could check every other page. One person could start at the last page and work backwards. One person could check randomly. By mixing your search methods, you limit the chance that you'll spend the longest time possible.\n\nWhen searching for your keys, if you simply added one more person and started them at the 24th spot and told them to move backwards, instead of 24 being your worst case scenario suddenly it takes one try and you've found your keys.",
+            "title_similarity": "0.6513281"
+        },
+        {
+            "id": "hju47dc",
+            "score": 1,
+            "text": "Your browser is not searching millions of sites, your browser is asking a massive infrastructure of uncountable servers and databases to search thru an index that's specially designed to do content searching.\n\nWhen you are looking for a file on your machine, your machine is the only one doing the search and your computer might not have an index on the content of all the files in your machine. You can improve the speed of those searches by using special tools to build and manage such an index, but in most cases it's not really worth it.",
+            "title_similarity": "0.6844001"
+        },
+        {
+            "id": "hju53id",
+            "score": 1,
+            "text": "A lot of it is as has been described: Indexing speeds up searches dramatically.\n\nI thought I would mention a couple of other factors.\n\nOne is that indexing takes storage space. Some prefer not to index their entire PC because of that loss of storage space, and because modern SSDs are \"fast enough\" for most purposes.\n\nAlso, the algorithms used to search can make a huge difference. I can fire up WSL (Windows subsystem for Linux) and use *grep* or even *find* and obtain results more quickly than Windows' native algorithms. Grep is very optimized, and works very quickly.",
+            "title_similarity": "0.620633"
+        },
+        {
+            "id": "hju9ref",
+            "score": 1,
+            "text": "Two answers: indexes and parallelization.\n\nYou know those old drawers that show up in cartoon libraries that you use to find a book? Data centers have a bigger, fancier one. \n\nThey also have it split up so that the indexed search doesn't have to be done by one machine. Imagine taking each of those loooooooooong drawers and splitting it into individual cabinets - one for each person you can rope into searching for what you need. \n\nA coordinator can then gather the results of all searchers faster than a single searcher could have searched the full set.\n\nThat all describes an internet search.\n\nNow look at your filing cabinet. Is it ANYWHERE near that coordinated? Probably not, and neither is your computer's.",
+            "title_similarity": "0.6866514"
+        },
+        {
+            "id": "hjuab4b",
+            "score": 1,
+            "text": "Search time depends on “indexes”.  \n\nAn index is a data structure that puts every existing value of a certain field into alphanumeric order, then references the full record, so that you can find out whether a certain value exists quickly.  \n\nAn example of this, which becomes less relevant every passing year, is a phone book. Given a name, you can look a person up in the book quickly (ie without having to read every single line of the book) by using the fact that the book indexes based on name.  \n\nNow if you had a phone number, and wanted to find out whose number it was, it would be extremely slow because you’d have to look at each line on each page until you found that number.  \n\nIf the phone book were a database, you would say that it “has an index on the name field”. Therefore you can look up a number by name very fast.  \n\nBut looking up a name, by number, is very slow.  \n\nIf you wanted to make looking up a name from a number fast, you would **build an index** based on number which means you’d write a new phone book where all the numbers are in order, and the names are next to the numbers.  \n\nWhen a system is quickly searchable, it’s because it has indexes **already built** where the indexes fields are the same as the fields you’re searching for.  \n\nTo do this on a computer, so that it would allow you to quickly find a file based on the filename, you’d build an index where the **indexed key** (ie the column that’s sorted into alphanumeric order) is the filename, and the nonindexed field is the full path to that file.  \n\nOn my Macbook, I can determine whether a file is there in less than a second, because there is a service called **indexd** (pronounced index-D, a common unix naming convention for a **d**aemon which is a program running all the time in the background) that maintains an index of files on the system. When I save a new file or delete a file\nor rename a file or move it to a new location, indexd gets the event notification and it updates its index.  \n\nSome operating systems don’t have such a feature, and so finding a file of a specific name requires **brute forcing** the problem which means exploring the entire solution space, which in this case means looking at every path in the filesystem (aka **traversing** the filesystem) to see if any files match the filename being searched for.",
+            "title_similarity": "0.68074125"
+        },
+        {
+            "id": "hjuahd8",
+            "score": 1,
+            "text": "Indexing is the right answer, but you also compared to a computer search function too.\n\nIt must be said that in recent years, search  on PCs, phones and other devices' operating systems has become more sophisticated but overall doea a worse job.\n\nFile systems use a filename as the primary identifier that the user sees. Searching for a filename is the most frequently requested feature.\n\nBut, try it on your device. You will find you're searching everything in every qay by default. You are probably also searching the web at the same time. Accessing the file name or file content search is actually more difficult than it sounds. The options are usually hidden at first and only accessible in an 'advanced' menu.\n\nWhen you do search for a keywork, quite often the obvious matches don't actually get shown. Try the Windows search for common keywords you might find for apps or control 'panel' and you find you are getting no results.",
+            "title_similarity": "0.6726443"
+        },
+        {
+            "id": "hjuaqa0",
+            "score": 1,
+            "text": "You can easily build an index of files on your machine that allows you to do the same. The problem is that it will immediately be out of date. And people usually like to search for the files they *just* created... which won't be in the index.\n\nThe out-of-date problem applies on the internet as well, but the type of data being searched usually means it matters way less.\n\nYou won't find a tweet created 15 seconds ago in a google search though, while you will find a file you created 15 seconds ago in a file search.",
+            "title_similarity": "0.6594213"
+        },
+        {
+            "id": "hjudju2",
+            "score": 1,
+            "text": "Indexing. When your browser searched for something, its actually looking at pre-indexed information. Just like the index at the back of a book telling you exactly where to find a word or term. \n\nWhen your computer is taking a long time to search, its because its literally looking at everything it can find. This is like having to search all the pages of a book instead of being able to utilize the index section. \n\nNewer operating systems have the ability to pre-index your computer and local network as well. \n\nThere are also excellent third-party computer tools such as one called \"everything\" that can pre-index and give you super fast search results.",
+            "title_similarity": "0.65984595"
+        },
+        {
+            "id": "hjue517",
+            "score": 1,
+            "text": "Your computer isn't indexed except for a few commonly used things there is no directory in your computer that says exactly where things are, basically it's a library with no sections or isles, just books everywhere, meanwhile Google has sections, subsections, isles, all the books are labeled properly and have barcodes on them, and the commonly used ones have trackers on them so you can find them even faster.",
+            "title_similarity": "0.56656706"
+        },
+        {
+            "id": "hjueaeb",
+            "score": 1,
+            "text": "ELI5: Google is like the card catalog in a library. When you search for something, you can find the card and quickly go to your book. Your PC is like a library without a card catalog. You'd have to just wander the aisles of books until you find the one you want. You can build a catalog for your PC to make searching faster, but that takes up space and uses resources to build it.",
+            "title_similarity": "0.6311985"
+        },
+        {
+            "id": "hjueaz8",
+            "score": 1,
+            "text": "Imagine you want to find a book in the library. The library has 15,000 books and they are totally unorganized. What do you do? You look at each book, one by one, until you find your book. This is very slow.\n\nNow imagine a librarian comes in on the weekend, walks all the shelves and writes down on a little card the name of each book along with its exact location in the library. She then sorts these cards alphabetically. When you want to find a book, you find its card, then walk directly to the book. Much faster.\n\nGoogle has software that is constantly \"walking the shelves\" of the internet and updating its card catalog, which they call an index.\n\nYour computer can find files just as fast if you let it build such an index first. For instance, Windows has a \"indexing service\" that does this, but by default it's not set to index your entire drive, as this is more work for your computer to do.",
+            "title_similarity": "0.68120295"
+        },
+        {
+            "id": "hjueu2k",
+            "score": 1,
+            "text": "Indexing.  If you computer were properly indexed, it would take seconds to find anything.  It's not, so it has to search every file for the keyword.  It's like adding tabs to your book so you can quickly get to the relevant information in a book instead of scanning every word.\n\nGoogle sends out a spider to index websites.  Yes, it's called a Google Spider.  It searches the metadata of websites and adds them to Google's index.  https://www.looktotheright.com/blog/what-is-the-google-spider/\n\nUnindexed information, called the \"Deep web\", is not easily found using Google or other search engines.  It would be impossible to scan such information without indexing it.",
+            "title_similarity": "0.6949464"
+        },
+        {
+            "id": "hjulkfq",
+            "score": 21,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjum3nw",
+            "score": 57,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjumkxf",
+            "score": 1,
+            "text": "Next to what has been said, don't forget that Indexing (adding tags, small descriptions, to articles, images and the like) is something that happens on the web, but often not on your computer. Say that to you made a wallpaper in Photoshop, call it \"The Great Wall\", and save it. You then forget where it exactly is, and you use your computer's search function for 'astronaut', because you forgot the name as well but can remember you pasted an astronaut in there. That won't work: there is no AI at work on your computer that says \"hey, here's this image of [a wall] with [an astronaut] and [a unicorn] present\". But Google has been training it's algorithms to do exactly that.",
+            "title_similarity": "0.5318763"
+        },
+        {
+            "id": "hjupuqd",
+            "score": 1,
+            "text": "Because google is good, and Microsoft sucks. \n\nIt's actually indexing. But Microsoft should do that with windows, and does to an extent, but it should be so much better. It infuriates me the way they bury things in different places in windows, and if you use the windows search, you can't find what you want, so you have to go to Google, type in what youre looking for, and find the secret pathway to get yourself there. \n\n\"System restore\" is one of those things that comes to mind. \n\nIta mind boggling to me how badly Microsoft's own search does at finding *windows features*. And they're trying to get people to use Bing. \n\nIdk wtf the board of directors at Microsoft are doing. I know Microsoft is worth a lot of money, but they're such idiots. \n\nAll they know how to do is business strategize, which has gotten them pretty far, granted, but they were kind of lucky for that, too. Other companies could have done better against it. \n\nThey just don't know how to make a good product and get success from that. Windows 7 was good. One note was good. Most of what they make is really poor as compared to the available options. \n\nBuying Bethesda was a strong move though.",
+            "title_similarity": "0.49617833"
+        },
+        {
+            "id": "hjuru5c",
+            "score": 1,
+            "text": "One is indexed (that is what a search engine is, an ordered-map of the Internet's contents), likely the other (the list of files on your computer) is not.\n\nSince the un-indexed list of files on your pc is large, it has to either index it, which means going through ALL the files at least once, or just searching, starting somewhere in the list.\n\nThis is the power of pre-computation, doing 90% of the work up front (trolling the entire list to create the index) to save you a lot of time downstream.",
+            "title_similarity": "0.76678014"
+        },
+        {
+            "id": "hjusxrx",
+            "score": 1,
+            "text": "Hoping this is closer to an ELI5.\n\nImagine a library where before computers you had to have organize and file all of the books(that we will use as a replacement for files) by the Dewey decimal system.\n\nWhen you ask the librarian (your computer) to find a book. It has to stop what it's doing and go through the Dewey decimal system and look for the book. Then when it can't find it where it's supposed to be it has to check all of the books it hasn't filed yet. \n\nWhy didn't it file all the books yet ? This library is under funded and has one librarian who does everything. It has to clean the floors, answer the phone, pay the utility bills etc. (Idk everything you need to run a building + a library) and doesn't have all day to file books away properly. \n\nWhen you use a browser to ask Google a question you're going to a mega library where they have millions of librarians (computers at a server farm). Who when you ask a question you have librarians who can ask specialized librarians who really know what they're in charge of. They only have to only check a small section of stuff and are really good at telling you whether they have what you need in their section. These librarians also don't need to do anything else but file books away and find books so there library is always best.",
+            "title_similarity": "0.6295055"
+        },
+        {
+            "id": "hjut1tt",
+            "score": 1,
+            "text": "Let's pretend you're searching for a list of people who live in a certain area or state. Someone might immediately hand you a phone book. This information has already been asked and processed so it can be returned to you immediately. \n\nWith files on a computer, let's now pretend that people's information is displayed in front of their house. Now a search might entail going from house to house looking at each placard to find what you're looking for.",
+            "title_similarity": "0.46421933"
+        },
+        {
+            "id": "hjut3cw",
+            "score": 1,
+            "text": "Is no one here aware that Windows uses file handlers to search file contents?\n\nThat's one of the biggest reasons it's slow.\n\nIt's not just about indexing, but the fact that websites like Google are only searching plain text while Windows is doing shit like decompressing excel files on the fly to inspect the contents.",
+            "title_similarity": "0.60588473"
+        },
+        {
+            "id": "hjutj50",
+            "score": 16,
+            "text": "To add onto what people said about indexing, consider trying to check if a word exists in any chapter book versus a dictionary.\n\nFor a normal book, you'd have to go line by line, check if the word exists. That could take a while. But now if I asked you to find if the word \"persimmon\" exists in a dictionary, it'd take you seconds. You could flip to the middle of the dictionary, see that you're on K, and know \"persimmon\" couldn't be before that. Now you don't have to consider the entire first half of the dictionary. Flip to the middle again, land on S and you know P is before S, so you've reduced your search space by half again. Here's a good video explaining this process which is known as [binary search](https://www.youtube.com/watch?v=KXJSjte_OAI).\n\nIn reality, we can speed this up even more. Maybe my dictionary has tabs on the side that show where P words begin and S words begin. That reduces my search space by a lot. If you're a computer scientist, there are even more efficient ways of doing this with a digital dictionary on a computer such as with [hash tables](https://www.wikiwand.com/en/Hash_table) and [tries](https://www.wikiwand.com/en/Trie) which will allow you to check if a word exists in constant time regardless of the size of the dictionary. This is why indexing is so powerful.",
+            "title_similarity": "0.63036597"
+        },
+        {
+            "id": "hjuuz0a",
+            "score": 1,
+            "text": "A computers CPU is like having a pair of hands. \n\nA browser communicates with data servers. Which is like millions of hands. \n\nYou can do so many more tasks with millions of hands than you can with one pair :)\n\nIn theory you could think of your browser as a hotel concierge. Just like when you’d call then they send whomever is needed to fulfil your request. When you type something into a browser it then communicates with the appropriate parties to fulfil your request. It might take you (the computer) a long time to clean your room, order a taxi, make coffee and grab more towels. But the concierge (the browser) can’t communicate to all the right parties (the data servers/millions of hands) to get it all done at the same time.",
+            "title_similarity": "0.7464141"
+        },
+        {
+            "id": "hjuv8nb",
+            "score": 1,
+            "text": "There are several layers to the why of that. A file-system on your average windows computer is not set up like the card-index in a library. It's more like a jumble of books tossed in at the most convenient location by a million different people, where everyone can choose where they want to put the book, as long as they know where it is. The reference to the book is just a number in a shelf with pre-numbered slots, basically. So when you search for a title, instead of that number, you have to take out all the books one by one and look if there's a match. This takes time, even on a system that has very fast access-speeds. And you can also get a hit on the last entry, after it's been searching for an hour without hits, and you wouldn't even know it's there until then. \n\nFurther complicating things is that you don't have the title on the back of the book in many cases, and you might not know what format it is, if the name is in the file, etc. So if you are searching for a file that contains the term, then suddenly you're increasing the data-mass significantly.\n\nThere are ways to make that better. You can do the background indexing that MS is doing. This essentially puts each file read by the number-order into an index, for example sorted alphabetically. You can also include extra information from the indexing process into that file. And then once you search for something, you are just looking up the letter, and then counting your way down to the right one. Then once you don't find more hits, you discount the rest (assuming the list is always sorted by letter).\n\nThere are a very large amount of ways to make that better as well(see: heap, bubble-sort, various nowadays almost non-existent run-time sacrifices to always get the indexing in order, etc.), but one way to do it is to have all the \"books\" that you actually search contain a small leaflet containing the registry-information for the book. So that when you do the indexing, you can highlight the things you really think should be promoted, while for example hiding the long list of references, or types of content that people won't search for). This is essentially what search engine optimisation is (SEO), and what the \"robots.txt\" file, among other things, is for on your web-pages. \n\nSo now the indexer can be quicker, and create an index-database that then can be made available in a very short amount of time after any updates happen, and it can also deliver very quick searches. This is basically what Google's foundation is, and why it's better than other search-engines - given particular uses.\n\nThe backside of this is that if you were looking for particular phrases that you know occur in certain types of documents that were at one point available online -- you might not find them now. In the olden days of yesteryore, you could always be certain that you'd find the page eventually, if you just scrolled enough pages. Now, you know that if you don't find what you were looking for on the top, you can basically give up. Incidental searches as well is pretty much not a thing any more. Some sites are simply not indexed at all, and that's probably for the best. But it does result in that it's fairly easy to also avoid a great many things from being searchable (which again makes sense, for some value of teapot).\n\nInstead, what you actually get from Google are two things: a) fuzzy searches that account for spelling errors. b) incidental search results that are relevant in your area, or with people who searched for what the algorithm thinks of as similar things. \n\nThis makes the search very quick (if it's implemented well). But it also no longer has the strength of the initial example with the file-search, where you will actually have searched through everything, or leafed through all the pages and looked at all the actual books in the library.\n\nThere are obviously ways that Google could be made more useful. But being able to use indexing engines(robots) to scour the internet for poorly hidden public information(and having them make digests of the content) is getting less and less common. Instead you're getting very specific selections of these leaflet in the cover of the book. And you are of course also able to pay to make certain searches have more relevance. \n\nThat's the downside to what Google is doing. And convincing people that this is less of an issue than a benefit is certainly still their biggest motivator. Meanwhile, other search-engines that use Google's method, and certainly used it before Google existed, have simply not achieved their market-potential by monetizing click and indexing rankings in the same way. So on the other hand, we do certainly accept a certain level of this type of thing. \n\nAnd perhaps think of it, at some point in the future, as a ubiquitous setup: that this is how it always was, and this is what \"search-engine\" actually means.",
+            "title_similarity": "0.6496399"
+        },
+        {
+            "id": "hjuwoip",
+            "score": 1,
+            "text": "I decided to write a explanation of how the internet works in general in order to help people understand what others are saying.\n\nGoogle's index is sorted alphabetically for a non-linear search algorithm. This allows them to find a website within only a few steps. \n\nLets say you have a company with a bunch of computers in a office. You can physically connect all of these computers (hosts) together with a device called a switch. The switch has ports, and each port is connected to one computer (also called host or node) via a ethernet cable. Then, if computer A wants to communicate to computer B also connected to the switch, it sends a frame to the switch via the network interface card, and the switch directs that frame to the correct computer. This is called a star physical topology because all devices are connected to a single point, but also a star logical topology because the traffic is only sent to the right computer. You just created a subnet.\n\nKeep in mind a switch only works with physical wired connections for each port. Most modern day home networks don't use this, and instead just use a router with wireless communication (Wi-Fi). Routers can be done wirelessly.\n\nNow a network where computers just communicate to each other and share resources is called a peer to peer network. You could connect a printer to computer A and then computer B could request a print job from the printer via the switch. If computer A goes down, you loose your printer. Data is also split up between all the computers, so if computer A is lost then all the data access is lost with it.\n\nAnother type of network is client-server. A computer attached to the network with its sole job is to provide services to all connected computers, hence creating a server. You could put all of your data storage, printers, and any other service on this server (or directly connected to) and all the other computers just request to use it. \n\nIf you combine all of the offices subnets together in your building with a router, you can form a local area network (LAN). These LAN networks are connected together with more routers, creating a metropolitan area network (MAN). These MAN's are often times entire cities, and are connected together using more routers to form a wide area network (WAN). Connecting groups of cities together (WAN) with other WANS is where you start to create the internet. As long as a connection is present somewhere through all those routers, you can connect to any other computer on the globe. Your internet service provider (ISP) is like the on ramp to a highway, it manages the connections between routers at a fee.\n\nThese connections can be anything. You can use big radio towers, satellites, fiber optic (light frequencies), or low speed telephone wires (dial up).\n\nIf you want to create a website on the internet, you create files for the website and then put those files on your client server. Then you connect that client server via a router to the internet. When someone requests to go your website, then it copies those files from that client server, sends them to your computer, and then displays them\n\nYou may be wondering how a computer is able to know where it is. That is where the IP address comes in, is basically like a street address. A simplification of it would be:\n\nWAN 1, MAN 2,  LAN 35, Subnet 5, host 300\n\nThe first part of the IP address is the location, and the last part (host) is what computer you are on that network. If you are trying to access the server located at\n\nWAN 1, MAN 4, LAN 10, Subnet 5, host 200\n\nYou first ask your switch (or router with Wi fi) is that host is on the same network. Your switch sees the interface part of the address (subnet, lan, man, wan) is not same same as your network, so it passes it off to the default gateway (the router). The router recognizes it is not on the correct MAN either, so it passes it off to the next router. The router is passes it off to can be any router is knows of, until it finally finds a router that knows which router belongs to WAN 1, MAN 4.\n\n It then goes through all of those routers in MAN 4 until it finds LAN 10, then checks all of those LAN routers until it finds subnet 5, then checks another router/ switch for host 200. It could take 20 routers to find this, and once it is found those routers will then store that information in their routing log. This makes it easier the second time you try to access that same website. \n\nThe last part is the DNS. The DNS server is a server like any other and works the same way routers do. It stores the name ([google.com](https://google.com)) with a IP address in a table. When you look up something by name in the search bar, the DNS server connected to your network will get a request from your computer to look up [google.com](https://google.com) for its IP address on that table. If that DNS server doesn't have that domain/ IP pair saved, it asks other DNS severs if they have it. Once a DNS server that has the pair is found, it sends back that IP to the original DNS server and saves it within that servers table for easier access next time. HTTPS/ HTTP is just the format that is used to send data from the OS of your computer.\n\nA public free DNS is [8.8.8.8](https://8.8.8.8), or google's DNS. It is the default DNS for many DNS servers to check if they can't find a domain on their own server.\n\nNow that we understand how the internet works, google uses something called a spider program. It sends out a program that searches through all of the DNS servers looking for all of the client-severs it can in hopes of finding a website. Once it finds a website, it catalogs that websites IP address (server it comes from)/ domain pair in Google's index. It then sorts the index by alphabetical order. It also stores keywords from the website and ranks it on how good of a website it is by checking how many other websites it relies on (search rank).\n\nWhen you search up [google.com](https://google.com) with a request, it searches the initial DNS your computer uses for [google.com](https://google.com). Then it requests google's client-server for access to the index in search of x results. [Google.com](https://Google.com) then returns the IP address (and domain names) of all the websites that match your search criteria. Since the index is sorted alphabetically, it is able to cut the index in half until it finds your results. Almost like how you can open up a dictionary to the halfway point, check if your word's starting letter is either before or after that letter you opened too, and then disregard the other half of the dictionary. It cuts in half the index until it finds the results, sorting through 1 billion results in 30 steps.\n\nYou file system on your computer works with partisan's and volumes. It isn't sorted the same way google's index is, and often times data is broken up and scattered across multiple discs (fragmentation). To find all of these parts, it takes a long time to search for a file unless you know its direct file path.",
+            "title_similarity": "0.6063312"
+        },
+        {
+            "id": "hjv0jc7",
+            "score": 1,
+            "text": "Your browser just makes a request to the search engine you use (bing, Google DDG, and a few others)\nThey have done a lot of indexing, and categorised lot of stuff. From there, your search will by run through that, and the data center will give you the results. And these data centers are massive, and made to serve data at very fast speeds to 100K people at the same time (or more.)\n\nYou PC has also a option to index stuff to make searching faster.",
+            "title_similarity": "0.70866925"
+        },
+        {
+            "id": "hjv3o2c",
+            "score": 1,
+            "text": "It is like a book. On your browse, you are asking the service (I. E. Google) to look up their already made index. When you are searching your computer, there is no index, so it needs to go from \"page to page\" reading them to find the answer.\n\n\nWhat takes the longest? Look for a word in a gigantic dictionary (indexed) or looking for a word in a piece of paper full of randomly printed words.",
+            "title_similarity": "0.6594126"
+        },
+        {
+            "id": "hjv6nzh",
+            "score": 1,
+            "text": "Google (and other search engines) have a list of things and where they are located - aka indexes.  \n\nYour computer typically does not have that list, but there are ways to create it.",
+            "title_similarity": "0.56403285"
+        },
+        {
+            "id": "hjvd51y",
+            "score": 2,
+            "text": "Then why don’t files automatically index?",
+            "title_similarity": "0.42944276"
+        },
+        {
+            "id": "hjvemay",
+            "score": 1,
+            "text": "If you write on a list all the items you own and where they are, you can quickly go through the list if you need to find something.  Much faster than going through your house to locate things.\n\nThe internet have very very large lists of where things are on the internet.\n\nA computer at home doesn't have this compiled list of files so when you do a search the computer it has to go through all the tens of thousands, maybe hundreds of thousands of file to find what you may want when Searching.\n\nYou can create a list on your computer of all your files; it's called an \"index\".  \n\nWindows: Control Panel under \"Index Options\".  When configured go into \"Advanced\" to start  \"Rebuild Now\".  It may take hours to make the index but once done your searches will be much faster.\n\nMacintosh: It's called Spotlight index.  Choose Apple menu > \"System Preferences\", then click \"Spotlight\" to modify.",
+            "title_similarity": "0.8026529"
+        },
+        {
+            "id": "hjvghxg",
+            "score": 2,
+            "text": "Looking through some of the explanations, I think it's important to point out the difference in problem space vs solution space.\n\nA search engine only has to return results for a single Internet, so it can share the same index for all of the hundreds of millions of queries that it needs to do in a day. And out of those queries, a *huge* majority of them are going to be duplicates. So it's efficient to have a giant index of queries based solely on what people search for.\n\nA hard drive search, by contrast, has to return results that are not shared by any other computer on the planet. There are no duplicate queries, no shared resources, and it's extremely inefficient to store results based on what the user *might* search.",
+            "title_similarity": "0.76001006"
+        },
+        {
+            "id": "hjvmajp",
+            "score": 1,
+            "text": "Why does it take you forever to find something in your house but you can find a library book almost immediately? Like how libraries keep indexes of books sites keep indexes of data. For example, my current post might be saved with an id of 42069 then you have a secondary data table with entries like\n\nindex 42069, anotherid, yetanother\nexample 42069, id, id...\nlibrary, 42069, id, id...\n\nWhen you search for \"library index\" it sees 42069 (reference to my post) pop up multiple times so it returns it as a top result. Indicies can get really complex but that's an example of one.\n\nYour computer keeps a very simplified index, so it is slower to look through, since performance isn't a concern for individuaos computers, and there's always a tradeoff, in this case it would mean more cpu time and using battery (if it has one)",
+            "title_similarity": "0.6091397"
+        },
+        {
+            "id": "hjvupyk",
+            "score": 1,
+            "text": "The browser doesn't actually do the searching itself. Your browser just tells the search engine \"hey, show me [x].\" And then the search engine's host (likely a very, very large data center) will look through every website it gets data from and send back what it thinks is closest to what you've asked for in keywords (the search bar). So your browser just takes what it gets back from Google, bing, etc. and shows you what it received.",
+            "title_similarity": "0.67535305"
+        },
+        {
+            "id": "hjvuurz",
+            "score": 1,
+            "text": "One thing I feel that gets skipped is not only do sites like Google have enormous data centers, but the search algorithms are much more robust. Google especially, has been in the business for searching for a few decades and have certain shortcuts. Ever search on different sites and can't find something? That's probably because their algorithm has different ways of filtering or ranking data, doesn't include things like misspellings, etc. \n\nHaving enormous data centers are nice and all, but that's only part of it. It doesn't change the fact that a slow algorithm would be slower than a faster one.",
+            "title_similarity": "0.6757777"
+        },
+        {
+            "id": "hjvxc14",
+            "score": 1,
+            "text": "Think about how you would search for a word in a book. Finding the word you're looking for in the book by reading the entire book is what your computer is doing. Finding the word by looking at the index at the back of the book, finding the page numbers the word is on and going to that page is what your search engine is doing.",
+            "title_similarity": "0.5666618"
+        },
+        {
+            "id": "hjvxnq1",
+            "score": 1,
+            "text": "It takes a long time to search through a stack of papers going one at a time. If you already did that and kept an alphabetized set index cards of every word your encountered and in which page then it'd be incredibly fast. Search engines index sites so your search is very quick.",
+            "title_similarity": "0.7167947"
+        },
+        {
+            "id": "hjvzveb",
+            "score": 1,
+            "text": "A document or file on your local system has no relationship to anything else. So therefore when you do a local search essentially every thing in the list much be searched everytime until a satisfactory match (or matches) are you found.\n\nA web of interlinked content aka the \"world wide web\" has intrinsic relationships to each other document through back-links, clicks, user interactions, essentially any trackable tidbit that can give some clue as to what some piece of content represents and how strongly it is correlated to the actual desire of your query.\n.\n\nThis web of relationships can be proactively analyzed and indexed, by little primitive AIs  colloquially refered to as \"Spiders\" or \"web crawlers\". This cleverly indexed information and the algorithms that do it are Google and other search giants secret sauce.\n\nSo the genius behind Google search algorithm lies in Sergey Brin and Larry Pages realization in the mid to late 90's that \"back-links\" or outgoing links from a site that all point to one site. That one site everyone is linking too must be more \"authoritative\" or information rich than others and the algorithm could essentially guess to intelligently return that result first rather than continuing to search everything in existence.\n\nSo for example in the mid to late 90s when the earlier internet/web was more so populated by individual sites hosted by and maintained by amateurs to semi-amatuers. Not this big aggregators like Facebook or YouTube. So if you say ran a website on Tropical Fish🐠, cause it was your hobby or passion. And say you had really good, up to date Tropical Fish information 🐟, so much so that other web-users that came across your site would often list it on their own website in a column of related or useful links or something (this was very common practice).\n\n Larry and Sergey realized the more people Linkin back to your site the more \"correct' it was. Their Algo could literally non-stop crawl through and continuously catalog  all these webs of relationships deriving meaning from it, so that when you search \"Tropical Fish\" they can very much likely guess that \"hey here's the best thing about tropical fish\".\n\nSo conversely when you're searching on your local hard drive you are often or expected to be searching for a specific thing that does or doesn't exist. Whereas a search algorithm, in truth is giving you a best guess on the thing it thinks you want based on a web of pre-indexed inferences. \n\nHope this helps lol. Anyway I'll be tying an onion to my belt.",
+            "title_similarity": "0.56533504"
+        },
+        {
+            "id": "hjw1zy3",
+            "score": 4,
+            "text": "RAM + Inverted index (https://www.geeksforgeeks.org/inverted-index/)\n\nI assume you are comparing Google or other search engines to your computer.\n\nSearch engines use an index technology called lucene and this does something that isn't super obvious.\n\nUsually when we save something in a database, we give it an ID and then store the details in a table. One entry = one row in the database\n\nLucene turns 1 record into like 1000 rows. It creates an entry for the letter \"a\" and links it to the record, and another for \"an\" and another for \"and\" etc. Imagine how much data that is, it is huge. Definitely not something that your computer could manage. It might not be as bad as I am describing, because there will be an optimal setting of how much to destructure data vs how much faster are we really getting? This is something that search engineers are constantly observing, tracking and tweaking.\n\nUsing very clever technology, we can take a search term and send it through a cluster of computers, directly to the machine(s) that probably has an answer to \"which documents have these words/characters in it?\" (this is called sharding -- well the act of organising data between a cluster of machines to enable this is called sharding). When it gets there, that computer has everything in memory so there is no bottleneck of reading from a slow HDD.\n\nThen on top of all this, there are still layers of caching on top of this that companies like Google build that allow similar queries in the future to take shortcuts finding the appropriate machine or in some cases, even guessing the first few results pretty accurately.\n\nSearch engines invest a lot of money, time, resources, and developer brains into solving this problem and they got pretty good at fine tuning their computers and the networking between them to squeeze every bit of performance out of it.\n\nTLDR; \nSearch engines inspect, read and save very detailed information about websites into memory and distribute this information across multiple machines. The data they have is often much bigger than the websites themselves but this is because there is a lot of duplication and that makes it really easy to search for data given a query.\n\nYour computer does a little bit of indexing, but nothing as extreme. It is often actually looking at the files on your system and reading each one in real time. On top of that, it is reading anything indexed from a file, not from memory because your memory is precious and on top of all of that, your personal computer is probably 10x slower than one Google machine, and 1000000x slower than the cluster of machines they use to serve search results to you.",
+            "title_similarity": "0.68659633"
+        },
+        {
+            "id": "hjw6ndx",
+            "score": 1,
+            "text": "To add a new perspective to the already great answers on indexing:\n\nWhat if each of your files on your hard drive had dedicated specialized teams whose full time jobs are to make sure that their file is found the fastest by your computer?  \n\nWhat if that team studied your computer’s indexing algorithms and made changes to their file metadata as soon as the computer indexing algorithms are updated?\n\nWhat if those teams were also aware of other files that they were competing against and are financially motivated to “beat” other files to the top of the search results?\n\nI just described the SEO industry and it’s a major part of any company that needs to stay “on top”.  They do a major part in serving the right results to the right queries for Google on a silver platter, because clicks  means $$$ for them.",
+            "title_similarity": "0.6415466"
+        },
+        {
+            "id": "hjw72kz",
+            "score": 1,
+            "text": "Two things. \n\nFirst, your browser isn't searching, it is asking Mr. Google's really powerful computers to search for it. \n\nSecond, indexing. Your personal computer probably wasn't setup to properly index every file. Index just means putting them in order the computer can use.",
+            "title_similarity": "0.6440239"
+        },
+        {
+            "id": "hjwb80x",
+            "score": 1,
+            "text": "Because your \"computer\" (really, Windows) uses an algorithm called O(N) linear/sequential search.  Whereas, Google uses an algorithm that is O(lg N) tree-based search.\n\nJust go to your library, try to find a book.  You can use the dewey decimal system and find your book quickly.   Or, go to your little brother's room which is a giant mess with books hidden in his dirty pajamas on the floor.  Now try finding your book.  You have to search every nook and cranny of that room.   That's the difference between O(lg N) and O(N).\n\nSo why doesn't Windows use O(lg N) tree-based search?  It's partly legacy, and it's mostly due to planned obsolesce.\n\n- Legacy: people kept running out of disk space. This used to be the biggest issue with computers in the 1990s.  There were various compression algorithms called \"disk doublers\".  Hard disks were tiny, like 100 to 400MB.  Wasting space for tree-indexing would make a bad situation much worse.\n- Planned obsolesence: The more O(N) algorithms that are used, the slower your computer will become over time when there are more files to search.  When your computer is slow enough, you want to buy a new computer, which delivers more money to Microsoft, Intel, and PC manufacturers.  If they kept using many O(lg N) algorithms, your entire system would feel so fast and snappy all the time that you'd likely never want to upgrade your computer for the next 20-30 years.  It's not just Microsoft, many consumer goods have a critical piece in an otherwise pure metal object like a razor be intentional done with plastic (like the plastic clipper of a razor that snaps to the razor head).  That plastic clipper is designed to break down after 1-2 years max, or after 6 months of daily use.  It's bad for business if household items last for decades.",
+            "title_similarity": "0.53882354"
+        },
+        {
+            "id": "hjwd1pm",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjwjr5v",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjwkbrz",
+            "score": 1,
+            "text": "Think of a library.  It has an index  a card catalog the place where we look up books with cards organized by subject and alphabetically and books on the shelves.  If you ask a library how many books contain the word 'galaxy' on the title it's going to take a while.\n\nA hard drive works much the same way except everything are numbers that represent locations on the hard drive.\n\n\n\nNow imagine if the library had a special index.  Instead of saving things by order.  They saved things by the words on a first page.  So every book with the title containing word \"t-h-e\" are in one bucket and all the books that contain the word \"galaxy\" would be in their own bucket.  So \"hitchhiker guide to the galaxy' would turn up in both of those buckets as well as the \"guide\" \"hitchhiker\" \"to\" buckets as well.\n\nWhen you search galaxy you go to g in the first row.  A in the second row.  L in the third row A in the fourth x in the firth and finally y in the 6th row.\n\n\nSo you can think of this type of index as a series of rows of buckets 26 columns and as many rows as the longest word in a title.. let's say 30\n\nThis is basically a trie data structure.\n\n\nSo the real answer is the index that stores the data is structured differently.",
+            "title_similarity": "0.6627288"
+        },
+        {
+            "id": "hjwlmha",
+            "score": 2,
+            "text": "A big part of this is just how bad Windows (and even Linux) is at searching for files since their file systems aren't optimized for search but for storage.\n\nBack in the late 90s and early 2000s an operating system called BeOS used a file system often described as being database-like.  This file system supported 'queries' which could return rapid results for all files matching a query on your computer (if on a BeFS partition).  What's more is that the results were live, so you would immediately see new matches.\n\nToday the operating system known as Haiku has re-implemented this technology... it returns results so fast on an SSD that you often can't even see the results window be populated even when there are thousands of matches to the query.  In fact, I just ran the simple query \"\\*.h\" which had 3,212 results and it was instant... I then ran a query simple for 'a', which returned 24,097 results in maybe a second and a half (first few thousand results were already present by the time the window opened).\n\nOne interesting side effect of the live results is that you always had at least one matching result - the saved query file generated from the query you just made! You could always open these saved queries again to repeat a search.",
+            "title_similarity": "0.65928185"
+        },
+        {
+            "id": "hjwlu07",
+            "score": 1,
+            "text": "It's like when you go to the library and use the index cards to find a book, then you know where it is and go get it from the shelf. Search engines work the same way. They already know where stuff is, so it's quick for them to answer. \n\nYour computer can do something similar, called indexing. My Macbook does it by default. I don't remember the current state of indexing on Windows machines. If you search for something that isn't already in an index, the computer just has to search the entire drive for it, which is slow, especially with hard drives. It's much faster on solid state drives.",
+            "title_similarity": "0.6473949"
+        },
+        {
+            "id": "hjwmsfp",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjwmy41",
+            "score": 2,
+            "text": "The answer is indexing, which is storing information about where to find something.\n\nWhen you tell your computer to search for a file, you're generally having it search through thousands / millions of files without any prior information about where anything is; it has not been indexed. It's like telling someone to find a book in a library by searching every shelf book-by-book, and so it takes a great deal of time.\n\nWhen a computer browser is given a search query, it forwards that search to a search engine. The search engine has already indexed millions of websites in the same way a library has indexed all of its books by title, author, and location. It knows that people searching for whatever you have asked it to find contain the key words you're looking for and it also knows which sites people usually selected after running that same search, and it positions those results high up in the list to ensure that you see it.\n\nIt's worth mentioning that it is possible to index your hard drive in modern operating systems. It takes some time but your PC will put together useful information about the properties of files, where they are located, what they are named, etc. When you search for that file on an indexed PC it will locate the file much quicker than it would otherwise.",
+            "title_similarity": "0.7850236"
+        },
+        {
+            "id": "hjwpceh",
+            "score": 1,
+            "text": "By browser i would assume google or a search engine. It's like asking mom where your stuff are after she cleaned your room versus asking dad. Mom finds it superfast because she already knows, dad still have to find it everywhere.",
+            "title_similarity": "0.5513973"
+        },
+        {
+            "id": "hjwpflt",
+            "score": 2,
+            "text": "Searching your computer is like looking in your room. \n\nSearching Google is like going to the store where everything is already organized because they have space and employees. \n\nWhen you look for something in your room that's completely different than looking in a store.",
+            "title_similarity": "0.5978011"
+        },
+        {
+            "id": "hjwuc7v",
+            "score": 1,
+            "text": "Because the data on physical disks can be scattered, so it has to look here and there and then here and then there again to find it in it's entirety and open it. \n\nThat's why ssds are faster, no physical element to it.",
+            "title_similarity": "0.56023926"
+        },
+        {
+            "id": "hjwv1gc",
+            "score": 2,
+            "text": "Your browser isn't doing the heavy lifting. Your computer is simply sending a request to your search engine, which is running on computers a fair bit more capable than your own, and receiving the list of websites generated by the search engine's computer.",
+            "title_similarity": "0.63480973"
+        },
+        {
+            "id": "hjwx40w",
+            "score": 1,
+            "text": "When I got a laptop with an NVME SSD I thought it'd be able to search everything almost instantly but instead all I got was a 7 second boot time",
+            "title_similarity": "0.69839925"
+        },
+        {
+            "id": "hjwxan7",
+            "score": 2,
+            "text": "Another part I want to mention is that Google keeps a large amount of webpages in their RAM. When it comes to random access, RAM is thousands of times faster than SSDs. Google will also use caching to predict what webpages may be popular and prioritize them when looking for results. These prediction algorithms can be implemented for Windows, I believe there's some applications others have already mentioned.",
+            "title_similarity": "0.76807547"
+        },
+        {
+            "id": "hjwyfor",
+            "score": 1,
+            "text": "Let's say you have a closet full of stuff and you want to find something.  You dig and dig to find it, that is like doing a computer search.  Now let's say that at some point in time you go through your closet and create a list for where each item is, now next time you want to find an item rather then digging, you look at the list and it says exactly where the item is.\n\nLinux for instance has a utility called \"find\", it will search through your filesystem to find the item and can take a while.\n\nThere is another utility called \"locate\", before running it, a database (list) is created of where every item is, this runs daily and takes about as long as the find command.  When calling locate rather then find, you get the answer immediately since the legwork of the finding the item took place before you searched for it.  One of the downsides is if the item has been moved or deleted, it will still be in the list until the list is re-created, causing the locate command to return a result that is wrong.",
+            "title_similarity": "0.5777888"
+        },
+        {
+            "id": "hjwzqs5",
+            "score": 2,
+            "text": "the answer is Microsoft Windows is shit at indexing, but other online sites having great algorithms and huge advanced servers",
+            "title_similarity": "0.5920213"
+        },
+        {
+            "id": "hjx034m",
+            "score": 1,
+            "text": "The same reason it takes me ages to track down my copy of *I, Robot* in my house, but if I go to the library, they'll find it in seconds.   \n   \nThe search engine, like the library, has done the work of *indexing* everything, so that things can quickly be found.   \n  \nSome computer operating systems and software can also index your computer's files to make searching much quicker. If you use Windows' search tool, it might offer to do this for you, the process takes a long time, but future searches will be quicker. If you find yourself searching for files a lot on your computer, you can ask Windows to keep the index up to date regularly by running in the background",
+            "title_similarity": "0.7203208"
+        },
+        {
+            "id": "hjx0nw7",
+            "score": 2,
+            "text": "Followup question: ELI5 why does it take default file explorer 10years to find a file on my computer but 3rd party file explorers (like the one used in blender to import files) is instant?",
+            "title_similarity": "0.7954045"
+        },
+        {
+            "id": "hjx2mtf",
+            "score": 1,
+            "text": "Better question: why can my Mac find a file in 2 seconds when it takes my PC at least two minutes?",
+            "title_similarity": "0.7988545"
+        },
+        {
+            "id": "hjx3ekc",
+            "score": 1,
+            "text": "Spotlight on OSX is decent but Windows 10 search is lukewarm trash on the WINKEY and explorer. The Program filelocator is necessary in that case. Windows search was way better in XP and Win7.",
+            "title_similarity": "0.46700025"
+        },
+        {
+            "id": "hjxakpe",
+            "score": 1,
+            "text": "Likewise, your home computer, when searching itself, it first consults its index (usually called the index). If the file is indexed, you'll get it showing up in the search almost instantly. If the computer instead has to look through it's storage drives for the file, it will take a real long time. The more storage space you have, the longer it will take. everyone to use. If nothing is found on a search, assuming your browser can run its own search, it will try and do so and it will take forever.  \n\n\nLikewise, your home computer, when searching itself, it first consults its index (usually called the index). If the file is indexed, you'll get it showing up in the search almost instantly. If the computer instead has to look through it's storage drives for the file, it will take a real long time. The more storage space you have, the longer it will take. If your computer is always slow searching for anything, and like almost everyone you use Windows, you probably turned off Indexing via some popup because it said \"Indexing can slow your computer down\" or something... Which is true of very old hardware, but not so much since 2010.",
+            "title_similarity": "0.7170477"
+        },
+        {
+            "id": "hjxb39k",
+            "score": 6,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjxbatx",
+            "score": 1,
+            "text": "You know how if I ask you for something you have to go search your room to find if you even have it but if I ask your mom she can just answer right away because she likes to organize and keep track or all our stuff? When you ask your computer it has to do all the work looking and that takes time but searching on the internet is really asking another computer that's already done the searching and ha the answer.",
+            "title_similarity": "0.6090511"
+        },
+        {
+            "id": "hjxbqv8",
+            "score": 2,
+            "text": "The real answer is, unfortunately, Windows (and most Linux) search _and_ indexing are both unfathomably shitty. Some people blame the filesystems (NTFS, ext4) but that's not really the problem. It's the code.",
+            "title_similarity": "0.40960017"
+        },
+        {
+            "id": "hjxc2zj",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjxe2it",
+            "score": 1,
+            "text": "If this isnt an explanation but if you want a faster more accurate file searcher on computer\n\nOn windows download search everything is the best thing I've done in a long time\n\nYou can filter based on the type of data (music, video etc) and much more and it's super low resource it's a god send",
+            "title_similarity": "0.6023251"
+        },
+        {
+            "id": "hjxfsm1",
+            "score": 1,
+            "text": "The media that is being searched and the way its stored. --- A disk on a computer has the files. A disk controller manages reading and writing the files. For speed the controller writes files where ever on the disk. --- In comparison, a browser is looking up a sorted database when searching for sites. Because of the structure of the internet and the way those files are stored searches are made to be fast so they don't clog up the internet. --- Also for search engines like Google there are programs called spiders that regularly pre-search the existing internet. The spiders are more like bees going out to the Internet gathering the info and then returning to have the site data stored AND pre-organized.--- To review, PC disk controller fast and messy for writing speed. Search engine like Google or Internet, organized info, faster searches by design.",
+            "title_similarity": "0.6374788"
+        },
+        {
+            "id": "hjxj1p5",
+            "score": 1,
+            "text": "You can index your computer so that it does the same thing, there's software out there, one for example called \"everything\" that works very well.",
+            "title_similarity": "0.4064939"
+        },
+        {
+            "id": "hjxjpk0",
+            "score": 1,
+            "text": "Bigger question: why is windows indexed search in filesystem not as effective or efficient as Linux distros or MACOS?",
+            "title_similarity": "0.5760267"
+        },
+        {
+            "id": "hjxou0h",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjxrle8",
+            "score": 1,
+            "text": "Actually, that is something of a misconception, as a browser doesn’t actually perform the search. Rather, it delegates the work of searching to other computers. Specifically, the browser packages up your search terms and sends them to other computers, over the internet. They perform the search, then send back the results, which are displayed in your browser. \n\nSo, the question becomes, why are some computers faster at searching than others?\n\nFirst, before you perform your search, an entire army of computers was already at work, searching the internet ahead of time, condensing the results into what’s called an index. Those computers actually do the time consuming job of scanning through the bits and bytes of files and documents - distilling them down into summaries highly optimized for future searches. This happens across a vast number of computers, in parallel, so the results can stay up to date. \n\nSecond, when you actually perform your search, the work is distributed to yet another group of computers which consult the index created earlier. They also work in parallel to scan different parts of the index simultaneously. \n\nThird, all of the computers involved are dedicated to their particular job. As such, they use hardware that is highly optimized for their role in search. So, from a hardware perspective, the effort to perform the search is distributed across multiple computers that are highly optimized to play a specific role. Some have vast amounts of memory, while others have high performance storage with fast read times, etc. In addition, they operate in highly controlled environments, are always plugged in, etc. \n\nWhile all of this hardware is very expensive, the cost is offset due to the fact that used by a vast number of people.\n\nOn the other hand, search on your computer is limited to, well, your computer. It has to do all the work and play all of those roles. Nor is it dedicated to, or highly optimized for, performing all of those roles. It has to be cost effective and potentially portable, in the case of a laptop, etc.\n\nWhile Windows and macOS have dedicated processes that scan the files on your computer ahead of time, it can take awhile to create the initial index. So, searches will be slow during this time. Also, some of these processes are more efficient than others. For example, when Spotlight (Apple’s search feature) was first released on macOS was significantly faster than search on Windows. However, this may no longer be the case, as I haven’t used windows as my daily driver in quite some time.",
+            "title_similarity": "0.7439349"
+        },
+        {
+            "id": "hjxygek",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjy051b",
+            "score": 1,
+            "text": "Actual fucking ELI5... \n\nPeople keep talking about indexing but it's MUCH more than that.\n\nIf I told you to go into every room in the house and search for a toy, it would talk you a really long time. Google gathers all it's friends and assigns each friend a room, sometimes multiple people per room. It then says ok, this is what I'm looking for, when you find it yell so the rest of us can stop looking.\n\nSometimes Google also gives hints, Google will say to it's friends, I'm pretty sure I saw it in the living room, let's break the living room up into sections and each of my friends take a small corner to find it faster.\n\nThere is a lot more to it than this, however this one was large part of how search engines can search the entire internet in less than a second, it's because they don't. They have rough idea's what section of the internet it will be and then asks millions of computers to search it's small part of the internet for it.\n\nAll of a sudden the entire internet is just a few million pages for a particular machine which is cake.",
+            "title_similarity": "0.5877523"
+        },
+        {
+            "id": "hjy26wi",
+            "score": 1,
+            "text": "Bottom line: [\"indexing.\"](https://www.makeuseof.com/database-index-beginners/)\n\nA web site like Google uses database indexes to associate words (and partial words) with a list of web sites, so when you go to Google and type, for example, \"toasters\"--Google looks at their index of sites for sites with the word \"toasters\" associated with it, and returns the list of found sites from the index.\n\nThink, for example, of the appendix in a [cook book.](https://www.amazon.com/Joy-of-Cooking/dp/0743246268) If you want to find a recipe for chocolate chip cookies, you look at the back of the book at the index, find \"c\", \"chocolate\", find the section on \"chocolate chip cookies\"--and it tells you the recipe is on page 584.\n\nMaking that index takes a lot of time, but it only has to be done once for each web page. (The author of the appendix of your cook book put a lot of time into making that appendix.) \n\nIf the contents of that web page change, Google doesn't necessarily know the changes were made--which is why sometimes you get a search result that takes you to a missing web page or to the wrong page.\n\n----\n\nYour computer, when it searches for files on your local file system, has no similar index to look through. So when you type \"toasters\" into your local file search, it can't look up \"toasters\" in an index which tells it exactly which files you want.\n\nGoing back to our appendix example, suppose you now have to find a chocolate chip cookie recipe in your cookbook--but someone tore the appendix out. So instead, you have to read every. Single. Page to find the recipe. All 1,100 recipe pages in your \"Joy of Cooking\" cook book.\n\nThat will take a little longer than just looking up the recipe in the appendix.",
+            "title_similarity": "0.53045076"
+        },
+        {
+            "id": "hjy3gdq",
+            "score": 1,
+            "text": "Hey!\nI might have the perfect analogy for this\nSo consider this\nYou're living in new york city and you tell your friend\nGo find Josh!\nHe doesn't know Josh or where he lives or if Josh is a guy , a dog , a jellyfish or a llama\nHe goes to every house , knocks on it and searches it for Josh which would take a lot of time\n\nNow!\nThe other scenario about the browser\nYou tell your friend hey , go to\nApartment 25B downtown , room 69420\nHe knows exactly where to head to and doesn't need to knock and search in every house.\nThat's what you are doing when you type www.oogle.com , it translates to the site's public IP address and then takes you right there",
+            "title_similarity": "0.44172183"
+        },
+        {
+            "id": "hjy41zy",
+            "score": 1,
+            "text": "Your computer is dedicated to you and to you only. It want to be available for whatever you want to do, so it tries to keep itself to a minimum, so you can have more cpu, ram, etc. When you search for a file it will go from this minimum to do its job. Read file list and find if that file exists is a very specific task that requires incredible amount of work; is this a disk or network thingy or something else? Can I access it? Is it in a format I can read? Can I access this folder, and then this folder too? Read and compare and again….\n\nOn the other hand browser is an application that is responsible for displaying what server sent and send some commands to the servers. When you do a search, it send “find me this, pretty please” command to a server that has access to the systems that not only dwarfs your computer, it doesn’t even acknowledge you exists.\n\nFinally, you can such fast system, if you let me get out of eli5 region. There is an app that directly loads ntfs file directory into memory and performs searches from that which is very very very fast. WizFil is the name for the people who has ram.",
+            "title_similarity": "0.5817649"
+        },
+        {
+            "id": "hjybse4",
+            "score": 1,
+            "text": "If I gave you a junior high Chemistry textbook and asked you to tell me every mention of the word ‘water’, you could totally do it.  You’d have to go through each page, look for ‘water’, and then make a note that, yup, page 12 mentions water. And you do this every time you see the word.\n\nThis is an example of you searching for ‘water’ and it would take you a really long time.  That’s basically how your home computer searches for files.\n\nNow let’s suppose this textbook had an index at the end.  And in there, the publisher had already done this search.  So you go to the index, go to the ‘W’ section, and find the word ‘water’.  Well the search had already been done, and you can easily see that ‘water’ is found on pages 12, 15, 19, etc.  It would only take you a few seconds to find this info.\n\nThat’s an example of indexing, and that’s what search engines do. \n\nNow if you had a somewhat savvy publisher, they might also include ‘H2O’ in that list.  So even though you’re searching for the word ‘water’, the publisher assumes that you’re probably searching for water itself, not the literal word ‘water’. \n\nThis is a slightly more useful index, and this is also an example of what search engines do (but on steroids!)\n\nSo the basic answer here is that the search engine didn’t *actually* search through it in less than a second.  The search process probably took a while, but it did the search at some point in the past, wrote down the results in an index, and then when you type in a search, it simply returns the answer. For *you* it only took a few seconds. \n\nSo now the question becomes, why doesn’t your computer index everything the same way Google does?\n\nWell, it does.  It’s just not very good at it. Indexing takes away from your computing power, which means if indexing is happening, your computer will run ‘slower’ and that’s annoying.  When indexing does happen, they’re usually like the first example I gave.  Still helpful, but not always necessarily comprehensive. \n\nAlso, for most home users, indexing isn’t really a huge differentiator when it comes to choosing a platform/operating system.  We don’t choose our computers based on how fast they can find some document. So there’s not a lot of incentive to make, maintain, and continually improve the most bestest computer search tool….because frankly, there’s no money in it.  \n\nGoogle has a HUGE incentive to continuously improve their search tool.  Better and faster searches means more searches means more ads means more money. Your home computer, not so much.",
+            "title_similarity": "0.60369974"
+        },
+        {
+            "id": "hjycish",
+            "score": 1,
+            "text": "Ever heard of the program Everything? It will find any file on your computer in milli-seconds. How? Indexing.\n\nNow, you'd might say ”Well, Windows has a native indexing service as well, and Window's search function is still incredibly slow and often doesn't find the file that I am looking for at all? How can such a basic and foundational function be so seriously lacking in the world's most-used operating system, developed by one of the largest software companies in the world, for decades?” and ”If this is so easy to make, why haven't Microsoft created a native search app with fast search like this??”, or ”Imagine how many hours of productivity is lost every year because the regular Windows user can't fucking find a file they were recently worked on!?!”\n\nAnd yeah, those are all really valid questions to ask, but   ¯\\\\\\_(ツ)\\_/¯",
+            "title_similarity": "0.76706076"
+        },
+        {
+            "id": "hjym1xi",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.008474402"
+        },
+        {
+            "id": "hjzrm68",
+            "score": 1,
+            "text": "Fun fact: if you're sick of it taking a billion years for Windows to find a specific file, the tool [\"Everything\" by voidtools](https://www.voidtools.com/) uses the built-in index from the filesystem and searches are nearly instantaneous. I can't get by without it.",
+            "title_similarity": "0.77015173"
+        },
+        {
+            "id": "hkassb3",
+            "score": 1,
+            "text": "Imagine you're in a library. If your computer searches for a file, it would be like you checking each book's title to find it. Which would take a while..\n\nA browser searching the internet is like you asking the librarian. It is already sorted and indexed. The librarian can tell you where to find it.",
+            "title_similarity": "0.64404297"
+        },
+        {
+            "id": "hkdlurh",
+            "score": 1,
+            "text": "Your computer has three main parts. The processor, the drive, and the Ram.\n\nThe processor looks through the files on the drive and writes down what it finds in the ram.\n\nWebsites are other computers, containing many processors working together so they can look through the files on their drives faster and write more down in it's ram. The website then tells your computer what it finds",
+            "title_similarity": "0.64286256"
+        },
+        {
+            "id": "hlnk8di",
+            "score": 1,
+            "text": "Adding to people’s points about indexing, if you download an app called Everything by voidtools, and let it index your computer, you will be able to search your computer faster than Google.\nIt’s open source, and has no ads or “free versions”. Try it!\n\nhttps://en.wikipedia.org/wiki/Everything_(software)",
+            "title_similarity": "0.6019573"
+        },
+        {
+            "id": "hmo4woa",
+            "score": 1,
+            "text": "simple - this is your computer vs. a search engine, your computer uses the resources it has, some chip with very limited processing power. But a search engine uses thousands of computers just like you have at home",
+            "title_similarity": "0.73084396"
+        },
+        {
+            "id": "hnkyzxl",
+            "score": 1,
+            "text": "Quick Q: I read that changing your DNS to 1.1.1.1 will help with search speeds. Is this true?",
+            "title_similarity": "0.42559928"
+        }
+    ]
+}

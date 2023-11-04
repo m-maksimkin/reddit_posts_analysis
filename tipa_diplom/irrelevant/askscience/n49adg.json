@@ -1,0 +1,70 @@
+{
+    "In the U.S., if the polio vaccination rate was the same as COVID-19, would we still have polio?\n": [
+        {
+            "id": "gwuyb5r",
+            "score": 18,
+            "text": "[removed]",
+            "title_similarity": "0.11231212"
+        },
+        {
+            "id": "gwwov0v",
+            "score": -28,
+            "text": "[deleted]",
+            "title_similarity": "0.13854817"
+        },
+        {
+            "id": "gwws3g9",
+            "score": 1,
+            "text": "[deleted]",
+            "title_similarity": "0.13854817"
+        },
+        {
+            "id": "gwv0uew",
+            "score": -6,
+            "text": "[removed]",
+            "title_similarity": "0.11231212"
+        },
+        {
+            "id": "gwv7998",
+            "score": 97,
+            "text": "First, the research behind the polio vaccine and motives for making it were very different. The polio vaccine targeted children who generally have easier access to healthcare as is to be offered it more quickly than adults. Covid vaccine, not even approved in kids yet for the most part so that's a huge chunk who can't even get the vaccine yet. Second, even for those over 18 the vaccine is just now getting to be available and in supply so the opportunity for a higher rate doesn't actually exist yet  . It still took years of vaccines and missteps for the polio vaccine to reach the level of population immunity (and it's not quite there yet world wide). So yes, when the polio vaccine distribution was at rates that the covid vaccine is now there were still tons of cases. But we're probably a few years off from that being a comparison as the covid vaccine distribution  effort isn't over yet",
+            "title_similarity": "0.6191262"
+        },
+        {
+            "id": "gwuz53t",
+            "score": -62,
+            "text": "[removed]",
+            "title_similarity": "0.11231212"
+        },
+        {
+            "id": "gwure0e",
+            "score": -15,
+            "text": "[removed]",
+            "title_similarity": "0.11231212"
+        },
+        {
+            "id": "gwuu9w5",
+            "score": 601,
+            "text": "Look, when the polio vaccine was released to the public there had been a number of failures (deaths) in the trials which is why when they did have a known good vaccine Elvis had to go on TV and get the vaccine for everyone to see so they could see he survived the vaccine.  In the past vaccines have been problematic but obviously in the words of Bender, \"We've come a long way, baby.\"",
+            "title_similarity": "0.59491694"
+        },
+        {
+            "id": "gwvntbb",
+            "score": 76,
+            "text": "In [this podcast](https://podcasts.apple.com/us/podcast/in-the-bubble-from-the-frontlines/id1504128553?i=1000517072418) there is an interesting recoding of what sounds like the “news reel” announcement of the polio vaccine recorded on April 12, 1955.     \nStarts at 33 seconds and runs to the  2:00 minute mark.        \n      \nJust thought it was interesting.",
+            "title_similarity": "0.6186725"
+        },
+        {
+            "id": "gwuumpw",
+            "score": 1262,
+            "text": "Polio is a really interesting disease because it has a super high asymptomatic/ minor symptom rate (70% of infections have no symptoms, and 25% have only minor flu like symptoms,) but it also has a very long contagion period (> six weeks after infection) and is highly contagious, which makes it very difficult to eradicate. However, it is also primarily spread through fecal matter, so good sanitation can limit it's spread.",
+            "title_similarity": "0.5396062"
+        },
+        {
+            "id": "gwuf7tt",
+            "score": 6892,
+            "text": "Yes. Polio's estimated r0 is 5 to 7. You would need vaccine coverage of at least 80-86% to even begin to reach herd immunity. Which means you would more realistically need 95+% coverage to really keep it knocked down.",
+            "title_similarity": "0.6650547"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "How does NASA and other space agencies protect their spacecraft from being hacked and taken over by signals broadcast from hostile third parties?\n": [
+        {
+            "id": "hq5rqwq",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "0.062185466"
+        },
+        {
+            "id": "hq5fiw9",
+            "score": 223,
+            "text": "The same way as anything else, it's just encrypted. Cryptography is commonplace today, well understood, and very effective. \n\nWhen somebody \"hacks\" something, they're not listening in on encrypted signals and \"decoding\" them. The amount of computing power to achieve such a feat would be absurd. Instead \"hacking\" is generally done by social infiltration. You make contacts and ask them, you find where they've written passwords, find people using unencrypted information, get legal access to information yourself, etc.",
+            "title_similarity": "0.52653474"
+        },
+        {
+            "id": "hq6nrtw",
+            "score": 7,
+            "text": "Well modern ones are encrypted and have other obfuscations, but older satellites relied on the fact that the only people who could afford the broadcast equipment required were governments.  This is still true for distant probes such as Voyager, not many people have a 70m dish in their back yard.  Also bear in mind that older probes in particular required very specialized equipment to talk to them, this is less so nowadays with off the shelf components becoming more common.",
+            "title_similarity": "0.5518396"
+        },
+        {
+            "id": "hq721i3",
+            "score": 8,
+            "text": "Read a few comments and either missed it or didn't see but, the entire planet is covered in ships and stations that all they do is monitor signals. You can be fairly certain if you somehow managed to put out enough power to do anything both your electric company and those signal guys are going to notice. Next thing you know you're getting a visit probably from homeland security.",
+            "title_similarity": "0.66296595"
+        },
+        {
+            "id": "hq5zt4g",
+            "score": 56,
+            "text": "For anything flown in the last 40 years, it's nearly impossible to hack due to encryption and sequencing. You would have to know the crypto key, encryption method, the current sequence id, and the commanding format to \"hack\" a US government sat -- essentially impossible and as far as I am aware no one person knows/has access to all four -- secrets are often highly classified even on NASA missions. Even probing a sat will set off red alerts. Only real exploit is an insider, but so much review/approval goes into each line of software and commanding sequence it would be very difficult to pull off.\n\nNow jamming a sat (preventing uplink or downlink), is much more achievable, but since most satellites will go into a \"safe mode\" when not communicating properly with the ground, this would mostly just be a very noisy denial of service attack -- So noisy that it would be trivial to figure out where the attack came from and take countermeasures. \n\nSource: have helped build many spacecraft",
+            "title_similarity": "0.66607267"
+        },
+        {
+            "id": "hq5hohn",
+            "score": 14,
+            "text": "Mostly encryption but don't be fooled there are always ways someone can hack them, there was a ctf this year( basically a hacker competition that had as a goal to hack a satellite) if you are interested you can read more here https://www.spacesecurity.info/en/first-ctf-in-space-with-hack-a-sat-the-us-air-force-launches-a-bug-bounty-and-invites-hackers-to-hack-one-of-their-satellites-in-orbit/",
+            "title_similarity": "0.71635914"
+        },
+        {
+            "id": "hq5i3vp",
+            "score": 40,
+            "text": "It has happened before, sort of. \n\n[https://en.wikipedia.org/wiki/Captain\\_Midnight\\_broadcast\\_signal\\_intrusion](https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion)\n\nIn this case though an engineer built a rig that overpowered the legit signal with his own. The signal was not encrypted.",
+            "title_similarity": "0.525941"
+        },
+        {
+            "id": "hq5fovy",
+            "score": 80,
+            "text": "I assume you are asking how they keep the communications from the spacecraft to ground safe from modification by a third party. For that, the telemetry and commanding channels are generally encrypted. Here is a link to a US manufacturer of this type of system.\n\nhttps://www.raytheon.com/capabilities/products/space\\_encryption",
+            "title_similarity": "0.8003487"
+        },
+        {
+            "id": "hq5t7i7",
+            "score": 90,
+            "text": "Satellites are hackable, just like anything else with software and connectivity. Protections have changed and improved over the decades, as have techniques and technologies available to hackers of various types.\n\nSome space tech is deliberately hackable, like the [Hack-A-Sat competition](https://www.hackasat.com) run by the US Air Force and some of the activities we run at the [Aerospace Village](https://aerospacevillage.org) (I'm one of the original founders). The goal is to teach people about the unique consequences, technologies, constraints, and contexts to build better protections into them. \n\nWhile many satellites broadcast in the clear (unencrypted),* most modern satellites encrypt their command and control channel to prevent eavesdropping - similar to how your bank or email provider protects against someone snooping on you when you're on the coffee shop Wi-Fi. But that doesn't stop someone from creating a new connection to tamper with the equipment.\n\nSpace technology makers didn't have to worry much about tampering (except by nation states) until the proliferation of home computing technology in the 1980s and software defined radios in the 2000s and 2010s. This put powerful capabilities in the hands of amateurs, at the cost of hundreds to thousands of dollars (as opposed to tens or hundreds of thousands). The problem is, those protocols are still used in recent space tech and a lot of that equipment is still up in space. \n\n* Note: while it's not satellites, the [PiAware](https://flightaware.com/adsb/piaware/build/) project is a fun way to see the ADSB signals planes broadcast.",
+            "title_similarity": "0.7013145"
+        },
+        {
+            "id": "hq5ff4v",
+            "score": 3387,
+            "text": "Encrypted communications for control channels is typically used on new stuff.  also there is a very high barrier to be able to track and send a control signal to anything on Mars.    Low earth stuff is really close so you do not need much in signal.  but Anything further out,   The Inverse square law makes communication really expensive and out of reach of all but really well financed governments.\n\nFor example Voyager 2 is 100% open and unencrypted,   but all the hackers on earth combined dont even have close to the resources to be able to send a signal to it because it is so far away.     If you would like details on that communications the JPL published a document on it .   [https://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager\\_new.pdf](https://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager_new.pdf)\n\nNote:  inverse square law means  that intensity equals the inverse of the square of the distance from the source.  \n\n For example, the radiation exposure from a point source  (radio is radiation) gets smaller the farther away it is. If the source is 2x as far away, it's 1/4 as much exposure. If it's 10x farther away, the radiation exposure is 100x less.",
+            "title_similarity": "0.6039549"
+        },
+        {
+            "id": "hq5fxw6",
+            "score": 1400,
+            "text": "As mentioned there are several practical barriers to hijacking a craft digitally. However, that doesn't preclude intercepting radio communications on a read-only basis.\n\nNowadays those signals are well encrypted, but it wasn't always so - the Soviet _Luna_ program was embarrassed somewhat when its first moon photos were decoded by the British Jodrell Bank site before they could be seen by Moscow.",
+            "title_similarity": "0.7515922"
+        },
+        {
+            "id": "hq6nki1",
+            "score": 86,
+            "text": "I can't speak to more modern stuff, or anything pre-Apollo, but at least for the Apollo missions, NASA was actually concerned that hostile parties such as nation states could interfere with their communications in either direction enough that they ensured that not only could every Apollo mission function successfully with a complete loss of radio contact (since they had a complete flight plan onboard, as well as extensive training for what-if scenarios), but also, when Apollo missions were in communication with the ground, the astronauts had to physically flip a switch in the command module to enable mission control to send data to the ship's computer. That switch and the astronauts were a safeguard. The switch was always reset to 'block' after mission control finished with expected updates, listed in their flight plan.",
+            "title_similarity": "0.7743117"
+        },
+        {
+            "id": "hq8z9ft",
+            "score": 4,
+            "text": "As previously stated, there are significant practical obstacles to digitally hijacking a craft. This does not, however, preclude the read-only interception of radio communications.  \nThose transmissions are now tightly encrypted, but they weren't always; the Soviet Luna programme was rather humiliated when its first moon photos were deciphered by the British Jodrell Bank site before being seen by Moscow.",
+            "title_similarity": "0.77291065"
+        }
+    ]
+}

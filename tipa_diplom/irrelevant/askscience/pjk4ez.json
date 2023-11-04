@@ -1,0 +1,118 @@
+{
+    "What is the Infection Fatality Rate from COVID 19 if you are fully vaccinated?\n": [
+        {
+            "id": "hbxx1ez",
+            "score": 13,
+            "text": "It's the wrong question, which is why it's answer is being used to muddy things up and even insinuate vaccination is dangerous somehow. \n\nAsking the infection fatality rate here would be like asking the Accident Fatality Rate between people who follow at a safe distance so you can compare it to tailgaters. It completely excludes all of the accidents avoided, which is the main point of following at a safe distance. \n\nLikewise, vaccination is largely about avoiding significant infection, which is does quite well. \n\nThis is why comparing per capita mortality between the two demographics is more informative.",
+            "title_similarity": "0.611274"
+        },
+        {
+            "id": "hby68fd",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.14291406"
+        },
+        {
+            "id": "hbxdpp1",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "0.14291406"
+        },
+        {
+            "id": "hbxfxqj",
+            "score": 20,
+            "text": "Risk for all vaccinated people isn't really meaningful. Your risk of death roughly doubles for every 5 to 7 years of age and the majority of vaccinated deaths are the very old. An 80 year old hearing the risk is infinitesimally small for all vaccinated people when the risk for 80+ is just really small is not helpful.",
+            "title_similarity": "0.48912218"
+        },
+        {
+            "id": "hby5dpz",
+            "score": 43,
+            "text": "Israel should be the go to for all data on vaccinated outcomes. You can check their website with Google translate for a huge number of statistics. Unlike the likes of Vermont, over 90% of Israel's **eligible** population is vaccinated so the sample is representative of the full population and it is an extremely large sample.\n\n\nOver the past month, on average 1 fully vaccinated person has died each day from covid in Israel, pretty much exclusively people over the agree of 60. For this month, that's a death rate of 0.000006% for the vaccinated population. That's great for a population of 9 million. The number is higher for unvaccinated and less for people with booster shots. It is suspected that their vaccination rates are so high that the whole population may be closer to getting herd immunity. \n\n\nThe vast majority of those hospitalized despite vaccination in Israel are elderly vulnerable or severely immunocompromised individuals. There is a medical doctor's YouTube channel that regularly discussed Israeli data reports on an accessible way that discusses the same points about breakthrough hospitalisation. They also discussed previous Israeli data that showed that immunocompromised people on average had 25% less effectiveness from vaccines relative to noon immunocompromised people, which again explains done if the breakthrough severe cases or deaths.\n\n\n\n\nIsraeli data: https://datadashboard.health.gov.il/COVID-19/general\n\n\nVideo on breakthrough cases:\nhttps://youtu.be/WIiRVAC7GnE\n\n\nEDIT: The vaccination coverage percentage of 90% is obviously referring to eligible population and was taken straight from their ministry of health website. So was the figure of approx. 5 million vaccines used for the vaccinated death rate calculation.",
+            "title_similarity": "0.5979434"
+        },
+        {
+            "id": "hbxhnm8",
+            "score": 60,
+            "text": "NY Times just said today that you have a 1 in 5000 chance of a breakthrough infection if fully vaccinated.\n\nBreakthrough infections are not as common as  once thought apparently.\n\nAs far as deaths, i have no idea",
+            "title_similarity": "0.61345685"
+        },
+        {
+            "id": "hbyt0on",
+            "score": 16,
+            "text": "The infection fatality rate (IFR) represents the proportion of deaths among all infected individuals, including all asymptomatic and undiagnosed subjects. Therefore you need to have a pretty good idea how many people are infected but are asymptomatic/undiagnosed. But the intended effect of the vaccination is that people's immune system is able to better fight the virus, ideally so that the infection is basically stopped before it is even able to get properly started. \"Unfortunately\" the quick tests which are now the the 1st step before we do a PCR test only react to a sufficiently high viral load which you only have with a \"proper\" infection. Therefore quick tests will miss a lot/most(?)/all(??) of the asymptomatic infections of vaccinated people, so consequently no PCR test is performed. \n\nTo get to the point, unless somebody pays for a random sample study where several thousand vaccinated people are PCR & blood tested we will not get a reliable IFR!\n\nAs most countries are happy that all existing data shows that the vaccinations work and a lot fewer people are dying, this will only happen if the vaccine producers pay for it. Who else would be interested in the data? Most likely we will  get a decent guesstimation in a few months, based on some computer models/algorithms that most of us won't be able to understand, so asking for the IFR now makes little sense. \n\nMy guess, OP probably doesn't know what IFR actually means, is either an antivaxxxer or was confused by an antivaxxers misinformation (in which case it's good they asked, just next time elaborate a bit more on the question, please).\n\nAdditionally:   \na. As the SARS-Cov2 coronavirus is mutating unusually often a IFR has to always be given for a specific variant (+ typical sub-variants), which at the moment would be Delta in Europe/North America, but might be very different in 3 months from now.  \nb. There are 4 approved vaccines used in most western/1st world countries, and a whopping 18 (!) more globally, and mix and match i.e. combining 2 different kinds of vaccines is also a thing, so if you ask for an IFR you have to specify the country, the vaccine(s) and the time period/dominant virus variant.  \nc. And, as COVID19 disproportionately affects the elderly/immunocompromised especially when it comes to fatality rates, any IFR without separate numbers for different age brackets makes absolutely no sense at all imho.",
+            "title_similarity": "0.7506579"
+        },
+        {
+            "id": "hbx3o00",
+            "score": 95,
+            "text": "\"A total of 1,271 new COVID-19 hospitalizations (0.17 per 100,000 person-days) occurred among fully vaccinated adults, compared with 7,308 (2.03 per 100,000 person-days) among unvaccinated adults.\" https://www.cdc.gov/mmwr/volumes/70/wr/mm7034e1.htm\n\nThis from a population from which half a million people died from COVID-19 before the vaccines were widely available.",
+            "title_similarity": "0.6613246"
+        },
+        {
+            "id": "hbx4fe3",
+            "score": 250,
+            "text": "That depends on a lot of factors. It's also hard to nail down exact probabilities because very few people are actually aggregating these numbers for analysis. This is also very difficult because everyone who *is* recording these statistics are doing it differently (some are only tracking vaccinated *or* unvaccinated individuals, or just one county/city/etc, some don't differentiate between the two, etc.).\n\nI wish I could give you the exact numbers, but it's very time consuming to scrape the hundreds or thousands of different data sources, collate and reconcile them, and then perform the analysis, so all I can offer you is what I've managed to glean by looking over a few dozen data sources.\n\nFrom what I can tell, it boils down to 3 main metrics: Your likelihood of contracting Covid, your likelihood of being hospitalized and your likelihood of dying after being hospitalized.\n\nIn all cases, across all data sets, you are A) more likely to contract Covid if you aren't fully vaccinated, B) more likely to be hospitalized if you are unvaccinated and C) more likely to die if you are unvaccinated.\n\nA: This can vary greatly depending on where the data is being collected, the sample size, etc. However, it would seem that you are anywhere in between 2 and 7 times as likely to catch Covid if you are unvaccinated. This variance is likely due to different places having different strictness with regards to mask mandates, how open their economy is, how much testing they're doing and who is getting tested, etc.\n\nB: Again, this varies as well, but slightly less. It would seem that you're between 4 and 7 times as likely to be hospitalized for Covid if you're unvaccinated. This is determined by splitting the people who are hospitalized for Covid between the fully vaccinated and those who are not, and dividing the smaller by the larger group.\n\nC: This varies slightly more. Again, variation due to circumstances (availability and quality of healthcare, mostly). If you're vaccinated, you're somewhere between 2.5 and 12 times as likely to survive hospitalization for Covid.\n\nAll combined, you're somewhere in between 20 and 588 times as likely to die from Covid if you're not fully vaccinated.\n\nI'm sure someone out there is working on a more comprehensive and accurate analysis of this data, but it's so amorphous, with so many factors, that I doubt anyone has really nailed down anything concrete or that is worthy of publishing right now.\n\nHope this helps.\n\nEDIT: Forgot sources. Here's the two that are most informative.\n\nhttps://www.statista.com/chart/25589/covid-19-infections-vaccinated-unvaccinated/\n\nhttps://kingcounty.gov/depts/health/covid-19/data/vaccination-outcomes.aspx",
+            "title_similarity": "0.4191712"
+        },
+        {
+            "id": "hbx4bd0",
+            "score": 607,
+            "text": "[removed]",
+            "title_similarity": "0.14291406"
+        },
+        {
+            "id": "hbxl2ai",
+            "score": -7,
+            "text": "[removed]",
+            "title_similarity": "0.14291406"
+        },
+        {
+            "id": "hbxm4pk",
+            "score": 40,
+            "text": "The New York Times covid coverage is a treasure trove of data on covid 19 for anyone who has not taken a look at it. As many have stated, they data is not really specific on this question for a variety of reasons, but the NYT website does provide you with the data to learn about what we do know.\n\nhttps://www.nytimes.com/interactive/2021/08/10/us/covid-breakthrough-infections-vaccines.html\n\nHere is a quote from the linked page describing just one reason why this data can be difficult to interpret - you don’t know vaccinated people who were exposed, but the vaccine helped prevent an infection that could be diagnosed.\n\n> “In an ideal world, you would be able to calculate the rates based on the number of people who were actually exposed,” said Kristen Panthagani, a geneticist at Baylor College of Medicine who runs a blog explaining complicated scientific concepts, including breakthrough infections. “But that number is really hard to figure out.”",
+            "title_similarity": "0.57439554"
+        },
+        {
+            "id": "hbyv5y0",
+            "score": 24,
+            "text": "Last time I saw definite figures for the US (a few weeks ago), the serious infection rate (ie, requiring hospitalization) was in the vicinity of around 1% of all cases, and the death rate was something like 0.6% among the vaccinated.\n\nThere are surely more asymptomatic infected people out there who just never got tested.\n\nThis is, of course, wholly expected. No vaccine in history has ever been 100% effective.",
+            "title_similarity": "0.6282959"
+        },
+        {
+            "id": "hbxb1i5",
+            "score": -14,
+            "text": "[removed]",
+            "title_similarity": "0.14291406"
+        },
+        {
+            "id": "hbxj0rs",
+            "score": 236,
+            "text": "As other's have said, there isn't a great answer to that question. There have been around 2400  \"breakthrough cases\" resulting in death out of 173 million vaccinations with an average age about 4 years above life expectancy.\n\nThat doesn't tell us how many of the 173 million have had covid post-vaccination (definitely a minority), or how many of those 2400 would have died from other causes, but I think it gives us qualitatively the answer that after vaccination, death from covid is very rare.\n\nAll of the data cited here is constantly changing, so here is the CDC page where you can find up to date information:\n\n\nhttps://www.cdc.gov/vaccines/covid-19/health-departments/breakthrough-cases.html",
+            "title_similarity": "0.5711188"
+        },
+        {
+            "id": "hbxom4i",
+            "score": -8,
+            "text": "[removed]",
+            "title_similarity": "0.14291406"
+        },
+        {
+            "id": "hby8q3z",
+            "score": 46,
+            "text": "You have to remember that, in such a small percentage, much of the result will be based on individuals.  Are you a healthy adult who is vaccinated or a elderly cancer patient who's vaccinated?  Your personal situation is a better measure than just looking at numbers.",
+            "title_similarity": "0.6263925"
+        },
+        {
+            "id": "hbxszyg",
+            "score": 5019,
+            "text": "Vermont is tracking and releasing data on this, Vermont has led the country in vaccination rates and infection rates, so this should be considered the \"best case scenerio\":\n\n\nAs of the end of August 2021:\n\nAmong Fully Vaccinated People (423,508 people):\n\n* **Tested Positive:**  0.36% (1,550 cases)\n* **Hospitalized:** 0.009%  (36 cases)\n* **Died:** 0.003% (13 cases)\n\nSource: https://dfr.vermont.gov/sites/finreg/files/doc_library/dfr-covid19-modeling-083121.pdf   (pg. 16)",
+            "title_similarity": "0.645885"
+        },
+        {
+            "id": "hbyajwt",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.14291406"
+        }
+    ]
+}

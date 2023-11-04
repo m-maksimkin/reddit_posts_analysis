@@ -1,0 +1,886 @@
+{
+    "ELI5: How do ships anchor themselves in very deep waters? For example, if they anchored in 10K foot deep oceans, do they actually have 10K feet of anchor chains?\n": [
+        {
+            "id": "hfqsvp7",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.0030301064"
+        },
+        {
+            "id": "hfs3mhq",
+            "score": 0,
+            "text": "I don't like to think that there is a water so deep that anchors can't reach bottom, well at least not at 4am while Im trying to sleep. .",
+            "title_similarity": "0.32569647"
+        },
+        {
+            "id": "hfr6f4u",
+            "score": 0,
+            "text": "[deleted]",
+            "title_similarity": "0.040133253"
+        },
+        {
+            "id": "hfsgo0k",
+            "score": 0,
+            "text": "The anchors don’t need to reach the bottom, when deployed they create enough drag to keep the ship in place.",
+            "title_similarity": "0.28404057"
+        },
+        {
+            "id": "hft2r3f",
+            "score": 0,
+            "text": "They make things like sea anchors that don’t touch the bottom and helps slow the boat . Just drifting would be bad if you got caught in a storm .",
+            "title_similarity": "0.35213065"
+        },
+        {
+            "id": "hfqissw",
+            "score": 6,
+            "text": "They don't. They just chug along at a minimum thrust.\n\nShips don't shut down their engines while out at sea because they'd lose any ability to stabilize the ship if a wave tries to broadside them.",
+            "title_similarity": "0.31121153"
+        },
+        {
+            "id": "hfqplfo",
+            "score": 1,
+            "text": "Drogues.\n\nWhy am I not seeing anybody mention drogues?\n\nA drogue is like a parachute that goes in the water and drags behind the vessel, slowing it down, especially useful in storms.\n\nI know it's not exactly an anchor, but it's a better answer than \"they don't.\"\n\n[wiki](https://en.m.wikipedia.org/wiki/Drogue)",
+            "title_similarity": "0.3996824"
+        },
+        {
+            "id": "hfrtq5g",
+            "score": 1,
+            "text": "“Dead in the water” is a term used when out to sea and not anchoring as there’s really no point in doing so. It’s when the ship is completely shut down and exactly as it sounds.",
+            "title_similarity": "0.2906446"
+        },
+        {
+            "id": "hfqixdh",
+            "score": 2,
+            "text": "also pretty sure, it would be so incredibly difficult to pull up 2 miles worth of chain and an anchor through two miles of water. water adds a lot of weight",
+            "title_similarity": "0.49723634"
+        },
+        {
+            "id": "hfqmn3y",
+            "score": 2,
+            "text": "There is something call a sea anchor, it's kind of like a parachute for water. It will not keep you in place, but will slow your drift.\n\nhttps://en.m.wikipedia.org/wiki/Sea_anchor",
+            "title_similarity": "0.3795065"
+        },
+        {
+            "id": "hfsng35",
+            "score": 2,
+            "text": "oil pipelines help anchor ships. ...um - too soon?",
+            "title_similarity": "0.448789"
+        },
+        {
+            "id": "hfrf8ln",
+            "score": 20,
+            "text": "I am very sad that nobody will ever read this, but we used to have a class of landing ship that could throw its stern anchors before it hit the beach, and then pull itself off again. Anchors aren’t just for anchoring.",
+            "title_similarity": "0.46466446"
+        },
+        {
+            "id": "hft281v",
+            "score": 3,
+            "text": "I worked on a research drill ship that could drill out in the mid-ocean almost anywhere in the world. The shop did not deploy anchors to stay on station. On station means that it had to stay over the hole, within 1% of the water depth. How is this possible?\n\nWe deploy two transponders (these make pinging noises) on the sea floor near where we want to drill a hole. The pings are picked up by two hydrophones (underwater microphones) on the hull of the ship. A computer on the ship can tell where the ship is in relation to the hole using trigonometry.\n\nThe drill ship can move around using its two main screws (like most ships) but it also has 12 special thruster propellers that can push it sideways or even turn it around. All these propellers are controlled by the computer, and the ship automatically stays on station, even in very rough weather. It's a very cool system.\n\nIt's called Dynamic Positioning.",
+            "title_similarity": "0.6664527"
+        },
+        {
+            "id": "hfq9iym",
+            "score": 440,
+            "text": "Yo, Navy veteran here.\n\nAnchors don't often hit the bottom of the sea in deep waters. What happens is the ship drops anchor, and the big-ass metal anchor serves as a balance weight, dropping the ship's center of gravity to under the ocean, so the ship doesn't get knocked around by waves as much.",
+            "title_similarity": "0.57033455"
+        },
+        {
+            "id": "hfqhg6h",
+            "score": 8,
+            "text": "There is a great movie on netflix about Deep Sea Divers -- on those ships they need to stay precisely in one spot, because they need to be directly over the divers, providing them the lifelines of oxygen, electricity, etc.,\n\nThey don't use an anchor; but they have an active positioning system that uses 4 directional thrusters to keep them stationary.",
+            "title_similarity": "0.5039022"
+        },
+        {
+            "id": "hfqf6j8",
+            "score": 13,
+            "text": "Why would a ship need to anchor in the deep ocean like that? They only need to anchor when near the coast and it's much shallower. \n\nActually, since you asked, did you know that it's the weight of the anchor chain and not the anchor itself that holds the ship in place? The anchor just keeps the chain from moving off the ground. \n\n[How A Ships Anchor Works | Anchoring Massive Ships](https://www.youtube.com/watch?v=2YvwXJGsbEg)",
+            "title_similarity": "0.5864935"
+        },
+        {
+            "id": "hfqblar",
+            "score": 21,
+            "text": "You don't. On smaller vessels you can deploy a sea anchor, which is basically a parachute that creates drag and allows you to slow your drift. When you're that deep you just keep going or if your sailing you can heave to, which is a technique of letting your foresail fill in backwards... for lack of a better word. Acts like a brake and keeps you from drifting too fast.",
+            "title_similarity": "0.38787463"
+        },
+        {
+            "id": "hfqel7g",
+            "score": 26,
+            "text": "Sailing vessels do something called heaving to which balances the sails so that the forces on the sails basically cancel eachother out, keeping the boat stationary but with the added stabilizing benefit of having the sails out in the wind.\n\nI can't think of many situations where a ship would need to anchor in the middle of deep ocean. Most ships would just point their bow into the direction the swell is coming from and keep it pointed there with autopilot and minimum engine power required to keep the rudder effective. A big ship can creep along at 1 knot like this for a long time, or if there's any current, could theoretically stay almost perfectly still on a GPS plot if the current and swell direction is favorable",
+            "title_similarity": "0.5244217"
+        },
+        {
+            "id": "hfr5lcv",
+            "score": 25,
+            "text": "Ships don’t anchor in deep water often, but floating oil drilling rigs and oil production platforms do! And the answer is, they use very, very long anchor cables that are installed by a different ship called an Anchor Handling Vessel, which lowers the anchor on a subsea crane to the proper position. Then the platform tensions the mooring lines using large winches. A mooring spread of many anchors (say 12-16) is used to keep the floating platform stationary over a set of oil wells.\n\nA deep water mooring cable is often made of multiple different sections:\n- Anchor that digs into the sea floor about 2-3x farther away than the water is deep (eg in 5000 ft water the anchor may be 12000 ft away)\n- around a thousand feet of large chain which rests on the sea floor and provides most of the holding strength against pull on the line\n- massive synthetic rope, e.g. a 12” thick nylon rope, which is close to neutral buoyancy in the water column so it doesn’t weigh down the platform\n- steel wire rope to resist abrasion and sunlight damage at surface\n\nThe mooring cable design varies by depth and platform age, but you get the idea. There are floating oil production platforms over 25 years old that have been continuously moored to the sea floor in this fashion. \n\nTemporary vessels like drilling rigs that need to stay in place for a few months will often be moored, up to about 5000 ft water depth. Temporary vessels in 5000+ feet of water will usually just use “dynamic positioning” where they turn the propellers/thrusters to stay on a certain GPS position. Sometimes a small vessel is tied off to a larger floating platform that is anchored. \n\nSource: I’m an engineer in the deepwater oil industry\n\nhttps://en.m.wikipedia.org/wiki/Anchor_handling_tug_supply_vessel\n\nDeepest platform currently moored: https://en.m.wikipedia.org/wiki/Perdido_(oil_platform)",
+            "title_similarity": "0.6513007"
+        },
+        {
+            "id": "hfq77ly",
+            "score": 766,
+            "text": "They don't.\n\nIf you want to stay in one spot in very deep water you need a station-keeping system. That's usually thrusters or an azipod controlled by the onboard GPS.\n\nIf you don't need to stay in *exactly* the same spot you can just figure out which way you're drifting and apply a little engine power to cancel out the drift.",
+            "title_similarity": "0.47226942"
+        },
+        {
+            "id": "hfqbgqs",
+            "score": 529,
+            "text": "Ships that absolutely have to stay were they are because of diving or some other type of water activity can use positioning thrusters to keep the boat in place as well.  https://en.m.wikipedia.org/wiki/Dynamic_positioning",
+            "title_similarity": "0.37748986"
+        },
+        {
+            "id": "hfq6ygs",
+            "score": 2751,
+            "text": "Ships don't anchor themselves when they are in deep water. If you are in the middle of the ocean, there isn't really anything for you to drift into, so you just float around, and if you drift a little, it's no big deal.",
+            "title_similarity": "0.4212779"
+        },
+        {
+            "id": "hfq73t4",
+            "score": 15503,
+            "text": "There is usually no need to anchor the ship in deep waters. They just stop the engine and drift. It is going to be days or even weeks before they even get remotely close to anything dangerous so there is no need for an anchor. They might have to periodically start their engines to go back to the place they were supposed to be but that is not a big deal.\n\nThere is also something called a sea anchor. It looks like a parachute which they drop into the sea. This does make them drift more with the current and less with the wind. However the most important reason is that by hooking the sea anchor to the bow of the ship it always faces the wind and the waves. That helps a bit since there is no waves hitting the ship on the side where it rocks the ship so a sea anchor gives the ship more stability. Larger vessels do not care about this though as they are wide enough for the waves to not affect them.",
+            "title_similarity": "0.41343033"
+        },
+        {
+            "id": "hfq6yi4",
+            "score": 4727,
+            "text": "The short answer is: they don’t. Ocean going vessels tend to anchor in waters 100-150 ft deep or less. You need anywhere from 2x to 6x the depth of the water in chain length (depending on wind/current) to hold fast.",
+            "title_similarity": "0.7201216"
+        },
+        {
+            "id": "hfqpkpi",
+            "score": 500,
+            "text": "Vessels (large ships), does normally not anchor above 100 meter (~300ft) and we prefer to anchor below 50 meter...\n\nIs there any deeper, we normally just make safe distance to shore and other and drift... I have both drifted 12nm of shore waiting for berth or deep sea for days to let s storm pass\n\nOn those vessel I have sailed, including megamax container vessels of 400m, we have 14 shackles of anchor chain. A shackle is 27.5m (15 fathoms or 90ft), equals 385 meter chain... \n\nWe need 2-3 times the amount of chain laying on the seabed compared to the depth, depending on weather and current. So if there are 75m of depth, we need 300m of chain, or 11 shackles in the water as we call it.\n\nIt is the amount of chain on the seabed that is holding the vessel, the anchor is \"just\" holding the chain in position... Though if it does a nice dig in to a mud bed, it gives better hold than jumping over a rocky bed...\n\nSource: navigational officer of major container vessel company\n\nEDIT: thanks kind strangers for the awards... Special shout-out to the anonymous reddittor who gave me my only ever second Gold... Both are for maritime ELI5 answers... Thank you...",
+            "title_similarity": "0.632748"
+        },
+        {
+            "id": "hfqf0rb",
+            "score": 21,
+            "text": "Not related to sea anchoring but I figured people might find it interesting. For inland ships \"spudpalen\"(i don't know the english word) have become very popular lately. It's literally a pole, usually telescopic, which they lower into the riverbed and functions like a anchor except better because the ship doesn't rotate and it doesn't lose grip.",
+            "title_similarity": "0.3995828"
+        },
+        {
+            "id": "hfqflit",
+            "score": 5,
+            "text": "I’m getting that they don’t anchor in deep water so my follow-up question is how deep does the water have to be before they don’t bother?",
+            "title_similarity": "0.46387488"
+        },
+        {
+            "id": "hfqfvid",
+            "score": 2,
+            "text": "Simple answer is - they don’t drop anchor in water that deep, or anything close to that depth.\n\nIf a ship has to remain relatively stationary in deep water like that, it will circle or do figure eights or similar - we call this “stooging” - or the ship will just drift around perhaps using minimum props to hold a favourable heading (generally into any swell).\n\nUnless that is, it has a dynamic positioning system, in which case it can stand still, on station and on a heading that points it favourably against the prevailing weather and swell conditions.  This will be less fuel efficient than simply drifting or stooging around slowly in circles.",
+            "title_similarity": "0.47257203"
+        },
+        {
+            "id": "hfqgqa5",
+            "score": 1,
+            "text": "If you were in an empty field tied to a rope 2 miles long, you could go really far. So instead of carrying all that rope/chain they just check your location with GPS and reposition ever so often. An anchor that intense would be more trouble then it's worth.",
+            "title_similarity": "0.45229578"
+        },
+        {
+            "id": "hfqhlzf",
+            "score": 4,
+            "text": "[deleted]",
+            "title_similarity": "0.040133253"
+        },
+        {
+            "id": "hfqj4xh",
+            "score": 1,
+            "text": "They don't anchor in deep water.  I was on a carrier, and when we had a \"Steel Beach\" in the middle east, we found a deep sand bar to anchor too.  Picnicking and football at the Iran/ Iraq border was certainly a moment, but we we found a shallow point we could reach with our anchor chain.",
+            "title_similarity": "0.45528394"
+        },
+        {
+            "id": "hfqjahm",
+            "score": 3,
+            "text": "Also, there are differnt classed of Dynamic Positioning Vessel depending on how many reduntant systems you have on board.  i.e. GPS, Fanbeam, Acoustic Compatt on the bottom of the seabed placed there by an ROV.\n\nYou can not get within 500 meters of a platform unless you are at least a DP2 class vessel.  You couod use GPS and a fanbeam (A laser on the vessel that tracks a target placed on the Platform)\n\nThe reason, if the GPS fails, then you can have a runoff (if the GPS loses lock, then re-initilizes 100m away, the vessel will automatically think it is 100m away and go full thrust to get into that position.  It is really freaky to hear full thrust. when none touched anything.  If you are connected to the bottom (Drill pipe, ROV connected with a running tool, installing flying leads...etc) then this can and will rip the drill pipe of the stack or severly bend the well casing and more) and even worse, a vessel will go full thrust intot he side of a platform.  \n\nWith a reduntant system, if GPS fails, it reverts to the second positioning source to keep its positiong. Fanbeam or compatt.  \n\nThis is also why there is always a DP officer (Dynamic Positioning Officer) at the DP helm 24-7.  They even need to relived if they need to get up to pee.  \n\nMost all construction vessels have two helms.  The one that drives the boat looking forward, and the DP helm, that looks backwards.",
+            "title_similarity": "0.5681677"
+        },
+        {
+            "id": "hfqkd6n",
+            "score": 2,
+            "text": "Anchor, anchor chain and a rope called a \"rode\" is your anchoring system. How much you let out determines your anchor scope. If the front of your boat sits 4 feet high out of the water and you're in 6 feet of water, the distance to the seafloor is 10 feet. So 50 ft of anchoring system let out would give a 5 to 1 ratio or \"scope.\" This is considered a safe range in fair conditions for most anchors. \n\nHow much of that system is chain and how much is rode should be proportionate to the weight of the boat and the size of the anchor. A heavy boat with a small anchor (like most pleasure yachts) will carry more chain so the overall weight of the anchoring system is safe.\n\nAs for anchoring in very deep water, your boat isn't any heavier so in theory you could attach your working end of the anchor system (anchor + chain) to a 10,000 ft rode and the boat would be anchored. However, the swing radius or how much you can float around your anchor on the bottom would be like a mile, so you might as well drift.",
+            "title_similarity": "0.6704792"
+        },
+        {
+            "id": "hfqkeg1",
+            "score": 1,
+            "text": "No. Actually, you need to add scope to the length of your anchor chain. 10k feet of chain wouldn’t be near enough to anchor in 10k foot of water. But, you don’t anchor in those kinds of depths.",
+            "title_similarity": "0.6448794"
+        },
+        {
+            "id": "hfqksqd",
+            "score": 2,
+            "text": "Sail boats \"heave to\". That's when you set the sails so they are counter acting each other, then the boat slowly drifts backwards. Large cargo ships, I don't know.",
+            "title_similarity": "0.51432097"
+        },
+        {
+            "id": "hfqmhb5",
+            "score": 1,
+            "text": "To expand on what others have said. Although they don't \"anchor\" to the ground they do have techniques to help slow their drift and curtail roll. These include \"heaving to\" which is where you position the sails to work against each other and minimize your movement. You also have Sea Anchors which are basically cone shaped cloth on ropes that you put in the water to slow your drift as well.",
+            "title_similarity": "0.30756626"
+        },
+        {
+            "id": "hfqmrg5",
+            "score": 77,
+            "text": "Ship Captain here... We don't anchor in deep water. Most cargo ships have 12-14 shots (90 foot) lengths of chain on each anchor, so about 1170 feet of chain. The anchor chain is attached to the inside of the ship so you never get that full length into the water. When we anchor we typically put out an amount of anchor chain that is 5-7 times the depth of the water-so if you have 12 shots total, you would be limited to anchoring in a water depth of no more than about 150 ft. All this anchor chain adds weight that helps us keep in position\n\nThe second issue with anchoring in deeper water is the power capabilities of the winch that hoists the anchor chain. Most are designed to hoist 4 shots of hanging chain. so if you have more than 360 feet of chain hanging vertically you can't get it back up.\n\nYes, some ships have dynamic positioning systems ( a computer that uses GPS and the ship's propulsion to keep the ship in one spot). And some ships do drift to do engine repairs in deep water but the weather has to be good.",
+            "title_similarity": "0.6370968"
+        },
+        {
+            "id": "hfqncrx",
+            "score": 3,
+            "text": "They USUALLY don't. Some unique situations do require anchoring in deer water. I've anchored in 5000+ foot deep water on the research vessel RP FLIP. We only had maybe 10 feet of chain followed by around 7500 feet of 2 inch rope (and we used three of these to make a sort of tripod).",
+            "title_similarity": "0.6749296"
+        },
+        {
+            "id": "hfqnwar",
+            "score": 1,
+            "text": "Fun fact: the length of a ship's chain should be 5 to 7 times the depth of the water beneath it\nEx: 10ft depth = 50-70ft of chain out",
+            "title_similarity": "0.6932937"
+        },
+        {
+            "id": "hfqod0j",
+            "score": 1,
+            "text": "They do not anchor in deep water... they perform minute course corrections using small thrusters. it is called \"station Keeping\" but honestly an aircraft carrier in the deep redetermining is just floating loose and they only make course correction if they drift MILES away.",
+            "title_similarity": "0.42969352"
+        },
+        {
+            "id": "hfqp2w1",
+            "score": 1,
+            "text": "BTW anchor chain has to be 2x the depth of the water. For example if you're in 100m water and you want to anchor, then the chain has to be 200m.   \nIt is because there has to be an angle between the ship and the anchor, otherwise the anchor can't \"grab\" onto sea floor.",
+            "title_similarity": "0.7105017"
+        },
+        {
+            "id": "hfqq25a",
+            "score": 1,
+            "text": "Many boats and ships carry something called a \"sea anchor\" or \"drogue\" which is like a small parachute.  It is less to keep the ship in one place (since that doesn't matter much in the open ocean) and more to keep it pointed in a certain direction (into the wind).  With more reliable engines and better navigation and maneuvering systems, they are less common than they used to be.",
+            "title_similarity": "0.41280293"
+        },
+        {
+            "id": "hfqqg4b",
+            "score": 1,
+            "text": "They drop a chain with an anchor attached but it doesn't have to touch the ground. The addition of the weight of the chain helps to stabilise it in the ocean. The boat still drifts but to a lesser extent.",
+            "title_similarity": "0.42100853"
+        },
+        {
+            "id": "hfqqkdj",
+            "score": 1,
+            "text": "This isn't really an anchor, but a way of slowing movement in deep water under adverse conditions.\n\nhttps://en.wikipedia.org/wiki/Sea_anchor",
+            "title_similarity": "0.46462595"
+        },
+        {
+            "id": "hfqr32n",
+            "score": 1,
+            "text": "For 10,000 feet of water depth you would need 30,000+ft of chain.  You are probably looking at hundreds of of tonnes of chain, which a boat just can't carry.\n\nShips that need to stay in a very specific place in very deep water use a dynamic positioning system (DPS).  It combines several GPS receivers (so it know where the front and back of the boat are in relation to each other) along with the main engines and bow thrusters to keep a ship in the same position relative the ground.\n\nThe engines have to be running, so you are burning fuel and spending money the whole time the system is active.  It isn't cheap, which is why it's only really used when you have a sub, deep divers, or seabed scanners out.",
+            "title_similarity": "0.7370298"
+        },
+        {
+            "id": "hfqrfab",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.0030301064"
+        },
+        {
+            "id": "hfqtit4",
+            "score": 1,
+            "text": "As far as I’m aware huge ships don’t anchor in deep waters they just keep from being side on to the swell. I may be wrong but that’s what we did on our fishing boat in a storm.",
+            "title_similarity": "0.45754686"
+        },
+        {
+            "id": "hfqtrvh",
+            "score": 2,
+            "text": "In deeper waters as stated before there is not enough chain to hold a ship. When taking the scope in to consideration as well. (5 to 1 or 7 to 1 in deep water) every foot of depth is 7 feet of chain.  Anyways . . . Large ships or objects that want to stay in one place in deep water have a couple of options. \n1. A mooring system preinstalled at a certain spot or\n2. A DP (direct positioning)  system that has thrusters that apply force in opposite directions to keep a ship in one location this can be as accurate as +/- 3 feet to a gps locked position.",
+            "title_similarity": "0.63946235"
+        },
+        {
+            "id": "hfqu456",
+            "score": 1,
+            "text": "Yes. The anchor is either inboard or outboard. Both systems use a chain. It does require quite a bit of storage and weight. \n\nReally big boats can have gps devices that auto correct and know not to go too far.",
+            "title_similarity": "0.47513306"
+        },
+        {
+            "id": "hfqvusn",
+            "score": 1,
+            "text": "There was such a thing as a sea anchor. also known as a drogue.  It didn't find the bottom but it did function as a brake by adding drag.  I believe they're still in use today.\n\nhttps://en.wikipedia.org/wiki/Sea\\_anchor",
+            "title_similarity": "0.42122984"
+        },
+        {
+            "id": "hfqw6vk",
+            "score": 1,
+            "text": "ships are equipped with something called dynamic positioning system\n\nIt's a computer that uses GPS and the ships propulsion system to fight the elements and keep the ship in a fixed position",
+            "title_similarity": "0.3711186"
+        },
+        {
+            "id": "hfqxzrc",
+            "score": 2,
+            "text": "The anchors don't actually hold a ship. The weight of chain does. In the Gulf of Mexico we normally carried enough anchor and chain to hold us in place up to about 300 foot of water. It's usually about 7 feet of chain to each foot of water. So you have the anchor sitting on the bottom with a huge pile of chain sitting on top of it. The anchor serves only to keep the slip down in the event current and weather actually stretch the chain.",
+            "title_similarity": "0.57346314"
+        },
+        {
+            "id": "hfqy3ql",
+            "score": 2,
+            "text": "Unrelated but if you are in X feet of water you actually need 7X feet of anchor line! Otherwise the ship can get pulled under quite easily",
+            "title_similarity": "0.5869496"
+        },
+        {
+            "id": "hfqyg7m",
+            "score": 1,
+            "text": "Newer vessels have multiple thrusters controlled with gps and computers.  (bow thrusters, stern thrusters)  some commercial vessels do have extremely long anchor cables.  You probably won’t find anything like that on personal crafts.",
+            "title_similarity": "0.5563294"
+        },
+        {
+            "id": "hfqzovl",
+            "score": 2,
+            "text": "Ships in water that is too deep for an anchor and chain and anchor line can deploy a “sea anchor”. This like a large cloth parachute that is put in the water. It keeps the boat “anchored” to the sea. In high wind it will keep a boat pointing into the wind so that waves don’t hit the boat’s sides, which can damage the boat and be uncomfortable for the crew.",
+            "title_similarity": "0.4830481"
+        },
+        {
+            "id": "hfr1sjy",
+            "score": 1,
+            "text": "You get what's called a sea anchor, its not really a anchor but more like a parachute that increases drag and slows the movement of the vessel",
+            "title_similarity": "0.42097676"
+        },
+        {
+            "id": "hfr20ms",
+            "score": 1,
+            "text": "Is it true that the chain holds the ship down, not so much the anchor?",
+            "title_similarity": "0.3601979"
+        },
+        {
+            "id": "hfr2tj5",
+            "score": 1,
+            "text": "I sailed around the world on a 43ft sailboat for 6 years. You don't anchor in the middle of the ocean because it's too deep. There is no off switch out there where you park and sleep for the night. You are always moving and someone has to be up on watch at all times. We rotated night watch between My Mom, Dad, Brother and I. I always had our 1am-3am night watch. I was 10 years old when we started but we were all part of the team making sure we stayed clear of other big ships at night. About the deepest we ever dropped anchor was in 100ft of water in places like the Tuamotus islands and in Tonga.",
+            "title_similarity": "0.5201373"
+        },
+        {
+            "id": "hfr2z6y",
+            "score": 1,
+            "text": "Heres a question how did they un-stick the old metal anchors when they wanted to move again?",
+            "title_similarity": "0.32960707"
+        },
+        {
+            "id": "hfr3xwd",
+            "score": 1,
+            "text": "It's like cracking a whip but in reverse. Instead of taking a long wave of energy and condensing it down to a flick, it's taking short, quick surface movements and dispersing them through the chain gradually.\n\nThe important part is the chain, the anchor functions as a ballast but the chain is dozens of tons heavier. The act of dragging the chain through the water provides a lot of resistance, but more importantly it also absorbs a lot of energy due to its length providing massive inertia. However this doesn't help with deeper currents so there is still some drift but it's slower and less exaggerated.\n\nSome new skyscrapers use the same principle hanging a massive counterweight in the center, suspended from a higher section of the building. By using the length of the distance between the weight and the connection point it multiplies the applied inertia of the counter mass and turns a single lateral movement into a series of waves, it can reduce building sway distance by about 70%.",
+            "title_similarity": "0.4483422"
+        },
+        {
+            "id": "hfr4qmj",
+            "score": 1,
+            "text": "While ships don't anchor in that depth of water, sometimes oil and gas production platforms are attached to the seabed with suction piles and cables.\n\nhttps://en.m.wikipedia.org/wiki/Suction_caisson",
+            "title_similarity": "0.5130062"
+        },
+        {
+            "id": "hfr6j5r",
+            "score": 3,
+            "text": "I live on my sailboat ⛵️I doubt you’d find any boat anchored in more than a couple hundred feet of water. When you anchor you need to account for a “scope”, that is the amount of anchor rode in relation to depth. I always use a 5:1 scope and in heavy weather a 7:1. That means in 100’ of water you’d do 500-700’ of anchor rode. As you can imagine, if you thought 10,000 feet was a lot. Knowing they’d need 50,000+ that makes it even less believable. \n\nOnly answer is that they don’t anchor that deep.",
+            "title_similarity": "0.67533445"
+        },
+        {
+            "id": "hfr6wrt",
+            "score": 3,
+            "text": "There are several great answers here. But one one other thing to consider - There is very rarely any need to anchor in water that deep. \n\nShips cross the ocean they don’t intentionally pause in the middle of it.  Like, never. \n\nIf they have a mechanical issue, it’s not really important for them to stay in one place. So, as others have pointed out, they can drift.",
+            "title_similarity": "0.4085824"
+        },
+        {
+            "id": "hfr8axw",
+            "score": 1,
+            "text": "I thought they used sea anchors or some other parachutey thing though I guess I was wrong looking at the other answers.",
+            "title_similarity": "0.32375884"
+        },
+        {
+            "id": "hfr9f1o",
+            "score": 2,
+            "text": "The average depth of the worlds ocean is 12k feet. Depending on the vessel an anchor can be up to 2000 feet, though most are closer to 1000 feet. Generally speaking you only need to weigh anchor in shallower waters to prevent drifting into land and whatnot.",
+            "title_similarity": "0.7500503"
+        },
+        {
+            "id": "hfr9kex",
+            "score": 2,
+            "text": "The just drift. Something big enough to stay motionless in the middle of the ocean isnt going to go far. Of obstacles do arise plenty of time to start engines and move. Some ships have a gps anchor which a computer controls engines and bow thrusters to keep the ship in a exact spot. Even smaller boats have this technology now. Mercury outboard has it for some models. Its called sky hook. You just push a button and the boat will stay within 3ft of where you want it.",
+            "title_similarity": "0.5297928"
+        },
+        {
+            "id": "hfra6az",
+            "score": 1,
+            "text": "They don't, but when in shallower water here's how the actual process goes:\n\nhttps://youtu.be/2YvwXJGsbEg",
+            "title_similarity": "0.3317142"
+        },
+        {
+            "id": "hfrcwfb",
+            "score": 2,
+            "text": "In one case, Large Oil-Drilling Ships have “Dynamic Positioning” that use thrusters (smaller, moveable propellers along the hull) to constantly make adjustments using GPS. It turns them on and off depending on how the ship is drifting and makes it stay in one place. Picture yourself floating in a tyre tube and using your arms and legs to keep yourself in one place.",
+            "title_similarity": "0.51811266"
+        },
+        {
+            "id": "hfrdrb6",
+            "score": 5,
+            "text": "The Deep water Horizon was a floating oil drill that was two miles above the bottom of the ocean. Although it had a drill that descended from the vessel into the earth beneath, the drill did not and could not stabilize the vessel. Instead, there were eight engines constantly working to keep the platform located directly over the drill site.\n\nSo vessels that absolutely have to stay in one place in 10,000 feet or more of water, such as offshore drilling platforms, use GPS and multiple engines to constantly maintain a stationary position.",
+            "title_similarity": "0.6517202"
+        },
+        {
+            "id": "hfrdu3o",
+            "score": 4,
+            "text": "Even if a ship had an anchor that could reach the bottom at that depth they couldn’t pick it back up. It would be to heavy. \n\nSome ship like oil rigs have Dynamic Positioning, which in simple terms are a bunch of thrusters that keep the ship in place.",
+            "title_similarity": "0.54747796"
+        },
+        {
+            "id": "hfrjjpn",
+            "score": 4,
+            "text": "Anchoring in such a depth would serve no purpose.\nIf a ship needs to stop somewhere with plenty of depth available, then she'll just drift. The currents and wind will continuously move the vessel, but that doesn't matter because there is so much depth that the ship will not run aground.\n\nCargo ships usually have between 10-14 shackles of anchor chain per anchor (there are two). One shackle is 90ft.\nI personally in my short cargo vessel sailing career (5-6yrs) have never seen more than 6 shackles being dropped.",
+            "title_similarity": "0.54197526"
+        },
+        {
+            "id": "hfrktfa",
+            "score": 1,
+            "text": "Everyone has already covered everything important but if you're interested in a film where the dynamic positioning system fails and the consequences that can happen as a result check out the film Last Breath: https://www.imdb.com/title/tt9056818/\n\nQuick summary: DPS fails while immersion divers are working on an undersea rig, ship drifts and one of the divers gets his tether/air line severed as a result and is lost in pitch blackness on the ocean floor with only 10 minutes of reserve oxygen. A heart warming comedy for all ages.",
+            "title_similarity": "0.5785682"
+        },
+        {
+            "id": "hfrkvmx",
+            "score": 23,
+            "text": "13 year US Navy Veteran here.\n\nWhen we needed to stay in one place for a time, and we sometimes did this for weeks.\n\nWe set the rudder to about 3 degrees turn, set speed at 3 knots and make big circles.\n\nYou don’t want to just stop. The ship will rock and be very bothersome to live on.\n\nA few knots speed makes life better. If the seas started getting rough we would speed up a little.",
+            "title_similarity": "0.53270185"
+        },
+        {
+            "id": "hfrl4so",
+            "score": 2,
+            "text": "There is a pretty cool youtube channel called Casual Navigation which shows you how anchors work\n\nhttps://youtu.be/2YvwXJGsbEg",
+            "title_similarity": "0.21376622"
+        },
+        {
+            "id": "hfrm523",
+            "score": 2,
+            "text": "Some ships have positioning thrusters that allow them to more or less stay in the same place.\n\n&#x200B;\n\nThis is for ships that do deep sea dives etc",
+            "title_similarity": "0.5051795"
+        },
+        {
+            "id": "hfrqhkm",
+            "score": 2,
+            "text": "Anchoring only works in shallow water. Under what circumstances do you envision having to stay in exactly the same spot in dep water?",
+            "title_similarity": "0.35521877"
+        },
+        {
+            "id": "hfrs7rd",
+            "score": 2,
+            "text": "The anchor itself isn't the main thing in that case.  It's not going to 'hook' the ocean floor.  The chain the anchor is on weighs way more than the anchor itself and acts as a stabilizer/drift resistor.",
+            "title_similarity": "0.43551105"
+        },
+        {
+            "id": "hfrwa3g",
+            "score": 2,
+            "text": "You don't. You keep the engine set to *dead slow ahead,* just enough turns for steerage (so the rudder works), and the captain decides on a lat/long box to stay in, and the watch officer keeps the ship in it, without hitting any other ships that may wander into it, until it's time to move again. In the Navy you're just waiting for the next mission, but civilian vessels in deep water have to do something similar to weather big storms if they get caught in them.",
+            "title_similarity": "0.39143842"
+        },
+        {
+            "id": "hfrxmob",
+            "score": 1,
+            "text": "  You're probably not anchoring in that depth but for deep waters ,say 1500 ft. I know of fishing boats attaching themselves to deep water lobster pots to control drifting. As for anchoring in normal depths as an example I'll use 30 ft depth . Without getting into the sizes and different designs of anchors here it's basically a rule of three for a day hook . 30 ft of water = 90 ft of rode / line or rope for the landlubbers. Within the 90 ft at least  60 ft should be chain to help keep the anchor down if winds or seas are decent. If you plan to stay overnight you should have a minimum of 5 times your depth out and in small storms, thunder , heavy rain with blowing winds in excess of 25 knots you should consider 7 to 9 times your depth .  If you're on a vessel in 30 ft of water do not use 30 ft of rode .... You will be on the beach in the morning.",
+            "title_similarity": "0.60533154"
+        },
+        {
+            "id": "hfs0mh4",
+            "score": 1,
+            "text": "Even worse, you need about 3-5 times the amount of chain as the depth of the water you anchor in.  Hopefully, much of your anchor chain will be laying on the bottom.",
+            "title_similarity": "0.6270038"
+        },
+        {
+            "id": "hfs1gth",
+            "score": 2,
+            "text": "As mentioned by others, there’s not much reason to stop in the middle of the ocean and even on the rare occasion when you did want to stop, there isn’t much reason to maintain your exact position.\n\nThere are however [dynamic positioning systems](https://en.m.wikipedia.org/wiki/Dynamic_positioning) which use gps and thrusters to maintain position and heading.  In particular, his is how some offshore drilling rigs maintain their position.",
+            "title_similarity": "0.42952836"
+        },
+        {
+            "id": "hfs26rv",
+            "score": 2,
+            "text": "Just hitch your anchor to an oil rig pipe underwater. thats what they're there for after all.",
+            "title_similarity": "0.47393367"
+        },
+        {
+            "id": "hfs33we",
+            "score": 1,
+            "text": "I’ve seen boats with a computer controlled “anchor” that uses the motors to keep the boat in place",
+            "title_similarity": "0.36036676"
+        },
+        {
+            "id": "hfs594u",
+            "score": 1,
+            "text": "Would some ships use GPS and a series of thrusters?  Isn’t that how oil rigs stay in place?",
+            "title_similarity": "0.5106667"
+        },
+        {
+            "id": "hfs5xot",
+            "score": 1,
+            "text": "Ships can accurately maintain a location using a system called dynamic positioning. GPS, accelerometers & water thrusters keep the position to one meter. Its a separate system in addition to the regular ship navigation system.\n\nShips that lay undersea cable use this system. They need to lay cable accurately because they may need to go back later to repair.\n\nThe opposite can be true too. With with small sailing yachts & large currents, it can be  difficult to have any control of where you are going.",
+            "title_similarity": "0.4882902"
+        },
+        {
+            "id": "hfs7a06",
+            "score": 3,
+            "text": "Closest thing to a need for a deep sea anchor would be project azorian.\n\nProject Azorian was a top secret project to lift a sunken soviet nuclear sub off the bottom of the ocean, in total secrecy. It was an over ambitious extremely expensive project that only had partial success. It involved essentially building a giant ship with a gimballed drill tower. They used oil drilling technology to slowly lower a giant crane assembly to the sea floor, then sloly raise a grabbed submarine.\n\nTo accomplish all this, the ship needed to be perfectly still over the target, relative to the sea floor. Changing wave and current conditions made this a nearly impossible job.\n\nYou couldnt just lower an anchor thousands of feet long and expect that to hold you perfectly still. Even in shallow water, ships shift with the current to point different directions, and can shift in position slightly that way.\n\nInstead, Azorian used a local positioning system, using transmitters (I think afixed to the sea floor around the sub) to figure out exact postion on the sea surface relative to the sub. Then the ship used giant advanced thrusters to keep the ship perfectly still in a position, regardless of sea currents and waves.\n\nUnfortunately, the metal used in the crane claw was a little too brittle, and the claw arms started snapping on the way up. Most of the sub was lost, and only a small piece of the wreck was recovered.",
+            "title_similarity": "0.6633592"
+        },
+        {
+            "id": "hfs9rls",
+            "score": 1,
+            "text": "Any sea of thieves players here?",
+            "title_similarity": "0.20048156"
+        },
+        {
+            "id": "hfsebi0",
+            "score": 2,
+            "text": "When anchoring you at a minimum want to use a 5-1 scope on your chain/line. So roughly speaking if you are anchoring in 10 ft of water you would want to have 50 ft of chain out. Roughly.\n\nWhen I anchor I try to use a 7-1.\n\nSo no, they are not throwing out 50k feet of chain out in 10k feet of depth, they are just floating.",
+            "title_similarity": "0.68807817"
+        },
+        {
+            "id": "hfsi6i0",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.0030301064"
+        },
+        {
+            "id": "hfsiiam",
+            "score": 2,
+            "text": "Anchoring is usually to keep ships from drifting to close to land not to stop you drifting in the middle of the ocean where there’s nothing to drift into",
+            "title_similarity": "0.36343396"
+        },
+        {
+            "id": "hfsiy5g",
+            "score": 1,
+            "text": "I don’t know about non-passenger ships.   But some modern cruise ships can do sort of a GPS anchor where their various thrusters and azipods can hold them in a relatively stable position without the use of a physical anchor.",
+            "title_similarity": "0.46008348"
+        },
+        {
+            "id": "hfskkbt",
+            "score": 2,
+            "text": "Also, for US Navy ships, when they go to  anchor they let out a significant amount of anchor chain as they slowly back up.\n\nIt's the weight of the chain that keeps them in place.",
+            "title_similarity": "0.44135717"
+        },
+        {
+            "id": "hfsmnqc",
+            "score": 1,
+            "text": "Depending on the anchor, the anchor line usually needs to pull at an angle to “grip” and anything less than that angle will pull the anchor.  So if you anchor your boat and drop anchor, once you let out enough line to get to a 30-degree angle, the anchor bites and you stay put.  To move, you haul in enough line until the angle is less than 30-degrees (pulling you closer to the anchor) and the anchor comes free and you can pull it up.  So for a 10,000 foot anchor, you’d need a lot more than 10,000 feet of anchor chain.\n\nSo, most boats don’t carry that and at this depth would drift and periodically reposition under power.",
+            "title_similarity": "0.6352467"
+        },
+        {
+            "id": "hfso9vc",
+            "score": 2,
+            "text": "If a research vessel or oil exploration vessel wants to stay in one specific place in deep water they use dynamic positioning. Using multiple props that can pivot 360 degrees they can with the help of differential global positioning systems  (DGPS) easily stay within a few feet of a location.",
+            "title_similarity": "0.52391434"
+        },
+        {
+            "id": "hfsp4uf",
+            "score": 1,
+            "text": "I was on the cruise ship when that drunk passenger released the anchor while we were moving.\n\nHe went to prison.",
+            "title_similarity": "0.40733945"
+        },
+        {
+            "id": "hfspta4",
+            "score": 2,
+            "text": "Old school wooden ships used drogue anchors or sail anchors which were like parachutes on the end of a line in the water to keep them pointing into the waves and slow down drift.  Some sailboats might still use them today.",
+            "title_similarity": "0.45784622"
+        },
+        {
+            "id": "hfssttn",
+            "score": 1,
+            "text": "Oars. Thats right, im an oar truther. Whistleblowing the whole big ship gps underwater parachute lobbies. Boats can steer with oars. Yep. Just need enuff of them.",
+            "title_similarity": "0.5732962"
+        },
+        {
+            "id": "hfsut4m",
+            "score": 2,
+            "text": "They have what is called a dynamic positioning system. This is a complex computer system that takes real world measurements such as wind, pitch and yaw, GPS, etc. It's connected to the ships thrusters, propulsion, steering, etc. This can hold the ships position and is even more accurate when anchored near a fixed position such as oil platforms via a stationary mounted laser.",
+            "title_similarity": "0.46279892"
+        },
+        {
+            "id": "hfsxfsu",
+            "score": 2,
+            "text": "To add to the “they don’t” people… a ship at anchor is still considered “under way” meaning it is still staffed 24/7 by qualified crew as if it was sailing. Radar, radio, SatNav, and visual is still maintained in watches.\n\nAnchors drift, sometimes significantly. So, when water is too deep for the anchor they just drift, but at anchor they still keep watch like they are sailing.\n\nOnly time you don’t keep watch is tied to a dock.",
+            "title_similarity": "0.36530876"
+        },
+        {
+            "id": "hfsy830",
+            "score": 1,
+            "text": "Jacques Cousteau once anchored *Calypso* in over 20,000 feet of water in the mid-Atlantic, more as a demonstration or stunt than anything. He used plastic rope as anchor line--chain would have been so dense that it would have snapped under its own weight at that length. But it is not usually done.",
+            "title_similarity": "0.6120975"
+        },
+        {
+            "id": "hft51jl",
+            "score": 2,
+            "text": "my best explanation is that boats just don't anchor in 10k feet of water. in most cases that's way too far from shore and they can just float freely.  \n\n\nboats anchor when they are close to shore, maybe 100' depth or so.",
+            "title_similarity": "0.5958221"
+        },
+        {
+            "id": "hft8sad",
+            "score": 2,
+            "text": "I have retrieved many anchors from the bottom of anchoring grounds where ships have lost them, and every single one of them has had 13 shots of chain attached.  A shot of chain is equal to 15 fathoms, a fathom is 6 feet.  So 6 x 15 x 13 = 1,170 feet.  It has not ever varied, so I’m sure there’s a rule for it.\n\nEdit: also to add, all the anchoring grounds I’ve dealt with were between 225 ft and 275 ft of depth",
+            "title_similarity": "0.6467497"
+        },
+        {
+            "id": "hft9yub",
+            "score": 1,
+            "text": "Weight the anchor!!! How much does it weigh? I dunno I forgot.",
+            "title_similarity": "0.4349424"
+        },
+        {
+            "id": "hftczet",
+            "score": 1,
+            "text": "Ships don't anchor in very deep water. Floating oil drilling platforms in very deep water are anchored to the bottom by chains or cables thousands of feet long.",
+            "title_similarity": "0.6538383"
+        },
+        {
+            "id": "hftf2z0",
+            "score": 1,
+            "text": "You don’t drop anchor in deep waters because there’s really no reason to sit still. Even if you were sitting still to rendezvous with something, the same currents pushing you would carry it too. Or you’d utilize a runabout.",
+            "title_similarity": "0.28355795"
+        },
+        {
+            "id": "hftg34b",
+            "score": 2,
+            "text": "It's called a sea anchor. It's basicly a large plate of metal that hangs down in the water, so, rather than a sleek hull being moved through the water by the wind, with the sails furled, you're a big draggy thing stapled to the ocean that the wind moves around.\n\nIn modern times, if you really want to stick in one place, you have thrusters controlled by a computer that's fed GPS data.",
+            "title_similarity": "0.589562"
+        },
+        {
+            "id": "hftkvay",
+            "score": 1,
+            "text": "What reason would any ship have to anchor in the middle of the ocean, miles off of the continental shelf? And even if there was a reason, why would that be a safe place to anchor anyway?  \n\n\nTL;DR: They don't.",
+            "title_similarity": "0.4920513"
+        },
+        {
+            "id": "hftmwf5",
+            "score": 1,
+            "text": "They just wrap it around an oil pipeline. \n\n\nOh what, too soon?",
+            "title_similarity": "0.34283325"
+        },
+        {
+            "id": "hftoes3",
+            "score": 1,
+            "text": "Top end trolling motors have a gps based feature of a virtual anchor. Just set your point and when drifted off, it just spins up and moves you back.    I’d be willing to guess that modern ships have a similar function.",
+            "title_similarity": "0.44649965"
+        },
+        {
+            "id": "hftqnul",
+            "score": 1,
+            "text": "Another question is how often do sea anchors get used?",
+            "title_similarity": "0.5370568"
+        },
+        {
+            "id": "hftqpdi",
+            "score": 2,
+            "text": "Some ships such as oil drilling ships (drill ships), supply boats, and cruise liners actually have azimuth thruster pods or have ventral thrusters and stern propellers. Azimuth thrusters (or azipods) typically are designed to direct propeller thrust in a 360 degree range of motion about a vertical axis. Several pods may exist along the hull at key maneuvering points which, when combined with software automation controls and localization, direct thrust so as to move the ship in any number of directions. This is the easiest and most versatile station keeping system (albeit expensive from the energy/fuel required), colloquially called \"Dynamic Positioning\". Dynamic Positioning can actually be achieved with as little as a single thruster and rudder (boat is configured to effectively spin). Thus no anchor required to keep the vessel in the same place. \n\nSource: used to work on these systems for a living.",
+            "title_similarity": "0.4810492"
+        },
+        {
+            "id": "hftqyzd",
+            "score": 1,
+            "text": "Anchors in deep water basically slow it down but don’t completely stop it, it’s literally a counter weight at that point but since it’s nowhere near the weight of the boat, it can still move around a bit",
+            "title_similarity": "0.40809125"
+        },
+        {
+            "id": "hftranr",
+            "score": 1,
+            "text": "I was a fisherman in the Bering sea for 17 years. When it’s blowing 90 with heavy freezing spray and u keep dragging anchor it sucks. Sucks real bad. That’s what I know.",
+            "title_similarity": "0.56782126"
+        },
+        {
+            "id": "hftrb2a",
+            "score": 1,
+            "text": "Additional fun fact:\nIt's not the anchor that keeps the ship where it's anchored, but rather the weight of the chain laying on the sea floor that pulls on the ship that keeps the ship stationary.\n\nThe see floor is often a very fine, powder-like silt (marine snow and other loose sand particles). If you relied on the anchor to \"hook\" onto the sea floor to keep you in place then you'll have a hard time at that.\n\nInstead the anchor is merely there to help the chain stay in place. When you drift too far from where you dropped anchor, the chain will start to tension up and that TENSION will pull the ship back to a restful spot.\n\nThis is the case for massive ships, smaller ships may differ\n\n(I'm probably butchering the explanation because it's hard to concisely convert a picture into words)",
+            "title_similarity": "0.4564922"
+        },
+        {
+            "id": "hftswb2",
+            "score": 2,
+            "text": "No, you don’t anchor in deep water like that. A general rule of thumb for large vessels would be to assume roughly 1000 feet of chain. That is of course not to say that vessel could anchor in 1000 feet of water.\n\nIf a vessel wants to maintain position in deep water like you mentioned, it would need to employ dynamic positioning via both thrusters and primary propulsion.",
+            "title_similarity": "0.67161137"
+        },
+        {
+            "id": "hftu13d",
+            "score": 2,
+            "text": "Bigger commercial vessels carry 14 shackles of chain. Smaller vessels 11 to 12 shackles. A shackle of chain is 27.4 m. When contemplating on how much chain to use when anchoring the vessel, consult the in the sea chart for depth at position.\nAs a rule of thumb use the of shackles of chain that squared gives the depth in meters and add a shackle for good measure if the location allows you. Some anchorages are tight due to other vessels already anchored. So: If the chart indicates 45 m of water. 7 squared is 49 plus 1 shackle for good measure = 8 shackles of chain. This will give you 220 m of chain out giving a near to 5:1 ratio of depth.\nSUMMARY: shackles squared plus 1 equals depth.\n(Merchant vessel Master with 30 plus years in line of work) keep it simple...",
+            "title_similarity": "0.6541234"
+        },
+        {
+            "id": "hftueoi",
+            "score": 2,
+            "text": "Didn’t read all the way down so someone may have said this. They don’t anchor unless they are ashore. The boat has multiple thrusters under the hull that a computer uses to keep it directly over a spot. There’s no 10k chain. There are few motors in existence that could lift a 10k ft chain.",
+            "title_similarity": "0.52671194"
+        },
+        {
+            "id": "hftwag9",
+            "score": 2,
+            "text": "The weight of the chain on the sea floor along with the actually anchors hold the ship in place. Most ships carry 9 shots of chain. Each shot bing 90ft. There are designated anchorages outside of most ports. If the anchorage’s are full, the ship will just travel in large loops until a spot opens up.",
+            "title_similarity": "0.6407599"
+        },
+        {
+            "id": "hftzokx",
+            "score": 1,
+            "text": "Generally they would use Dynamic positioning. They use 2 DGPS signals and a motion reference unit / Gyro to hold station in the same location under minimal thrust. You can add other references to increase the DP rating. This is computer controlled but you will have a DPO overseeing and entering movements into the system.\n\nSome vessels still use anchors in deep water, such as FPSO's. Instead of chain all the way they might have a wire that runs most of the length, connected to chains at either end.",
+            "title_similarity": "0.44641975"
+        },
+        {
+            "id": "hfu09zd",
+            "score": 1,
+            "text": "Merchant vessels are usually huge in size (150m~400m) depending on the type of vessels they are. When in deep waters, they drift freely in the ocean with their engines turned off, as there is enough safe water around. The possibility of running aground or into a danger is pretty low. \n\nShips prefer to anchor in waters ranging from 20m to a maximum of 100m depth, beyond which it becomes difficult for the ship's anchor machinery to hold it safely. \n\nThe fastest method of anchoring in shallow waters is to simply let go the anchor and control it via the brake on the machinery. The 2nd method (and the safer one!) is to slowly lower the anchor under the machinery power. \n\nThe chain length lowered is about 5-6 times the depth of the waters, which is also called as the Scope of the anchor chain. This ensures a good holding power even in strong winds/ currents as the weight of the chain holds the ship in place.\n\nSource: Currently sailing as a navigational officer onboard Gas Carriers.\n\nHope this helps!",
+            "title_similarity": "0.5927726"
+        },
+        {
+            "id": "hfu0ikn",
+            "score": 1,
+            "text": "They don't. The point of anchors is stop you drifting away from shore where you might need to stay a while, and maybe to stop you drifting into hazards, (rocks, sandbanks, too shallow waters etc).\n\nMiddle of the ocean hazards like that aren't around, and you generally want to be somewhere else, so they don't need to be anchored.",
+            "title_similarity": "0.2580464"
+        },
+        {
+            "id": "hfu1fzm",
+            "score": 1,
+            "text": "I remember a story I overheard while commuting that one night, a fisherman had his anchor stuck and had to dive to set it loose. When he was underwater, he saw a pair of two eyes staring at him and what he could barely make out as a face of an enormous fish. He bolted and swam up the surface and just left his anchor there and then.",
+            "title_similarity": "0.45811304"
+        },
+        {
+            "id": "hfu3fih",
+            "score": 1,
+            "text": "Short answer: the anchor has horizontal grip and no vertical grip. You need a line long enough so it sits horizontally on the seafloor and pulls the anchor with the current. Also the chain's weight helps to hold the ship.",
+            "title_similarity": "0.5004313"
+        },
+        {
+            "id": "hfu3u01",
+            "score": 1,
+            "text": "Big cruise ships use a satellite gps system which continually fires the bow thrusters and keeps the ship stationary",
+            "title_similarity": "0.46840566"
+        },
+        {
+            "id": "hfu8a7t",
+            "score": 3,
+            "text": "No. Ships don't anchor outside of about 200ft.\n\nMore importantly, the anchor DOES NOT keep the ship in place. The ANCHOR CHAIN keeps the ship in place.\n\nEach link weighs 400lbs. Together, the released chain weighs more than the anchor. The anchor's only purpose is to grab soil so the chain can rest at the bottom.\n\nThe links visible above the water to the ship are used to measure current tension. If the links are straight down, the ship isn't moving. If there's an angle, the current speed can be estimated by the angle of the line.\n\nAs for pulling it all back up: major horsepower. Capstans are used to pull the chain back up. There are two for each chain on each side (this may vary depending on ship size).\n\nFun fact: you can tell if a chain is drawn to near maximum, as you'll sometimes see painted links. If you see red, get the hell away!\n\n&#x200B;\n\nSource: deck ape aboard the USS Theodore Roosevelt (CVN-71). I also got to participate in a \"runaway\" anchor drill (scared the crap out of me! The dust and speed were frightening!) and I also got to paint the anchor gold due to service retention.\n\n&#x200B;\n\nDamn. I miss those days.",
+            "title_similarity": "0.5144038"
+        },
+        {
+            "id": "hfu9262",
+            "score": 1,
+            "text": "Side note: a common technique for sailboats to \"anchor\" in deep water is to \"hove to\". The details vary depending on the type of boat, how many masts, where they are located, etc. In short, you position the sails in a way where they stall with the boat pointing 45 degrees more or less to the wind and waves. This allows the boat to drift, ideally backwards, at a slow speed (0 to 2 mph) essentially parking it there. The added benefits if done right are that the boat is pinned to one side, drastically reducing the side to side bell rolling from waves, drastically safer from capsize as the boat is pointed into the waves not sideways as they tend to do when adrift, there is no heavy and unsafe to retrieve sea anchors overboard, and if done perfect it creates a \"skid\" of water that helps break waves before they hit you.\n\nSingle handed sailing, this is a crucial skill. Allows sleep, cooking, sail changes, 💩, waiting tide changes, etc.",
+            "title_similarity": "0.49092948"
+        },
+        {
+            "id": "hfuad24",
+            "score": 1,
+            "text": "I found this very useful and informative a year or so when I watched it. Hope it helps explain. \n\nhttps://youtu.be/2YvwXJGsbEg",
+            "title_similarity": "0.20681298"
+        },
+        {
+            "id": "hfuan82",
+            "score": 1,
+            "text": "geez, imagine how heavy that anchor chain would be if it were 10,000ft long or longer. eeesh",
+            "title_similarity": "0.69346523"
+        },
+        {
+            "id": "hfubmxt",
+            "score": 1,
+            "text": "Some large ships have computers that will use the electric motors to keep the ship in place. It uses GPS. I would think research ships would need to stay stationary more so than freight vessels, so they are more likely to have this type of system.",
+            "title_similarity": "0.39786652"
+        },
+        {
+            "id": "hfudzs5",
+            "score": 1,
+            "text": "The title of this sub always makes me think the answer to every question would be,  \"Go ask your mother.\"",
+            "title_similarity": "0.16948858"
+        },
+        {
+            "id": "hfue1s0",
+            "score": 1,
+            "text": "Isn’t the Marianas trench the deepest part in the ocean? I don’t think the ocean is 10,000 feet deep",
+            "title_similarity": "0.7597474"
+        },
+        {
+            "id": "hfufif0",
+            "score": 1,
+            "text": "The safe ratio depth x seven for the anchor rode. Major bonus if the first 15-20 feet is chain.",
+            "title_similarity": "0.512495"
+        },
+        {
+            "id": "hfuiukd",
+            "score": 6,
+            "text": "This is so late, and maybe answered. But Marine engineer here with experience in Offshore platforms, ships and deep sea anchoring! \n\nA ship, in a traditional sense, wont really need to anchor in deep sea as there isnt a coastline to run into. So would generally drift, point its bow into the current/wind etc and slow steam and maintain position. But in smaller vessels there are Sea drogues. Basically a parachute for underwater. \n\nHOWEVER! here comes Semi submersible vessels (Floaty oil rigs)\nThese might have two large pontoons that are floodable, making it \"sink\" deeper into the ocean to create more stability. These kinds DO indeed use deep anchors. 4, or 8, or even more! The length of the \"anchor chain\" is essencially the hypotenuse of a triangle. Calculated from your depth, and distance from vessel. These anchors are used differently from ship anchoring, as they are tensioned a lot higher in order to create a very stable platfrom, preventing any movement. \n\nEach anchor line is a thick cable, and chain, with a collared wire that can run along it, with a big anchor at the end. The anchor is pulled out very far (calculated on the depth of water) by an Anchor handling tug ship. AHTS. These have HUGE winches, (thats where i came in). We reverse the ship up to the platform, using \"Dynamic positioning\" Which is a method of controlling the ships position relative to either a fixed GPS position, or a target aka the platform. This takes into account the sea state (wave direction, wind, current etc) using 2 or more gyroscopes GPS, radar,CyScan etc), Which controlls the direction of 2 or more 360 rotating propulsion pods under the ship, as well as bow/stern thrusters (side ways movement)\n\nThe rig lowers down a pendant (that collar on a cable) which we connect to our big as winch, and we pull the anchors out a set distance, Before lowering them down at an angle. Imagine pulling out a tape measure and dropping the end, it swings in an arc. \n\nThen the anchor, due to its flute design and articulation, buries itself in the sea bed. We then turn and slide the pendant back up the anchor line and disconnect it and hand it back. \n\nWhen the rig wants to move, we do the reverse, But then the AHTS, the winch ship, has to physically drag the anchor free in the opposite direction. \n\nTHen there are torpedo anchors, These get dropped off the back of the ship and free fall through the ocean and imbed themselves in the ocean floor. \n\nHope this gets read by someone, im happy to share what little knowledge i have from my experience in laying and retrieving these huge anchors!",
+            "title_similarity": "0.5510436"
+        },
+        {
+            "id": "hfuj47y",
+            "score": 1,
+            "text": "I worked on a 60 ft commercial tuna/sword fishing boat for a few years. When it blew when we were at sea, we had what seemed to be a huge parachute we would throw in the water connected to a rope that was tied to the boat. Called it a sea anchor. Don't know the science behind it, but somehow made the boat not rock as much.",
+            "title_similarity": "0.56583744"
+        },
+        {
+            "id": "hfukv72",
+            "score": 1,
+            "text": "Proper Anchor chain and anchors for ships are extremely expensive, anchor rope and buoy anchors are cheap so no it’s not cheaper to leave it, not even close.",
+            "title_similarity": "0.43947294"
+        },
+        {
+            "id": "hfum6wi",
+            "score": 1,
+            "text": "most large ships use their various engine(thrusters more than engines these days) and a GPS positioning system to keep them in one place.  anchors do MASSIVE amounts of damage to the ocean floor and various things in the ocean itself like reefs for one so the standard practice(as of 2015 when i worked on a cruise ship) is to use a positioning system and the on board computers to \"stay\" in one spot",
+            "title_similarity": "0.631644"
+        },
+        {
+            "id": "hfuotpb",
+            "score": 1,
+            "text": "There is a maneuver called heaving too, only works for sail boats and you have a little bit of sail out but at the opposite angle as ur rudder and you stay mostly in one place.  It’s for bad weather or single handed sailers to get some rest.",
+            "title_similarity": "0.3262632"
+        },
+        {
+            "id": "hfv7peu",
+            "score": 1,
+            "text": "Some of them use dynamic positioning, where the rotors can turn 360 degrees to position the vessel relatively close to where it needs to be. This is particularly prevalent for oil/gas drilling operations",
+            "title_similarity": "0.4122945"
+        },
+        {
+            "id": "hfvjk1j",
+            "score": 1,
+            "text": "My dad was on a Columbia University [research vessel](https://www.ldeo.columbia.edu/research/office-of-marine-operations/history/vema) back in the '60s. And he used to tell us that one time while they were in the western end of the Pacific, they lowered five miles of anchor chain and didn't catch anything. So they had to haul it all back up again, reposition, and try again.\n\nNow, he may have been wrong, or pulling our leg. Who knows. But seems like it's at least possible!",
+            "title_similarity": "0.54814386"
+        },
+        {
+            "id": "hg26e0u",
+            "score": 1,
+            "text": "[anchor chain](https://share.icloud.com/photos/0cwXzL32zYHislgLogd9ksLbQ)\nHere’s a picture of an anchor chain on a naval ship that’s being painted where I work. Each link is about 16” by 9” and weigh around 50 lbs. Hope this helps.",
+            "title_similarity": "0.5764067"
+        },
+        {
+            "id": "hgfgdm2",
+            "score": 1,
+            "text": "Sailing yachts will use a large parachute in the water for when it’s too deep for an anchor",
+            "title_similarity": "0.52658606"
+        },
+        {
+            "id": "hguohjs",
+            "score": 1,
+            "text": "I'm a sailor and those answers deeply satisfied me \nNothing new to me but it was still nice to see that so many people are interested in learning and teaching about maritime practices",
+            "title_similarity": "0.23629624"
+        },
+        {
+            "id": "hhjxj2p",
+            "score": 1,
+            "text": "Why don't we rapidly tell time in 60 segments like on a clock face? Like \"5\" is the same as 1:00, \"30\" is 6:00, \"31\" is the same as 6:10. If I said the time is 59 that's fast communication it's 11:50.",
+            "title_similarity": "0.4425863"
+        },
+        {
+            "id": "hhjy5xs",
+            "score": 1,
+            "text": "Why didn't living organisms evolve by cell repair rather than spawning offspring and cell death. There is a jellyfish that cell regenerates, why didn't other organisms evolve to do this?",
+            "title_similarity": "0.44186532"
+        },
+        {
+            "id": "hig8sm7",
+            "score": 2,
+            "text": "A ship would (almost) never anchor in waters that deep, and would rarely even stop unless it was an emergency. Most transoceanic ships never anchor they cross and dock at a port.\n\nAnchoring any boat in 10K foot deep waters would take at least 30,000-60,000 feet of heavy gauge chain and weigh tons.\n\nWhen smaller boats make transatlantic passages (ie someone sailing solo across the Atlantic) they usually go on autopilot or drift when the sailor needs sleep but in general there is a 24/7 crew. \n\nThe only exception would be certain research vessels, such as one exploring the ocean floor and dropping unmanned or manned submarines. Usually they will adjust their course and heading and use the ships power to maintain position, but rarely they will anchor in which case they would indeed need tens of thousands of feet of line, but since this would be so big and heavy, the ship needs to be specially designed for for deep sea anchoring. Some navy ships and science vessels have that capability but again, its so much chain that it would only be found on a ship specifically made for deep sea anchoring.\n\nAnother option for long term deep sea anchoring is to send another ship out first to set up a deep sea mooring buoy which any ship could then attach to with only a couple hundred foot of chain, more or less depending in the size of the ship. Ive seen this done when a plane goes down and they find it, they will set up a mooring point for the ships that need to stay there for weeks or months at a time for the NTSB investigation.",
+            "title_similarity": "0.5670802"
+        },
+        {
+            "id": "hj1bbgf",
+            "score": 1,
+            "text": "Many years ago 2 men went fishing in a small boat in the Columbia river. Dropped anchor and the river current pulled the boat down and they both drowned. In this situation you should anchor a bouy then tie to the buoy. (Spell check says they are both right.)",
+            "title_similarity": "0.46234143"
+        },
+        {
+            "id": "hwi1inr",
+            "score": 1,
+            "text": "Some ships are fitted with inline side-to-side propellors, looks like a regular propeller that is perpendicular and built flush into the keel of the ship, so that the ship can performing 'Dynamic Positioning', ie stay in the same place for whateve operations they are performing.",
+            "title_similarity": "0.36392605"
+        }
+    ]
+}

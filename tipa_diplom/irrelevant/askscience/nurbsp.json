@@ -1,0 +1,82 @@
+{
+    "How can Rabies still exist and be as prevalent as it is, if it's lethality is 99.99% and it's disease cycle is relatively short?\n": [
+        {
+            "id": "h104kam",
+            "score": 6,
+            "text": "[removed]",
+            "title_similarity": "0.09103567"
+        },
+        {
+            "id": "h107jt7",
+            "score": 7,
+            "text": "[removed]",
+            "title_similarity": "0.09103567"
+        },
+        {
+            "id": "h104vl8",
+            "score": 30,
+            "text": "Rabies almost always kills it's host, but it takes a while to do so, and causes it's hosts to act in a fashion more likely to cause it to spread. \n\nThink of it like, how most of the humans in a zombie movie get bitten but they'll all rot away in 2 years.",
+            "title_similarity": "0.56144917"
+        },
+        {
+            "id": "h1069s1",
+            "score": 65,
+            "text": "Rabies isn't really prevalent. But it can't be eradicated. An example. We have rabies in Norway, but not on the mainland. There's an archipelago called Svalbard, way up north in the arctic Ocean. There's permafrost there. So when an animal dies it does not decompose or \"sink\" into the forest floor (no forest). Thus other animals find it in the end and eat the remains. It's a big place to comb for dead animals on a daily basis so the first to find the carcasses are always animals, and usually foxes. These foxes carry the virus and after a while die ND become the carcasses spreading the virus themselves.\n\nSvalbard is a small place with permafrost compared to the Russian tundra. I can only assume it's the same there. Available carcasses not being decomposed quickly by insects and small bugs. Eaten by larger mammals repeating the circle.",
+            "title_similarity": "0.53314257"
+        },
+        {
+            "id": "h0zpjs0",
+            "score": 132,
+            "text": "Rabies has a very long incubation period in animals so the disease cycle really isn't that short. It also doesn't affect animals quite the same as humans and is very easily spread through bites etc and then has a long period where it could be spread before symptoms appear. It's really not super prevalent in most of the world and is preventable with vaccination of animals (and humans, tho not super cost effective to preemptively vaccinate humans so generally given post exposure)",
+            "title_similarity": "0.684964"
+        },
+        {
+            "id": "h10ea35",
+            "score": 23,
+            "text": "Rabies is a highly virulent disease but not contagious. Among certain mammals it is quite contagious and causes severe disease, often death (in the case of human infection without treatment, death is nearly certain).\n\nHowever, it is naturally present in bat populations. Where I live in New England, approximately 1% of native bats carry the rabies virus. Bats are considered the natural reservoir for rabies like waterfowl are the reservoirs for influenza.\n\nRabies exists because it is very difficult to transmit from one person to another but always present in the natural environment. However, it is still lethal even with medical treatment once symptoms have appeared.",
+            "title_similarity": "0.6364961"
+        },
+        {
+            "id": "h10ci8j",
+            "score": 38,
+            "text": "Many viruses that are deadly to humans aren't deadly to their preferred host. \n\nA virus doesn't know what host it is in, and conditions that are fine for a cat, could kill a human and vice versa. So a virus that doesn't bother a cat and spreads quickly in cats that jumps to a human (possibly after a slight mutation or even without mutating) then the virus may cause symptoms in the human that can kill them. \n\nA virus rarely kills the preferred host because a living host usually provides more chances for the virus to reproduce and spread. The main reason viruses kill people (or other animals) us because the virus infected a host it isn't used to. This is why animals infecting us with new viruses is dangerous. After a while the virus will mutate and usually the virus that sticks around is not lethal. (the lethal ones either reach a dead end at some point or get eradicated by vaccinations, quarantines, or other countermeasures we take)",
+            "title_similarity": "0.54382277"
+        },
+        {
+            "id": "h105rzf",
+            "score": 416,
+            "text": "Veterinarian here!\n\nThere are different variants of rabies virus which are each “acclimated” to a particular host. For example, raccoon-variant rabies cycles within and is maintained within raccoon populations. Raccoon-variant rabies virus can survive for a long time within raccoons; there is no specific set incubation period between infection and showing clinical signs. \n\nIn order for the virus to be transmitted, it has to replicate in the brain and then spread into the salivary glands. Therefore, a raccoon may be incubating rabies virus for a long time, but at some point it will develop neurologic signs (and then eventually die), during which time a bite from this animal can transmit the virus to another mammal. There is also a window of time before the neurologic signs are apparent that transmission can still occur. The general guideline is that if an animal bites you and then does not show neurologic signs within 10 days, it could not have been shedding rabies virus at the time it bit you. That doesn’t mean it isn’t still incubating rabies, only that it wasn’t likely infective at the time you were bitten. (That doesn’t mean that if you’re bitten, the correct course of action is just to wait and see; if the bitten animal / person is unvaccinated for rabies, you start treatment just in case, because if the virus reaches the brain then the victim will die. But it’s always nice to know that the animal you’ve been quarantining after a bite exposure hasn’t developed neurologic signs and you’re in the clear)\n\nIn the US, canine-variant rabies has been eradicated, meaning there is no dog-specific rabies variant that circulates among dog populations. This is because of vaccination and because we do not have large feral dog populations. Canine-variant rabies is still endemic in India, on the other hand. However, dogs in the US can still contract other-mammal-variant rabies from bats, skunks, raccoons, foxes, and mongooses, as well as any other mammal that contracted rabies from one of those species. Whenever a non-rabies-vector species contracts the virus, the disease course is quicker and the animal will invariably die from the disease, likely without spreading it to too many other individual animals. One raccoon -> one dog -> six other dogs in the neighborhood is more unlikely than one raccoon -> six dogs in the neighborhood. \n\nSmall mammals like squirrels can be infected with rabies, but are very unlikely to transmit it, simply by virtue of the fact that the bite that gave them the rabies is very likely to kill them or fatally wound them in the first place.",
+            "title_similarity": "0.6228821"
+        },
+        {
+            "id": "h102k2v",
+            "score": 700,
+            "text": "Besides what others have said the cycle in humans is only short once symptoms appear. You can be infected for months before you become ill. Once symptoms show you have maybe a week to live, a little longer if you're lucky. Depending on how you define \"lucky\" since your existence will be torture.",
+            "title_similarity": "0.63564235"
+        },
+        {
+            "id": "h0zj076",
+            "score": 6522,
+            "text": "Because rabies can infect a lot of different animal hosts, many of which can live a long time or indefinitely after being infected. These are known as reservoir hosts because they provide a stable source for infections of more susceptible hosts. Reservoir hosts for rabies generally include Carnivoran mammals (raccoons, skunks, canines) and bats.\n\nHuman-to-human transmission of rabies is incredibly rare. Almost all infections come from animals, either directly from a reservoir host or from another animal that was recently infected by a reservoir host.",
+            "title_similarity": "0.5808034"
+        },
+        {
+            "id": "h109kpx",
+            "score": 16,
+            "text": "[removed]",
+            "title_similarity": "0.09103567"
+        },
+        {
+            "id": "h11mvbg",
+            "score": 6,
+            "text": "Because it’s primarily zoonotic and bat colonies have multiple million individuals per colony and maybe a colonies every few square km in the right habitat.  So rabies, spread in close contact and taking weeks to incubate to death, is never going to wipe out a colony a few dozen at a time or even a few 100,000 at a time and even if it killed millions the survivors would repopulate.  So it can exist forever even in one colony.  Add the fact it can do a similar thing on a smaller scale with rats, raccoons, most mammals, and you can understand why we have only ever eradicated diseases that are specific to humans and maybe a single rare animal species like leprosy and armadillos, except humans are the only ones who usually express it.  The Black Plague still perpetuates in the fleas of Colorado’s prairie dog populations.  And just because a virus has a 99.9% lethality in humans and dogs doesn’t mean it does in bats.  That lethality rate is also only after symptoms develop which, despite myths, is not ALWAYS going to follow a single virus particle getting into a host.  It depends on the location, viral load and immune system.  But if you never show symptoms you’re never going to know you were exposed either.  Kinda circular reasoning.\n\nMost people exposed to rabies survive because it has a long incubation unless a rabid dog foaming saliva swimming with virus bites you on the torso or face.  Enough time that a large enough repeated vaccine with adjuvant dose will stimulate your immune response to the virus before it reaches a point in the infection of your brain that you haven’t developed a strong enough specific response to fight it off.",
+            "title_similarity": "0.65679944"
+        },
+        {
+            "id": "h11q2xe",
+            "score": 11,
+            "text": "[removed]",
+            "title_similarity": "0.09103567"
+        }
+    ]
+}

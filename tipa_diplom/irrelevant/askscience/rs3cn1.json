@@ -1,0 +1,178 @@
+{
+    "Do we have evidence that Omicron is \"more mild\" than Delta coronavirus?\nI've seen this before in other topics, where an expert makes a statement with qualifications (for example, \"this variant right now seems more 'mild', but we can't say for sure until we have more data\"). Soon, a black and white variation of the comment becomes media narrative. \n\nDo we really know that Omicron symptoms are more \"mild\"? (I'm leaving the term \"mild\" open to interpretation, because I don't even know what the media really means when they use the word.) And perhaps the observation took into account vaccination numbers that weren't there when Delta first propagated. If you look at two unvaccinated twins, one positively infected with Delta, one positively infected with Omicron, can we be reasonably assured that Omicron patient will do better?": [
+        {
+            "id": "hqk7xsv",
+            "score": -2,
+            "text": "'Mild' can also be very dangerous when it comes actual public policy.  Mild implies less dangerous.  But as we have seen there are two sources of danger from teh pandemic.  (1) Direct health problems that can cause permaneant illness or death (2) increased hospitalization which results in illness and death from not being able to receive healthcare due to capacity.\n\nIf the motality is <50% of Delta then #1 is less of a threat, but if R0 is 10x then #2 becomes significantly more dangerous.  So in total the actual risk of Omicron in the community is actually worse.  We are about to find out in <7 days in the US if #2 is a large problem.",
+            "title_similarity": "0.73697126"
+        },
+        {
+            "id": "hqkes07",
+            "score": 27,
+            "text": "Do we need more evidence than the daily death rate (averaged per week) or should I say, the lack of any significant rise in deaths at all?\n\nDuring peak covid we had thousands dying per day. Right now the daily average is just under 100 a day, yet we are being told there are more infections than ever before with Omicron, so why arent more people dying?\n\nSomewhere the narrative has been switched from save lives to save the NHS but still proposing the same restrictions as when thousands a day were dying.\n\nI think between the press having nothing significant to report other than Covid and the government wanting something, anything, to detract from partygate, decorategate, sleazegate etc etc that they are hopping up the risk to fill the news streams when in reality its just a bad cold where its mostly the unvaxxed having problems.",
+            "title_similarity": "0.6203878"
+        },
+        {
+            "id": "hqjym0v",
+            "score": 21,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqk4t2m",
+            "score": 8,
+            "text": "The key metric here is that it takes up to 2 weeks or more for people to die of COVID. Hospital admissions of Omicron have only just begun to take shape and to begin an expected acceleration, so the data on deaths in the next few days to a few weeks will be key for understanding its severity.\n\nFewer hospitalisations than expected so far given the explosion of cases, so that's an encouraging sign.",
+            "title_similarity": "0.6010768"
+        },
+        {
+            "id": "hqjy88y",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqko4h2",
+            "score": 14,
+            "text": "Omicron, in late 2021, in a population that is majority double immunised and boostered is causing less hospitalisation.  This doesn't mean it's weaker than a variant that was active at a different time with a different population.  It's remamarkably difficult to compare the variants in the wild when they aren't all active at the same time.",
+            "title_similarity": "0.6883516"
+        },
+        {
+            "id": "hqku39v",
+            "score": 9,
+            "text": "In the \"more mild\" discussion we also have to account for rate of transmission. It's just an estimate, but omicron could have an R0 value (measurement of infectiousness) of around 10. Alpha had an R0 of 2. \n\nSo Omicron seems to be about 5x more infectious than Alpha was. \n\nSo even if it's milder, we are going to see a lot more cases. Anything less than 80% lower hospitalization means Omicron will put more people in the hospital within a given time period than Alpha did.",
+            "title_similarity": "0.6567016"
+        },
+        {
+            "id": "hqjzxd1",
+            "score": 36,
+            "text": "There are quite a lot of weak indications, that the omicron variant typically causes less severe disease, than the delta variant, but no conclusive evidence, and different studies have come to different conclusions so far. The short answer is, we have reason to hope so, but have no solid evidence yet.",
+            "title_similarity": "0.81488067"
+        },
+        {
+            "id": "hqjwaou",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqk96di",
+            "score": 3,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hql4dln",
+            "score": 5,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqjwie4",
+            "score": 2700,
+            "text": "TL;DR, we don’t know yet but tentative evidence suggests that omicron *might* be milder  — but not all that much milder. \n\nA recent preprint does a great job of explaining why hospitalization data *so far* are hard to interpret. \n\n>\tSince any combination of a less-virulent virus, comorbidities, high immunity from prior infection(s) or vaccination may be important contributors to this clinical presentation, care should be taken in extrapolating this to other populations with different co-morbidity profiles, prevalence of prior infection and vaccination coverage.\n\n—[Clinical Severity of COVID-19 Patients Admitted to Hospitals in Gauteng, South Africa During the Omicron-Dominant Fourth Wave](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3996320)\n\nThe problem is that most cases so far have been in younger people, and/or often either previously infected or vaccinated. All these things would make any strain’s infection seem milder. \n\nNote that the median age in South Africa is around 28, while in the US and the UK it’s around 40. We already know that *every* strain in South Africa has been “milder” than in Western countries, simply because there are fewer old, vulnerable people being infected. If someone points to raw case counts in South Africa without accounting for this, you can ignore them. \n\nIn the next few days and weeks we will likely see careful case/control matched studies coming out that will answer this more clearly. In the meanwhile, what we have is evidence from lab animal infections. These point to milder infection, but it’s never clear whether lab animals properly predict the human situation. We’ve seen this in mice ([SARS-CoV-2 Omicron-B.1.1.529 Variant leads to less severe disease than Pango B and Delta variants strains in a mouse model of severe COVID-19](https://www.biorxiv.org/content/10.1101/2021.12.26.474085v1)) and hamsters ([The omicron \\(B.1.1.529\\) SARS-CoV-2 variant of concern does not readily infect Syrian hamsters](https://www.biorxiv.org/content/10.1101/2021.12.24.474086v1)). There’s also some data from cultured cells that’s consistent with this but that’s even less predictive.\n\nAgain, though, we absolutely can’t extrapolate from the rates we see in young, vaccinated people to old, non-vaccinated people. Overall, there’s a general sense that omicron *might* be about 25-50% milder (less likely to cause severe disease). \n\nThat means that older, unvaccinated people are still seriously at risk. It’s good for young, healthy people,  but the severity is so much worse in old people, or those with immune problems etc, that a mere 25% reduction in risk isn’t going to make a huge difference. Even a 50% reduction on severity - which would be *great* — will see millions of hospitalizations as omicron re-infects the vulnerable elderly. \n\nWe will see in a few weeks what happens,  but the smug attitude we see so much, the wishful thinking that omicron is some utterly harmless delightful surprise, is certainly wrong. A lot of older and otherwise vulnerable people are going to be killed by omicron, and this attitude is going to help kill more.",
+            "title_similarity": "0.8417171"
+        },
+        {
+            "id": "hqko0yw",
+            "score": -5,
+            "text": "Less severe, but more infections, so it balances out to be that there is the same amount of hospitalizations despite having more cases. It’s definitely not to common cold level of Covid, which is what a lot of people assume. They think people ar rove reacting by closing ports and such, but the reality is that it’s spreading to more people quicker, but ignoring deaths and hospitalizations, that is still a lot of people will the other symptoms",
+            "title_similarity": "0.7014735"
+        },
+        {
+            "id": "hqjy9pw",
+            "score": 122,
+            "text": "The difficulty in comparing the severity of the Omicron variant to the Delta variant comes in part from the possibility of previous immunity. It’s unlikely for someone to be infected by the Delta variant multiple times in a short time period, but it appears very possible to be infected by the Delta variant and shortly after be infected by the Omicron variant, in which case there would be some immunity from the previous infection making the Omicron infection less severe. To do a direct comparison at the individual level one would have to ensure both infected people have no previous immunity. This is a classic presentation of [Simpson’s Paradox](https://en.m.wikipedia.org/wiki/Simpson's_paradox).\n\nIf you would rather define “severity” on a more macro level you would compare overall hospitalizations across the entire population, including all previous exposures (vaccinations or previous infections). This will be straightforward to analyze and will depend on specifics of the population (age, prevalence of comorbidities, immunity from previous exposures etc.)",
+            "title_similarity": "0.8285045"
+        },
+        {
+            "id": "hqk0ljw",
+            "score": -7,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqkejr7",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqkqo1z",
+            "score": 3,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqjv4ta",
+            "score": 312,
+            "text": "By measuring rates of hospitalization due to severe and critical cases, as well as deaths relative to the total number of cases. Omicron is incredibly contagious and the overall number of cases in such a short time is just unprecedented, but the percentage of hospitalizations and deaths is much lower compared to Delta.",
+            "title_similarity": "0.6593405"
+        },
+        {
+            "id": "hqkl9of",
+            "score": 7,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hql1dap",
+            "score": 0,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqkmka5",
+            "score": 7,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hql3042",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqk2foq",
+            "score": 32,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqk1yiq",
+            "score": 48,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hqkhswn",
+            "score": 26,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hql39d2",
+            "score": 554,
+            "text": "Along with some other top comments. Omicron grows  70 times faster in airway( bronchial) but 10 times less in lung. \n\nhttp://www.med.hku.hk/en/news/press/20211215-omicron-sars-cov-2-infection\n\n\nAlso  days in the hospital is showing 2.8 days compared to 8 days (i used this link bc its not paywalled)\n\nhttps://www.timesofisrael.com/south-african-doctors-see-early-signs-omicron-variant-is-milder-than-delta/\n\nIm a pharmacist with public health care background experience. \n\n1. All studies nowadays are taken with a grain of salt. Preprinted, non peer reviewed... its not ideal.  But it is what it is.\n\n2. Bronchitis is way better than pneumonia. This benefits everyone.  Its likely (and strongly hinted by WHO) the mutation is from someone that had it longterm and just couldnt clear it. If their version was lung they would have likely died.  Their version was likely bronchial and their immune system kept it breeding and mutating over and over and over and over. Bronchial is perfect for spreading. It eventually mutates to highly contagious version of bronchial coronavirus.  One that can outpace delta.\n\n3. For vaccinated it gets spread quick and gets into bronchial tissue quick and replicates. For vaccinated they have immune system on quick standby and work to quickly  eliminate  it. Quick infection, quick symptoms, quick amount of time to spread, quick amount of time to be noninfectious.  For nonvaccinated the immune system still doesnt know what to do. Slower response. Time for it to grow at 70 times faster in bronchial leading to lung infection and death. Unvaccinated  are at higher risk of complications and hospitalization and death. But they are likely like to spend less time in the hospital so more Bronchitis than those that delta. They found once icu is involved than its more in line with delta. Likely because once its a lung issue then its all the same. \n\n4. The deaths and severity arent likely to be because improved healthcare since delta. We didnt really get much farther in the last 3 months. Vaccinations are one reason for better outcomes but really its the fact that over 65 is heavily vaccinated.  And boosted. For breakthru with delta over 65 accounted for 85 percent of breakthru deaths (before boosted began)",
+            "title_similarity": "0.54794896"
+        },
+        {
+            "id": "hqk78qy",
+            "score": 3108,
+            "text": "Everything points to the severity-per-infection being lower for the current Omicron wave compared to the previous Delta wave. What is in question is explaining the reason why it is lower.\n\nStudies showing lower risk of hospital admission with Omicron: \n\n* 50-70% reduced risk of hospital admission [ UK Technical briefing 33](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1043807/technical-briefing-33.pdf) \n* 45-55% reduced risk [Imperial study] (https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-50-severity-omicron/)\n* 50-80% reduced risk in [Scotland](https://www.research.ed.ac.uk/en/publications/severity-of-omicron-variant-of-concern-and-vaccine-effectiveness-) \n* 70-90% reduced odds in [South Africa](https://www.medrxiv.org/content/10.1101/2021.12.21.21268116v1)\n\nEdited to add:\n> With yet another in vivo study of Omicron infection today, it sure is looking that this variant has less virulence, less chance of inducing Covid pneumonia\n\n> ...\n\n> 5 Studies, 5 Figures. All consistent, independent replications in vivo, in vitro. Omicron can't infect lungs or lung cells as well as prior variants.\n\n> https://twitter.com/erictopol/status/1476259675372863488?s=11",
+            "title_similarity": "0.57629883"
+        },
+        {
+            "id": "hqknljf",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        },
+        {
+            "id": "hql4j1c",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.10419598"
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "What is a common misconception among people and even math students, and makes you wanna jump in and explain some fundamental that is misunderstood ?\nThe kind of mistake that makes you say : That's a really good mistake. Who hasn't heard their favorite professor / teacher say this ?\n\nMy take : If I hit tail, I have a higher chance of hitting heads next flip.\n\n&#x200B;\n\nThis is to bring light onto a disease in our community : the systematic downvote of a wrong comment. Downvoting such comments will not only discourage people from commenting, but will also keep the people who make the same mistake from reading the right answer and explanation.\n\nAnd you who think you are right, might actually be wrong. Downvoting what you think is wrong will only keep you in ignorance. You should reply with your point, and start an knowledge exchange process, or leave it as is for someone else to do it.\n\n&#x200B;\n\nAnyway, it's basic reddit rules. Don't downvote what you don't agree with, downvote out-of-order comments.": [
+        {
+            "id": "i2f8zpg",
+            "score": 5,
+            "text": "a lot of ppl write/think that i = sqrt(-1)",
+            "title_similarity": "0.27475935"
+        },
+        {
+            "id": "i2fn5al",
+            "score": 2,
+            "text": "I agree so much on this! Whenever I see someone being downvoted for making a mistake I literally tear my hair off. Not only this way the commenter will not learn anything, but common mistakes that might be repeated will not be seen as they'll sink down in the comment section.",
+            "title_similarity": "0.7881798"
+        },
+        {
+            "id": "i2fylty",
+            "score": 9,
+            "text": "Trigonometry is about circles. NOT about triangles.",
+            "title_similarity": "0.2720496"
+        },
+        {
+            "id": "i2fd51q",
+            "score": 27,
+            "text": "My take : Let f(x) be the function th...\n\nNO.\nNO.\nNO!\n\nIf x is a real number, f(x) is a real number (let suppose f : R - > R) , the function is f. A lot of teachers say this and it makes me question their understanding of what a function truly is",
+            "title_similarity": "0.67904377"
+        },
+        {
+            "id": "i2f86fa",
+            "score": 16,
+            "text": "Definitions work only in one direction. (I myself didn't know this untill someone asked about it)\n\nEdit: Just to clarify what I mean is that I didn't know about the convention used in writing definitions like \" A triangle is equilateral if it has 3 congruent sides\" where the \"if\" means iff so I interpreted it as a logical if which is wrong.",
+            "title_similarity": "0.6434159"
+        },
+        {
+            "id": "i2fmwv1",
+            "score": 5,
+            "text": "Using the integral sign (wihtout any specification on a set) to mean the antiderivative of a function. I dont think its too bad but it really annoys me. Usually the integral sign is only defined over specific subsets on some space and when you actually need to compute integrals you almost never do it by finding an antiderivative.",
+            "title_similarity": "0.67157227"
+        },
+        {
+            "id": "i2gm6mi",
+            "score": 2,
+            "text": "Misconception: The word \"integration\" means \"the reverse of differentiation\".\n\nMaybe I'm being pedantic, but the reverse of differentiation should just be called \"antidifferentiation\", imho. Or \"finding a primitive function\".\n\n\"Integration\" means finding the area under the curve.\n\nYes, the fundamental theorem of calculus relates them, but they're fundamentally different procedures. So next time you're just finding an antiderivative but not plugging in any limits, don't say \"integrating\" please.",
+            "title_similarity": "0.69649017"
+        },
+        {
+            "id": "i2giwz1",
+            "score": 0,
+            "text": "L",
+            "title_similarity": "-0.11048589"
+        },
+        {
+            "id": "i2gp3a8",
+            "score": 4,
+            "text": "Infinity isn't a number. It is a concept. I'm not even very good at math, but calculus seems weird if you think of infinity as a number.",
+            "title_similarity": "0.6099075"
+        },
+        {
+            "id": "i2fcsz1",
+            "score": 20,
+            "text": "Mine is about schrodingers thought experiment. This isn’t really mathematics but it’s sort of tangential. Lots of people think the point is that the cat is both alive and dead, however the point is to criticize the interpretation of the superposition of states as all physically valid. Clearly the cat cannot both be alive and dead. It must be one or the other. Therefore there is a problem with the interpretation of the solution space.",
+            "title_similarity": "0.6762591"
+        },
+        {
+            "id": "i2fq0hd",
+            "score": 6,
+            "text": "33+77=100. \n\nIn all seriousness, indeterminate forms don’t *equal* anything, they *yield* something.",
+            "title_similarity": "0.3665061"
+        },
+        {
+            "id": "i2g2mes",
+            "score": 1,
+            "text": "Saying that the product of some functions being zero implies that one of the functions is zero.",
+            "title_similarity": "0.37952825"
+        },
+        {
+            "id": "i2g2zz6",
+            "score": 1,
+            "text": "A common misconception is that you can in some way control the order of comments on Reddit based on a agreed upon criterion.  You can't.",
+            "title_similarity": "0.5997063"
+        },
+        {
+            "id": "i2g5brc",
+            "score": 1,
+            "text": "\"cross multiplication\" makes me want to jump off a bridge",
+            "title_similarity": "0.44922572"
+        },
+        {
+            "id": "i2g7rj4",
+            "score": -1,
+            "text": "If you flip a coin heads technically you are more likely to flip heads on the next flip than a tails.",
+            "title_similarity": "0.53827584"
+        },
+        {
+            "id": "i2geyvt",
+            "score": -1,
+            "text": "Saying light slows down.",
+            "title_similarity": "0.20148993"
+        },
+        {
+            "id": "i2f4pu7",
+            "score": 130,
+            "text": "Finite number divided by zero equals infinity. No, it doesn’t work like that.",
+            "title_similarity": "0.29567775"
+        },
+        {
+            "id": "i2fhzag",
+            "score": -2,
+            "text": "Infinity isn’t real.",
+            "title_similarity": "0.24339655"
+        },
+        {
+            "id": "i2gw8y2",
+            "score": 4,
+            "text": "Not exactly math, but that 70% rain means there’s a 70% chance of rain occurring, when it actually means 70% of the area referenced will have 100% chance of rain occurring",
+            "title_similarity": "0.27386406"
+        },
+        {
+            "id": "i2hjrkx",
+            "score": -4,
+            "text": "I used to explain why the equation \n6 ÷ 2(2+1)\nIs 9 rather than 1 to a lot of people on different platforms but one day I used my calculator, got 1 and I was worried so I used another one (similar to wolframalpha) and got a 9, I am sure that 9 is the correct answer but now I see why people might get it wrong, even a calculator does.",
+            "title_similarity": "0.76990914"
+        },
+        {
+            "id": "i2g8iv7",
+            "score": 4,
+            "text": "Complex differentiable functions (f: C->C ,differentiable) and differentiable maps on the plane  (f: R^2 -> R^2, differentiable) are basically the same thing.",
+            "title_similarity": "0.21802126"
+        },
+        {
+            "id": "i2gu7x2",
+            "score": 3,
+            "text": "I've heard people say \"y=f(x)\" IS a function which is entirely nonsense and drives me a little nuts. This, y=f(x), is a planar equation whose zero set coincides with the graph of a function.",
+            "title_similarity": "0.6819563"
+        },
+        {
+            "id": "i2hjr3k",
+            "score": -3,
+            "text": "I used to explain why the equation \n6 ÷ 2(2+1)\nIs 9 rather than 1 to a lot of people on different platforms but one day I used my calculator, got 1 and I was worried so I used another one (similar to wolframalpha) and got a 9, I am sure that 9 is the correct answer but now I see why people might get it wrong, even a calculator does.",
+            "title_similarity": "0.76990914"
+        },
+        {
+            "id": "i2famry",
+            "score": 65,
+            "text": "My favorite is from social sciences: If you just take enough samples, you can assume normal distribution. \n\n.... No, that's not what the Central Limit Theorem says!\n\nOh.. and enough usually means 30 samples \\*facepalm\\*",
+            "title_similarity": "0.5274998"
+        },
+        {
+            "id": "i2f5171",
+            "score": 33,
+            "text": "One thing I see all the time, is very related to your mistake. The idea that previous runs of heads or tails have no bearing on future results.\n\nThis is only true if we're dealing with a fair coin. But if you flip a coin 10 times and get heads 10 times, it's probably not a fair coin.",
+            "title_similarity": "0.6958682"
+        },
+        {
+            "id": "i2fb7f1",
+            "score": 69,
+            "text": "Notice: the math in this post is wrong. That's the point. I feel like I have to include this disclaimer at the start because even /r/math is still Reddit.\n\nIDK how common it is, but I've seen it several times: treating the evaluation of an expression as repeated *string*-substitution. \"But isn't that what it is\", you may wonder? No, because people who believe in the string-substitution method of expression evaluation would argue that substituting x=-1 into x² gives you -1² which then evaluates to -1. Or in a more advanced version: substituting x=-1 into x² gives you (-1)² which is turned into -1² \"because P is first in PEMDAS, so I work out the parentheses first\" and then it evaluates to -1 again.\n\nPossibly linked to thinking about numbers and expressions entirely in terms of their representation as text, rather than as abstract objects in and of themselves that we sometimes write down for convenience.",
+            "title_similarity": "0.7663791"
+        },
+        {
+            "id": "i2f2d4t",
+            "score": 85,
+            "text": "The misconception you mention is the gambler's fallacy. I think it is only common among mathematics students who have not yet started studying probability. Once they have a good grasp of the subject, the fallacy is demonstrably false, but it can be hard to let go of because humans are programmed to recognize patterns. Consequently we expect random sequences not to contain long runs of the same value. In truth, TTTTTTTT is exactly as likely as HTTHHTHH, but we see the former as being unlikely and a sign that the sequence is not actually random.\n\nAnother common probabilistic misconception that is even harder to shake is the belief that the chance of winning the prize in the Monty Don problem is the same whether the contestant switches or not. Supposedly, when it was discussed in a magazine, many academics wrote in insisting the explanation given was wrong and that the probability was 0.5.\n\nEDIT: a word",
+            "title_similarity": "0.8427936"
+        },
+        {
+            "id": "i2f8fkv",
+            "score": 76,
+            "text": "Another one related to probability theory which i commonly hear from the statistics/data science side:\n\n\"If you have a large amount of samples the central limit theorem implies that their distribution will be approximately normal.\"\n\nNo, the CLT states that a sum of a large amount of (independent) random variables (with some specific characteristics) will be approximately normal.",
+            "title_similarity": "0.44905683"
+        },
+        {
+            "id": "i2fan38",
+            "score": 53,
+            "text": "√(x²+y²)=x+y\n\n(x+y)/y=x\n\nπ=22/7\n\nx²=2x",
+            "title_similarity": "0.27299517"
+        },
+        {
+            "id": "i2f91o0",
+            "score": 70,
+            "text": "What I see often sometimes is that 0 is not a number, it's nothingness. I don't even know hoe to approach that misconception. I have a hard time explaining fundamental things",
+            "title_similarity": "0.55533445"
+        },
+        {
+            "id": "i2f7skv",
+            "score": 189,
+            "text": "Calling complex numbers imaginary numbers.",
+            "title_similarity": "0.35772625"
+        },
+        {
+            "id": "i2fd5af",
+            "score": 85,
+            "text": "That the (product of the first N primes) + 1 is not necessarily a prime itself.",
+            "title_similarity": "0.25438917"
+        },
+        {
+            "id": "i2ffppk",
+            "score": 134,
+            "text": "Misconception: Gödel's incompleteness theorem makes it impossible to construct a consistent, complete axiomatic system.\n\nTruth of the matter: There exist axiomatic systems which are consistent and complete, e.g. Tarski’s axioms for the real line or ~~Dan Willard's self-verifying systems~~ Presburger arithmetic. Most of these systems are trivial or not particularly useful, but they do exist.\n\nEdit: Thanks to u/Exomnium for pointing out that Dan Willard's self-verifying systems are not complete. They are, however, consistent (evading Gödel's second incompleteness theorem).",
+            "title_similarity": "0.6437458"
+        },
+        {
+            "id": "i2f8win",
+            "score": 534,
+            "text": "Saying things grow exponentially when they don't.",
+            "title_similarity": "0.2789132"
+        },
+        {
+            "id": "i2far8s",
+            "score": 424,
+            "text": "The base rate fallacy:\n\n>Assume that 0.1% of drivers are drunk at any one time, and that the police have a breathalyzer that is 99% accurate - that is, it declares a drunk man drunk 99% of the time, and a sober man sober 99% of the time.  \n>  \n>The police pull a driver over at random, and administer the breathalyzer - which is positive. What is the probability that the test is wrong?\n\nThe obvious answer is 1%, since the test has a 1% error rate, but this is wildly wrong. The correct answer is that there is a \\~91% chance the test is wrong.\n\nTo see this, consider what happens when 1000 drivers are tested. On average, 999 will be sober, and 1 will be drunk.\n\n* Of the 999 sober drivers, the test will be negative 999 \\* 99% = 989.01 times, and positive 999 \\* 1% = 9.99 times.\n* Of the 1 drunk driver, the test will be positive 1 \\* 99% = 0.99 times, and negative 1 \\* 1% = 0.01 times.\n\nHence, of the 10.98 positive results, 9.99 will be wrong, and 0.99 will be correct - hence the test is wrong \\~91% of the time.\n\nTo take this effect into account, medical tests have quoted *positive/negative predictive values* as well as basic *sensitivity/specificity*.",
+            "title_similarity": "0.55340475"
+        },
+        {
+            "id": "i2fesf7",
+            "score": 116,
+            "text": "That something being infinite means it is normal. This is common in both claims specifically about mathematics (e.g. people who make statements equivalent to *knowing* that pi is normal) but also other claims like \"If the universe/multiverse is infinite, then somewhere out there is a version of earth where such and such happened instead.\"",
+            "title_similarity": "0.48264918"
+        },
+        {
+            "id": "i2fdniw",
+            "score": 148,
+            "text": "Admittedly, I made this mistake twice in my life. Once as an undergrad, and once more as a grad student. My colleague also made the same mistake.\n\nNot Open Sets = Closed Sets",
+            "title_similarity": "0.6626978"
+        },
+        {
+            "id": "i2f5hqe",
+            "score": 152,
+            "text": "[\"Law of universal linearity\"](https://math.stackexchange.com/questions/630339/pedagogy-how-to-cure-students-of-the-law-of-universal-linearity)",
+            "title_similarity": "0.6007288"
+        },
+        {
+            "id": "i2f79cy",
+            "score": 327,
+            "text": "I think probability stuff is creates usually the most fallacies… specially in everyday assumptions/statements of non-mathematical people (especially in social sciences). Some examples:\n\n1. Assuming correlation i means causality (e.g. countries with the highest concentration of wealth eat more chocolate => eating chocolate creates wealth)\n\n2. Assuming implication means equivalence (e.g. students that cheat belong to the group with the highest GPA’s, doesn’t mean that having a high GPA means you’re a cheater.\n\n3. More logical fallacies: taking the example with chocolate and wealth: the fact that they are correlated doesn’t mean that eating chocolate causes wealth growth, but it also doesn’t refute that there COULD be a causality. It’s just not enough information. This leads to people like Cathy Newman that would come with a statement like:  “so you’re saying because it’s only a correlation without proven causality, then eating chocolate does NOT produce wealth?” (We cannot state that either).",
+            "title_similarity": "0.713225"
+        },
+        {
+            "id": "i2fecxw",
+            "score": 10,
+            "text": "> My take : If I hit tail, I have a higher chance of hitting heads next flip.\n\nMy take: All coins are fair.",
+            "title_similarity": "0.4728649"
+        },
+        {
+            "id": "i2fg7j0",
+            "score": 8,
+            "text": "Confounding the internal optimization metric of a model with the performance metric of the application domain.\n\nOr not linking your performance metric to the application domain.\n\nThose are errors that gets made in all kinds of ways by different people.\n\nOne very typical way is to just pose some convenient performance metric, that you don't know much about, certainly not that it reflects what you care about in the application domain, except that people don't ask questions if you use that one:\n\n* by data-scientists: always use accuracy even if the misclassification costs are asymmetric\n* by statisticians: always use Brier score. Sounds a lot more fancy, but it is the exact same basic mistake\n\n&#x200B;\n\nOr use the internal optimization metric of your model as your performance metric without wasting a thought on your application domain.\n\nHere by statisticians: always use log likelihood because you always use logistic regression and that is what it optimizes for.\n\n* Well unless, you think that one confident misclassification on one data point can outweigh a million correct ones, then this performance metric is ridiculous.\n* And maybe your model is still good even though it internally optimizes something different from what you care about in the application domain.\n* But if it isn't, then maybe you need to use something else than logistic regression.",
+            "title_similarity": "0.7588289"
+        },
+        {
+            "id": "i2fj2m0",
+            "score": 107,
+            "text": "A function is always given by a formula, and its domain is always the largest subset of the real line on which that formula is well-defined.",
+            "title_similarity": "0.18873313"
+        },
+        {
+            "id": "i2fqcmz",
+            "score": 154,
+            "text": "One example I used to see a lot is when students first learn about rigorous proofs and proof by contradiction, they'll just start applying it everywhere regardless of is it's really necessary. \n\nMost notably, they'll never actually use the thing they assumed for purposes of contradiction. For example : Suppose A != B. Then (insert argument that never uses the fact A != B) we show A = B, contradicting A != B. Therefore A = B.",
+            "title_similarity": "0.705154"
+        },
+        {
+            "id": "i2fzmwp",
+            "score": 1,
+            "text": "Does a paradox like Monty Hall count? Wiki page says most people think of it incorrectly.",
+            "title_similarity": "0.69704413"
+        },
+        {
+            "id": "i2g3xdg",
+            "score": 17,
+            "text": "For me, the best one ever is the opening line of \"The drunkard's Walk\" book (a book on probabilities):\n\n> A few years ago a man won the Spanish national lottery with a ticket that ended with the number 48. Proud of his \"accomplishment\" he reveald the theory that brought him the riches: \" I dreamed of the number 7 for 7 straight nights\", he said, \"and 7 times 7 is 48\".",
+            "title_similarity": "0.50343865"
+        },
+        {
+            "id": "i2g63as",
+            "score": 40,
+            "text": "there is no such thing as \"find the domain of the function [something]\". the domain is part of the definition of the function, not something that can be deduced logically.",
+            "title_similarity": "0.21925595"
+        },
+        {
+            "id": "i2g7gv5",
+            "score": 1,
+            "text": "This is not so much math as it is logic, but I've seen many, many, maaaany people equate \"all X are not Y\" with \"not all X are Y\". It makes me want to rip my hair out.",
+            "title_similarity": "0.72172606"
+        },
+        {
+            "id": "i2g8747",
+            "score": 10,
+            "text": "Idk if this is necessarily something that's a peeve of mine, but I love talking to non-math people about things being either countably and uncountably infinite; I always get the \"wait what\" response lol",
+            "title_similarity": "0.6477245"
+        },
+        {
+            "id": "i2g8ett",
+            "score": 1,
+            "text": "People's understanding of the Monty Hall Problem.",
+            "title_similarity": "0.34744716"
+        },
+        {
+            "id": "i2g8mww",
+            "score": 37,
+            "text": " The idea that quantum computers solve hard problems instantly by just trying all solutions in parallel.",
+            "title_similarity": "0.5067756"
+        },
+        {
+            "id": "i2gbhzu",
+            "score": 18,
+            "text": "Personal pet peeve, when someone says they are going to explain the P=NP question and starts by saying \"P stands for polynomial, NP stands for not polynomial\"",
+            "title_similarity": "0.5806248"
+        },
+        {
+            "id": "i2gbk7c",
+            "score": 5,
+            "text": "Maybe not as much mathematics and more cosmology (but hey that's just applied maths, no?): the expansion of the universe.\n\nNo the universe does not have an edge (or at least it very likely doesn't have one), no it does not expand into something.",
+            "title_similarity": "0.47468033"
+        },
+        {
+            "id": "i2gbzkr",
+            "score": 11,
+            "text": "That 0 is neither odd nor even.",
+            "title_similarity": "0.041184407"
+        },
+        {
+            "id": "i2gdgzq",
+            "score": 9,
+            "text": "The math belief that I have expended the most effort fighting educated people on is the misconception that if an event has a probability of 0, it is impossible.",
+            "title_similarity": "0.7317312"
+        },
+        {
+            "id": "i2ge4o1",
+            "score": 1,
+            "text": "That confidence intervals make a probabilistic statement about the *sample* and not the estimate",
+            "title_similarity": "0.3738165"
+        },
+        {
+            "id": "i2gfvd4",
+            "score": 2,
+            "text": "The wrong version of the Central Limit Theorem: If your sample is large enough, then it comes from a normal distribution.",
+            "title_similarity": "0.48623896"
+        },
+        {
+            "id": "i2gg080",
+            "score": 1,
+            "text": "BIDMAS",
+            "title_similarity": "0.013517328"
+        },
+        {
+            "id": "i2gh5ag",
+            "score": 18,
+            "text": "\"EvERyThiNG is WRitTEN iN the BinAry ExPAnSIoN Of pI\"\n\nNo. No. We don't know that.\n\n\"bUT iT's InfiNIte\" \n\nYeah? And so is 0.0100110001110000111100000...., and that doesn't contain everything.",
+            "title_similarity": "0.3847658"
+        },
+        {
+            "id": "i2gnske",
+            "score": 33,
+            "text": "Dumb viral math expressions like \"16÷2(3+1)\" or whatever that are designed to make people argue to death when really it's just a matter of purposely ambiguous notation. \n\n&nbsp;\n\nPeople will just yell \"left to right!\" or \"PEMDAS!\" The issue is just with the division symbol itself (i forget its specific name). Different fields/calculators/programs will interpret it differently, which is the whole point. It's just badly written to make people think there is a correct answer and argue for it.",
+            "title_similarity": "0.8678084"
+        },
+        {
+            "id": "i2gsr0x",
+            "score": 7,
+            "text": "the very very basics of probabilities.\n\nwhen to add and when to multiply and when to raise to powers, all of that may seem extremely simple to anyone who has worked with probabilities but i genuinely so often get surprised when people don't know how to properly multiply/add change factors/percentages.",
+            "title_similarity": "0.68208957"
+        },
+        {
+            "id": "i2h07l1",
+            "score": 1,
+            "text": "sqrt(x^2 +y^2 )=x+y",
+            "title_similarity": "0.19280069"
+        },
+        {
+            "id": "i2hck7z",
+            "score": 3,
+            "text": "Technically, when people say they are \"bad at math\" or \"not a math person\".\n\nThere are reasons people have different tolerances, skills, and emotional responses to the experience of trying to learn math. I understand giving up. That doesn't mean there is something wrong with your brain because you can't tolerate the amount of time necessary to understand a mathematical concept.",
+            "title_similarity": "0.8293568"
+        },
+        {
+            "id": "i2hcvco",
+            "score": 5,
+            "text": "My take: \"Math is very difficult.\"\n\nOf course there are fields in math that require a lot of work, but high school math is not as difficult as it was presented to me. I didn't do well in high school, but I needed a paper to start computer science, so I took evening classes. This wonderful lady from Poland explained the topics very well with a lot of enthusiasm. We had to calculate orbits, earth quakes epicenters, things like that, a lot of real life cases where data actually meant something. I remember the joy in taking the final test, passed it with a pretty good grade. Math became like a hobby and I was happy to help some pupils with homework later in life.",
+            "title_similarity": "0.7024269"
+        },
+        {
+            "id": "i2hfus2",
+            "score": 1,
+            "text": "My dice aren’t random at all but another random source is better. \n\nOr I only trust dice are random.",
+            "title_similarity": "0.526152"
+        },
+        {
+            "id": "i2hq7jr",
+            "score": 5,
+            "text": "That math \"just made up\" (i.e arbitrary)\n\nI understand that not everyone is a Platonist, but it's not as though math is utterly arbitrary",
+            "title_similarity": "0.66885656"
+        },
+        {
+            "id": "i2hueux",
+            "score": 1,
+            "text": "If you prove something is true, it means that a proof of its falsehood must be wrong.\n\nThis one annoys me a lot and I see it on stackexchange all the time.",
+            "title_similarity": "0.7494511"
+        },
+        {
+            "id": "i2i61lv",
+            "score": 1,
+            "text": "Idk if this counts but my geometry teacher in high school used to say width and *height-th* and it fucking drove me nuts",
+            "title_similarity": "0.6677105"
+        },
+        {
+            "id": "i2il89j",
+            "score": 1,
+            "text": "the value of the properties of operations, such as using the identity property to change the denominator of a fraction, so you can add it with another fraction. \n\nthese properties show a fundamental problem solving concept: make things look different for your benefit.\n\nequivalency is a beautiful thing.",
+            "title_similarity": "0.6284714"
+        },
+        {
+            "id": "i2iw6qn",
+            "score": 3,
+            "text": "Take a random book with a title along the lines of \"intro-stats for students of <X> (without the mathematics)\"\n\n.. for <X> being some application area. \n\nA very large proportion of those books have a substantial fraction of content that's just misconception piled on top of nonsense.\n\n\nProbably the single most common misconception in them: what the CLT is",
+            "title_similarity": "0.7117553"
+        },
+        {
+            "id": "i2ix72l",
+            "score": 1,
+            "text": "(x+y)² = x² + y² 💀",
+            "title_similarity": "0.14171931"
+        },
+        {
+            "id": "i2j2zhf",
+            "score": 1,
+            "text": "I never accepted Mathematical induction Mathematical induction. I'll probably die in this state.",
+            "title_similarity": "0.5166637"
+        },
+        {
+            "id": "i2jacq5",
+            "score": 2,
+            "text": "That the expectation of a function is not the same as function of an expectation... That limit of an integral and integral of a limit are not the same... That sup/inf are not the same as max/min...",
+            "title_similarity": "0.33517417"
+        },
+        {
+            "id": "i2jik2t",
+            "score": 2,
+            "text": "good thread idea, op. unfortunately, you have summoned an army of pedantic math casuals ready to be pedantic about casual math.",
+            "title_similarity": "0.6781659"
+        },
+        {
+            "id": "i2jktwb",
+            "score": 1,
+            "text": "That chaos is just sensitivity to initial conditions.  x(t)=x0*exp(exp(t)) is sensitive to initial conditions but it’s not chaotic. For chaos, we also need topological transitivity and dense periodic orbits.",
+            "title_similarity": "0.4986238"
+        },
+        {
+            "id": "i2l25s3",
+            "score": 1,
+            "text": "About the coin flip- here's how I explain it. It's the probability of the entire sequence of flips that matters. If you flip the coin, say, 4 times in a row, all possible permutations have the same probability (in this case, 1 in 16.) So, TTTH, TTTT, THTH, etc, are equally likely. For 10 flipps, TTTTTTTTTH and TTTTTTTTTT are just as likely as a \"random\" sequence like HTHTHHTTHT.",
+            "title_similarity": "0.44448218"
+        },
+        {
+            "id": "i2s6gqu",
+            "score": 1,
+            "text": "The limit of a something and the thing itself are the same things.\n\nFor example, a common argument against defining 0^0 is that the limiting form can be made to approach whatever value you want.  But this is completely irrelevant to the problem in question, which is “what is 0^0,” and many theorems are made much more simple when you conclude 0^0 = 1, which is why many people today choose to use that definition.",
+            "title_similarity": "0.68046033"
+        }
+    ]
+}

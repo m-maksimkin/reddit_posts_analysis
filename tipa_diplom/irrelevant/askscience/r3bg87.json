@@ -1,0 +1,28 @@
+{
+    "Why is the new COVID variant being called \"Omicron\" rather than \"Nu\"?\n If they follow the Greek alphabet then the new one should be called \"Nu\". So why did they skip not one, but two letters to \"Omicron\"?": [
+        {
+            "id": "hmakr3y",
+            "score": -10,
+            "text": "[removed]",
+            "title_similarity": "0.20247284"
+        },
+        {
+            "id": "hm9te5c",
+            "score": 1648,
+            "text": "There's a lot of speculation, but Nu might easily be confused with \"new\" so I can see why they would avoid that.\n\nXi may have been avoided because Xi Jinping is currently the President of China. A lot of armchair experts on Twitter are claiming the WHO is bowing to the Chinese Communist party, but I wouldn't be surprised if they are simply trying to avoid continued association with COVID-19 being the \"China virus\".",
+            "title_similarity": "0.5206483"
+        },
+        {
+            "id": "hmafr85",
+            "score": 238,
+            "text": "[removed]",
+            "title_similarity": "0.20247284"
+        },
+        {
+            "id": "hm9xhfq",
+            "score": 9634,
+            "text": "The variants are named according to the Greek alphabet (alpha, beta, gamma, delta, etc). We have other variants since delta but most of these have not caught significant public attention. [This wiki page](https://en.wikipedia.org/wiki/Variants_of_SARS-CoV-2) has a list of the named variants. The latest is Nu, but has since been renamed Omicron. According to [this journalist](https://twitter.com/PaulNuki/status/1464310918389587974), the WHO selected Omicron as the latest variant because Nu and Xi (the next two letters of the Greek alphabet available for new variant names) are too easily confused with other words (Nu = new) or risk stigmatising China (Xi).",
+            "title_similarity": "0.67148465"
+        }
+    ]
+}

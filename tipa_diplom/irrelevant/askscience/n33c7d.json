@@ -1,0 +1,88 @@
+{
+    "Would a taller person have higher chances of a developping cancer, because they would have more cells and therefore more cell divisions that could go wrong ?\n": [
+        {
+            "id": "gwo5h0f",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "-0.030823035"
+        },
+        {
+            "id": "gwpfhq2",
+            "score": -7,
+            "text": "[removed]",
+            "title_similarity": "-0.030823035"
+        },
+        {
+            "id": "gwpp8ry",
+            "score": 79,
+            "text": "[deleted]",
+            "title_similarity": "-0.0136552965"
+        },
+        {
+            "id": "gwpv558",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "-0.030823035"
+        },
+        {
+            "id": "gwq1n6g",
+            "score": 18,
+            "text": "[removed]",
+            "title_similarity": "-0.030823035"
+        },
+        {
+            "id": "gwnxygx",
+            "score": 60,
+            "text": "[removed]",
+            "title_similarity": "-0.030823035"
+        },
+        {
+            "id": "gwq34wt",
+            "score": 24,
+            "text": "A taller person has a larger macroscopic area for interaction between all types of cancer causing agents, including cosmic gamma rays on top of just plain having more cells to interact. Although it's important to realize that different types of cells have different susceptibility to becoming cancerous, with fattier cells being more susceptible. So overweight people are more at risk than tall people, generally speaking.",
+            "title_similarity": "0.82921153"
+        },
+        {
+            "id": "gwo15au",
+            "score": 23,
+            "text": "[removed]",
+            "title_similarity": "-0.030823035"
+        },
+        {
+            "id": "gwo2f6m",
+            "score": 628,
+            "text": "The answer is complicated - factors such as genes, cancer-specific physiology and the health of the patient come into play. But theoretically yes one would think the more cells you have, the higher chance something mutates.\n\nHowever, interestingly some larger animals like elephants have significantly lower rates of cancer than humans do, and smaller animals like mice have significantly higher susceptibility to cancer. This is called Peto's paradox. Larger animals such as elephants and whales due to their enormous size have developed superior cancer-suppressing mechanisms to humans due to the demands of evolution. An example would be the TP53 gene - this gene is suppressed when humans have cancer, and we only have one copy. Elephants on the other hand have several copies of this gene.",
+            "title_similarity": "0.76716053"
+        },
+        {
+            "id": "gwot4cw",
+            "score": 28,
+            "text": "[removed]",
+            "title_similarity": "-0.030823035"
+        },
+        {
+            "id": "gwocfy7",
+            "score": 292,
+            "text": "[removed]",
+            "title_similarity": "-0.030823035"
+        },
+        {
+            "id": "gwnxpy7",
+            "score": 6786,
+            "text": "Simply, yes. Taller people have an increased chance of getting and dying from cancer compared with people who are shorter than them.\n\nhttps://pubmed.ncbi.nlm.nih.gov/29581483/#:~:text=Results%3A%20We%20found%20that%20each,death%20from%20any%20cancer%2C%20respectively.\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3148429/",
+            "title_similarity": "0.7248349"
+        },
+        {
+            "id": "gxh8z26",
+            "score": 1,
+            "text": "Well like any other normal person who had very little or no knowledge about the subject in hand, I too laughed off the above notion when I first heard about it myself. I mean why would I in a million years, think that being tall which by many is considered to be a crucial parameter of appearance, would be a reason behind causing such a deadly and malignant disease.\n\nBoth increased height and good health require good nutrition. From this alone, it should follow that tall people, such as myself, tend to be healthier. And this is in fact the general sentiment, and has been for some time. But that’s not really the case.\n\nIn recent years though, via several studies, evidence has been gathering, pointing to a connection between height and cancer.\n\nA recent research/report on breast cancer found that taller people are at an increased risk of 6 cancers actually. This includes kidney, ovarian and pancreatic cancers.\n\nAs to the height-cancer relationship, researchers explain that tall people have increased levels of insulin-like growth factor 1 and growth hormones, which is related to increased childhood nutrition; these inhibit cellular apoptosis(when damaged cells programmatically die off ) and cause proliferation of cells. And given every cell has a somewhat independent probability of mutations to its DNA, this leads to an elevated risk of cancer.\n\nSo it is true like you said that  \"If you have more cells, you have a greater risk of cancer. Tall people have a greater surface area, and therefore more melanocytes, and so, of course, they're more likely to get melanoma, a type of skin cancer.\"\n\nA report, published by the Royal Society, says that for every 4 in (10cm) increase in human height above the average used in the study of 5ft 7in for men and 5ft 3in for women, there is a 10% greater risk of that person getting cancer.\n\nBut, what slightly annoys me is that on the positive side, the taller you are the less chance you have of diabetes, stroke, or heart disease - but then you are told you have more risk of getting cancer.\n\nSee, once you have reached your final height it’s impossible to do anything about it. And it is not a person’s height itself that increases cancer risk. Instead, it is the process that your body has undergone to make you tall, that is linked to cancer.\n\nHeight is only one of many factors that determine a person's cancer risk and it's definitely not a big one. Plus it can't be modified, unlike other lifestyle risk factors, such as body weight. What you can do from your end is just follow a healthy lifestyle, starting with good nutrition. \n\nHope this answer helps you.",
+            "title_similarity": "0.65659297"
+        },
+        {
+            "id": "gzhbfnf",
+            "score": 1,
+            "text": "Yes, but mostly no. Careful with causation versus correlation for the reason given in OPs question. There is a correlation with height and cancer incidence (so, yes) but to my knowledge it has not been shown to be caused by more cells or more cell divisions (so, mostly no).  \nIt has, however, been shown that the number of cell divisions does not determine cancer incidence when comparing animal species. Mice have really high rates of cancer compared to whales and elephants, the naked mole rat is lower than all of them. There are many other factors at play: metabolism, DNA repair mechanisms, telomeres, reproductive age, tissue microenvironment, to name very few.",
+            "title_similarity": "0.6017875"
+        }
+    ]
+}

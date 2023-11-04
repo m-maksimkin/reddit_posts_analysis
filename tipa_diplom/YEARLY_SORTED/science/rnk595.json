@@ -1,0 +1,2964 @@
+{
+    "Contrary to popular belief, Twitter's algorithm amplifies conservatives, not liberals. Scientists conducted a \"massive-scale experiment involving millions of Twitter users, a fine-grained analysis of political parties in seven countries, and 6.2 million news articles shared in the United States.\n": [
+        {
+            "id": "hpsparh",
+            "score": 1,
+            "text": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are now allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will continue be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) still apply to other comments.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "title_similarity": "0.5802562",
+            "sentiment_compound": 0.7088
+        },
+        {
+            "id": "hpsz0mg",
+            "score": 9,
+            "text": "It's pretty disheartening honestly how much attention anger, hatred, and outright lies get through the social media.\n\nSocial media is what created the current surge in right-wing populism across Europe and USA.",
+            "title_similarity": "0.63448215",
+            "sentiment_compound": -0.743
+        },
+        {
+            "id": "hpt1iwx",
+            "score": 4,
+            "text": "[removed]",
+            "title_similarity": "-0.10094399"
+        },
+        {
+            "id": "hpsvd8l",
+            "score": -7,
+            "text": "Did you mean Twitter, or the American political structure?\nIf we were trying to represent people equally, rather than inflate the power of the conservative minority, we wouldn’t have an Electoral College or a Senate.",
+            "title_similarity": "0.58705443",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpspd4l",
+            "score": 62,
+            "text": "Afew weeks before the 2020 presidential election, Democrats and Republicans in Congress displayed a rare moment of bipartisan unity. The issue was whether Big Tech companies like Facebook and Twitter need to be broken up, and the House Judiciary Committee was holding a hearing. While many of the witnesses approached the subject by discussing antitrust law and similar regulatory questions, Rep. Jim Jordan (R-Ohio) made it clear that he had a very different axe to grind.\n\n\"Big Tech is out to get conservatives,\" Jordan proclaimed. \"That's not a suspicion. That's not a hunch. It's a fact. I said that two months ago at our last hearing. It's every bit as true today.\n\nYet according to a new study, Jordan's so-called \"fact\" seems to be quite far removed from the truth. Conservative media voices, not liberal ones, are most amplified by the algorithm users are forced to work with, at least when it comes to one major social media platform.\n\nPublished in the journal Proceedings of the National Academy of Sciences (PNAS), the authors of \"Algorithmic amplification of politics on Twitter\" reveal that they conducted a \"massive-scale experiment involving millions of Twitter users, a fine-grained analysis of political parties in seven countries, and 6.2 million news articles shared in the United States.\" Along with researchers from the University of Cambridge, University College London and the University of California, Berkeley, the study was co-authored by a member of Twitter's Machine Learning Ethics, Transparency, and Accountability Team.\n\nhttps://www.pnas.org/content/119/1/e2025334119#sec-4",
+            "title_similarity": "0.7685683",
+            "sentiment_compound": 0.8887
+        },
+        {
+            "id": "hpt5sog",
+            "score": -13,
+            "text": "[removed]",
+            "title_similarity": "-0.100944005"
+        },
+        {
+            "id": "hpsypt9",
+            "score": -2,
+            "text": "So Twitter and Facebook are just doing what the electoral college, gerrymandering, and the structure of the senate are already doing. Got it",
+            "title_similarity": "0.6227471",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpsze6d",
+            "score": 24,
+            "text": "[removed]",
+            "title_similarity": "-0.10094399"
+        },
+        {
+            "id": "hpt2l6w",
+            "score": 12,
+            "text": "War is peace.  \nFreedom is slavery.  \nCensorship is amplification.",
+            "title_similarity": "0.2787655",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hpt645j",
+            "score": -12,
+            "text": "One thing I’ve noticed as well, is that all GQP politicians put out similar tweets at the same time, then like each other’s tweets. It’s like a coordinated attack. I doubt Twitters algorithm is doing anything malicious, it’s just they figured out how to promote their own propaganda.",
+            "title_similarity": "0.6850381",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hpt2nk0",
+            "score": 154,
+            "text": "This article portrays the situation as conservatives being wrong--conservatives think they are treated worse on social media, but this study proves they are actually treated better.\n\nThe thing is though, this article is wrong about what conservatives are complaining about in regard to being treated worse on social media.\n\nThe conservative complaint has never been about the algorithm, it's been about treatment by moderators/admins.  There are tons of examples of conservatives being banned/suspended for \"inciting violence\" or \"hate speech\" or a similar vague offense while liberals say essentially the same thing and don't have any repercussions.\n\nThis article is simply beating a strawman.",
+            "title_similarity": "0.6431931",
+            "sentiment_compound": -0.9839
+        },
+        {
+            "id": "hpt0sy4",
+            "score": -28,
+            "text": "It’s always projection with the GOP.",
+            "title_similarity": "0.23041207",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt6e6p",
+            "score": 58,
+            "text": "Does \"Twitter amplify conservatives\" or is there more demand for genuinely conservative voices among the public now?\n\n>Measuring Amplification.Our measures of amplification are based on counting events called “linger impression,” that is, events registered every time at least 50% of the area of a tweet is visible for at least 500 ms. Linger impressions are the best proxy available to us to tell whether a user has been exposed to the content of a tweet.  \n>  \n>Let T denote a set of tweets. Let Ucontrol and Utreatment denote the control and treatment groups of users, respectively, in the experiment. Note that, in our experiment, |Utreatment|=4|Ucontrol|. Let Ut,d denote the set of users who registered a linger impression with tweet t on day d. For a set of tweets T, we further define UT,d=∪t∈TUt,d, the set of users who encountered at least one tweet from T on day d. We define the amplification of the set of tweets T on day d asad(T)=(|UT,d∩Utreatment|+14|UT,d∩Ucontrol|+1−1)⋅100%.\n\nSeems the methodology makes no distinction, meaning it could just as well be the latter.",
+            "title_similarity": "0.7218162",
+            "sentiment_compound": 0.8024
+        },
+        {
+            "id": "hpsv9tw",
+            "score": 68,
+            "text": "[removed]",
+            "title_similarity": "-0.100944005"
+        },
+        {
+            "id": "hpsyj60",
+            "score": -21,
+            "text": "Controversy breeds attention. Most right wing views are highly controversial, debatable, and questionable. Algorithms therefore strive to show people right wing views, and give them more attention?? Perhaps anyway",
+            "title_similarity": "0.49205464",
+            "sentiment_compound": -0.5651
+        },
+        {
+            "id": "hptcxds",
+            "score": 2,
+            "text": "Absolutely not my experience.  \n\nI’m not disagreeing with the post but I almost never see any conservative. Rather all I see are people forwarding democrat opinions and retweets.",
+            "title_similarity": "0.5322487",
+            "sentiment_compound": 0.1326
+        },
+        {
+            "id": "hpt56s7",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "-0.10094399"
+        },
+        {
+            "id": "hpt1h9i",
+            "score": -27,
+            "text": "[removed]",
+            "title_similarity": "-0.100944005"
+        },
+        {
+            "id": "hpt9xfn",
+            "score": 25,
+            "text": "[removed]",
+            "title_similarity": "-0.100944005"
+        },
+        {
+            "id": "hpt6nr2",
+            "score": 34,
+            "text": "[removed]",
+            "title_similarity": "-0.100944005"
+        },
+        {
+            "id": "hpt0ptt",
+            "score": -12,
+            "text": "It makes sense when you think about it in that our media in the US, social or mainstream, gives equal weighting to both liberals and conservatives which is boosting conservativism to an outsized proportion of what it truly represents within the population itself.\n\nPresenting modern us politics as a 50/50 split is already boosting a minority party to appear as if it represents half the country when its significantly less than that.",
+            "title_similarity": "0.66071427",
+            "sentiment_compound": 0.8555
+        },
+        {
+            "id": "hpt6oq9",
+            "score": 25,
+            "text": "[removed]",
+            "title_similarity": "-0.10094399"
+        },
+        {
+            "id": "hpt714q",
+            "score": -8,
+            "text": "[removed]",
+            "title_similarity": "-0.10094401"
+        },
+        {
+            "id": "hptbc7l",
+            "score": 13,
+            "text": "We have conducted a study on ourselves and found that we are actually the victims.",
+            "title_similarity": "0.46265382",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "hpt5qkn",
+            "score": -5,
+            "text": "[removed]",
+            "title_similarity": "-0.100944005"
+        },
+        {
+            "id": "hptanw3",
+            "score": 11,
+            "text": "Op, did you read the article? Or are you just typing a word salad to steer those that only read the post headline and assume the rest is factual? \n\n&#x200B;\n\nThis post is a joke. Read the article. It's no different than how Facebook fact checkers were just opinions of Facebook.\n\n&#x200B;\n\nI'm for neither side, so keep your insults to yourselves. How about trying to treat each other the same way you want to be treated. Your comments here show your mentality. \n\n&#x200B;\n\nTodays society is teaching our kids to hate each other and segregate themselves based on race, and belief of ones gender.  Does anyone think that is right? \n\n&#x200B;\n\nlife is good, try to enjoy it friends.....",
+            "title_similarity": "0.5945604",
+            "sentiment_compound": 0.7164
+        },
+        {
+            "id": "hpt3c65",
+            "score": 85,
+            "text": "[removed]",
+            "title_similarity": "-0.10094399"
+        },
+        {
+            "id": "hpt9n4q",
+            "score": 18,
+            "text": "This sub is a left wing echo chamber with a dash of confirmation bias",
+            "title_similarity": "0.35030347",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "hptj6e6",
+            "score": 3,
+            "text": "Yeah I call absolute horseshit",
+            "title_similarity": "0.09599635",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "hpt5vg1",
+            "score": 3,
+            "text": "I guess that’s why they have to manually censor them",
+            "title_similarity": "0.25538355",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hpt5dhi",
+            "score": -2,
+            "text": "It's self reinforcing because those are the types of people who spend hours and hours watching those videos non stop back to back so naturally youtube wants everyone to become that, it's great for business. I've noticed the same.",
+            "title_similarity": "0.5597157",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hptijt2",
+            "score": 1,
+            "text": "This is because all the very stable liberals can’t help themselves for obsessively following and amplifying the conservative voices and conspiracy theories they want to criticize. It’s not the algorithm.  It’s the users feeding it data to suggest this content is desired.",
+            "title_similarity": "0.59132516",
+            "sentiment_compound": 0.0498
+        },
+        {
+            "id": "hpsuwxd",
+            "score": -32,
+            "text": "[removed]",
+            "title_similarity": "-0.100944005"
+        },
+        {
+            "id": "hpsqn6m",
+            "score": 834,
+            "text": "Not surprising since their entire existence consists of seeking out and amplifying perceived grievances.",
+            "title_similarity": "0.2903352",
+            "sentiment_compound": -0.5129
+        },
+        {
+            "id": "hpt3j5e",
+            "score": -5,
+            "text": "I’m still not clear on what the difference is between conservatives and liberals since both fervently support capitalism and imperialism.",
+            "title_similarity": "0.5135195",
+            "sentiment_compound": 0.1321
+        },
+        {
+            "id": "hpt4l5p",
+            "score": -14,
+            "text": "However conservatives will never know or understand this, because they're trapped by their own fears in their echo chambers. Add in bad actors, both foreign and domestic constantly stoking these fears, and we have the impossible situation we have today.\n\nhttps://www.psychologytoday.com/ca/blog/the-human-beast/201104/conservatives-big-fear-brain-study-finds\n\nEdit: Clearly a lot of conservatives are triggered, but fail to cite anything.",
+            "title_similarity": "0.56749105",
+            "sentiment_compound": -0.8793
+        },
+        {
+            "id": "hpt384q",
+            "score": -3,
+            "text": "4 of the 7 countries are majority conservative.",
+            "title_similarity": "0.35138112",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt4sij",
+            "score": -1,
+            "text": "[removed]",
+            "title_similarity": "-0.100944005"
+        },
+        {
+            "id": "hpu0295",
+            "score": 5,
+            "text": "Yeah sure. That's why trump is banned and Maduro is not.",
+            "title_similarity": "0.38582495",
+            "sentiment_compound": 0.128
+        },
+        {
+            "id": "hpteuj8",
+            "score": 0,
+            "text": "But which one is more censored?",
+            "title_similarity": "0.030171875",
+            "sentiment_compound": -0.3269
+        },
+        {
+            "id": "hptgmzk",
+            "score": 0,
+            "text": "Salon??? In r/science?????\n\nThis sub a joke.",
+            "title_similarity": "0.42344442",
+            "sentiment_compound": 0.4871
+        },
+        {
+            "id": "hptjeei",
+            "score": 0,
+            "text": "Ah yes the Salon what an unbiased source.",
+            "title_similarity": "0.20289984",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "hpt63r9",
+            "score": 0,
+            "text": "I not so sure this is actually a popular opinion. It only seems that way because Trump and his cronies keep yelling about it.",
+            "title_similarity": "0.54119074",
+            "sentiment_compound": 0.084
+        },
+        {
+            "id": "hpt9f6l",
+            "score": 0,
+            "text": "I call b.s. When did they stop censoring?",
+            "title_similarity": "0.29724124",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hptdupt",
+            "score": 0,
+            "text": "Popular conservative belief. I'm not sure anyone else was falling for that \"help, I'm being repressed!\" nonsense.",
+            "title_similarity": "0.47648013",
+            "sentiment_compound": -0.33
+        },
+        {
+            "id": "hpu0yxk",
+            "score": -1,
+            "text": "I question why this might be. Could it be an indicator that more main streamed media sources are too catered to liberal views? The conservatives aren’t finding their views in corporate media so they search them out peer to peer?",
+            "title_similarity": "0.61552286",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptpjyz",
+            "score": -4,
+            "text": "Reality has long had a well known liberal bias",
+            "title_similarity": "0.3814988",
+            "sentiment_compound": 0.1779
+        },
+        {
+            "id": "hpt507a",
+            "score": 18,
+            "text": "You know what, this is surprising in some ways. I have literally never met a single person who would describe Twitter's audience as primarily conservative. I don't think it even is primarily conservative. If it's gaming the algorithm in favour of conservatives, it's because there aren't as many conservatives on there and they're whining that their voices must be heard. I wonder if Parag Agarwal is going to keep doing this. I have heard rumours that Jack Dorsey is a cryptofascist but have never been able to find any definitive links.\n\nI have never seen anyone on Reddit say that Twitter is anything but liberal. What is everyone in this thread smoking?",
+            "title_similarity": "0.6561741",
+            "sentiment_compound": 0.2617
+        },
+        {
+            "id": "hpt304y",
+            "score": 21,
+            "text": "[removed]",
+            "title_similarity": "-0.100944005"
+        },
+        {
+            "id": "hpt828p",
+            "score": 10,
+            "text": "It’s easy to learn what conservatives want by listening to them complain about what they believe liberals have.",
+            "title_similarity": "0.46638745",
+            "sentiment_compound": 0.1779
+        },
+        {
+            "id": "hpt8afe",
+            "score": 8,
+            "text": "I don't think anyone is saying the algorithm suppresses conservative speech. The complaint is that human intervention does. If the algorithm naturally amplifies conservative speech, it follows that human intervention would tend to suppress it.",
+            "title_similarity": "0.5187098",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hpt4g85",
+            "score": 4,
+            "text": "damn, i need a quick hook up with the english definitions of liberal and conservative, because afaik they are not opposites, because they describe 2 different things, but you go America",
+            "title_similarity": "0.46924257",
+            "sentiment_compound": -0.2144
+        },
+        {
+            "id": "hptd011",
+            "score": -3,
+            "text": "[removed]",
+            "title_similarity": "-0.100944005"
+        },
+        {
+            "id": "hptf8m2",
+            "score": 1,
+            "text": "TIL; people think social media algorithms favor liberals.",
+            "title_similarity": "0.485084",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hptu91s",
+            "score": 1,
+            "text": "Twitter is a bunch of green haired, anime loving BTS Stans from what I can tell.",
+            "title_similarity": "0.46023154",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "hpu5j5j",
+            "score": 2,
+            "text": "I don't think the popular belief is that the algorithm suppresses it. It's popular belief the platform censors it. The platform has to censor it because their algorithm amplifies it. This makes total sense...",
+            "title_similarity": "0.52348083",
+            "sentiment_compound": -0.5764
+        },
+        {
+            "id": "hpsu6rx",
+            "score": 267,
+            "text": "Is that really contrary to popular belief?",
+            "title_similarity": "0.08792662",
+            "sentiment_compound": 0.4703
+        },
+        {
+            "id": "hpsufx1",
+            "score": -8,
+            "text": "This was already the popular belief",
+            "title_similarity": "0.13481638",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpsyfmm",
+            "score": -13,
+            "text": "I think its fair to say that the social media algorithm amplifies political tendencies, in general. \n\nI would also say that its fair that twitter boosts conservative tendencies more than liberal ones, and that there is surely a social media that boosts liberal tendencies more than conservative ones. \n\nIf anyone thinks only one side is getting boosted, when analyzing all social media plataforms, you're wrong!",
+            "title_similarity": "0.6574893",
+            "sentiment_compound": 0.8687
+        },
+        {
+            "id": "hptb97j",
+            "score": 0,
+            "text": "I’d say it’s pretty well believed outside of MAGAt circles that conservatives are over amplified on Twitter.",
+            "title_similarity": "0.6668581",
+            "sentiment_compound": 0.6486
+        },
+        {
+            "id": "hptedie",
+            "score": 0,
+            "text": "I don’t go on twitter but as an outsider I was already sure this was the case.\n\nAnger is a hell of a drug and conservatives are so angry all the time",
+            "title_similarity": "0.5637375",
+            "sentiment_compound": -0.9543
+        },
+        {
+            "id": "hpu9smm",
+            "score": 3,
+            "text": "You expect me to believe this from Reddit",
+            "title_similarity": "0.3918987",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt6p1m",
+            "score": -4,
+            "text": "Wasn't this obvious already? All the big social media platforms will quickly throw you down the conspiracy (including alt-right) rabbit hole at the drop of a hat.   \n  \nThey don't care about misinformation or negative consequences, just gambling that you'll stay on their platform longer",
+            "title_similarity": "0.65411353",
+            "sentiment_compound": -0.871
+        },
+        {
+            "id": "hpt7gds",
+            "score": -6,
+            "text": "No offense but maybe it's not the machine? Maybe the conservative brain is weaker to wing nut garbage? Rush did amplification on an analog radio without machine learning. He was just a hateful, reckless, irresponsible person?",
+            "title_similarity": "0.54344046",
+            "sentiment_compound": -0.9495
+        },
+        {
+            "id": "hptu4hw",
+            "score": 5,
+            "text": "The only reason anyone would consider that a popular belief is because conservatives wont stop complaining about it, whether it's true or not.",
+            "title_similarity": "0.43834385",
+            "sentiment_compound": 0.7952
+        },
+        {
+            "id": "hpsqdiz",
+            "score": -79,
+            "text": "The algorithm feeds people what they are likely to react to, people are more likely to react to something that pisses them off.\n\nWhat people on the right get pissed off with is that antifa and the taliban, legitimately dangerous organisations don't get banned, but Donald trump in his infinite trolling does",
+            "title_similarity": "0.641061",
+            "sentiment_compound": -0.5588
+        },
+        {
+            "id": "hpt7w3a",
+            "score": 2272,
+            "text": "Can we link to the actual study, instead of the opinion piece *about* the study?  \n\nThe author of this article seems to have misinterpreted the study.  For one, he has confused what the study is actually about.  It is not about \"which ideology is amplified on Twitter more\", but rather, \"Which ideology's algorithm is stronger\".  In other words, it is not that conservative content is amplified *more* than liberal content, but that conservative content is exchanged more readily amongst conservatives than liberal content is exchanged amongst liberals.  Which likely speaks more to the fervor and energy amongst conservative networks than their mainstream/liberal counterparts.",
+            "title_similarity": "0.63858366",
+            "sentiment_compound": 0.5789
+        },
+        {
+            "id": "hpt15oi",
+            "score": -2,
+            "text": "Trump and Twitter was like pbj until Twitter banned him. So it would follow that his supporters would flock to Twitter when he was there. I am not now nor was I ever a Twitterer so I don't know firsthand offhand.",
+            "title_similarity": "0.6724514",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "hpt6lua",
+            "score": -4,
+            "text": "Scientists that work for Twitter I'm sure.",
+            "title_similarity": "0.5127358",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hptcnp8",
+            "score": 2,
+            "text": "Twitter will ban you for telling someone to learn how to code but ok",
+            "title_similarity": "0.425039",
+            "sentiment_compound": 0.128
+        },
+        {
+            "id": "hpthac6",
+            "score": -1,
+            "text": "The entire US media apparatus (social, televised, radio, written) amplifies conservatives to a huge degree. You'd have to be willfully ignorant to not see that.",
+            "title_similarity": "0.69267666",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "hpt91ea",
+            "score": 1033,
+            "text": "**TL;DR The Salon-article is wrong, and most redditors are wrong. No-one bothered to read the study. More accurate title: \"Twitter's algorithm amplifies conservative outreach** ***to conservative users*** **more efficiently than liberal outreach** ***to liberal users.*****\"** *(This is an important distinction, and it completely changes the interpretation as made my most people ITT. In particular, it greatly affects what conclusions can be drawn on the basis of this result - none of which are in agreement with the conclusions imposed on the unsuspecting reader by the Salon.com commentary.)*\n\nI'm baffled by both the Salon article and the redditors in this thread, because clearly the former did not attempt to understand the PNAS-article, and the latter did not even attempt to read it.\n\nThe PNAS-article titled \"Algorithmic amplification of politics on Twitter\" sought to quantify which political perspectives benefit most from Twitter's algorithmically curated, personalized **home timeline**.\n\nThey achieved this by defining \"*the reach of a set, T*, of tweets in a set *U* of Twitter users as the total number of users from *U* who encountered a tweet from the set *T*\", and then calculating the amplification ratio as the \"ratio of the reach of *T* in *U* intersected with the treatment group and the reach of *T* in *U* intersected with the control group\". The control group here, is the \"randomly chosen control group of 1% of global Twitter users \\[that were excluded from the implementation of the 2016 Home Timeline\\]\" - i.e., these people have never experienced personalized ranked timelines, but instead continued receiving a feed of tweets and retweets from accounts they follow in reverse chronological order.\n\nIn other words, the authors looked at how much more *\"reach\"* (as defined by the authors) conservative tweets had **in reaching conservatives' algorithmically generated, personalized home timelines** than progressive tweets had **in reaching progressives' algorithmically generated, personalized home timelines** as compared with the control group, which consisted of people **with no algorithmically generated curated home timeline**. What this means, simply put, is that conservative tweets were able to more efficiently reach conservative Twitter users by popping up in their home timelines than progressive tweets did.\n\nIt should be obvious that this in no way disproves the statements made by conservatives as quoted in the Salon article: a more accurate headline would be **\"Twitter's algorithm amplifies conservative outreach to conservative users more efficiently than liberal outreach to liberal users\"**. None of that precludes the fact that conservatives might be censored at higher rates, and in fact, all it does is confirm what everyone already knows; conservatives have much more predictable and stable online consumption patterns than liberals do, which makes that the algorithms (which are better at picking up predictable patterns than less predictable behavioural patterns) will more effectively tie one conservative social media item into the next.\n\n**Edit:** Just to dispel some confusion, **both the American left and the American right** **are amplified relative to control:** left-leaning politics is amplified about \\~85% relative to control (source: figure 1B), and conservative-leaning politics is amplified by \\~110% relative to control (source: same, figure 1B). To reiterate; the control group consists of the 1% of Twitter users who have never had an algorithmically-personalized home timeline introduced to them by Twitter - when they open up their home timeline, they see tweets by the people they follow, arranged in a reverse chronological order. The treatment group (the group for which the effect in question is investigated; in this case, algorithmically personalized home timelines) consists of people who **do** have an algorithmically personalized home timeline. To summarize: (left leaning?^(1)) Twitter users have an \\~85% higher probability of being presented with left-leaning tweets than the control (who just see tweets from the people they follow, and no automatically-generated content), and (right-leaning?^(1)) Twitter users have a \\~110% higher probability of being presented with right-leaning tweets than the control.\n\n**^(1)**  The reason I preface both categories of Twitter users with \"left-leaning?\" and \"right-leaning?\" is because the analysis is done on users with an automatically-generated, algorithmically-curated personalized home timeline. There's a strong pre-selection at play here, because right-leaning users won't (by definition of algorithmically-generated) have a timeline full of left-leaning content, and vice-versa. You're measuring a relative effect among arguably pre-selected, pre-defined samples. Arguably, the most interesting case would be to look at those users who were perfectly apolitical, and try to figure out the relative amplification there. Right now, both user sets are heavily confounded by existing user behavioural patterns.",
+            "title_similarity": "0.71111745",
+            "sentiment_compound": 0.9886
+        },
+        {
+            "id": "hpt47t8",
+            "score": -4,
+            "text": "\"Scientists are all liberal, the study was biased. Look how big tech, big data, and the ivory towers try to suppress us\" blah blah blah.",
+            "title_similarity": "0.6318495",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "hpt50oc",
+            "score": 4,
+            "text": "as of recent i have been getting bombarded with conservative tweets, anti vax, and far right recommends all over twitter no matter how many times i hit not interested or mute or whatever it’s all pretty garbage stuff",
+            "title_similarity": "0.6518651",
+            "sentiment_compound": 0.12
+        },
+        {
+            "id": "hptfc9i",
+            "score": 16,
+            "text": "This is sooooo r/science. The absolute epitome.",
+            "title_similarity": "0.25276893",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt3i7h",
+            "score": -6,
+            "text": "They are engaging with the same 12 words, so it's probably easier to match them",
+            "title_similarity": "0.20609643",
+            "sentiment_compound": 0.6666
+        },
+        {
+            "id": "hpt7nbq",
+            "score": 4,
+            "text": "Journalistically, this article can't be taken seriously- but what is quite good is the data it links to for the underlying study: https://www.pnas.org/content/119/1/e2025334119#sec-4 in case anyone is interested. It's a good study with two noted, obvious caveats- \n\n1. For US politics the study focussed on Congress, but failed to regression for the raw quantities of each party on each side. As an example: if there were 90% greater representation of one party over the other in the House then this study does not regress that out.  This is important because one volume would certainly lead to an increase in the underlying media resulting from additional actions. \n\n2. _To reduce subjectivity in our classification of political content, we leverage two independently curated media bias–rating datasets from AllSides (33) and Ad Fontes Media (34), and present results for both._.     \n\n- From the study, the main thrust had to rely on the subjectivity of a defined news outlet and whether or not their stories skew to the left or right. The study does a great job of pointing this out, but at the same time _even AllSides and AdFontes clearly struggle with objectivity_. To account for this, the study just took the mean for both sides in an attempt to \"cancel each other out\" which statistically is not such a great idea.",
+            "title_similarity": "0.6918117",
+            "sentiment_compound": 0.9786
+        },
+        {
+            "id": "hpti3dh",
+            "score": -6,
+            "text": "Conservatives cry that they are silenced on Social Media in an attempt to pull the center and apolitical to the right. It’s quite effective, so they will not stop.",
+            "title_similarity": "0.60680234",
+            "sentiment_compound": 0.2917
+        },
+        {
+            "id": "hptha8j",
+            "score": -3,
+            "text": "Conservatives are boosted by all social media. \n\nThey amplify anger and hate, two defining characteristics of conservatism.",
+            "title_similarity": "0.6466775",
+            "sentiment_compound": -0.7096
+        },
+        {
+            "id": "hpt4p5v",
+            "score": -1,
+            "text": "Wasn't this well known already?",
+            "title_similarity": "0.07751071",
+            "sentiment_compound": -0.2057
+        },
+        {
+            "id": "hpt5u6v",
+            "score": -1,
+            "text": "It’s the blue check mark…\n\nSeth Rogen had been on Jack Dorsey for YEARS to fix it and talks at length about it in his book “*Yearbook*”.\n\nhttps://slate.com/technology/2018/07/seth-rogen-says-jack-dorsey-doesnt-care-about-verified-white-nationalists-on-twitter.html",
+            "title_similarity": "0.60857403",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt6h66",
+            "score": 1,
+            "text": "I would assume a lot of this is because people react more to stuff they don’t like or agree with and it gets it more attention. It worked for trump for a long time",
+            "title_similarity": "0.48176175",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "hpt789c",
+            "score": -1,
+            "text": "The opinion that it would be otherwise is only popular among the rage mongers that feed on the outrage they sow.",
+            "title_similarity": "0.44360083",
+            "sentiment_compound": -0.6249
+        },
+        {
+            "id": "hpt7bye",
+            "score": -1,
+            "text": "obviously scientists, who are liberals by default, would claim that.\n\n- some conservatives",
+            "title_similarity": "0.5098986",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt7d48",
+            "score": -1,
+            "text": "> “I’ll take ‘Duh, No Shit ‘ for $100 please, Alex.”",
+            "title_similarity": "0.38821197",
+            "sentiment_compound": 0.6398
+        },
+        {
+            "id": "hpt8apq",
+            "score": -1,
+            "text": "This has been obvious for a long time to anyone paying attention.",
+            "title_similarity": "0.1912889",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt8fg6",
+            "score": 1,
+            "text": "The study was directed at conservative *media* and politicians, not simply conservative users. This really only lends itself to an aspect of conservatives being more engaged *per source* than liberals. Because the assessment involves a comparison per account. So it may simply be conservatives are more centralized around a few specific accounts and thus the \"algorithm\" benefits that narrowed engagement simply because their in more engagement.\n\nAlso, the objection from conservatives is largely of conservative users that would challenge Twitter's employment off limits speech. Examples. \"Misgendering\" someone simply doesn't exist in the conservative mindset as the labels are directed toward one's sex, not an attempt to define their \"gender\". There are often attempts at challenging science that get denied just out of fear such may be influencial to the prefered mindset, not that such is necessarily wrong. Is their a liberal perspective that gets denied?",
+            "title_similarity": "0.652039",
+            "sentiment_compound": 0.1744
+        },
+        {
+            "id": "hpt8ur6",
+            "score": -1,
+            "text": "So, projection as always.",
+            "title_similarity": "0.020440482",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt9kza",
+            "score": -1,
+            "text": "Conservative freaks will always play the victim",
+            "title_similarity": "0.43717766",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "hptah2s",
+            "score": -1,
+            "text": "For every 1 conservative media outlet, or popularized tweeter, there are 10 liberal ones.\n\nSo yeah, if you compare the amplification of 1 conservative media outlet to 1 liberal media outlet, you'll get these results, even if twitter's userbase is 5-1 in favor of liberals.",
+            "title_similarity": "0.6866177",
+            "sentiment_compound": 0.816
+        },
+        {
+            "id": "hptalss",
+            "score": 1,
+            "text": "Wow this must be true coming from a completely unbiased source. Everyone knows all the best science news comes from tabloids",
+            "title_similarity": "0.55039036",
+            "sentiment_compound": 0.8862
+        },
+        {
+            "id": "hptap9i",
+            "score": 1,
+            "text": "Who gets banned more though?",
+            "title_similarity": "0.15653685",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hptbhkb",
+            "score": -1,
+            "text": "It’s always projection with the right. Every damn time.",
+            "title_similarity": "0.15180801",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hptbhsf",
+            "score": -1,
+            "text": "All three of them that haven't been banned from the platform yet.",
+            "title_similarity": "0.24937353",
+            "sentiment_compound": 0.357
+        },
+        {
+            "id": "hptbq6w",
+            "score": -1,
+            "text": "Yeah…. At least they are smart enough to make up the lie that their voices are being silenced.  Liberals are largely trying to play fair against an opponent who openly cheats. We are losing.",
+            "title_similarity": "0.51062644",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "hptbykm",
+            "score": -1,
+            "text": "\"Twitter's algorithm\".\n\nYes, their sole algorithm.\n\nLayman twats.",
+            "title_similarity": "0.48359048",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hptc0gn",
+            "score": 1,
+            "text": "I just don’t understand how this doesn’t amplify both? I’m not a conservative or Trumper at all, but all of these articles are always against them and never have any negatives about liberals. Just strange to me.",
+            "title_similarity": "0.4745602",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hptc1ns",
+            "score": -1,
+            "text": "[deleted]",
+            "title_similarity": "-0.045096844"
+        },
+        {
+            "id": "hptc3vc",
+            "score": -1,
+            "text": "Not the first study to come to this conclusion either. \n  \nYou can literally tell the influence upon them with how quickly their memes spread amongst each other.",
+            "title_similarity": "0.51689035",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptcjbv",
+            "score": 1,
+            "text": "That's not contrary to popular opinion.",
+            "title_similarity": "0.012825017",
+            "sentiment_compound": -0.3252
+        },
+        {
+            "id": "hptcxyk",
+            "score": -1,
+            "text": "The triggered DL conservatives in the comments, I’d say I expected better than Reddit but alas",
+            "title_similarity": "0.5657157",
+            "sentiment_compound": -0.1779
+        },
+        {
+            "id": "hptdram",
+            "score": -1,
+            "text": "It's a popular belief because it's a conservative belief, which Twitter prints.",
+            "title_similarity": "0.43519905",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hptehjj",
+            "score": -1,
+            "text": "The image shows Trump, yet both Twitter and Fb have banned him. How are banned or censored people amplified? So basically regular people are sharing views not approved by the extreme left.",
+            "title_similarity": "0.60820735",
+            "sentiment_compound": -0.7296
+        },
+        {
+            "id": "hptggyn",
+            "score": 1,
+            "text": "Salon, you know that peer reviewed science journal... oh wait. I also love how they only cite one study... but hey, this is r/science no place for science here if it's bashing conservatives no need for any further critical thought!",
+            "title_similarity": "0.64163536",
+            "sentiment_compound": -0.7385
+        },
+        {
+            "id": "hptuzrw",
+            "score": 1,
+            "text": "So the four conservative Twitter users who didn't abandon the platform after Trump was banned or being amplified. Sounds like they realized that they lost half of the market and are trying to address that.",
+            "title_similarity": "0.71422976",
+            "sentiment_compound": -0.1012
+        },
+        {
+            "id": "hptzw6x",
+            "score": -1,
+            "text": "That’s nice but conservatives don’t believe in science",
+            "title_similarity": "0.36440796",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "hpu07ga",
+            "score": 1,
+            "text": "How is that \"popular belief?\" Literally anyone with a brain could've told you that Conservative voices are amplified on Twitter.",
+            "title_similarity": "0.69434583",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpu51jc",
+            "score": 1,
+            "text": "Twitter's scientist conducted the survey for the express purpose of airing a blatant lie and forcing people to believe it. Same as vaccines work. We can read other sources.",
+            "title_similarity": "0.6551273",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpu52zq",
+            "score": 1,
+            "text": "They gorge themselves on hate and the algorithm is more than happy to feed them in exchange for ad revenue.",
+            "title_similarity": "0.47083887",
+            "sentiment_compound": 0.0717
+        },
+        {
+            "id": "hptdaqf",
+            "score": 39,
+            "text": "[removed]",
+            "title_similarity": "-0.10094399"
+        },
+        {
+            "id": "hpt2hzy",
+            "score": -4,
+            "text": "Wait, people thought it was prioritising *liberal* media...?",
+            "title_similarity": "0.40288222",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptqc64",
+            "score": 12,
+            "text": "Cue the cries of science having a liberal bias in 3, 2, 1...",
+            "title_similarity": "0.50583583",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hptcarp",
+            "score": 2,
+            "text": "Not sure why that's \"contrary to popular belief\"...that's exactly what the popular belief is, that the various social medial platforms amplify right-wing, nut-job, conservative media far, far more than \"liberal\" content.  The angrier the user, the stronger the engagement...and most conservatives are plenty angry.",
+            "title_similarity": "0.6438661",
+            "sentiment_compound": -0.0931
+        },
+        {
+            "id": "hptfqus",
+            "score": -2,
+            "text": "Oh right That's why the republican president was banned from the platform because he was too amplified",
+            "title_similarity": "0.52721286",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hpthe5k",
+            "score": -2,
+            "text": "Almost everyday on this subreddit the top post will be something about how conservatives are the ones who actually suck and are bringing the world down, all proven scientifically.. right. This sub has become a left wing propaganda tool using the authority of Science and people's trust in science as a means to divide everyone even further. And people still fall for it. Really ask yourselves is there such a group of people in the world that is so horrible that they need to be demonized, ridiculed and insulted \"scientifically\" everyday on a platform? If so then why not skip to just killing them all because that seems to be the end goal.",
+            "title_similarity": "0.6661212",
+            "sentiment_compound": -0.9348
+        },
+        {
+            "id": "hptiots",
+            "score": 3,
+            "text": "Twitter has become a mouth peice for the rich and influential. It's no longer a tool to speak truth to power. Abandon it.",
+            "title_similarity": "0.5899121",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "hptnwnv",
+            "score": 2,
+            "text": "It reinforces what you like. Just like Facebook. The algorithms aren't biased.",
+            "title_similarity": "0.25594366",
+            "sentiment_compound": 0.7017
+        },
+        {
+            "id": "hptbsn0",
+            "score": -2,
+            "text": "White supremacy is terrified right now.\nFor the first time in history their system is being threatened with equity and accountability.\nThey’re scared, and fear turns to anger.",
+            "title_similarity": "0.47453094",
+            "sentiment_compound": -0.9485
+        },
+        {
+            "id": "hptx5kw",
+            "score": 2,
+            "text": "Right. Keep believing that. Just like Kamala thinks she'd get better news coverage if she were a white male.",
+            "title_similarity": "0.39543808",
+            "sentiment_compound": 0.6597
+        },
+        {
+            "id": "hpuywui",
+            "score": 3,
+            "text": "Who makes this crap up?",
+            "title_similarity": "0.014216032",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hpt3djg",
+            "score": -9,
+            "text": "Shocker... All western media platforms are big fascist eco-chambers, including Reddit. \n\nMost people are so used to hearing far-right ideas that they don't even think.",
+            "title_similarity": "0.7203534",
+            "sentiment_compound": -0.6369
+        },
+        {
+            "id": "hpt6zio",
+            "score": 9,
+            "text": "What was that old saying? Rumor goes around the block before truth can step out of the door?",
+            "title_similarity": "0.4037344",
+            "sentiment_compound": -0.2406
+        },
+        {
+            "id": "hpt2840",
+            "score": -4,
+            "text": "Who believed differently than this? This is the #1 reason why I don't have a Twitter account",
+            "title_similarity": "0.48948815",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt81bs",
+            "score": 0,
+            "text": "It just doesn’t matter. No study or finding will ever convince these people of the bubble they exist in.",
+            "title_similarity": "0.26632255",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "hpt842k",
+            "score": 0,
+            "text": "The reason it is \"popular belief\" (if it even is) is because their algorithm amplifies conservatives and that plays into their narrative.\n\nRemember, since 1992 in America, more people have voted for the democrat for president than the republican *every time* except once in 2004.",
+            "title_similarity": "0.761294",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "hpt8c20",
+            "score": 0,
+            "text": "The system amplifies it’s own supporters? \n\nShocked pikachu face",
+            "title_similarity": "0.51870286",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "hpt9653",
+            "score": 0,
+            "text": "Science confirming what we already knew. Once again we see the lies at the heart of the right’s culture war.",
+            "title_similarity": "0.53263104",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "hpt9no2",
+            "score": 0,
+            "text": "What? You mean the opposite of what conservatives say/believe is happening? Color me surprised.",
+            "title_similarity": "0.30828214",
+            "sentiment_compound": 0.3094
+        },
+        {
+            "id": "hpt9p37",
+            "score": 0,
+            "text": "What’s the old adage, the squeaky wheel gets the grease? Something like that. They scream the loudest and most frequently. It’s kinda like their whole platform, just be angry and loud about something.",
+            "title_similarity": "0.4091835",
+            "sentiment_compound": -0.3167
+        },
+        {
+            "id": "hptacfn",
+            "score": 0,
+            "text": "Censored! Silenced! So tired of the victim trope from the right. Just because the majority of the US doesn’t buy into your hate you then claim cancel culture. It’s so played out.",
+            "title_similarity": "0.50039494",
+            "sentiment_compound": -0.8426
+        },
+        {
+            "id": "hptavav",
+            "score": 0,
+            "text": "yes, but it's published by Salon, so you can't exactly show this to your right-wing friends to be like, \"see?\"  because salon is very much a left-wing publication.",
+            "title_similarity": "0.4621123",
+            "sentiment_compound": 0.85
+        },
+        {
+            "id": "hptb7s9",
+            "score": 0,
+            "text": "Uh seven countries? but american liberals *are* largely conservative by most international standards...",
+            "title_similarity": "0.5480453",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptdzu2",
+            "score": 0,
+            "text": "Tell us sensible people something that we don’t know….",
+            "title_similarity": "0.040194396",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptfet0",
+            "score": 0,
+            "text": "Manipulating “opinion”",
+            "title_similarity": "0.060971547",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "hptg4j0",
+            "score": 0,
+            "text": "Of course it does…AI will always favor less intelligent people who are easier to map/ take advantage of",
+            "title_similarity": "0.3524793",
+            "sentiment_compound": 0.8484
+        },
+        {
+            "id": "hptgmk1",
+            "score": 0,
+            "text": "Theory: two parts - one: algorithm takes into account the activity of other users and posts, so it’s not so much the individual post being favoured/disfavoured but it’s because the proximity of individual posts to certain nodes results in more amplification. Secondly, conservatives have more artificial nodes designed to game the algorithm. IOW, there are conservative parties actively engaged in gaming the system to amplify conservative stories. Or rather, there are MORE conservative parties doing this than liberal ones. \n\nThis would result in conservative stories getting amplified and recommended more frequently.  Also it would result in an overall lower quality of conservative posts that get amplified - meaning that the things we get recommended are more frequently conservative and mediocre or worse, and occasionally liberal but the links are engaging and good. Thus conservative posts get “favoured” by the algorithim with more promotion and recommends, but most of the things we look at and remember are from the liberal perspective.",
+            "title_similarity": "0.5819254",
+            "sentiment_compound": 0.9746
+        },
+        {
+            "id": "hptkfq5",
+            "score": 0,
+            "text": "Ok, what does the data say about just the US?",
+            "title_similarity": "0.24075203",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptwvvq",
+            "score": 0,
+            "text": "I'd like to see what is considered 'conservative'.",
+            "title_similarity": "0.07529843",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hptx0lq",
+            "score": 0,
+            "text": "[deleted]",
+            "title_similarity": "-0.045096844"
+        },
+        {
+            "id": "hptxjx7",
+            "score": 0,
+            "text": "How can they be confident the data analyzed is real",
+            "title_similarity": "0.17270465",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "hpu4su4",
+            "score": 0,
+            "text": "I’m liberal but I doubt this because it will be very convenient that the rhetoric I don’t like is the one that is amplified.",
+            "title_similarity": "0.34554747",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpu5jmb",
+            "score": 0,
+            "text": "Fash people trying to come off as the victims don’t define popular belief",
+            "title_similarity": "0.325382",
+            "sentiment_compound": 0.128
+        },
+        {
+            "id": "hpu7ixn",
+            "score": 0,
+            "text": "Yup. Basically platforms for liars are going to cater to liars",
+            "title_similarity": "0.36645138",
+            "sentiment_compound": -0.7783
+        },
+        {
+            "id": "hpu7znd",
+            "score": 0,
+            "text": "Everybody knows it's user staff like moderators that censor peoples opinions, this is just another way of taking things out of context to cover up the real truth.  They do this all the damn time to discredit what people are saying with a multitude of topics.",
+            "title_similarity": "0.53268474",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "hpu82cb",
+            "score": 0,
+            "text": "In 2016, my friend who worked at twitter told me that they amplify conservatives more than liberals. Somehow, I was still a bit surprised by this post.",
+            "title_similarity": "0.72369796",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "hpu850m",
+            "score": 0,
+            "text": "Haven’t read the article yet but I’m going to make a wild guess as to why:\n\nLower media literacy among the whatever passes for “conservative” nowadays, and subsequently a more reserved, controlled and measured use of social media on the left.",
+            "title_similarity": "0.51634294",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "hpu8oor",
+            "score": 0,
+            "text": "*Was* this popular belief? I never stopped seeing content from Conservatives. And I live in the UK.",
+            "title_similarity": "0.5118259",
+            "sentiment_compound": 0.5371
+        },
+        {
+            "id": "hpu8qx1",
+            "score": 0,
+            "text": "Yeah. Who actually believers algorithms favor liberals. Only asshats that’s who",
+            "title_similarity": "0.50021094",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "hpu8rm9",
+            "score": 0,
+            "text": "Wdym popular belief? How is this not common knowledge? It's very apparent.",
+            "title_similarity": "0.27380058",
+            "sentiment_compound": 0.4871
+        },
+        {
+            "id": "hpuh99v",
+            "score": 0,
+            "text": "This study was brought to you by the democratic party....(or at least the Salon....article about the study was...)",
+            "title_similarity": "0.45063907",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpujo4r",
+            "score": 0,
+            "text": "Right cause it’s only one side",
+            "title_similarity": "-0.109893106",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpvrtlj",
+            "score": 0,
+            "text": "interesting, to some degree it would make sense",
+            "title_similarity": "-0.064576246",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hpvyyx0",
+            "score": 0,
+            "text": "Who on earth thought Twitter ‘amplified’ liberals?",
+            "title_similarity": "0.56900334",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hsejmaj",
+            "score": 0,
+            "text": "Highlighting the people they want to find and ban.",
+            "title_similarity": "0.19519591",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "hwfte7e",
+            "score": 0,
+            "text": "uP is DOwn rIGhT iS lEFt ..\n\nLike every other thread on this site ...",
+            "title_similarity": "0.26583943",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hpt2clt",
+            "score": 48,
+            "text": "[removed]",
+            "title_similarity": "-0.10094399"
+        },
+        {
+            "id": "hpt0kk3",
+            "score": 8,
+            "text": "[removed]",
+            "title_similarity": "-0.10094399"
+        },
+        {
+            "id": "hpt3km1",
+            "score": 1,
+            "text": "I deleted Twitter because it never stopped giving me notifications for right wing nut jobs even though I constantly clicked ‘see less of this’",
+            "title_similarity": "0.5963319",
+            "sentiment_compound": -0.0951
+        },
+        {
+            "id": "hpt4c6s",
+            "score": -1,
+            "text": "“The silent minority”\n\nOnce you call yourself that you’re not what you think you are.",
+            "title_similarity": "0.14784765",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt5vzk",
+            "score": -1,
+            "text": "I would suspect this is a bit skewed by the whole Trump era though, no?",
+            "title_similarity": "0.4319502",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hpt6o8o",
+            "score": 1,
+            "text": "How did they control for click farms and bots? Or is that the algorithm they're talking about?",
+            "title_similarity": "0.5001292",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt6ov0",
+            "score": -1,
+            "text": "I knew it. That's why I shut down my Twitter account 4 years ago.",
+            "title_similarity": "0.5045172",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpt6ucx",
+            "score": 1,
+            "text": "And yet, even when they’re platformed, they scream “victim!” and people buy it.",
+            "title_similarity": "0.34261554",
+            "sentiment_compound": -0.4574
+        },
+        {
+            "id": "hpt7piz",
+            "score": 1,
+            "text": "Maybe it isn't popular opinion if it's all bots.",
+            "title_similarity": "0.28060055",
+            "sentiment_compound": -0.3252
+        },
+        {
+            "id": "hpt9ewu",
+            "score": 1,
+            "text": "The algorithm amplifies conservative view points, and the moderators suppress it. Makes sense. \n\nThe article doesn’t prove what it think it does.",
+            "title_similarity": "0.49687156",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpta6cp",
+            "score": 1,
+            "text": "So where’s the study about how many are “fact checked” and how many are “censored”?",
+            "title_similarity": "0.47547418",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptb4hs",
+            "score": 1,
+            "text": "They should just ban the Twitter App entirely \n\nThere is no need for it",
+            "title_similarity": "0.28985396",
+            "sentiment_compound": -0.7239
+        },
+        {
+            "id": "hptczmg",
+            "score": -1,
+            "text": "Pretty sure this was already the popular belief",
+            "title_similarity": "0.17164779",
+            "sentiment_compound": 0.8074
+        },
+        {
+            "id": "hptd95l",
+            "score": -1,
+            "text": "Look what they do in Mexico, I don't follow any right wing or extreme right wing person, I don't like their comments, I don't click their links, nothing, yet their \"trending topics\" is the only thing I see when I log in. I don't use Twitter anymore.",
+            "title_similarity": "0.48053253",
+            "sentiment_compound": -0.2755
+        },
+        {
+            "id": "hptdoxs",
+            "score": -1,
+            "text": "For every annoying political in your face liberal posting non stop, there are 4 annoying in your face \"don't make things political\" conservative and their grandma's posting.\n\nI dont think it amplifys by nefarious means, there's just far more numbers on one side to algorize.",
+            "title_similarity": "0.6770971",
+            "sentiment_compound": -0.765
+        },
+        {
+            "id": "hptejqi",
+            "score": -1,
+            "text": "“Popular belief”?   Who believes that social media actually propagates progressive ideals?   Where else are they getting their nonsense from?",
+            "title_similarity": "0.54735863",
+            "sentiment_compound": -0.3485
+        },
+        {
+            "id": "hptek09",
+            "score": -1,
+            "text": "\"Contrary to popular belief\"??\n\nBased on my observations, I've never believed that Twitter was favoring left leaning opinions.",
+            "title_similarity": "0.44448632",
+            "sentiment_compound": 0.7149
+        },
+        {
+            "id": "hpthhh8",
+            "score": -1,
+            "text": "People still use twitter?",
+            "title_similarity": "0.23342887",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpthhuc",
+            "score": 1,
+            "text": "Wow. They put some serious effort into this gaslighting.",
+            "title_similarity": "0.25663525",
+            "sentiment_compound": 0.5423
+        },
+        {
+            "id": "hpthjwj",
+            "score": 1,
+            "text": "Everything amplifies conservatives because they have been systematically gaming the system for decades. They have had long-established think tanks dedicated to the task.",
+            "title_similarity": "0.66858363",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "hpthw22",
+            "score": 1,
+            "text": "I don’t think this article is legit. Twitter is a place for liberals.",
+            "title_similarity": "0.49825308",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptiskj",
+            "score": -1,
+            "text": "It's hard to \"amplify\" something that is so overwhelmingly inundated in the tool.\n\nTwitter is a liberal cesspool. The only thing that gets noticed there is when someone that doesn't follow the hive mind and has a contrary opinion",
+            "title_similarity": "0.5710101",
+            "sentiment_compound": -0.3381
+        },
+        {
+            "id": "hptoxut",
+            "score": 1,
+            "text": "Doesn’t matter conservatives don’t believe in science",
+            "title_similarity": "0.29720312",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "hptpizh",
+            "score": 1,
+            "text": "> Contrary to popular belief\n\nPopular belief of conservatives, maybe.  It felt pretty apparent otherwise.",
+            "title_similarity": "0.356233",
+            "sentiment_compound": 0.8316
+        },
+        {
+            "id": "hptq1vx",
+            "score": 1,
+            "text": "So does FB. Algorithm goes for engagement. Negative emotions = more engagement. Conservatives = negative emotions.",
+            "title_similarity": "0.40882105",
+            "sentiment_compound": -0.2748
+        },
+        {
+            "id": "hptwlky",
+            "score": 1,
+            "text": "I guess my opinion on the topic is unpopular because it seems to me like Twitter is right wing central.",
+            "title_similarity": "0.4905908",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hptwt72",
+            "score": 1,
+            "text": "Research has shown that misinformation spreads MUCH faster than the truth on Twitter, so that makes sense.",
+            "title_similarity": "0.58539003",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptwu28",
+            "score": 1,
+            "text": "I love that picture of Double Chin Orange.\n\nEdit: Triple Chin. Forgot math",
+            "title_similarity": "0.3759941",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "hptx3yv",
+            "score": -1,
+            "text": "How do they find it amplifies conservatives when that group is the most censored on these platforms?",
+            "title_similarity": "0.5390414",
+            "sentiment_compound": -0.2247
+        },
+        {
+            "id": "hptz3ng",
+            "score": 1,
+            "text": "I was pretty surprised to learn a decade ago that even NPR cites more conservative sources than progressive ones.",
+            "title_similarity": "0.61174154",
+            "sentiment_compound": 0.6249
+        },
+        {
+            "id": "hptz9ki",
+            "score": 1,
+            "text": "Contray to Popular belief or conservative rhetoric?",
+            "title_similarity": "0.2339651",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hptzhq6",
+            "score": 1,
+            "text": "Popular belief? Who believes that? Everyone knows social media is a nazi echo chamber.",
+            "title_similarity": "0.6422515",
+            "sentiment_compound": 0.4871
+        },
+        {
+            "id": "hpu5irp",
+            "score": 1,
+            "text": "Only idiots trumptards think any form of media pushes the liberal agenda. They all put conservatism/fascism on equal footing as liberalism. To suggest otherwise is plain stupid",
+            "title_similarity": "0.5953109",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "hpu67xm",
+            "score": 1,
+            "text": "Don't forget about that time [Google made an ai based on users interacting with it and it turned into a racist nazi](https://www.cbsnews.com/news/microsoft-shuts-down-ai-chatbot-after-it-turned-into-racist-nazi/#app)",
+            "title_similarity": "0.6642934",
+            "sentiment_compound": -0.5162
+        },
+        {
+            "id": "hpu6z9k",
+            "score": 1,
+            "text": "Liberals tend to be really toxic and you'll find thousands of angry replies by them on every single conservative's post.  They seem to spend much more time on the internet, and also be really miserable and mad.",
+            "title_similarity": "0.63476324",
+            "sentiment_compound": -0.8822
+        },
+        {
+            "id": "hpu75us",
+            "score": 1,
+            "text": "What popular belief? The results of this study have been obvious to any person who can run three braincells together...",
+            "title_similarity": "0.40918508",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpu7d9h",
+            "score": 1,
+            "text": "What they mean to say is in spite of Twitter's best efforts they haven't been able to ban all Right-wing speech without it tanking their bottom line irreparably. The algorithm doesn't amplify conservatives (or if it does, that started VERY recently), it's just that now that people are waking up to how full of crap all these institutions are, and so now there's so much \"right - wing\" views out there that Twitter can't suppress it all without killing the business.",
+            "title_similarity": "0.6822618",
+            "sentiment_compound": -0.2225
+        },
+        {
+            "id": "hpubh5p",
+            "score": 1,
+            "text": "if I give a megaphone to a single Red Sox fan in Yankee Stadium, I have amplified Red Sox fans more than Yankee fans",
+            "title_similarity": "0.60509044",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hpui5uk",
+            "score": -1,
+            "text": "And reddit amplifies liberal views and if you disagree with those views you’re a bad guy",
+            "title_similarity": "0.45044512",
+            "sentiment_compound": -0.7269
+        },
+        {
+            "id": "hpul00n",
+            "score": -1,
+            "text": "How do conservatives get amplified when their accounts are banned for not being liberal enough?",
+            "title_similarity": "0.581084",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hpv0hey",
+            "score": 1,
+            "text": "And what about this app?",
+            "title_similarity": "0.079077005",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpv51ct",
+            "score": 1,
+            "text": "Ah yes, salon dot com. The publication that defends pedophiles.",
+            "title_similarity": "0.48331213",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hpwnrdt",
+            "score": 1,
+            "text": "Ah yes, more \"science.\"",
+            "title_similarity": "0.16181406",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hpu0e9k",
+            "score": 153,
+            "text": "The paper:\n\nhttps://www.pnas.org/content/119/1/e2025334119\n\n**Algorithmic amplification of politics on Twitter**\n\n*Ferenc Huszár, Sofia Ira Ktena,  Conor O’Brien, Luca Belli, Andrew Schlaikjer, and Moritz Hardt*\n\n> Content on Twitter’s home timeline is selected and ordered by personalization algorithms. By consistently ranking certain content higher, these algorithms may amplify some messages while reducing the visibility of others. There’s been intense public and scholarly debate about the possibility that some political groups benefit more from algorithmic amplification than others. We provide quantitative evidence from a long-running, massive-scale randomized experiment on the Twitter platform that committed a randomized control group including nearly 2 million daily active accounts to a reverse-chronological content feed free of algorithmic personalization. We present two sets of findings. First, we studied tweets by elected legislators from major political parties in seven countries. **Our results reveal a remarkably consistent trend: In six out of seven countries studied, the mainstream political right enjoys higher algorithmic amplification than the mainstream political left.** Consistent with this overall trend, our second set of findings studying the US media landscape revealed that algorithmic amplification favors right-leaning news sources. We further looked at whether algorithms amplify far-left and far-right political groups more than moderate ones; contrary to prevailing public belief, we did not find evidence to support this hypothesis. We hope our findings will contribute to an evidence-based debate on the role personalization algorithms play in shaping political content consumption.",
+            "title_similarity": "0.6627844",
+            "sentiment_compound": 0.9794
+        },
+        {
+            "id": "hpt5bw0",
+            "score": 405,
+            "text": "I wonder who gets banned more",
+            "title_similarity": "0.12631097",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hpsshw8",
+            "score": -53,
+            "text": "That’s not how twitter works. The user selects who they want to follow. The user can block and mute. The tool is configurable. This article refers to lazy users who don’t take the time to set Twitter up.",
+            "title_similarity": "0.4861128",
+            "sentiment_compound": -0.6249
+        },
+        {
+            "id": "hptzvlv",
+            "score": 8,
+            "text": "Does it really amplify conservatives? Or does it it amplify : angry people. People who rage click and comment. People with extreme views looking for online connections because they don’t want their face seen in public.",
+            "title_similarity": "0.55156827",
+            "sentiment_compound": -0.765
+        },
+        {
+            "id": "hpt4t5i",
+            "score": -2,
+            "text": "Whether it's contrary to popular belief, or prior to contrary belief, fuckin DUUUH. If you play to the stupid side you'll always get more traction.",
+            "title_similarity": "0.2881293",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "hpt5cvj",
+            "score": -2,
+            "text": "This has been known for a long time. \n\n‘A lie runs halfway round the world while the truth is still putting its shoes on.’",
+            "title_similarity": "0.420656",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hptet2u",
+            "score": -2,
+            "text": "Looking at it as conservative v. liberal probably does a disservice to what's actually happening. The amplification is probably closer to corporate v. human. All conservative means these days is corporate slave. There's no longer any political ideology being followed. The terms used for \"social science\" are polite to say the least.",
+            "title_similarity": "0.5670067",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hptyafh",
+            "score": 3,
+            "text": "Social media helps no one but only the rich and the ones in power, Twitter like all other social media should be banned",
+            "title_similarity": "0.5744178",
+            "sentiment_compound": 0.6542
+        },
+        {
+            "id": "hptysqm",
+            "score": -2,
+            "text": "Dorothy to the millennials: “….what would you do with a brain if you had one “ The fact that this is in a science sub is laughable. Let’s see the methodology, sources, criteria and who these “scientist” are. I’m the Easter Bunny. Prove me wrong.",
+            "title_similarity": "0.56445396",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "hpua6tk",
+            "score": 2,
+            "text": "Social media algorithms amplify whatever gets the most traffic.\n\nThat tends to be train wrecks and scandals.  No surprise that Trump and the GOP have been generating a steady stream of that in the last 5 years",
+            "title_similarity": "0.7324426",
+            "sentiment_compound": -0.6142
+        },
+        {
+            "id": "hpuucg8",
+            "score": 2,
+            "text": "Why is a *salon* article on r/science? Is this a joke?",
+            "title_similarity": "0.49551994",
+            "sentiment_compound": 0.3736
+        },
+        {
+            "id": "hpt5hfe",
+            "score": -3,
+            "text": "It's popular belief because the media repeats donnies lies.",
+            "title_similarity": "0.49473265",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptd9kv",
+            "score": -4,
+            "text": "Conservative viewpoints have always gotten more presstime. at least in my lifetime.",
+            "title_similarity": "0.45288038",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptfa14",
+            "score": 3,
+            "text": "-Be social-intellectual and economic minority\n-Enforce ethnic-religious beliefs on population\n-Amplify earnings by loopholing out of taxes \n-Hold disproportionate political power through gerrymandering and corporate bribery/lobbying \n-Amplify propaganda through consolidated media efforts\n-Claim majority presence and socio-political oppression",
+            "title_similarity": "0.60632944",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hptuppb",
+            "score": 4,
+            "text": "The ruling class needs to both sides popular progressive ideas.",
+            "title_similarity": "0.34814948",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hptyz8b",
+            "score": 3,
+            "text": "You didn't need to do a study to see that Twitter is a cesspool of hatred.",
+            "title_similarity": "0.46980906",
+            "sentiment_compound": -0.6369
+        },
+        {
+            "id": "hpud0s6",
+            "score": 3,
+            "text": "Is it a “popular belief?” I thought it was just whining.",
+            "title_similarity": "0.25670844",
+            "sentiment_compound": -0.2263
+        },
+        {
+            "id": "hptbpwx",
+            "score": 31,
+            "text": "[removed]",
+            "title_similarity": "-0.10094399"
+        },
+        {
+            "id": "hptyc6c",
+            "score": 4,
+            "text": "Facebook does the same thing. They always cry about being persecuted by social media, and yet Facebook accidentally ran Trump victory ads before the vote was even finished",
+            "title_similarity": "0.69277966",
+            "sentiment_compound": -0.7783
+        },
+        {
+            "id": "hptu8j8",
+            "score": 6,
+            "text": "Is this simply a case of these platforms promoting the noisiest? Which is kind of their point. No noise, no content. \n\nI feel like it could be just a result of the fundamental mechanic of social media.",
+            "title_similarity": "0.43261775",
+            "sentiment_compound": 0.5702
+        },
+        {
+            "id": "hpt0zex",
+            "score": 8100,
+            "text": "Facebook’s internal research showed that angry users stay on the platform longer and engage more. This is more of that. They all want more clicks, so they can make more money.",
+            "title_similarity": "0.630014",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "hpt83wr",
+            "score": 1,
+            "text": "Ironically it's the attention they get from libs that makes the algorithm so happy to push them forward. Just don't engage and they'll fade away... really",
+            "title_similarity": "0.31901705",
+            "sentiment_compound": 0.5726
+        },
+        {
+            "id": "hpt8gm6",
+            "score": 1,
+            "text": "Would appreciate a short paragraph on what a liberal and what a conservative is, their agenda, their aim, and their base. \n\nAssume you are talking to a 12 year old that knows nothing about labels in politics and you want to educate him.\n\nThank you for your time.",
+            "title_similarity": "0.5963256",
+            "sentiment_compound": 0.6705
+        },
+        {
+            "id": "hpt9229",
+            "score": 1,
+            "text": "Abstract: Content on Twitter’s home timeline is selected and ordered by personalization algorithms. By consistently ranking certain content higher, these algorithms may amplify some messages while reducing the visibility of others. There’s been intense public and scholarly debate about the possibility that some political groups benefit more from algorithmic amplification than others. We provide quantitative evidence from a long-running, massive-scale randomized experiment on the Twitter platform that committed a randomized control group including nearly 2 million daily active accounts to a reverse-chronological content feed free of algorithmic personalization. We present two sets of findings. First, we studied tweets by elected legislators from major political parties in seven countries. Our results reveal a remarkably consistent trend: In six out of seven countries studied, the mainstream political right enjoys higher algorithmic amplification than the mainstream political left. Consistent with this overall trend, our second set of findings studying the US media landscape revealed that algorithmic amplification favors right-leaning news sources. We further looked at whether algorithms amplify far-left and far-right political groups more than moderate ones; contrary to prevailing public belief, we did not find evidence to support this hypothesis. We hope our findings will contribute to an evidence-based debate on the role personalization algorithms play in shaping political content consumption.\n\nhttps://www.pnas.org/content/119/1/e2025334119#sec-4",
+            "title_similarity": "0.7983153",
+            "sentiment_compound": 0.9794
+        },
+        {
+            "id": "hpt9kkj",
+            "score": 1,
+            "text": "Conservatives still believe there are more of them than there actually are. The \"silent majority\" lie is still alive and well. That's why they're okay with subverting democracy and forcing their will by any means necessary. They think they're right no matter what, and any poll that says otherwise is a liberal lie.",
+            "title_similarity": "0.60660845",
+            "sentiment_compound": 0.6732
+        },
+        {
+            "id": "hpt9lc5",
+            "score": 1,
+            "text": "I only know who Ben Shaprio, Candace and Charlie Kirk are thanks to twitter amplifying their hot takes.",
+            "title_similarity": "0.51546955",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hpt9uo8",
+            "score": 1,
+            "text": "I also wonder how much if this is amplified by bots pushing pure garbage.",
+            "title_similarity": "0.3374896",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptak94",
+            "score": 1,
+            "text": "And yet, 6 years later.",
+            "title_similarity": "0.117176384",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptaw2e",
+            "score": 1,
+            "text": "Give people the ability to pretend to be others, shielding them from the consequences of what they say, and of course people who need to act in bad faith to sway public opinion are the ones who benefit from it.",
+            "title_similarity": "0.2884789",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "hptawyy",
+            "score": 1,
+            "text": "Buwahahahahaha…..yeah, only the ones it doesn’t block first.",
+            "title_similarity": "0.04736021",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "hptazah",
+            "score": 1,
+            "text": "Damn conservative media doesn’t have the same ring to it as damn liberal media",
+            "title_similarity": "0.42036295",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "hptbaam",
+            "score": 1,
+            "text": "I wonder how many users in this thread identify as Conservative?",
+            "title_similarity": "0.34384593",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptcgus",
+            "score": 1,
+            "text": "What do you call a group of people talking about the out rage of another group?",
+            "title_similarity": "0.2819577",
+            "sentiment_compound": -0.5574
+        },
+        {
+            "id": "hptd694",
+            "score": 1,
+            "text": "\"here is this random X platform for 100 word long messages, and we prove that it does everything in its power to generate revenue\"\n\nmore news at 11",
+            "title_similarity": "0.6831714",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptdnyw",
+            "score": 1,
+            "text": "Tht's not surprising really",
+            "title_similarity": "-0.048120335",
+            "sentiment_compound": -0.2057
+        },
+        {
+            "id": "hptdtb3",
+            "score": 1,
+            "text": "I keep hearing this conclusion that secretly all social media platforms want/necessitate conservative platforms to be number one in their self advertising, and yet I don’t see it in the real world.",
+            "title_similarity": "0.6483824",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hpte1xb",
+            "score": 1,
+            "text": "The science of \"Ratio\"ing.",
+            "title_similarity": "0.056714043",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpte3oi",
+            "score": 1,
+            "text": "Non us conservatives, got it",
+            "title_similarity": "0.19354075",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpte5xw",
+            "score": 1,
+            "text": "Negativity keeps people engaged.\n\nWhich makes more money.\n\nWe're fucked.",
+            "title_similarity": "0.34905538",
+            "sentiment_compound": -0.7402
+        },
+        {
+            "id": "hptf20i",
+            "score": 1,
+            "text": "Conservatives are very susceptible to fear-mongering and hate more easily. Fear and hate are very simple to amplify.\n\nhttps://www.google.com/amp/s/www.psychologytoday.com/us/blog/mind-in-the-machine/201612/fear-and-anxiety-drive-conservatives-political-attitudes%3famp",
+            "title_similarity": "0.5943005",
+            "sentiment_compound": -0.8476
+        },
+        {
+            "id": "hptg7xh",
+            "score": 1,
+            "text": "So I think it could amplify conservative individuals, but a large part of that is the angry tweets that come from liberals. A few liberal Twitter users damn near made careers out of making fun of Trump for instance.\n\nI also think liberal ideas go through a turbocharger process. Regular ideas get out there, then they become more and more radical and keep spinning up and reinjecting into the stream until radical ideas seem fairly tame. Happens on both sides but liberals don't think it's happening to them. It is.\n\nI say this as a liberal who quit social media. Twitter affects liberals a lot.",
+            "title_similarity": "0.7320497",
+            "sentiment_compound": -0.5499
+        },
+        {
+            "id": "hptgc7g",
+            "score": 1,
+            "text": "There is something satisfying about scientific studies that confirm your simple common sense! Like yeah- of course! It’s obvious. But then you see it solidified with data; and you suddenly feel like you’re really on the ball!!",
+            "title_similarity": "0.3912691",
+            "sentiment_compound": 0.8302
+        },
+        {
+            "id": "hptgcri",
+            "score": 1,
+            "text": "Was it a \"popular belief\" that Twitter's algorithm amplifies liberals, or was it merely a right wing belief?",
+            "title_similarity": "0.5814335",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hptguyh",
+            "score": 1,
+            "text": "Makes sense. Conservatives groups have been getting gobs of money from corporations and wealthy individuals since the 70s to influence public opinion.",
+            "title_similarity": "0.6932508",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hpth0u3",
+            "score": 1,
+            "text": "Not really news except for every talking head on cable news who seem to be all idiots these days",
+            "title_similarity": "0.55040085",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpth64n",
+            "score": 1,
+            "text": "Contrary to popular belief? Who ever thought this wasnt the case?",
+            "title_similarity": "0.18914795",
+            "sentiment_compound": 0.4871
+        },
+        {
+            "id": "hpthda5",
+            "score": 1,
+            "text": "Because theyre being paid to spread propaganda",
+            "title_similarity": "0.2742213",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hpthdom",
+            "score": 1,
+            "text": "I thought this was common knowledge.",
+            "title_similarity": "0.021792755",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpthnj8",
+            "score": 1,
+            "text": "Next you’re going to tell me that there’s no War On Christmas or that there aren’t roaming hordes of antifa members burning down cities.",
+            "title_similarity": "0.44690436",
+            "sentiment_compound": 0.4847
+        },
+        {
+            "id": "hpthnjn",
+            "score": 1,
+            "text": "I think natural engagement is stronger amongst conservative twitter. But the corporate blue check mark club definitely amplifies a heavily liberal bias.",
+            "title_similarity": "0.59513915",
+            "sentiment_compound": 0.7579
+        },
+        {
+            "id": "hpthsrn",
+            "score": 1,
+            "text": "It seems like either we're rediscovering \"it bleeds it leads\" montra for the internet or just re-validating it for a new medium",
+            "title_similarity": "0.42267677",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hpti5p9",
+            "score": 1,
+            "text": "Anyone who's ever been to Twitter knows this, I'm not sure why they say \"contrary to popular belief\" when then mean \"contrary to what conservatives on Twitter say\"",
+            "title_similarity": "0.62941843",
+            "sentiment_compound": 0.2115
+        },
+        {
+            "id": "hpti6wf",
+            "score": 1,
+            "text": "From a casual observer (and someone who doesn't really use Twitter or Facebook) this was obvious all along.",
+            "title_similarity": "0.2357052",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "hpti911",
+            "score": 1,
+            "text": "Because they're the ones that feel compelled to share their ideology on social media.",
+            "title_similarity": "0.36403558",
+            "sentiment_compound": 0.34
+        },
+        {
+            "id": "hpti9w4",
+            "score": 1,
+            "text": "Time to delete your twitters y'all",
+            "title_similarity": "0.3225428",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptibnb",
+            "score": 1,
+            "text": "It's always easier to be evil.",
+            "title_similarity": "0.17129737",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "hptij5r",
+            "score": 1,
+            "text": "So the thing we all knew is now the thing we all know. Let me know when it is fixed. Thanks.\n\nEDIT: Also it is not a popular belief it is a popular belief among conservatives and republicans ONLY!",
+            "title_similarity": "0.54053503",
+            "sentiment_compound": 0.5661
+        },
+        {
+            "id": "hptin69",
+            "score": 1,
+            "text": "Isn't the algorithm always changing?",
+            "title_similarity": "0.23042351",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptj0t3",
+            "score": 1,
+            "text": "I can watch the comment numbers go down in real time",
+            "title_similarity": "0.33573377",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptjlvb",
+            "score": 1,
+            "text": "Outrage generates more clicks then no outrage. Conservatives  make everything they say outrageous. This makes sense.",
+            "title_similarity": "0.55934083",
+            "sentiment_compound": -0.5162
+        },
+        {
+            "id": "hptjmlu",
+            "score": 1,
+            "text": "It was never about who was amplified. It was about who is censored.",
+            "title_similarity": "0.1836001",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "hptjpml",
+            "score": 1,
+            "text": "Paid research gets the answer request, News at 11.",
+            "title_similarity": "0.45443606",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptjq71",
+            "score": 1,
+            "text": "Sloths be better to analyze censorship.",
+            "title_similarity": "0.21648613",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hptjrl3",
+            "score": 1,
+            "text": "It's called a victim complex. When you're the victim, you're immune to all criticism.",
+            "title_similarity": "0.36683437",
+            "sentiment_compound": -0.5994
+        },
+        {
+            "id": "hptjt33",
+            "score": 1,
+            "text": "The fact that it's called popular belief shows it's working. Only a minority of people ever believed that",
+            "title_similarity": "0.40217024",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hptjvx9",
+            "score": 1,
+            "text": "Because conservatives are reactionary and feed into platforms that encourage reactionary takes.  \n\nNot saying the left isn’t reactionary, but remember who flipped out over red Starbucks cups.",
+            "title_similarity": "0.58607036",
+            "sentiment_compound": 0.2846
+        },
+        {
+            "id": "hptkar2",
+            "score": 1,
+            "text": "Conservatives artificially dominating a platform? Say it ain’t so.",
+            "title_similarity": "0.44741964",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hptkm9i",
+            "score": 1,
+            "text": "Exactly why we need to stop using them",
+            "title_similarity": "0.09367635",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hptkor1",
+            "score": 1,
+            "text": "It was only a popular belief because of the \"squeaky wheel gets the grease\" phenomena. It was frankly obvious if you were paying attention.\n\nThere's a couple top-rated comments in this thread that are making a false dichotomy between in-group ideological saturation and ideological amplification. It's like saying a square is not a rectangle. Some real bending over backwards stuff to appeal to a false centrism.",
+            "title_similarity": "0.53633153",
+            "sentiment_compound": 0.6486
+        },
+        {
+            "id": "hptljvh",
+            "score": 1,
+            "text": "Does salon.com belong on r/science? It’s a completely bias and “mostly” factual magazine.",
+            "title_similarity": "0.60029626",
+            "sentiment_compound": -0.1761
+        },
+        {
+            "id": "hptlk3y",
+            "score": 1,
+            "text": "Is it actually popular belief that liberals are boosted on Twitter though?",
+            "title_similarity": "0.5605128",
+            "sentiment_compound": 0.6486
+        },
+        {
+            "id": "hptlp2o",
+            "score": 1,
+            "text": "They know this; but like to play victim",
+            "title_similarity": "0.11315537",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "hptlvf4",
+            "score": 1,
+            "text": "Still won't stop conservatives from whining. They all have a victim complex and they love it.",
+            "title_similarity": "0.43309316",
+            "sentiment_compound": 0.4745
+        },
+        {
+            "id": "hptmrvi",
+            "score": 1,
+            "text": "Do you guys know about reddit algorithm?\nWhich view does it amplify?",
+            "title_similarity": "0.43424612",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptmx7t",
+            "score": 1,
+            "text": "It's gonna amplify whatever is the most outrageous,  because that's what sells",
+            "title_similarity": "0.31942052",
+            "sentiment_compound": -0.5095
+        },
+        {
+            "id": "hptn19j",
+            "score": 1,
+            "text": "Maybe not conservative over liberal but certainly pushes controversy for engagement. most of them just happen to be conservative",
+            "title_similarity": "0.46814674",
+            "sentiment_compound": 0.7964
+        },
+        {
+            "id": "hptn58l",
+            "score": 1,
+            "text": "Well considering that BOTH leverage hate, outrage and fear that’s pretty much inevitable…I find it nearly impossible to engage with Trump people without them calling me names and threatening violence….scary times…never thought I would be nostalgic for George W:) he was always polite and supported Conservative values…such as they are",
+            "title_similarity": "0.5585984",
+            "sentiment_compound": -0.6808
+        },
+        {
+            "id": "hptnm7v",
+            "score": 1,
+            "text": "Did they account for the conservative posts that were blocked or deleted by Twitter?",
+            "title_similarity": "0.5873175",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "hptofse",
+            "score": 1,
+            "text": "Well considering how famously open-minded conservatives are about science in general and new information that challenges their existing beliefs in particular I'm **sure** they'll adjust their endless persecution complex whining in the face of this incontrovertible evidence to the contrary any minute now.",
+            "title_similarity": "0.5762774",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hptofx4",
+            "score": 1,
+            "text": "And yet despite believing they are censored en masse, and that people like Zuckerberg, Dorsey, Bezos, etc. are malevolent figures, they continue to religiously utilize their products and services.",
+            "title_similarity": "0.46299136",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "hptohko",
+            "score": 1,
+            "text": "The study didn’t look at banned users or posts, though, and that’s the real concern. I have seen tweets from verified users that are publicly very far left posting things that gets conservatives banned.",
+            "title_similarity": "0.6268917",
+            "sentiment_compound": -0.7184
+        },
+        {
+            "id": "hptqqsa",
+            "score": 1,
+            "text": "The world is always changing.\n\nLiberals are more open to change.\n\nConservatives don't want change.\n\nWhen change inevitably happens, conservatives tend to be more in conflict with what's happening, and revolt against it.",
+            "title_similarity": "0.45367768",
+            "sentiment_compound": -0.4215
+        },
+        {
+            "id": "hptr4n5",
+            "score": 1,
+            "text": "Good luck convincing flat-earthers, republicans and conservatives",
+            "title_similarity": "0.3865348",
+            "sentiment_compound": 0.8225
+        },
+        {
+            "id": "hpttbh5",
+            "score": 1,
+            "text": "Well social media is probably the worst venue to get information and form opinions with so…",
+            "title_similarity": "0.40285525",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hpttbno",
+            "score": 1,
+            "text": "*contrary to popular opinion*?",
+            "title_similarity": "0.097472094",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hptti2d",
+            "score": 1,
+            "text": "What is a Twitter?\n\nSeriously, I have no use for it.",
+            "title_similarity": "0.19501495",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "hpttq79",
+            "score": 1,
+            "text": "Controversial posts are always click bait.",
+            "title_similarity": "0.38686326",
+            "sentiment_compound": -0.2023
+        },
+        {
+            "id": "hpttrdt",
+            "score": 1,
+            "text": "I don’t want to read articles from Salon on r/science…",
+            "title_similarity": "0.34098116",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hpttu5k",
+            "score": 1,
+            "text": "This is a popular belief?\nNope! It's a belief among \"marginalized\" conservatives.",
+            "title_similarity": "0.419157",
+            "sentiment_compound": 0.4753
+        },
+        {
+            "id": "hptu25r",
+            "score": 1,
+            "text": "Contrary to \"right wing bitching\"",
+            "title_similarity": "0.12650955",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "hptuyg0",
+            "score": 1,
+            "text": "Salon is not a good source for anything.",
+            "title_similarity": "0.18774068",
+            "sentiment_compound": -0.3412
+        },
+        {
+            "id": "hptv5gg",
+            "score": 1,
+            "text": "Who can we blame but ourselves, get on with your own life’s, this is irrelevant",
+            "title_similarity": "0.1382488",
+            "sentiment_compound": -0.1779
+        },
+        {
+            "id": "hptvibx",
+            "score": 1,
+            "text": "Who's \"popular belief\" was that?",
+            "title_similarity": "0.12723802",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hptvkev",
+            "score": 1,
+            "text": "Was this study during Trumps presidency or Bidens?",
+            "title_similarity": "0.4017157",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptvyrm",
+            "score": 1,
+            "text": "This is b/c the corporate “left wing” media legitimizes anti-democratic conservative positions in order to preserve the corporate status quo.",
+            "title_similarity": "0.48451424",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hptwasp",
+            "score": 1,
+            "text": "Social science seems to always be skewed to push rhetoric.  Social media is curating facts under the guise of fact checking.  If you need a papa to tell you what is right and wrong, the rest of us do not.",
+            "title_similarity": "0.6797425",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hptwca0",
+            "score": 1,
+            "text": "No wonder since those who programmed those algorithms are mostly right winger tech bros, I bet.",
+            "title_similarity": "0.5219705",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hptwkko",
+            "score": 1,
+            "text": "\"contrary to conservative* belief\"... Everyone else knows how bad social media is for democracy because it amplifies the worst voices the loudest",
+            "title_similarity": "0.5500083",
+            "sentiment_compound": -0.8225
+        },
+        {
+            "id": "hptwqq7",
+            "score": 1,
+            "text": "People laugh when I say sites like Twitter (and also YouTube and Reddit by extension) have an obvious conservative bias so it’s nice to have scientific proof to support me. Of course, Republicans hate science and love to play the victim so of course they will keep acting like they are casualties of oppression.",
+            "title_similarity": "0.6313784",
+            "sentiment_compound": 0.9297
+        },
+        {
+            "id": "hptx96o",
+            "score": 2,
+            "text": "It would be hilarious if this wasnt actually true, would inadvertently show that both sides are susceptible (or I guess just liberals in this example). That said I guess I fall prey too because I totally buy this headline",
+            "title_similarity": "0.47900575",
+            "sentiment_compound": 0.0946
+        },
+        {
+            "id": "hptx9qb",
+            "score": 1,
+            "text": "Hatred is more addictive than kindness.",
+            "title_similarity": "0.27235577",
+            "sentiment_compound": -0.235
+        },
+        {
+            "id": "hptxa0f",
+            "score": 1,
+            "text": "There’s no reason for Twitter to exist",
+            "title_similarity": "0.13438049",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hptzkj7",
+            "score": 2,
+            "text": "I'm a very casual Twitter user in the UK, I follow a couple of UK companies.  Yet on email I get Twitter summaries featuring Trump jr, Tomi Lahren and a bunch other American right wing nuts. This explains it.",
+            "title_similarity": "0.63435507",
+            "sentiment_compound": -0.0534
+        },
+        {
+            "id": "hpu5swo",
+            "score": 1,
+            "text": "So more projection by conservatives",
+            "title_similarity": "0.28166467",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpu5upe",
+            "score": 1,
+            "text": "It amplifies whatever is trending. That's my basic understanding of how it's supposed to work anyway.\n\nIf you don't like it, stop \"liking\" it. Then it will go away. Or, perhaps better yet, try sharing more positive things with other users.",
+            "title_similarity": "0.24967052",
+            "sentiment_compound": 0.9016
+        },
+        {
+            "id": "hpu6n1a",
+            "score": 2,
+            "text": "Makes sense though. What creates more traffic? Facts that can’t be argued against, or misinformation rooted in religion rather than science in a never ending debate?",
+            "title_similarity": "0.44612318",
+            "sentiment_compound": -0.4696
+        },
+        {
+            "id": "hpu6zgl",
+            "score": 1,
+            "text": "What I need to know is who were the \"popular believers\" in the 1st place....oh wait no I don't",
+            "title_similarity": "0.39039424",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "hpu7fgd",
+            "score": 1,
+            "text": "But they won't believe it because well, science.",
+            "title_similarity": "0.31737342",
+            "sentiment_compound": 0.3919
+        },
+        {
+            "id": "hpu97z4",
+            "score": 1,
+            "text": "What popular beliefs? It was always well known. Except for right wingers and their victim complex.  What’s next? « Contrary to popular beliefs, Christians are not the most oppressed people »???",
+            "title_similarity": "0.5002389",
+            "sentiment_compound": 0.853
+        },
+        {
+            "id": "hpu9bc8",
+            "score": 1,
+            "text": "Hypothesis : The conservative base is ironically the largest consumer group of social media.",
+            "title_similarity": "0.64435375",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpu9hgi",
+            "score": 1,
+            "text": "It wasn't obvious to begin with?",
+            "title_similarity": "-0.015351227",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpu9inf",
+            "score": 1,
+            "text": "Yes but that doesn’t agree with my victim narrative of the fact that I got banned for being racist",
+            "title_similarity": "0.38964677",
+            "sentiment_compound": -0.8422
+        },
+        {
+            "id": "hpu9yey",
+            "score": 1,
+            "text": "In crowd of 100, a single voice is not easy to hear.  In a crowd of 10, the same voice seems amplified.  Do not be deceived, our power is in our numbers, but only by action, not voice.",
+            "title_similarity": "0.48653916",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpua4ye",
+            "score": 1,
+            "text": "You gotta find a hobby man. Anything is better than wasting so much time while being wrong. Take a walk or something.",
+            "title_similarity": "0.21595463",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "hpua6hw",
+            "score": 1,
+            "text": "We’ve all been there, manipulated by the algorithm to allocate more time than is necessary. How do we all begin to extricate ourselves from this cycle?",
+            "title_similarity": "0.48281577",
+            "sentiment_compound": -0.3818
+        },
+        {
+            "id": "hpub402",
+            "score": 1,
+            "text": "Contrary to popular belief? Maybe in bizarro world.",
+            "title_similarity": "0.20388114",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpubkt1",
+            "score": 1,
+            "text": "Wait... It's popularly believed liberals are more amplified on Twitter than conservatives?",
+            "title_similarity": "0.61047375",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpubmfz",
+            "score": 1,
+            "text": "It amplifies liberals don’t lie to yourself. It probably amplifies conservatives too",
+            "title_similarity": "0.40609473",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpubru3",
+            "score": 1,
+            "text": "This is so confusing since conservatives were being banned for things like “learn to code” or other memes. Was that happening on there other side as well? I remember liberals tweeting it as a meme and it was fine. This is just one example obviously.",
+            "title_similarity": "0.5962916",
+            "sentiment_compound": -0.0236
+        },
+        {
+            "id": "hpubw6d",
+            "score": 1,
+            "text": "Hey moderators, this is a salon article with a very misleading title. Can we get this removed? I thought r/science only posted peer reviewed articles.",
+            "title_similarity": "0.6128675",
+            "sentiment_compound": -0.4576
+        },
+        {
+            "id": "hpubykj",
+            "score": 1,
+            "text": "Total guess here, but I imagine there are far less conservative ideology leaders compared to the mainstream liberal public leaders. Far less republican celebrities or scientists for example. As there are less people for the group-thinkers to look up to and follow, naturally the fewer amount will lead to a larger relative share of conservatives looking at a relatively smaller subset of conservatives, making them more popular versus the left subset.",
+            "title_similarity": "0.56335926",
+            "sentiment_compound": 0.7869
+        },
+        {
+            "id": "hpuc8kd",
+            "score": 1,
+            "text": "science news from salon dot com, yeah i read about ball cancer cure on medium dot com yesterday.",
+            "title_similarity": "0.69009256",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "hpuciw1",
+            "score": 1,
+            "text": "I don't think that was popular belief...",
+            "title_similarity": "0.07617311",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpucj63",
+            "score": 1,
+            "text": "Popular belief?\n\nOnly conservatives use this lie.\n\nMost people have accepted this as fact a long time ago.",
+            "title_similarity": "0.588531",
+            "sentiment_compound": 0.6326
+        },
+        {
+            "id": "hpucqx2",
+            "score": 1,
+            "text": "Wait, is that actually a popular belief?",
+            "title_similarity": "0.14602354",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpud3st",
+            "score": 1,
+            "text": "The person with the biggest mouth claiming his voice is being cancelled.",
+            "title_similarity": "0.2479518",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hpudqrp",
+            "score": 1,
+            "text": "Most of the internet is liberal so that makes sense, Twitter actually wants hate inducing tweets from any side they can get",
+            "title_similarity": "0.6488874",
+            "sentiment_compound": -0.5719
+        },
+        {
+            "id": "hpue2d1",
+            "score": 1,
+            "text": "Party of the the perpetual victims",
+            "title_similarity": "0.16517307",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "hpue43f",
+            "score": 1,
+            "text": "This isn't surprising. Conservatives dominate almost all forms of social media because they have the resources and messaging to be effective. What is more compelling:\n\n\"Enemy at the Gates: Immigrants Overwhelming Border Control\" \n\nVersus\n\n\"There has been a proportional uptick in immigration year on year, however, some authorities say the overall total is actually less than 10 years ago, but the use of percentages creates an impression of exceptional numbers.\"",
+            "title_similarity": "0.75573355",
+            "sentiment_compound": 0.6168
+        },
+        {
+            "id": "hpue52v",
+            "score": 1,
+            "text": "Data collection period was from 2016-2020 :-(",
+            "title_similarity": "0.1636693",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "hpuebxa",
+            "score": 1,
+            "text": "\"Liberals whine about conservatives constantly on twitter\" \"Conservatives some how amplified on Twitter\"\n\nRight, right . . .",
+            "title_similarity": "0.6460891",
+            "sentiment_compound": -0.3612
+        },
+        {
+            "id": "hpuef0n",
+            "score": 1,
+            "text": "The greatest trick the devil ever played…",
+            "title_similarity": "0.37955922",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "hpuek7w",
+            "score": 1,
+            "text": "Here we go, the beginning of the “cancellation” of Twitter",
+            "title_similarity": "0.33777714",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpuekoh",
+            "score": 1,
+            "text": "1. Salon, really?\n2. Does anyone believe this?\n3. Name one prominent Liberal blue checkmark kicked off twitter?\n\nCase closed.",
+            "title_similarity": "0.54056114",
+            "sentiment_compound": 0.4291
+        },
+        {
+            "id": "hpueq4w",
+            "score": 1,
+            "text": "Republicans are anti big government but love spending money on government bills that never benefit the citizens.",
+            "title_similarity": "0.580357",
+            "sentiment_compound": 0.446
+        },
+        {
+            "id": "hpuf03o",
+            "score": 1,
+            "text": "Yea, anybody who's been paying attention for the last 6 years already knows that.",
+            "title_similarity": "0.304452",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpuf3jw",
+            "score": 1,
+            "text": "This is what propaganda looks like folks. Not even a cross post. Two completely separate posts with different titles so you might think it’s different people sharing the same idea.  https://i.imgur.com/Aq4nTT1.jpg",
+            "title_similarity": "0.4478697",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "hpuf6nw",
+            "score": 1,
+            "text": "The narcissists are projecting to hide their own behavior?? Shocking. Truly bewildering.",
+            "title_similarity": "0.2780926",
+            "sentiment_compound": -0.2168
+        },
+        {
+            "id": "hpuf7l0",
+            "score": 1,
+            "text": "None of this means anything because conservatives don't believe in science.",
+            "title_similarity": "0.28159446",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpuf90a",
+            "score": 1,
+            "text": "conservatives now: \"r/science amplifies liberals!!\"",
+            "title_similarity": "0.496944",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpufeik",
+            "score": 1,
+            "text": "Wrong, this study does not show this. Read the article yourself to understand what the study effectively assumes instead of listening to Op's headline.",
+            "title_similarity": "0.43759125",
+            "sentiment_compound": -0.0516
+        },
+        {
+            "id": "hpufgzd",
+            "score": 1,
+            "text": "Because the Rightwing weaponizes bad faith and doesn’t care about their own fallacies or hypocrisy. You can’t impose civility rules and codes of conduct without it being gamed.",
+            "title_similarity": "0.3506034",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hpuflzo",
+            "score": 1,
+            "text": "It’s like those Facebook posts that bate people I.E.  “2 + 2 = 5”.  Everybody comments/reposts.  I’m afraid conservative posts get similar attention, from conservatives and liberals.  Conservatives share a post because it’s what they believe, Liberals share the same post trying to point out what’s wrong with it…problem is it’s still sharing.",
+            "title_similarity": "0.6797898",
+            "sentiment_compound": 0.6808
+        },
+        {
+            "id": "hpufq78",
+            "score": 1,
+            "text": "I think at this point we can conclude that Conflict = Profit. Or Conflict -> Engagement = Conflict.",
+            "title_similarity": "0.20144944",
+            "sentiment_compound": -0.0
+        },
+        {
+            "id": "hpufyd6",
+            "score": 1,
+            "text": "Since when was that the popular belief?",
+            "title_similarity": "0.11808963",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpufyr0",
+            "score": 1,
+            "text": "Fear and hate are great motivators, it keeps people  engaged and clicking.  It is basically the foundation of FB and the GQP.",
+            "title_similarity": "0.34355813",
+            "sentiment_compound": -0.0258
+        },
+        {
+            "id": "hpug8b2",
+            "score": 1,
+            "text": "A study put out by salon, im sure its not bias in anyway.",
+            "title_similarity": "0.3549499",
+            "sentiment_compound": 0.381
+        },
+        {
+            "id": "hpugn7y",
+            "score": 1,
+            "text": "Our entire culture amplifies right wing nonsense, TV, movies all of it...\n\nwhy would internet culture be any different?",
+            "title_similarity": "0.6394007",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hpugww5",
+            "score": 1,
+            "text": "the censorship comes from the democratic establishment so of course it doesn’t affect other countries. other countries do not view censorship as freedom of speech",
+            "title_similarity": "0.3753121",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "hpuh2ok",
+            "score": 1,
+            "text": "If you believe this you’re an idiot",
+            "title_similarity": "0.084715985",
+            "sentiment_compound": -0.5106
+        },
+        {
+            "id": "hpuh8gr",
+            "score": 1,
+            "text": "Does this surprise anyone? I know conservatives themselves have a horrible persecution complex, but did anyone with a brain think any differently? Even if you removed all the Russian alt-right bots?",
+            "title_similarity": "0.60588205",
+            "sentiment_compound": -0.3049
+        },
+        {
+            "id": "hpuhc65",
+            "score": 1,
+            "text": "My use of Twitter is a case in point for this.\n\nHell, I don't even really use it for more than lurking some cyber security researchers and somehow Twitter still sees fit to \"recommend\" antivax conspiracy touting nutcases on a near daily basis to me via email. Even one's I have already reported, marked as not interesting and blocked.\n\nSeriously, Twitter is still trying to force feed me antivax propaganda from people I have clearly BLOCKED. How can a recommendation algorithm be that broken?",
+            "title_similarity": "0.69526803",
+            "sentiment_compound": -0.9073
+        },
+        {
+            "id": "hpuhmwt",
+            "score": 1,
+            "text": "The problem with this study for me is that I cannot find a definition of what is meant by 'amplification'. Let's say we are looking at a particular Twitter account. How do we determine how 'amplified' they are or a particular tweet of their's is? If you don't give me a clear definition of this then the conclusion of the study is completely worthless information as far as I'm concerned and anyone who engages in critical thinking should also realize this.",
+            "title_similarity": "0.523909",
+            "sentiment_compound": -0.5563
+        },
+        {
+            "id": "hpuhncv",
+            "score": 1,
+            "text": "Reddit is unintentionally doing a similar thing. All I see a lot is enraging political content.",
+            "title_similarity": "0.60461205",
+            "sentiment_compound": -0.5859
+        },
+        {
+            "id": "hpui2wi",
+            "score": 1,
+            "text": "Contrary to popular belief these studies mean nothing. These supposed scientists ought to begin doing something valuable to society instead of pursuing political agendas.",
+            "title_similarity": "0.41956642",
+            "sentiment_compound": 0.7096
+        },
+        {
+            "id": "hpuie4k",
+            "score": 2,
+            "text": "Why would you amplify something that's been getting rammed down everyone throats none stop for 5 years now. The hive doesn't need amplified anymore. The world is so unhappy now how is this better?",
+            "title_similarity": "0.64468795",
+            "sentiment_compound": 0.1647
+        },
+        {
+            "id": "hpuihw9",
+            "score": 1,
+            "text": "Can we just ban all conservatives from social media already. They are too dangerous.",
+            "title_similarity": "0.4909086",
+            "sentiment_compound": -0.7717
+        },
+        {
+            "id": "hpuiu4k",
+            "score": 1,
+            "text": "The only people that believed that were conservatives",
+            "title_similarity": "0.30038756",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpuiwe0",
+            "score": 1,
+            "text": "It amplifies extremes. Any extreme, angry users engage longer than happy ones.",
+            "title_similarity": "0.36224544",
+            "sentiment_compound": 0.4158
+        },
+        {
+            "id": "hpujk3n",
+            "score": 1,
+            "text": "They don't care about facts. So ..... Time to even up the representation.",
+            "title_similarity": "0.18086609",
+            "sentiment_compound": -0.3875
+        },
+        {
+            "id": "hpujulh",
+            "score": 1,
+            "text": "If people bother to read the entire article, there is a lot of assumptions that are being made in the article. The purpose of amplification is to boost views to stuff that isn't seen as much, that way you get the most out of your content (the popular and unpopular stuff). If anything, they posted the bare minimum about the actual report and its details.",
+            "title_similarity": "0.5929453",
+            "sentiment_compound": 0.4767
+        },
+        {
+            "id": "hpujx76",
+            "score": 1,
+            "text": "Popular belief among whom? Conservatives?",
+            "title_similarity": "0.2797491",
+            "sentiment_compound": 0.4871
+        },
+        {
+            "id": "hpukh8a",
+            "score": 1,
+            "text": "\"I don't believe them, the scientists have an agenda\" - probably some guy on conservative twitter",
+            "title_similarity": "0.65122926",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpuklqp",
+            "score": 1,
+            "text": "You know what they say about statistics.",
+            "title_similarity": "0.20091142",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpul613",
+            "score": 1,
+            "text": "Because drama gets more attention that good governance, and the right is incredibly good at manufacturing outrage out of whole cloth.",
+            "title_similarity": "0.4179171",
+            "sentiment_compound": 0.469
+        },
+        {
+            "id": "hpumdnv",
+            "score": 1,
+            "text": "Cool, you should stop using it either way",
+            "title_similarity": "-0.023742026",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "hpumqwz",
+            "score": 1,
+            "text": "How do you control for the parties in power? With Trump and a few other conservative governments in power during the data collection how does that not show up in the results.",
+            "title_similarity": "0.6288834",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hpunea6",
+            "score": 1,
+            "text": "I feel it all boils down to conservatives being more outspoken and confrontational. They're just willing to go ar it without regards for other people's feelings, opinions, or social context",
+            "title_similarity": "0.44657046",
+            "sentiment_compound": -0.4336
+        },
+        {
+            "id": "hpuo5dq",
+            "score": 1,
+            "text": "Oh boy this will go down well on social media, which is by large dominated by far right agenda pushers and propagandist trolls.",
+            "title_similarity": "0.61421084",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hpuocs1",
+            "score": 1,
+            "text": "Who caaaaares what twitter does.",
+            "title_similarity": "0.26834053",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpuojbu",
+            "score": 1,
+            "text": "Oh and a reminder of why it's a \"popular belief\" that social media amplifies \"liberal\" voices: Because social media is dominated by conservative and far right agenda pushers, propagandists and underhanded trolls that have screamed that \"belief\" endlessly for years on end, unchallenged.",
+            "title_similarity": "0.7050377",
+            "sentiment_compound": 0.128
+        },
+        {
+            "id": "hpuokg0",
+            "score": 1,
+            "text": "This is actually surprising.",
+            "title_similarity": "-0.020576634",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hpuopo8",
+            "score": 1,
+            "text": "Who was popularly believing this???",
+            "title_similarity": "0.090512365",
+            "sentiment_compound": 0.5171
+        },
+        {
+            "id": "hpupdeo",
+            "score": 1,
+            "text": "\"Our algorithm is not biased\"\n\n\"Actually, it is biased\"",
+            "title_similarity": "0.17200509",
+            "sentiment_compound": -0.0736
+        },
+        {
+            "id": "hpurkhr",
+            "score": 1,
+            "text": "Contrary to popular belief among whom?  Anyone who has been paying any attention to social media over the past decade or two couldn't possibly come to any other conclusion than that it amplifies right-leaning vitriol and propaganda.",
+            "title_similarity": "0.69048476",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "hpuscp6",
+            "score": 1,
+            "text": "Republican messaging has always been better—seeing the world in black and white instead of multitudes of gray is infinitely easier to message",
+            "title_similarity": "0.42264783",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpusxzy",
+            "score": 2,
+            "text": "I am not sure Salon is the objective source I can trust for this.",
+            "title_similarity": "0.26818073",
+            "sentiment_compound": 0.3265
+        },
+        {
+            "id": "hputf37",
+            "score": 1,
+            "text": "Liberals have other interests that keep them in engaged online. Conservatives only have being conservative.",
+            "title_similarity": "0.52505606",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "hpuug5z",
+            "score": 1,
+            "text": "I think this has more to do with conservative arguments being simplistic, 4th grade framing of every problem, thus their appeal",
+            "title_similarity": "0.46367103",
+            "sentiment_compound": -0.6597
+        },
+        {
+            "id": "hpuutdh",
+            "score": 1,
+            "text": "Tell that to Bro Jogan.",
+            "title_similarity": "0.091435134",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpuuw3w",
+            "score": 1,
+            "text": "“Popular belief”? You mean conservative double-speak?",
+            "title_similarity": "0.37011355",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpuvddi",
+            "score": 1,
+            "text": "Moral panic spreads well and engages viewers. Lying about a source of moral panic allows new campaigns to be launched without waiting for an actual problem to occur.",
+            "title_similarity": "0.49899304",
+            "sentiment_compound": -0.8442
+        },
+        {
+            "id": "hpuvfrj",
+            "score": 1,
+            "text": "Algorithms favour controversy.\n\nIf somebody sees something and just likes it, it's okay.\n\nIf somebody seems something and reposts it, it's cool.\n\nBut they really want is for somebody to read something and then spend the entire next day just interact with the post or sender, whether it is through rage (\"how can you say that\") or through a bait ('is this real? I have to look into it and find more\").",
+            "title_similarity": "0.50508165",
+            "sentiment_compound": -0.0156
+        },
+        {
+            "id": "hpuwvim",
+            "score": 1,
+            "text": "This makes total sense; Twitter's user base is majority liberal and it's accepted that users are more likely to engage with content they oppose, ergo of course the algorithm favours prominence of conservative messages to trigger the maximum number of users into engagement.",
+            "title_similarity": "0.60270774",
+            "sentiment_compound": 0.8709
+        },
+        {
+            "id": "hpuwzbm",
+            "score": 1,
+            "text": "Surprising literally nobody with a functioning human brain.",
+            "title_similarity": "0.20247638",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hpuxj61",
+            "score": 1,
+            "text": "Anything to divide the masses. We truly aren't as free as we think we are sadly.",
+            "title_similarity": "0.31050155",
+            "sentiment_compound": -0.3822
+        },
+        {
+            "id": "hpuy4k1",
+            "score": 1,
+            "text": "This is what happens when they become a publicly traded company ¯\\_(ツ)_/¯",
+            "title_similarity": "0.35804617",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpuyr4y",
+            "score": 1,
+            "text": "This doesn't seem surprising in the slightest.",
+            "title_similarity": "-0.017939726",
+            "sentiment_compound": -0.2057
+        },
+        {
+            "id": "hpuz66x",
+            "score": 1,
+            "text": "\"liberal hoax science\", screamed every conservative simultaneously, with wearying predictably.",
+            "title_similarity": "0.53208655",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "hpv04an",
+            "score": 1,
+            "text": "There are less conservatives than liberals but, like toddlers, they yell the loudest, cry and say it's not fair when they don't get their way.",
+            "title_similarity": "0.46240884",
+            "sentiment_compound": -0.5176
+        },
+        {
+            "id": "hpv1jqn",
+            "score": 1,
+            "text": "I remember when I just used facebook to exchange notes and ask if anything was due tomorrow",
+            "title_similarity": "0.5284058",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpv1ogr",
+            "score": 1,
+            "text": "Just spitballing here…\n\nSeeing as it’s in Twitter’s, Facebook’s, and other social media platforms’ best interests to generate engagement and interaction, could it be that they show a user posts with which they calculate he or she will disagree? \n\nIs it possible each user is seeing more opinions with which he or she disagrees than agrees, regardless of the political identity of the user himself or herself?\n\nSince (I’m guessing) Twitter has more left-leaning users than right-leaning users, if my theory were true, Twitter would need to give the fewer right-leaning posts a boost to engage the interest of the majority left-leaning users.",
+            "title_similarity": "0.6690501",
+            "sentiment_compound": 0.9465
+        },
+        {
+            "id": "hpv2443",
+            "score": 1,
+            "text": "Says the reddit that banned me",
+            "title_similarity": "0.44477525",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hpv2vwe",
+            "score": 1,
+            "text": "Jack Dorsey is rich. Rich people are conservative. There's no surprise here for anyone who spends time on Twitter.",
+            "title_similarity": "0.59163743",
+            "sentiment_compound": 0.7496
+        },
+        {
+            "id": "hpv2y8n",
+            "score": 3,
+            "text": "Wait! Didn't twitter ban the account of a sitting Republican president? How that amplifying?",
+            "title_similarity": "0.67887866",
+            "sentiment_compound": 0.5538
+        },
+        {
+            "id": "hpv32b0",
+            "score": 2,
+            "text": "Who actually believes this? I'm not wasting hours of my time compiling conflicting studies or proving their data is faulty. No point in discrediting it, the moment we  have to respond to this dribble in a serious manner means they've already accomplished their job.\n\nIt's absurd that anyone could believe Twitter amplifies conservatives. There's no point in even polling conservatives, is there a single liberal who genuinely believes Twitter *isn't* a left wing safe-haven?",
+            "title_similarity": "0.665471",
+            "sentiment_compound": -0.5996
+        },
+        {
+            "id": "hpv3ppa",
+            "score": 1,
+            "text": "Makes sense. I could name six random nobodies who are only famous because they spout right wing stuff on Twitter all day. Even though I follow zero of them, they still show up in my feed through retweets of people fact checking or dunking on them\n\nI couldn't name one liberal counterpart to any of them besides that jeff Tedrich dope, and im 75% sure he's a bot",
+            "title_similarity": "0.7796945",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hpv9p19",
+            "score": 1,
+            "text": "It’s almost like right wingers have an unjustifiable victim complex, while simultaneously trying to victimize (own) the libs.",
+            "title_similarity": "0.37120354",
+            "sentiment_compound": -0.5256
+        },
+        {
+            "id": "hpva85j",
+            "score": 2,
+            "text": "XD thats not even close to true. Infact the new ceo is even more pro censorship.",
+            "title_similarity": "0.54894435",
+            "sentiment_compound": 0.8091
+        },
+        {
+            "id": "hpvacmp",
+            "score": 1,
+            "text": "Which one amplifies happiness and being kind to others?",
+            "title_similarity": "0.015391607",
+            "sentiment_compound": 0.7906
+        },
+        {
+            "id": "hpvadpq",
+            "score": 1,
+            "text": "Amplification can take different forms. And I'm sure they didn't count anger/hate responses to original posts, just the original posts.",
+            "title_similarity": "0.4442719",
+            "sentiment_compound": 0.7096
+        },
+        {
+            "id": "hpvjoml",
+            "score": 2,
+            "text": "Did they account for the possibility that there may be more conservative Twitter users than liberal users?",
+            "title_similarity": "0.57495683",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpvlnwb",
+            "score": 1,
+            "text": "How is that popular belief?",
+            "title_similarity": "0.09066617",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpvs9db",
+            "score": 1,
+            "text": "Of course. Give more attention to controversial posts by a minority opinion on a platform and you’ll generate more activity from and opposing majority when arguing their point thus driving up the cost of advertising space. Brilliant honestly. It’s like throwing food in into a hungry Koi Pond and profiting off the bubbles.",
+            "title_similarity": "0.5214145",
+            "sentiment_compound": 0.7806
+        },
+        {
+            "id": "hpvsgaf",
+            "score": 1,
+            "text": "Why did they replace Jack Dorsey?",
+            "title_similarity": "0.25822514",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpvv4n8",
+            "score": 2,
+            "text": "That's, not a popular belief. And the complain isn't who twitter amplifies. It amplifies whoever pays it the most. The complaint is that they selectively block conservatives due to the company's own liberal bias. This creates a feedback loop where conservatives flock to new conservatives, and get more conservative recommendations in turn.",
+            "title_similarity": "0.64581823",
+            "sentiment_compound": -0.8039
+        },
+        {
+            "id": "hpvwu4r",
+            "score": 1,
+            "text": "To believe any that you read in these forums is to   acquiesce.",
+            "title_similarity": "0.24067342",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpw0zjc",
+            "score": 1,
+            "text": "What do you mean with contrary to popular belief?",
+            "title_similarity": "0.06534126",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpw2wvc",
+            "score": 2,
+            "text": "My stance on Twitter remains unchanged from what it was before this study came out, which is that everyone should delete Twitter.",
+            "title_similarity": "0.48663062",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpw9wnf",
+            "score": 1,
+            "text": "“Well, it’s a different generation”",
+            "title_similarity": "-0.007131528",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpweuf3",
+            "score": 2,
+            "text": "I simply don’t believe this.  I’m pretty central and without a doubt I’m bombarded with left leaning posts",
+            "title_similarity": "0.2688828",
+            "sentiment_compound": 0.6497
+        },
+        {
+            "id": "hpwfbcf",
+            "score": 1,
+            "text": "Capitalism guarantees the worst and most suffering. Yes, still true.",
+            "title_similarity": "0.33117872",
+            "sentiment_compound": -0.4048
+        },
+        {
+            "id": "hpwfvc3",
+            "score": 2,
+            "text": "Uh, it amplifies everything and without manual intervention conservative posts might tend to get into spotlight being more controversial  (and twitter pop being overwhelmingly US left).\n\nBut then there is that lovely manual intervention, which is 100% US \"very very far left\".",
+            "title_similarity": "0.63843775",
+            "sentiment_compound": 0.6601
+        },
+        {
+            "id": "hpwgzf3",
+            "score": 1,
+            "text": "I’m not surprised, I have a Twitter account and the app installed on my phone but I never use it. Like never, the only time I’ve tweeted was back in 2016 when I was criticising the leave campaign for the brexit referendum. Yet I regularly get “recommended” tweets from some right wing biased “news” outlet and random anti vaxxers",
+            "title_similarity": "0.6639335",
+            "sentiment_compound": -0.909
+        },
+        {
+            "id": "hpwl15j",
+            "score": 1,
+            "text": "How is this contrary to popular opinion? I thought we all new this was the case.",
+            "title_similarity": "0.2950297",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hpwl8n6",
+            "score": 1,
+            "text": "This makes complete sense, i’m extremely left wing and i’m always getting these weird “based on your likes” tweets from trump thumping republican politicians, and i’m not even american",
+            "title_similarity": "0.68130815",
+            "sentiment_compound": -0.1779
+        },
+        {
+            "id": "hpwlt9y",
+            "score": 2,
+            "text": "Sure and really communism has never been tried",
+            "title_similarity": "0.2745396",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hpwneb7",
+            "score": 1,
+            "text": "So we've completely forgotten what advertisers did in the 70s and 80s.\n\nI mean...????\n\nIt just boggles my mind that we're right back in the *same trap!*",
+            "title_similarity": "0.50435674",
+            "sentiment_compound": -0.7192
+        },
+        {
+            "id": "hpwrms6",
+            "score": 1,
+            "text": "They scream louder for longer.\n\nDont let your hate run out, join twitter today!",
+            "title_similarity": "0.42583448",
+            "sentiment_compound": 0.4195
+        },
+        {
+            "id": "hpwtsq1",
+            "score": 1,
+            "text": "Because its filled with drama and entertainment. Whatever keeps you glued to the screen is the goal. Doesn’t matter if its outrage",
+            "title_similarity": "0.27556318",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "hpy1tq2",
+            "score": 1,
+            "text": "How are they defining \"liberal\" and \"conservative\" here?",
+            "title_similarity": "0.2822412",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hpy426u",
+            "score": 1,
+            "text": "Why are we still calling them conservatives? That last fiscal conservative President we had was Bill Clinton.",
+            "title_similarity": "0.58251595",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hq2ysbd",
+            "score": 1,
+            "text": "Is that the popular belief?",
+            "title_similarity": "0.08569053",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hqgkc16",
+            "score": 1,
+            "text": "I hate how it's like \"scientific study with extremely large pool of source info identifies one extremely obvious and easy to see political phenomena, politics that favor business are mainstream...\"  \n\n\nSmooth brain but cool and accurate science, I rejoice in the statistics myself.",
+            "title_similarity": "0.6552703",
+            "sentiment_compound": 0.8455
+        },
+        {
+            "id": "hs06qo7",
+            "score": 1,
+            "text": "Everyone know this. \n\nConservative stuff is based on fear and anger, those are the primary emotions in all things Conservative.    Fear and anger = more clicks.    Clicks = content is amplified more.",
+            "title_similarity": "0.4256322",
+            "sentiment_compound": -0.93
+        },
+        {
+            "id": "hsaedci",
+            "score": 1,
+            "text": "It's simple, those posts are more polarizing and get more engagement. The algorithm is doing what it's supposed to do to to help monetize the platform.",
+            "title_similarity": "0.43793476",
+            "sentiment_compound": 0.7178
+        },
+        {
+            "id": "hsilyze",
+            "score": 1,
+            "text": "ya i have seen Reddit becoming more and more of a right wing haven so this makes sense. Wish they would ban all right wing and right win adjacent reddits.",
+            "title_similarity": "0.59039766",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hsx4e0n",
+            "score": 1,
+            "text": "Natural law: 1.if it causes any being harm in any way its wrong \n2. Natural law is and always will be unchanged not a construction of man so cannot be manipulated \n3. The belief that man is generally good is right but the few who prop themselves up as masters (governments of the world) are toxic to true freedom and man's good nature they plant seeds of hatred to keep the mind off the truth THEY ARE OUR ENEMY not white or black or brown  these are colors the enemy of man is ignorance of natural law",
+            "title_similarity": "0.40549567",
+            "sentiment_compound": -0.0582
+        }
+    ]
+}

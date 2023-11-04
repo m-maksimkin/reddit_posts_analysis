@@ -1,0 +1,157 @@
+{
+    "CMV: Apps that require a subscription should not be listed as free in the App Store\nI mean the title really says it all. If an app is marked as ‘free’ that should mean it’s truly free, not a free trial before you have to pay a subscription.\nI know people will probably say to check the description for the subscription terms but sometimes the description of the app doesn’t even list that and you only find out until you download the app. \n\nI don’t see why the App Store shouldn’t force these companies to list the subscription price for the app instead of putting ‘free’ when we both know that’s a lie. Some people insist that the phrase ‘in app purchases’ covers this but I disagree. In app purchases imply extra things you can pay for to make the app or game easier, not to simply use the app at all. Think of candy crush; there’s a major difference between buying stuff in candy crush to help you advance levels vs paying a subscription to even USE the app in the first place. \n\nAlso other products that have free trials aren’t advertised as free. Think of various software; yeah they have a free trial but the price of their software is plain on their website, they don’t hide behind the word Free* with an asterisk.": [
+        {
+            "id": "htn3qa8",
+            "score": 1,
+            "text": "/u/carissadraws (OP) has awarded 1 delta(s) in this post.\n\nAll comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/s9jan2/deltas_awarded_in_cmv_apps_that_require_a/), in /r/DeltaLog.\n\nPlease note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.\n\n^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)",
+            "title_similarity": "0.497513",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "htn5b82",
+            "score": 1,
+            "text": "Clarifying question:\n\nIf you download one of these \"free\" apps (without looking closely enough to detect it's need for a subscription, say)... \n\nWhat loss have you actually incurred if it turns out not to be usable past a trial period?\n\nI would argue, zero. If it turning out that not being able to use an app cost you nothing... why isn't \"free\" a perfectly reasonable description?\n\nBasically: very nearly everyone defines \"free\" as \"free at the point of acquisition\", not \"free forever\". \n\nPeople talk about \"free healthcare\" all the time, even though intellectually they know that they pay for it through taxes. \n\n\"Free\" just doesn't mean anything other than the price to acquire something. It has nothing to do with the price to use it.\n\nIf a dealership gave you a \"free\" car, are you going to quibble that you have to spend money on gas and maintenance in order to use it for more than a little while?",
+            "title_similarity": "0.8504182",
+            "sentiment_compound": 0.9304
+        },
+        {
+            "id": "htmwsys",
+            "score": 0,
+            "text": "Do you often have a difficult time differentiating between apps that require subscriptions and apps that do not? So far, I've only had an issue with this once.\n\nOne time I attempted to download a palm reading app with some friends to see how it worked. Seems like a silly app. This app, once you opened it, prompted a free 7-day trial, then $19.99/week after the trial ended.\n\nThis is fucking insane, so I got the free trial, immediately cancelled, and found that - to their credit - it was an incredibly detailed app with tons of features. I had to take in-focus pictures of each fingerprint, along with various lines on my hands. I deleted it about an hour later.\n\nBut, outside of that one instance, I've never been surprised by a subscription. And, when I was, all I had to do was delete the app and download a different one. There are free palm reading apps out there.\n\nI sort of like the current system. It seems fine enough. If there's a subscription, you know that's a possibility due to the in-app purchases disclaimer. Plus, subscription apps (at least the ones requiring subscriptions) are typically free. That means, if I have something I don't want to get ads on or pay a subscription for, I look for an app that costs a couple bucks.",
+            "title_similarity": "0.72388285",
+            "sentiment_compound": 0.931
+        },
+        {
+            "id": "htoh9mh",
+            "score": 0,
+            "text": "As others have pointed out, Apps that have any sort of in-app purchases, including subscriptions, are no longer listed as \n\"free\" but rather \"get\" in the app store. Apple made this change 5+ years ago, well before subscriptions were even available. \n\n>I mean the title really says it all.\n\nGiven that subscription apps are **never** listed specifically as \"free\". I believe your title is flawed. What your title should say is \"apps that require a subscription should be listed with a larger and more easily discernible difference from apps with one-time in-app purchases in the app store\"\n\nIf that alternative title I suggested more accurately represents your view, then I have nothing to say to change it.",
+            "title_similarity": "0.79102147",
+            "sentiment_compound": 0.7929
+        },
+        {
+            "id": "hto0jgn",
+            "score": 1,
+            "text": "Consider an app like Netflix which you can only use via a subscription service. Should the appstore have a listing of all their subscription prices for these kinds of apps as well?",
+            "title_similarity": "0.64971966",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "htmzn34",
+            "score": 41,
+            "text": "You you have to get first is that the app store isn't built just for the end user. It's job is to squeeze as much money out as possible, so whatever they need to do to make you more likely to pay money to someone is what's gonna happen.    \n\nSo, based on that, let's look at the app store and follow the money. At the start, there were competing app stores, and still there are competing platforms, so they can't be downright unintuitive. The first apps were either free or paid, no subscriptions. The app stores formed based on that paradigm, and it was quickly found that apps that were paid hardly ever got downloaded in the first place, so they're on their way out. Designers found that once you downloaded their app, they now had more to work with outside of simple marketing materials. They could create a walkthrough, promise a free trial, and get you using the app before you paid for it. Users liked this, because **being able to try out an app before paying for it has legitimate value**, and they could use more marketing magic to try and convince you to pay them in the meantime. Put simply, **it lets app developers buy more time to get money from you.**   \n\nThe subscription model has, in the last decade, proven to be far more profitable than one-time payments. It's gone too far, imo, bc now everybody and their dog wants a subscription service added onto their business. Download rates are still used to determine app success to some degree, but it's been overshadowed by the growing usage of DAU (Daily Active Users) and other metrics of retention, since tons of people delete apps soon after they download them. Here's a [link](https://andrewchen.com/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/) where some venture capitalist is talking about how losing 80% of your users is now considered normal.    \n\nIt's all because they increased the process it takes to determine if you like an app, delayed your payment, and drew out the process of payment. It lets them spend more time convincing you and take more money out of you. Sure, they could have better organization of apps on the app store. They could also include walkthrough videos, links to youtube reviewers, more intuitive user reviews, and more comprehensive lists of their important features in the description. That would be in line with user's interests. But they'll only do as much of that that's necessary for you to download the app and try it out, because anything further that is completely against *their* interests.",
+            "title_similarity": "0.85640585",
+            "sentiment_compound": 0.9875
+        },
+        {
+            "id": "htnohvc",
+            "score": 2,
+            "text": "\"Free\" can be less confusing than an alternative. Take Netflix for example: if I already have the subscription, how should it be displayed to me? \"$x/mo\" or \"requires subscription\" or \"free trial, then subscription\" could all be valid descriptions, but it could make me question if there's an extra cost to using it on that device.\n\nI agree it should be clearer in the description, but if we're only talking about the short label/button, \"free*\" is not a terrible option and in fact accurately describes the app (to a certain extent or in some situations).",
+            "title_similarity": "0.8015967",
+            "sentiment_compound": 0.9492
+        },
+        {
+            "id": "htn9u7o",
+            "score": 3,
+            "text": "[deleted]",
+            "title_similarity": "0.099717356"
+        },
+        {
+            "id": "htmxph7",
+            "score": 21,
+            "text": "I would assume it's a software issue: the price listed is likely directly linked to the price that needs to be paid before the app can be installed - the subscription service, however, likely uses a different backend for payments made.\n\nIf that is true, and I'm honestly not sure whether it is, it would make sense - if the App Store cannot handle subscriptions on a technical level, it seems impractical to make the first payment there and subsequent ones through other means.",
+            "title_similarity": "0.8169161",
+            "sentiment_compound": 0.5911
+        },
+        {
+            "id": "htn41zk",
+            "score": 12,
+            "text": "Which App Store are you referring to // using? The Apple App Store has actually already made this change: apps with no up front cost, but which will cost you money later, now do NOT say “free”. They say “Get”. And there’s a line underneath that says “In-App Purchases”.\n\nI can’t comment on subscriptions specifically as I’ve never installed an app that had one.",
+            "title_similarity": "0.8724282",
+            "sentiment_compound": -0.1531
+        },
+        {
+            "id": "htn2z7x",
+            "score": 568,
+            "text": "So I happen to work for a company that created and runs support for such an app. The stated price in the app store is directly tied to the price to download the app. We can't change that. It may also show a subscription price, but that's again only if that subscription is managed through the app store. The problem is that the app store wants something like 30% of your money if you run a subscription through them. As it happens, we *don't* run our subscription through the app store, but rather through wordpress. All the app is is a viewport for a website. The website is technically the thing that requires the subscription and you don't technically need the app to use it, though that's how the vast majority of users interact with it.",
+            "title_similarity": "0.794289",
+            "sentiment_compound": 0.2617
+        },
+        {
+            "id": "htnurp6",
+            "score": 11,
+            "text": "There's a problem with your suggestion in that there's no way to separate \"the good guys\" and \"the bad guys.\"\n\nLook at the apps Mealime and MyFitnessPal - both are free apps that have *really good* and fully-featured, but also offer an optional subscription-based premium tier for power users. This is a *super* common monetization model called the \"Freemium\" model.\n\nHow should those apps be advertised? If you call them subscription apps, you're cutting away a *ton* of their potential users who just want a simple free app, which becomes a big problem for the businesses because most of their paid users are former free users who fell in love with the app and decided it was worth paying for. *EDIT: you're also preventing the free users who only want to use the free features from finding and using the app.*\n\nSo you need to be able to call those apps free - but that opens the system up to abuse, because now I can make a FreeGifEdit app that has a \"free\" tier of being able to look at 1 GIF a month and a \"premium\" tier of all the things you'd want in a Gif editing app (which is the sort of thing you're talking about in your post).\n\nSo do you require app developers to fully disclose their full business model to the app store, and to comply specifically to one of a handful of official Apple/Google-sanctioned business models? What about games that make money through cosmetics? Let's say I have a game that I'm working on where I'll monetize custom matches and hosting modded servers - that's not a common business model, so I wouldn't be able to honestly declare my intention through these stores.\n\n**TL;DR - monetization and pricing is pretty complex, and you're going to have to either screw over honest businesses or make room for dishonest ones to abuse your pricing declaration.**",
+            "title_similarity": "0.8608483",
+            "sentiment_compound": 0.9888
+        },
+        {
+            "id": "htovdnr",
+            "score": 1,
+            "text": "Usually apps say in app purchases",
+            "title_similarity": "0.46357346",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "htphh5z",
+            "score": 2,
+            "text": "I like how Shopify does this, by listing the app as Free Trial along with the number of days the trial lasts for.\n \nI'm not going to CYV because it's done by other companies in a smaller niche and is clearly better.",
+            "title_similarity": "0.72423214",
+            "sentiment_compound": 0.8934
+        },
+        {
+            "id": "htqkngy",
+            "score": 1,
+            "text": "I'm in the UK, we have free personal banking here, but business bank accounts often cost or accounts or there are often various types of optional personal account that may cost. Given more & more banking apps let you open an account in-app, where & how would these fit - and would it be fair to list them as subscription apps when most people don't use any subscription features?\n\nBTW, I'm playing devil's advocate here, I actually largely agree with you.",
+            "title_similarity": "0.73903507",
+            "sentiment_compound": 0.9153
+        },
+        {
+            "id": "htqnwtz",
+            "score": 1,
+            "text": "Ok so it's ok on Google Play Store?",
+            "title_similarity": "0.40414643",
+            "sentiment_compound": 0.7251
+        },
+        {
+            "id": "htqvnix",
+            "score": 1,
+            "text": "What do you propose as a change for this op? Would you rather instead of free it shows subscription based payments?",
+            "title_similarity": "0.6911844",
+            "sentiment_compound": 0.5661
+        },
+        {
+            "id": "htr3ois",
+            "score": 1,
+            "text": "Companies always seem to find a way around and restrictions or requirements we impose on them. \n\nRemember cookie-gate? Websites aren't allowed to put cookies on your machine unless you consent. So now everytime you browse onto a website you have to manually configure what cookies you want on your machine or not - a process that takes time and hassle, so what I, and I imagine many people just press 'accept', read the article and leave.\n\nIf there's money to be made, they'll find a way around any restrictions we impose, that's what I think.",
+            "title_similarity": "0.69103473",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "htr4lqz",
+            "score": 2,
+            "text": "There should be another tab that’s just for subscription apps",
+            "title_similarity": "0.59535134",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hv9kpwv",
+            "score": 1,
+            "text": "Free to download, that’s all that matters. \n\nPlus it would have some free services even if the main service required the subscription",
+            "title_similarity": "0.61627996",
+            "sentiment_compound": 0.7717
+        },
+        {
+            "id": "hvhczre",
+            "score": 1,
+            "text": "I haven't been this sober in 20 years",
+            "title_similarity": "0.2020511",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hvnny3z",
+            "score": 1,
+            "text": "It should say “Subscription Required” on the App Store",
+            "title_similarity": "0.5632752",
+            "sentiment_compound": 0.0
+        }
+    ]
+}

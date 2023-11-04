@@ -1,0 +1,2539 @@
+{
+    "Using data collected from around the world on illicit drugs, researchers trained AI to come up with new drugs that hadn't been created yet, but that would fit the parameters. It came up with 8.9 million different chemical designs\n": [
+        {
+            "id": "hkzv5e1",
+            "score": 4,
+            "text": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are now allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will continue be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) still apply to other comments.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "title_similarity": "0.59809595",
+            "sentiment_compound": 0.7088
+        },
+        {
+            "id": "hl090g7",
+            "score": 0,
+            "text": "Just because we can do something doesn’t mean we should do that thing.",
+            "title_similarity": "0.20047694",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0f9sf",
+            "score": 1,
+            "text": "Kids, drugs are bad, mmmkay!",
+            "title_similarity": "0.30789262",
+            "sentiment_compound": -0.5848
+        },
+        {
+            "id": "hl00l5t",
+            "score": 1,
+            "text": "I wonder if A.I can find a life extending drugs.",
+            "title_similarity": "0.42765993",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0r3mb",
+            "score": 1,
+            "text": "I'd say end the war on drugs, but we all know that the so-called war on drugs has nothing to do with helping people, and everything to do with money--another way to make the filthy rich richer and fund some illicit CIA activities on the side.\n\nOh, it also serves as yet another way to divide the people against themselves and distract them from the real oppressors.",
+            "title_similarity": "0.5451674",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hl090md",
+            "score": 18,
+            "text": "Look up all the “research chemicals” that give similar to the same effects as LSD and can come on tiny paper hits like LSD. \n\nOnly difference is you can’t OD on LSD but you can on these look alike a that are often sold as LSD. Honestly, this news doesn’t surprise me at all",
+            "title_similarity": "0.5544375",
+            "sentiment_compound": 0.8126
+        },
+        {
+            "id": "hl0d295",
+            "score": 7,
+            "text": "Wow that photo is… suggestive.",
+            "title_similarity": "0.032431222",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "hl07yyp",
+            "score": 7,
+            "text": "Drugs 2: electric drugaloo",
+            "title_similarity": "0.35788053",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0cozb",
+            "score": 2,
+            "text": "I'll take one for humanity and offer myself as a guinae pig",
+            "title_similarity": "0.18229052",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl169mf",
+            "score": -2,
+            "text": "Cool. Just tell liberals it's a treatment for covid and they will volunteer to take all of it.",
+            "title_similarity": "0.47121754",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hl0fdjw",
+            "score": 0,
+            "text": "Bonaroo is gonna be lit!",
+            "title_similarity": "0.1034119",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0fsfn",
+            "score": 0,
+            "text": "Yo guys new drugs dlc dropped.",
+            "title_similarity": "0.44304994",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0gfey",
+            "score": 0,
+            "text": "\"Designer drugs boy! Wave of the future!\"",
+            "title_similarity": "0.4257716",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0gnfg",
+            "score": 0,
+            "text": "and that’s how the world got soma",
+            "title_similarity": "0.13806827",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0gtw4",
+            "score": 0,
+            "text": "They could have just gone on ebay.",
+            "title_similarity": "0.35527006",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0h4rz",
+            "score": 0,
+            "text": "Great! Time to get some business started!",
+            "title_similarity": "0.19858289",
+            "sentiment_compound": 0.6892
+        },
+        {
+            "id": "hl0hi4y",
+            "score": 0,
+            "text": "Soooooo......when's the party?",
+            "title_similarity": "0.1744524",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hl0hk8p",
+            "score": 0,
+            "text": "you’ll want to gland this stuff with *expand*",
+            "title_similarity": "0.22153872",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "hl0hloo",
+            "score": 0,
+            "text": "The future is going to be lit",
+            "title_similarity": "0.07925551",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0j0of",
+            "score": 0,
+            "text": "do they need test subjects? cuz i'm totally down to be a test subject",
+            "title_similarity": "0.38735366",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0kywf",
+            "score": 0,
+            "text": "I volunteer as guinea pig.",
+            "title_similarity": "0.26044786",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0ldfg",
+            "score": 0,
+            "text": "I wonder if they used pikhal and tikhal (sp?) to train the models. If not, I’ll get left a bunch on the table. Rip Sasha shulgin.",
+            "title_similarity": "0.5380828",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0mgx9",
+            "score": 0,
+            "text": "This is how you get Soma.",
+            "title_similarity": "0.053971265",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0mwis",
+            "score": 0,
+            "text": "AI created drugs is the future!",
+            "title_similarity": "0.54883",
+            "sentiment_compound": 0.3164
+        },
+        {
+            "id": "hl0n76b",
+            "score": 0,
+            "text": "I’ll try some.  For science",
+            "title_similarity": "0.34306258",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0o9in",
+            "score": 0,
+            "text": "Welp.... only 8.899.999 new drugs to try. Better move my ass and get to work!",
+            "title_similarity": "0.6638011",
+            "sentiment_compound": -0.2244
+        },
+        {
+            "id": "hl0oup8",
+            "score": 0,
+            "text": "I'm wondering if there is another study being done, using this data, to rank them.",
+            "title_similarity": "0.3728941",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0ouyz",
+            "score": 0,
+            "text": "This seems like the perfect setup for a  \" \"Bad-Boys\" movie",
+            "title_similarity": "0.28627613",
+            "sentiment_compound": 0.7351
+        },
+        {
+            "id": "hl0p85r",
+            "score": 0,
+            "text": "Can you make AI figure out which ones are safe?",
+            "title_similarity": "0.30267122",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hl0plzc",
+            "score": 0,
+            "text": "Said researchers have since retired as bitcoin millionaires.",
+            "title_similarity": "0.36242777",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0pvns",
+            "score": 0,
+            "text": "I volunteer as tribute",
+            "title_similarity": "0.056088448",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0qb6j",
+            "score": 0,
+            "text": "Mr AI give me a new high.",
+            "title_similarity": "0.19330609",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0qbda",
+            "score": 0,
+            "text": "We are all going to be high flying in the future",
+            "title_similarity": "0.21287419",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0r2h3",
+            "score": 0,
+            "text": "Sackler family says what?!?",
+            "title_similarity": "0.08480679",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0rvn9",
+            "score": 0,
+            "text": "Yes. That's what r/researchchemicals is all about baby.",
+            "title_similarity": "0.33051103",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hl0s32p",
+            "score": 0,
+            "text": "Really looking forward to new ways I can trip balls in the future",
+            "title_similarity": "0.39978904",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0s3bc",
+            "score": 0,
+            "text": "LETS GOOOO!!!!!! New drugs",
+            "title_similarity": "0.39153868",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0sfix",
+            "score": 0,
+            "text": "At the rate of one “I want a new drug” a day, it would take just short of 24,400 *years* to try ‘em all.",
+            "title_similarity": "0.6077529",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hl0t3dh",
+            "score": 0,
+            "text": "Where can I get this AI?",
+            "title_similarity": "0.27038917",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0tdjb",
+            "score": 0,
+            "text": "Oh my god I’m so excited!",
+            "title_similarity": "-0.032524653",
+            "sentiment_compound": 0.623
+        },
+        {
+            "id": "hl0tl2j",
+            "score": 0,
+            "text": "That's a lot of testing for some interested party",
+            "title_similarity": "0.32149005",
+            "sentiment_compound": 0.6597
+        },
+        {
+            "id": "hl0tqbd",
+            "score": 0,
+            "text": "I am officially volunteering to try out new substances, ya know, for r/science",
+            "title_similarity": "0.5906805",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0tt38",
+            "score": 0,
+            "text": "Do they have IP rights to all of these? Kind of like those people who, as an experiment, try to generate every combination of musical notes and \"own\" all music.",
+            "title_similarity": "0.53144234",
+            "sentiment_compound": 0.2975
+        },
+        {
+            "id": "hl0tw5f",
+            "score": 0,
+            "text": "i just became very pro AI.",
+            "title_similarity": "0.22582653",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0u06d",
+            "score": 0,
+            "text": "Can't wait to get on the test subject list to try those",
+            "title_similarity": "0.4352699",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0uyre",
+            "score": 0,
+            "text": "I created one that's 3 parts Dimitri 1000 parts saline. I call it \"THIRST\".....",
+            "title_similarity": "0.36187276",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "hl0v58y",
+            "score": 0,
+            "text": "Damn nice. Now how do I get some",
+            "title_similarity": "-0.0036590043",
+            "sentiment_compound": 0.0258
+        },
+        {
+            "id": "hl0v7t3",
+            "score": 0,
+            "text": "This is an important new article but I can't un-see this pic...Ahegao face.",
+            "title_similarity": "0.40110773",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "hl0w8sv",
+            "score": 0,
+            "text": "That photo tho… r/realahegao",
+            "title_similarity": "0.06718777",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl15fh0",
+            "score": 0,
+            "text": "Thank god, we need some good new drugs.",
+            "title_similarity": "0.4684049",
+            "sentiment_compound": 0.7579
+        },
+        {
+            "id": "hl15r1h",
+            "score": 0,
+            "text": "I have friends who are ready to try all of them.",
+            "title_similarity": "0.1958117",
+            "sentiment_compound": 0.6808
+        },
+        {
+            "id": "hl1614a",
+            "score": 0,
+            "text": "In  NZ  we had that problem where a safe party drug was made and licensed.  Then some cheep nock off showed up and started killing people so now all party pills are banned",
+            "title_similarity": "0.5725165",
+            "sentiment_compound": -0.3687
+        },
+        {
+            "id": "hl16afp",
+            "score": 0,
+            "text": "I am so ready for AI designer drugs",
+            "title_similarity": "0.4319687",
+            "sentiment_compound": 0.5009
+        },
+        {
+            "id": "hl16ati",
+            "score": 0,
+            "text": "So where is the signup for gennypigs to test these new compounds ?",
+            "title_similarity": "0.578036",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl16xxm",
+            "score": 0,
+            "text": "This is also the topic of [Hamilton's Pharmacopeia episode \"Ultra LSD\"](https://www.imdb.com/title/tt14099154/).",
+            "title_similarity": "0.5135528",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl17wv4",
+            "score": 0,
+            "text": "Yeah science! Can’t wait for AI developed drugs what a time to be alive.",
+            "title_similarity": "0.5677916",
+            "sentiment_compound": 0.6239
+        },
+        {
+            "id": "hl17zxo",
+            "score": 0,
+            "text": "Did they finally produce an Alexander Shulgin AI!!??",
+            "title_similarity": "0.31851038",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl186g3",
+            "score": 0,
+            "text": "Anyone got a link to a web page listing the cool new chemicals\n\nAnyone got another link where an AI can come up with cool names to market them under?",
+            "title_similarity": "0.6035356",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "hl18am8",
+            "score": 0,
+            "text": "That's a lot of drugs!!",
+            "title_similarity": "0.26079908",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl18tr3",
+            "score": 0,
+            "text": "I’m going to need this list for research purposes.",
+            "title_similarity": "0.36447346",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl19kd5",
+            "score": 0,
+            "text": "Which one do we try first?   \n\n(Insert Covid vaccine joke here, you know you wanna)",
+            "title_similarity": "0.4683796",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "hl19kn0",
+            "score": 0,
+            "text": "I volunteer as tribute",
+            "title_similarity": "0.056088448",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1a0d8",
+            "score": 0,
+            "text": "What a time to be alive",
+            "title_similarity": "-0.011235515",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "hl1b2aq",
+            "score": 0,
+            "text": "Let's get to work everybody",
+            "title_similarity": "0.10402675",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1b76c",
+            "score": 0,
+            "text": "Finally. The robots working *for* us.",
+            "title_similarity": "0.35875952",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1bva7",
+            "score": 0,
+            "text": "I'ma need the data for that one, for verification purposes of course.",
+            "title_similarity": "0.3177415",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1c52c",
+            "score": 0,
+            "text": "And this is useful because....?",
+            "title_similarity": "-0.019480942",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hl1dwxo",
+            "score": 0,
+            "text": "Isn’t this just called drug design? Every company that makes new drugs does this",
+            "title_similarity": "0.67011636",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1i0sk",
+            "score": 0,
+            "text": "This is an exciting time for sure.",
+            "title_similarity": "0.02793938",
+            "sentiment_compound": 0.6705
+        },
+        {
+            "id": "hl2p8vh",
+            "score": 0,
+            "text": "Committing a cardinal sin for this sub by not reviewing the original article, but I would suggest taking these results with a grain (minimum) of salt. They used chemical structures of existing drugs of abuse to generate other structures for potential drugs of abuse. \n\nThe problem I see is that the relevant CNS receptors (targets of these drugs of abuse) seem to have been ignored here, and the receptor-ligand interaction makes a massive difference in the ultimate behavioral/phenomenological effect of the ligand in question.\n\nConsider LSD, a type of ergoline. There are remarkably few chemical modifications that can be made to LSD that also preserve its hallucinogenic properties. These modified compounds may still bind with comparable affinity to 5-HT2A (main receptor implicated in the hallucinogenic effects of substances like LSD, mescaline, and psilocybin), but do not produce any hallucinogenic effects. An example comes to mind, namely erogotamine, which is chemically very similar to LSD, binds with high affinity to 5-HT2A, but has no hallucinogenic effects. In fact, ergotamine is used in the treatment of migraines.\n\nPoint being it’s really difficult to predict the subjective effects of a psychotropic compound from chemical structure alone. That being the case I would approach their results with skepticism, but also optimism. Neural network can be a powerful tools in the right situations, and I can only assume they’ll have more and more to offer neuroscience as our models (and, by implication, our understanding) of the brain’s various functions become more sophisticated.",
+            "title_similarity": "0.618555",
+            "sentiment_compound": -0.9622
+        },
+        {
+            "id": "hl3nczb",
+            "score": 0,
+            "text": "Very click-batey headline like you would see in r/Futurology",
+            "title_similarity": "0.28458872",
+            "sentiment_compound": 0.4144
+        },
+        {
+            "id": "hl07du6",
+            "score": 9,
+            "text": "Bots please release them drugs",
+            "title_similarity": "0.39951986",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hl0q43y",
+            "score": 5,
+            "text": "I'll die way before this but one of my dreams is tasting fruit from other planets and taking drugs from those other planets. Woooohoooo alien substances",
+            "title_similarity": "0.6020142",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hl0b7lk",
+            "score": 1,
+            "text": "And when will we see these variations in production?",
+            "title_similarity": "0.21424507",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0c79i",
+            "score": 1,
+            "text": "Nice! I do need some variety.",
+            "title_similarity": "0.09572016",
+            "sentiment_compound": 0.4753
+        },
+        {
+            "id": "hl0dz90",
+            "score": 1,
+            "text": "I would like to buy this AI for $3.50.",
+            "title_similarity": "0.2881785",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl0e66g",
+            "score": 1,
+            "text": "Where I sign up to test these out?",
+            "title_similarity": "0.30775464",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0egpm",
+            "score": 1,
+            "text": "And I want to try them all",
+            "title_similarity": "0.11868024",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hl0gjq4",
+            "score": 1,
+            "text": "Omg please don't tell me governments are going to start banning chemicals all willy Nelly without knowing anything about them, or there possible unknown health benefits.",
+            "title_similarity": "0.54448915",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "hl0h0l7",
+            "score": 1,
+            "text": "Here’s a use case for AI, like it needed another but hell ya.. sweet AI!",
+            "title_similarity": "0.39311132",
+            "sentiment_compound": -0.4482
+        },
+        {
+            "id": "hl0h14z",
+            "score": 1,
+            "text": "Which is the one that has the same effects as cocaine but is non addictive?",
+            "title_similarity": "0.38677603",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0jqsq",
+            "score": 1,
+            "text": "Hook this straight into my veins!  Wait...",
+            "title_similarity": "0.19499135",
+            "sentiment_compound": 0.2942
+        },
+        {
+            "id": "hl0k9wq",
+            "score": 1,
+            "text": "I want the drug scene from altered carbon",
+            "title_similarity": "0.46121407",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hl0t7yr",
+            "score": 1,
+            "text": "I think I just heard /r/drugs collectively orgasming",
+            "title_similarity": "0.31689534",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl15l62",
+            "score": -1,
+            "text": "Force people to take illicit drugs and call them vaccines; no one will take them. Science",
+            "title_similarity": "0.58596635",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hl172l3",
+            "score": 1,
+            "text": "Gain of function research?\n\nTechnically?\n\nMolly? Nope. COVID 3.0!",
+            "title_similarity": "0.31392425",
+            "sentiment_compound": 0.6407
+        },
+        {
+            "id": "hl1at6b",
+            "score": -1,
+            "text": "[deleted]",
+            "title_similarity": "-0.048880275"
+        },
+        {
+            "id": "hl1bpma",
+            "score": 1,
+            "text": "Now they can put legal restrictions on 8.9 million different chemical designs that have not been created yet. Progress!",
+            "title_similarity": "0.7891636",
+            "sentiment_compound": 0.4314
+        },
+        {
+            "id": "hl1e8gy",
+            "score": 1,
+            "text": "Maybe ask it how to cure cancer etc? Seems like a better goal?",
+            "title_similarity": "0.46290338",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1hubg",
+            "score": 1,
+            "text": "This is what Scientists are doing these days?",
+            "title_similarity": "0.34085244",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0br8j",
+            "score": 9,
+            "text": "I mean seeing insanely popular stuff like 3MMC was invented in 2011, we have a whooole lot of new drugs to try out, exciting times",
+            "title_similarity": "0.60401386",
+            "sentiment_compound": 0.8176
+        },
+        {
+            "id": "hl0btct",
+            "score": -2,
+            "text": "How about they do this for cancer cure instead?  Or pain relief that works?  Or weight loss drugs?",
+            "title_similarity": "0.51310563",
+            "sentiment_compound": -0.8146
+        },
+        {
+            "id": "hl15obm",
+            "score": -2,
+            "text": "And you losers thought the scientitions would never grow up to be cool",
+            "title_similarity": "0.36270523",
+            "sentiment_compound": -0.2732
+        },
+        {
+            "id": "hl0510s",
+            "score": 21,
+            "text": "Make some that doesnt make you dumb and can use often!",
+            "title_similarity": "0.24674943",
+            "sentiment_compound": 0.4577
+        },
+        {
+            "id": "hl09mri",
+            "score": -13,
+            "text": "I wouldn‘t recommend trying that. My friends friend got psychosis from every single one of them. Drugs are dangerous and illegal for a reason!",
+            "title_similarity": "0.5376556",
+            "sentiment_compound": 0.3382
+        },
+        {
+            "id": "hl0a97g",
+            "score": 21,
+            "text": "huey lewis and the news approve.",
+            "title_similarity": "0.1618828",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0754w",
+            "score": 120,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl0gi0k",
+            "score": 10,
+            "text": "> The vast majority of these designer drugs have never been tested in humans\n\nAlexander Shulgin: Hold my beer\n\n(RIP)",
+            "title_similarity": "0.4537164",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0bip5",
+            "score": 189,
+            "text": "How far are we away from designer drugs designed specifically for each individual person? Both therapeutic and recreational?",
+            "title_similarity": "0.507251",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0de0i",
+            "score": 58,
+            "text": "As somebody who has worked in medicinal chemistry, I'm surprised the AI ONLY came up with 8.9 million designs. There are almost infinite possibilities for drug compounds (even considering that there are many criteria that they have to meet). This kind of thing gets tried pretty often and has a lot of problems that need to be sorted. Are the compounds the right shape? Size? Are there enough flat carbons? How many nitrogen/oxygen atoms are there? How many hydrogen bonding interactions are there? Are they soluble in water, but not TOO soluble in water? Are they toxic? Are they biologically active at all? Can they be cleared by the liver/kidneys without damaging them? Can they be synthesized efficiently (or at all)? The list of requirements goes on and on. It is pretty trivial to come up with an infinite list of possible structures, but it is actually a massive problem trying to figure out which compounds in that list have any chance of being any good. AI is potentially a great tool for solving this problem, but I don't think we're quite there yet. Good to see people working on it though.",
+            "title_similarity": "0.75628996",
+            "sentiment_compound": 0.9844
+        },
+        {
+            "id": "hl0dtvv",
+            "score": 59,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl0h71x",
+            "score": 36,
+            "text": "Soooo, these analogues are based on existing drugs with known effects. So what are the odds of a drug created for unique effects? A drug that extends the sensation of orgasm or a drug that made every touch feel like a kiss of warm wind?",
+            "title_similarity": "0.5416479",
+            "sentiment_compound": 0.8426
+        },
+        {
+            "id": "hl0ffrl",
+            "score": 121,
+            "text": "Computational drug design prints out millions of hits. They need to be rescreened several times, and a tiny, tiny portion of them are even biocompatible. \n\nYou’d be lucky if you got 3 of them through to human subjects. \n\nLook up Schrodinger’s softwares. They have a huge suite dedicated to this exact thing.",
+            "title_similarity": "0.62589574",
+            "sentiment_compound": 0.7964
+        },
+        {
+            "id": "hl021mq",
+            "score": 841,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl0b67f",
+            "score": 18,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl1b8r2",
+            "score": 20,
+            "text": "The headline is very misleading. For my masters project I synthesised a load of chemicals that a similar model had proposed for targeting a selected receptor. None of them were as good as the original structure and a lot just didn’t work, we were able to learn a bit about what parts of the structure were key though. Turns out nature has done a lot of the optimisation already",
+            "title_similarity": "0.7077243",
+            "sentiment_compound": 0.5868
+        },
+        {
+            "id": "hkzvjpi",
+            "score": 113,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl0bwjn",
+            "score": 121,
+            "text": "Link to the actual paper : [https://www.nature.com/articles/s42256-021-00407-x](https://www.nature.com/articles/s42256-021-00407-x) \n\nPreprint downloadable version https://chemrxiv.org/engage/chemrxiv/article-details/60c7591bf96a0058f0288f5e",
+            "title_similarity": "0.39204752",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hkzzfkr",
+            "score": 4297,
+            "text": "How does legislation/regulation work around this?   If you invent a new drug that isn't specifically listed as a regulated/scheduled substance -- are you free to use and distribute it to your hearts content until legislation catches up?\n\n— \n\nThanks to the million commenters who wanted to enlighten me  - too many for me to reply on each - but thx.",
+            "title_similarity": "0.75393856",
+            "sentiment_compound": 0.8888
+        },
+        {
+            "id": "hl05z38",
+            "score": 7001,
+            "text": "This only predicts potential structures - some or even all of these drugs might not be psychoactive whatsoever, let alone interesting for recreational or medical usage.",
+            "title_similarity": "0.4998928",
+            "sentiment_compound": 0.1779
+        },
+        {
+            "id": "hl04deb",
+            "score": 322,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hkzvujk",
+            "score": 130,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl03ldq",
+            "score": 7,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl041o2",
+            "score": 8,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl05wm2",
+            "score": 29,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl087xi",
+            "score": 135,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl0aka4",
+            "score": 1,
+            "text": "Ah yes, The Parameters",
+            "title_similarity": "-0.08952952",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hl0dp6k",
+            "score": 2,
+            "text": "I guess it would be a little harder to design an ai to predict how the drug would affect a person",
+            "title_similarity": "0.56143063",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0ezsq",
+            "score": 1,
+            "text": "This is a regular part of any drug development pipeline. Software has been doing this for a while",
+            "title_similarity": "0.44834378",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0fxmn",
+            "score": 1,
+            "text": "Why are they researching this? Sounds fishy.",
+            "title_similarity": "0.27531007",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0g6j3",
+            "score": 1,
+            "text": "If nothing else encouraging, it shows what you can do if you're creative with Getty images, the images, thank you Dazeley.",
+            "title_similarity": "0.36497024",
+            "sentiment_compound": 0.3867
+        },
+        {
+            "id": "hl0hpdk",
+            "score": 1,
+            "text": "where the link to the actal article - this is an emagazine",
+            "title_similarity": "0.1063515",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0hr5y",
+            "score": 1,
+            "text": "Why does every article about designer drugs feature a picture of a person sticking their tongue out with a pill on it.",
+            "title_similarity": "0.5973358",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0hum7",
+            "score": 3,
+            "text": "Well are they gonna share the recipes or not?",
+            "title_similarity": "0.28840482",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "hl0iigg",
+            "score": 1,
+            "text": "Who is funding this research? This is a real question.",
+            "title_similarity": "0.33349726",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0jnb0",
+            "score": 2,
+            "text": "The most clickbait photo ever.",
+            "title_similarity": "0.2437234",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0jomg",
+            "score": 2,
+            "text": ">The computer, a deep neural network, had come up with more than 175 of the drugs.\n\nSo..176?",
+            "title_similarity": "0.610339",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0k9t3",
+            "score": 1,
+            "text": "This would also be interesting to try with known beneficial drugs that happen to be chemically similar to other receptors that are bodies already have. \n\nFor instance the active ingredient in Wellbutrin is chemically similar to another enzyme in our body, so some people can have a bad allergic reaction when it binds with the wrong receptor. \n\nHowever if we could use this sort of technique to get the same drug effect with a chemically unique formula that would not bind with unintended receptors then we could really start making progress towards doing away with bad side effects.",
+            "title_similarity": "0.61960995",
+            "sentiment_compound": -0.235
+        },
+        {
+            "id": "hl0lmbo",
+            "score": 1,
+            "text": "What did the AI say about the likeliness of finding the 175 drugs that already existed? Where they at the top of the list? If they were that would say something about the accuracy of the likeliness of the other predicted non-existing drugs.",
+            "title_similarity": "0.6897993",
+            "sentiment_compound": 0.2869
+        },
+        {
+            "id": "hl0m8ob",
+            "score": 1,
+            "text": "that’s a slightly provocative image for the science sub. just sayin.",
+            "title_similarity": "0.438074",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0nyz1",
+            "score": 1,
+            "text": "And 3/4 will kill you probs",
+            "title_similarity": "0.20866947",
+            "sentiment_compound": -0.6908
+        },
+        {
+            "id": "hl0o74i",
+            "score": 2,
+            "text": "The concept is cool but that number is pretty useless.",
+            "title_similarity": "0.21488935",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hl0omal",
+            "score": 1,
+            "text": "This sounds like a good way to get wiped out by AI…",
+            "title_similarity": "0.34875554",
+            "sentiment_compound": 0.6597
+        },
+        {
+            "id": "hl0p7mq",
+            "score": 1,
+            "text": "Yeah, this will turn out well.\n\nWonder if they're \"modeling\" long-term effects, etc.",
+            "title_similarity": "0.27546585",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "hl0soul",
+            "score": 1,
+            "text": "Whether it's chemistry, grammar, comedy sketch scripts, or a wide variety of other tasks, AI is basically \"let's show these monkeys a bunch of books, and THEN tell them to start typing.\" The results are generally worthless. Just like all these articles about it.",
+            "title_similarity": "0.53593224",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hl0t3nh",
+            "score": 1,
+            "text": "Superconductors don't heat up at all. That simple.",
+            "title_similarity": "0.16202481",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl0wpo2",
+            "score": 1,
+            "text": "Potentially interesting as a machine learning exercise in the process of getting the structures (I don't know, not knowledgeable in ML), but the actual output of structures is really not interesting. Gets buzz for the subject matter though. The structures shown all fall within the guidelines of obvious to a \"person having ordinary skill in the art\". The ketamine example highlights that perfectly- changing the substituents on the phenyl group is literally the first thing anyone would do if they were tasked with making ketamine derivatives. The computational chemists at any pharma company do very, very similar things every day.",
+            "title_similarity": "0.6677524",
+            "sentiment_compound": 0.67
+        },
+        {
+            "id": "hl0xfa2",
+            "score": 1,
+            "text": "> The model did more than just identify the structures; it also was able to predict which were more likely to appear in the marketplace.\n\nThis is what i find most interesting, the mix of synthetic feasibility and possible analogues. Like another comment said this is something that is not that crazy considering the restrictions on what can be changed (an educated intern can do this work) the interesting part is the shear scale. If this is applied to medical patents it's kind of game breaking for an entire pharmaceutical sector ( best in class).\n\nI find a *regulatory* breakthrough a bit of a sad event though, as if patents didn't have enough control already.",
+            "title_similarity": "0.7430182",
+            "sentiment_compound": 0.8841
+        },
+        {
+            "id": "hl11i0x",
+            "score": 2,
+            "text": "2022 is looking brighter every day!",
+            "title_similarity": "0.118344106",
+            "sentiment_compound": 0.4389
+        },
+        {
+            "id": "hl16st8",
+            "score": 1,
+            "text": "This likely going to be used to preclude huge swaths of drugs because they mimic something already on the schedule restriction list\n\nRule of default exclusion, rather than inclusion",
+            "title_similarity": "0.52015597",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hl175na",
+            "score": 1,
+            "text": "This is already a thing that humans do in chemistry research using algorithms and basic math. The test isnt whether or not the physics checks out, but whether or not the reaction will ACTUALLY produce the chemical.\n\nI do want to say, this is super cool and will definitely be a very important tool for chemical engineers, it's just not like \"we\" havent already been doing this. A good comparison I like to make is people being impressed by AI's computing power is like being impressed that a bulldozer can lift more than you can.",
+            "title_similarity": "0.6960796",
+            "sentiment_compound": 0.986
+        },
+        {
+            "id": "hl17x5x",
+            "score": 5,
+            "text": "*Huey Lewis and the News would like to know your location*",
+            "title_similarity": "0.3964649",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl18igp",
+            "score": 1,
+            "text": "I would have thought to put medicine in it instead, but that's just me",
+            "title_similarity": "0.45048493",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl18kos",
+            "score": 1,
+            "text": "getting Dr.Mario vibes.",
+            "title_similarity": "0.35902658",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1c8b4",
+            "score": 1,
+            "text": "And how do we get a hold of that list?",
+            "title_similarity": "0.20674548",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1cbsl",
+            "score": 1,
+            "text": "I’m interested to volunteer test them",
+            "title_similarity": "0.22467291",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hl1d3xd",
+            "score": 2,
+            "text": "w00t! The ChemMaker movement is at hand!",
+            "title_similarity": "0.12970455",
+            "sentiment_compound": 0.7896
+        },
+        {
+            "id": "hl1d9nc",
+            "score": 2,
+            "text": "Why are so many top comments deleted?",
+            "title_similarity": "0.27754945",
+            "sentiment_compound": 0.2682
+        },
+        {
+            "id": "hl1dc1u",
+            "score": 1,
+            "text": "A LOT of these compounds will be quite difficult to make, or the precursors wildly expensive. \n\nIt’s big business to produce these “legal” analogs though, and producers don’t need AI to know they’ve got tons of options to make small changes. \n\nThe risks come when people buy these not knowing they are wildly untested. What are the physiological and psychological effects of some obscure drug analog that’s never been tested? \n\nThalidomide is a great example. The molecule has two forms, essentially mirror images of each other (identical chemical and structural makeup - think like your two hands). One helps with morning sickness, the other causes crippling deformities. What’s to say some nuanced difference in the chemical will create a strong adverse side effect? Of course this will vary WILDLY with different molecules (some with small changes may see no change in physiological/psychological impact), but it’s a big cause for concern. \n\nDon’t do drugs kids!!",
+            "title_similarity": "0.65736806",
+            "sentiment_compound": 0.6056
+        },
+        {
+            "id": "hl1e4l2",
+            "score": 1,
+            "text": "Now let's do this on brand name drugs, then we can produce them under a generic label to lower prices.",
+            "title_similarity": "0.55659235",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hl1ehey",
+            "score": 1,
+            "text": "I volunteer as tribute!",
+            "title_similarity": "0.050608665",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1eqbw",
+            "score": 1,
+            "text": "Omg, that‘s discussing, where can I download the recipes",
+            "title_similarity": "0.3488145",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1f0i6",
+            "score": 1,
+            "text": "I would like the Ultra Weed please",
+            "title_similarity": "0.2628484",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "hl1fd6i",
+            "score": 1,
+            "text": "Can I have the recipes?",
+            "title_similarity": "0.25463554",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1fdpp",
+            "score": 1,
+            "text": "Ohh boy, top 2 comment threads are deleted.",
+            "title_similarity": "0.18883823",
+            "sentiment_compound": 0.2023
+        },
+        {
+            "id": "hl1fomm",
+            "score": 1,
+            "text": "I’m willing to be the lab rat",
+            "title_similarity": "0.41046315",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1fukn",
+            "score": 1,
+            "text": "I'd like to try them and post my reviews here please",
+            "title_similarity": "0.20583668",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "hl1fv2v",
+            "score": 1,
+            "text": "Well this AI doesn't sound very smart. A smart a I would have told us what the least amount of the chemicals we need to combine together to make one of these Wonder drugs. I mean who cares if there's over 8 million combinations if all I need is salt baking soda and pepper.",
+            "title_similarity": "0.6537191",
+            "sentiment_compound": 0.6797
+        },
+        {
+            "id": "hl1fzj8",
+            "score": 1,
+            "text": "I wonder if this could be used to find an opiate substitute that kills pain but doesn't cause addiction or constipation",
+            "title_similarity": "0.5250644",
+            "sentiment_compound": -0.5267
+        },
+        {
+            "id": "hl1g04e",
+            "score": 2,
+            "text": "I want super drugs available when I die for a painless Grand exit of pleasure and fun and amazement..\nMorphine can't do this, and there's no God waiting on the other side either..  SUPERDRUGS!",
+            "title_similarity": "0.5099758",
+            "sentiment_compound": 0.938
+        },
+        {
+            "id": "hl1g3lh",
+            "score": 1,
+            "text": "Damn I picked the wrong decade to get clean.",
+            "title_similarity": "0.39599806",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hl1ghcz",
+            "score": 1,
+            "text": "It's a Brave New World",
+            "title_similarity": "0.1254119",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "hl1gndv",
+            "score": 1,
+            "text": "Why would someone do that if not involved in the illicit drug trade. Not a good look science.",
+            "title_similarity": "0.48787558",
+            "sentiment_compound": -0.3412
+        },
+        {
+            "id": "hl1gpy5",
+            "score": 1,
+            "text": "Next summer is going to be wild",
+            "title_similarity": "0.2284481",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1gsqs",
+            "score": 1,
+            "text": "Shulgin would be proud",
+            "title_similarity": "-0.0010004463",
+            "sentiment_compound": 0.4767
+        },
+        {
+            "id": "hl1hia5",
+            "score": 1,
+            "text": "Are they looking for testers?",
+            "title_similarity": "0.37040535",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1iazb",
+            "score": 1,
+            "text": "2022 is gonna be wild!",
+            "title_similarity": "0.19074407",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1ib6s",
+            "score": 1,
+            "text": "Well played Drugs, great finishing move on winning that war against you.",
+            "title_similarity": "0.48976004",
+            "sentiment_compound": 0.7964
+        },
+        {
+            "id": "hl1ifa5",
+            "score": 1,
+            "text": "Oh my god it's like how the immune system has a register of all possible diseases that could come infect the body that's amazing. Or at least, the intent behind it feels similar.",
+            "title_similarity": "0.6007316",
+            "sentiment_compound": 0.8625
+        },
+        {
+            "id": "hl1ifk7",
+            "score": 1,
+            "text": "Looking forward to those 3 million variations of DMT.",
+            "title_similarity": "0.2266216",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1ihi8",
+            "score": 1,
+            "text": "Here's a better article on it. https://www.med.ubc.ca/news/ubc-researchers-train-computers-to-predict-the-next-designer-drugs/\n\nAnd a link to the actual paper. https://www.nature.com/articles/s42256-021-00407-x",
+            "title_similarity": "0.67175204",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hl1ilut",
+            "score": 1,
+            "text": "They could have skipped the AI and just taken a blood sample from Dr. Timothy Leary before he died.  That probably had several thousand undocumented and therefore still legal psych drug samples in it.",
+            "title_similarity": "0.70632136",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hl1iqt4",
+            "score": 1,
+            "text": "give me a call when the limitless drug has been made",
+            "title_similarity": "0.37752846",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1iun7",
+            "score": 1,
+            "text": "And the best featured image to reflect that was a woman with a tongue piercing. Not click bait at all.",
+            "title_similarity": "0.2687359",
+            "sentiment_compound": 0.6369
+        },
+        {
+            "id": "hl1j40j",
+            "score": 1,
+            "text": "Dan Carlin would be proud.",
+            "title_similarity": "0.039439034",
+            "sentiment_compound": 0.4767
+        },
+        {
+            "id": "hl1jrau",
+            "score": 1,
+            "text": "Can they make one that better treats my anxiety and depression? That seems useful.",
+            "title_similarity": "0.34945887",
+            "sentiment_compound": 0.1027
+        },
+        {
+            "id": "hl1k6h0",
+            "score": 1,
+            "text": "Bring it on science, make us happy again.",
+            "title_similarity": "0.3073173",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "hl1kb35",
+            "score": 1,
+            "text": "Where can I get them?\n\n3d printer.",
+            "title_similarity": "0.37642923",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1khgs",
+            "score": 1,
+            "text": "Why not just criminalize anything that makes humans feel good but can not turn a profit for governments, corporations or drug companies?\n\nThat’s usually the bottom line for drug laws.  If people enjoy taking it but it can’t be monetized, declare it inherently dangerous and arrest those who possess it.  This has worked really well over the past 50 years.",
+            "title_similarity": "0.68790686",
+            "sentiment_compound": -0.2546
+        },
+        {
+            "id": "hl1kiyd",
+            "score": 1,
+            "text": "Oh, let’s try them all!",
+            "title_similarity": "0.07627765",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1kle9",
+            "score": 2,
+            "text": "Some side effects include permanent death immediately",
+            "title_similarity": "0.27600902",
+            "sentiment_compound": -0.5994
+        },
+        {
+            "id": "hl1ksey",
+            "score": 1,
+            "text": "Can i get paid to generate training data plz",
+            "title_similarity": "0.39362544",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hl1l38j",
+            "score": 1,
+            "text": "I'd try botcrack I guess. Maybe when I'm older.",
+            "title_similarity": "0.33590847",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1l9o4",
+            "score": 1,
+            "text": "A GAN can come up with 8848298482984829948583 generated images but that doesn't mean they are all realistic. This is pure advertisement.",
+            "title_similarity": "0.50554407",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1lfco",
+            "score": 1,
+            "text": "I'm really disappointed that this study is going mainstream... We don't need more people finding out about research chemicals. People are going to hurt themselves and others. This scene is better left underground.",
+            "title_similarity": "0.5646828",
+            "sentiment_compound": -0.5984
+        },
+        {
+            "id": "hl1ll5y",
+            "score": 1,
+            "text": "I thought this was a computer designed to create new *therapeutic* drugs. Instead they are wasting their time, money and technology to police recreational drugs. How about actually help people instead of criminalize those not hurting anyone?",
+            "title_similarity": "0.7474894",
+            "sentiment_compound": 0.52
+        },
+        {
+            "id": "hl1lqcs",
+            "score": 1,
+            "text": "In the 1980s, when designer drugs were first invented - lawyers were using their unique molecular structure to get around existing laws.  So the U.S. Congress passed a law banning any and all substances used to \"alter the state of consciousness\" of any user.\n\nBut the law of unintended consequences took over.  Now people can be prosecuted for hyperventilating, for holding their breath till they pass out, for drowning, for being knocked unconscious, for drinking coffee, tea, beer, or wine, for doing anything that changes one's state of consciousness in any way.  They had to amend the law to include intent.  So then it read \"intentionally altering one's state of consciousness\".  But in theory, it still included taking caffeine, alcohol, and even hyperventilation.\n\nBy 1986, Congress managed to pass what is now known as the Analog Law - a stripped down version meant to prevent such abuses - but is largely considered by prosecutors as too vague to be useful because it requires the user to know all about advanced chemistry.\n\n>For a law to be used in court, the defendant must have known he did something illegal.  \n>  \n>Analog Act cases have lost in court after the defense argues that the accused had no idea the drug was \"substantially similar\" to another, already outlawed one. It's complicated chemistry, and if expert witnesses cannot agree, how was the defendant to know?  \n>  \n>\"They can say they did not knowingly violate the law,\" Ruddy said.\n\nhttps://www.tampabay.com/news/publicsafety/designer-drugs-slip-past-prosecution/1256060/",
+            "title_similarity": "0.69954115",
+            "sentiment_compound": -0.9567
+        },
+        {
+            "id": "hl1lyck",
+            "score": 1,
+            "text": "Baby, wake up. Heroin 2 just dropped",
+            "title_similarity": "0.39267725",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "hl1m4eq",
+            "score": 1,
+            "text": "Well, we better get started",
+            "title_similarity": "0.08249109",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "hl1mi3g",
+            "score": 1,
+            "text": "If what drugs do is either interact with specific receptors and block or enhance neurological signals, soon we shouldn't need them at all. They'd be neuralink apps.",
+            "title_similarity": "0.57052004",
+            "sentiment_compound": -0.4404
+        },
+        {
+            "id": "hl1mtlt",
+            "score": 1,
+            "text": "yeah but did the parameters include, or rather uninclude negative side effects?",
+            "title_similarity": "0.2819249",
+            "sentiment_compound": -0.6652
+        },
+        {
+            "id": "hl1mzny",
+            "score": 1,
+            "text": "Data set for research purposes plz",
+            "title_similarity": "0.2856744",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hl1nqrv",
+            "score": 1,
+            "text": "Looks like I'm busy this weekend. Science and all.",
+            "title_similarity": "0.3804003",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl1nwou",
+            "score": 1,
+            "text": "Also, realize that simply modifying a single atom can drastically change the effect a drug has. For example drostolone and methyl drostolone are extremely different compounds that effect the body very differently",
+            "title_similarity": "0.5199267",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1pg4a",
+            "score": 1,
+            "text": "AI designed drugs, yeah where do I put my money",
+            "title_similarity": "0.62463206",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "hl1pneh",
+            "score": 1,
+            "text": "This application has been going on for a long time. We used similar software to look for compounds potentially able to exploit the mismatch repair apoptotic pathway in cancer cells.",
+            "title_similarity": "0.6502464",
+            "sentiment_compound": -0.7003
+        },
+        {
+            "id": "hl1pq38",
+            "score": 1,
+            "text": "I’d like to sign up for clinical trials of no less than 1 million variations… for science",
+            "title_similarity": "0.5912695",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hl1prtn",
+            "score": 1,
+            "text": "I want lsd meth weed. Just one thing that does all of that. Easy on the lsd though, I’m trying to masturbate for a week not learn something about life.",
+            "title_similarity": "0.6089546",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "hl1pxxb",
+            "score": 1,
+            "text": "OK, I'll take the first 4.45M variations. Who's doing the rest?",
+            "title_similarity": "0.28368175",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1q8du",
+            "score": 1,
+            "text": "This becomes less impressive when you consider how good an AI program is at generating tons of jibberish.",
+            "title_similarity": "0.5130713",
+            "sentiment_compound": 0.7102
+        },
+        {
+            "id": "hl1qimd",
+            "score": 2,
+            "text": "Lab tech: hey boss I trained AI to make new chemicals, what diseases should we cure? \n\nPI: cures? Hell no let’s get people high!",
+            "title_similarity": "0.75730646",
+            "sentiment_compound": -0.8152
+        },
+        {
+            "id": "hl1qytm",
+            "score": 1,
+            "text": "What about that genre drug from Westworld",
+            "title_similarity": "0.28396124",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1rq13",
+            "score": 1,
+            "text": "Isn’t that what the Chinese are doing causing a fentanyl crisis among western countries?",
+            "title_similarity": "0.43572205",
+            "sentiment_compound": -0.6249
+        },
+        {
+            "id": "hl1s0nk",
+            "score": 1,
+            "text": "Wonder if all the climate protestors who routinely take illegal drugs realise how environmentally unfriendly shipping those illegal drugs are around the world? Probably not…",
+            "title_similarity": "0.62445605",
+            "sentiment_compound": -0.8658
+        },
+        {
+            "id": "hl1s66n",
+            "score": 1,
+            "text": "Sigh. Ok, I’ll be the guina pig and tell you which ones are good.",
+            "title_similarity": "0.20641392",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "hl1s6p1",
+            "score": 1,
+            "text": "Who's ready to get fkn lit??!!",
+            "title_similarity": "0.1755565",
+            "sentiment_compound": 0.5337
+        },
+        {
+            "id": "hl1s988",
+            "score": 1,
+            "text": "I volunteer to help test them all. For the good of humanity and all that.",
+            "title_similarity": "0.33875436",
+            "sentiment_compound": 0.6808
+        },
+        {
+            "id": "hl1s9ty",
+            "score": 1,
+            "text": "New drugs are here Pog",
+            "title_similarity": "0.4674654",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1sd3w",
+            "score": 1,
+            "text": "Alright people, back to having fun",
+            "title_similarity": "0.01630488",
+            "sentiment_compound": 0.6486
+        },
+        {
+            "id": "hl1sjxr",
+            "score": 1,
+            "text": "Why would you spend the time creating this and not expect people to want to make the drugs?",
+            "title_similarity": "0.5622472",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl1tnz5",
+            "score": 1,
+            "text": "The Ghost of Timothy Leary stirs.",
+            "title_similarity": "0.30075687",
+            "sentiment_compound": -0.3182
+        },
+        {
+            "id": "hl1tym6",
+            "score": 1,
+            "text": "Just FYI I'm available for testing.",
+            "title_similarity": "0.20388089",
+            "sentiment_compound": 0.368
+        },
+        {
+            "id": "hl1uf2c",
+            "score": 1,
+            "text": "It’s funny because there are probably very useful drugs in there, and some great recreational drugs that are better than cocaine or meth.",
+            "title_similarity": "0.4814478",
+            "sentiment_compound": 0.92
+        },
+        {
+            "id": "hl1uilq",
+            "score": 1,
+            "text": "Get me a hard copy of that!",
+            "title_similarity": "0.22102839",
+            "sentiment_compound": -0.1759
+        },
+        {
+            "id": "hl1uny0",
+            "score": 1,
+            "text": "I hope the AI program was named Shulgin or something in regards to Alexander Shulgin. This sounds like its basicly doing what he did for 40 years but incredibly quickly. Too bad it can't test all the drugs and there dosages and write out trip reports like him and his wife did.",
+            "title_similarity": "0.6772251",
+            "sentiment_compound": -0.0504
+        },
+        {
+            "id": "hl1uzba",
+            "score": 1,
+            "text": "It’s like the Netflix algorithm for drugs. \n\nIf you like MDMA and PCP, you will like this new drug!",
+            "title_similarity": "0.57437897",
+            "sentiment_compound": 0.7777
+        },
+        {
+            "id": "hl1v4wx",
+            "score": 1,
+            "text": "Makes sense this is UBC, the place that made \"wheelchair weed\" back in the 80s.",
+            "title_similarity": "0.42659926",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1xwxr",
+            "score": 1,
+            "text": "They're all getting patented in the next 30 days.",
+            "title_similarity": "0.30343992",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1yde0",
+            "score": 1,
+            "text": "There’s a 1 in ~12,000 chance of any given designer chemical to be safe for human consumption. This is drug design 101. So this means that of 8.9 million structures, there will be roughly 741,667 drugs fit for human consumption. Still amazing, but this provides some context.",
+            "title_similarity": "0.733003",
+            "sentiment_compound": 0.6808
+        },
+        {
+            "id": "hl1z8a0",
+            "score": 1,
+            "text": "uppers, downers, laughers, screamers",
+            "title_similarity": "0.021945357",
+            "sentiment_compound": 0.0516
+        },
+        {
+            "id": "hl1zd93",
+            "score": 1,
+            "text": "Oh boy, this is going ...places!",
+            "title_similarity": "-0.009582955",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl1zp9t",
+            "score": 1,
+            "text": "I worked in drug discovery for over a decade.  There have been exactly zero drugs discovered with computer modeling.",
+            "title_similarity": "0.5145581",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2016w",
+            "score": 1,
+            "text": "Can't wait to try these.",
+            "title_similarity": "0.08582546",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl206gs",
+            "score": 1,
+            "text": "Show me the sacred texts",
+            "title_similarity": "0.16204536",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl20cqo",
+            "score": 1,
+            "text": "What if they made all those drugs and combined them into one mega drug. I'd try it",
+            "title_similarity": "0.55478954",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl20g93",
+            "score": 1,
+            "text": "Do they need a tester?",
+            "title_similarity": "0.31061748",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl20i5q",
+            "score": 1,
+            "text": "I’ll take the sampler platter",
+            "title_similarity": "0.21035065",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl20qs6",
+            "score": 1,
+            "text": "I mean, couldn’t an Excel spreadsheet do the same?",
+            "title_similarity": "0.35055333",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "hl21lun",
+            "score": 1,
+            "text": "Wheres this data and how do I save it",
+            "title_similarity": "0.20843694",
+            "sentiment_compound": 0.4939
+        },
+        {
+            "id": "hl21pc4",
+            "score": 1,
+            "text": "I volunteer to test them…",
+            "title_similarity": "0.20926355",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl21xl0",
+            "score": 1,
+            "text": "I want to take them ALL",
+            "title_similarity": "0.08785428",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hl22frf",
+            "score": 1,
+            "text": "Do the parameters include addictiveness and pleasure when used by humans?",
+            "title_similarity": "0.23110849",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "hl22gg3",
+            "score": 1,
+            "text": "I would like the results. For academic purposes of course.",
+            "title_similarity": "0.22374485",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl22ov8",
+            "score": 1,
+            "text": "So this how we end up having a \"polluted thing\" called Meta, right?",
+            "title_similarity": "0.21268716",
+            "sentiment_compound": -0.4588
+        },
+        {
+            "id": "hl22r9x",
+            "score": 1,
+            "text": "Anyone here ever seen the movie “interstate 60”?",
+            "title_similarity": "0.34207878",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2371l",
+            "score": 1,
+            "text": "Yes, one of each, please.",
+            "title_similarity": "-0.09575585",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "hl24037",
+            "score": 1,
+            "text": "I would like to try several.",
+            "title_similarity": "0.09233257",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl24i9d",
+            "score": 1,
+            "text": "Well let’s get started!!!",
+            "title_similarity": "0.06469476",
+            "sentiment_compound": 0.4545
+        },
+        {
+            "id": "hl24zbt",
+            "score": 1,
+            "text": "As a chemist I can tell you that this is not as impressive as it seems. I would guess the basically AI makes very small changes to known drug molecule structures. When their are literally infinite possible derivatives of a drug molecule core 8.9 million is not that large of a number. Secondly predicting which ones will appear on the marketplace is not that difficult either because some structural features wouldn’t be possible using only materials available to the general public.",
+            "title_similarity": "0.68437874",
+            "sentiment_compound": -0.0752
+        },
+        {
+            "id": "hl251ch",
+            "score": 1,
+            "text": "Kratos after killing his family:\nWhy would Ares do this? You actually have to help out as much as water",
+            "title_similarity": "0.42905125",
+            "sentiment_compound": -0.4019
+        },
+        {
+            "id": "hl25vdj",
+            "score": 1,
+            "text": "Eventually everyone will have their own drug to keep them productive all through their life of making money for the oligarchs.",
+            "title_similarity": "0.56313914",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl269wq",
+            "score": 1,
+            "text": "I would like to party with AI!",
+            "title_similarity": "0.17391844",
+            "sentiment_compound": 0.6696
+        },
+        {
+            "id": "hl26r1o",
+            "score": 1,
+            "text": "I am glad this wasn't done as government funded research in the U.S.",
+            "title_similarity": "0.4593326",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "hl280ic",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "-0.077073544"
+        },
+        {
+            "id": "hl2aitm",
+            "score": 2,
+            "text": "PIKAL and TIKAL way ahead.",
+            "title_similarity": "0.06767823",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2aknm",
+            "score": 1,
+            "text": "Psh in for computational chemistry - garbage in, garbage out",
+            "title_similarity": "0.32535994",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2av9p",
+            "score": 1,
+            "text": "Genius, government funds discovery of drugs",
+            "title_similarity": "0.6270913",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2b1gs",
+            "score": 1,
+            "text": "Alexander Shulgin would be happy",
+            "title_similarity": "0.04388369",
+            "sentiment_compound": 0.5719
+        },
+        {
+            "id": "hl2b2t0",
+            "score": 1,
+            "text": "Wonder how that would work. Like are they going to create some of these and test em?",
+            "title_similarity": "0.4618351",
+            "sentiment_compound": 0.5574
+        },
+        {
+            "id": "hl2b5h7",
+            "score": 1,
+            "text": "Now we just need the robots to make some Doritos style party packs of the rad ones.",
+            "title_similarity": "0.4894402",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hl2bb13",
+            "score": 1,
+            "text": "What is the job title of the programmer who works on AI like this? This is what I want to do.",
+            "title_similarity": "0.54063314",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hl2blrj",
+            "score": 1,
+            "text": "Soon it's going to turn into Horizon Zero Dawn when the AI will turn on us. Videogames and movies are trying to warn us.",
+            "title_similarity": "0.5711894",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "hl2c352",
+            "score": 1,
+            "text": "Did it recreate the Red Bull rolls?",
+            "title_similarity": "0.29056385",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2cjkw",
+            "score": 1,
+            "text": "Release the technical specs!!!!",
+            "title_similarity": "0.1524618",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2cqf4",
+            "score": 1,
+            "text": "She's taking a zantsc",
+            "title_similarity": "0.16192752",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2cwm5",
+            "score": 1,
+            "text": "Precognition is a thing.",
+            "title_similarity": "0.06849416",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2dwri",
+            "score": 1,
+            "text": "Lookout for the synthetic drugs that pair nicely with VR goggles.",
+            "title_similarity": "0.50268215",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hl2dwxi",
+            "score": 1,
+            "text": "It does sound like something a rat lungworm implanted in your brain telling us",
+            "title_similarity": "0.46732932",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl2dyvu",
+            "score": 1,
+            "text": "Babe wake up! 8.9 million drugs just dropped!",
+            "title_similarity": "0.54550594",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2f1sy",
+            "score": 1,
+            "text": "Now they are narrowing them down to the most efficiently dispersed through air and/or water",
+            "title_similarity": "0.1856349",
+            "sentiment_compound": 0.4576
+        },
+        {
+            "id": "hl2fa73",
+            "score": 1,
+            "text": "I mean, I'm sure these predictions are as great as all the virtual screening we do for drugs for theraputic purposes. Not very. Brute force high throughput screening still yields more viable small molecules than computer aided screening. As it turns out, it's really tough to model what the molecules truly need to look like.",
+            "title_similarity": "0.60335326",
+            "sentiment_compound": 0.8752
+        },
+        {
+            "id": "hl2g24g",
+            "score": 1,
+            "text": "That’s horrifying! Where can we see the list?",
+            "title_similarity": "0.23358104",
+            "sentiment_compound": -0.6114
+        },
+        {
+            "id": "hl2gyxp",
+            "score": 1,
+            "text": "I wonder if it built LSD when it did the math.",
+            "title_similarity": "0.53676003",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2h6dh",
+            "score": 1,
+            "text": "CAD just got a whole new meaning!",
+            "title_similarity": "0.21923485",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2h7tr",
+            "score": 1,
+            "text": "Why, so they can continue a failing war on drugs? Terrible.",
+            "title_similarity": "0.4308104",
+            "sentiment_compound": -0.8834
+        },
+        {
+            "id": "hl2hckv",
+            "score": 1,
+            "text": "And where can we try these?",
+            "title_similarity": "0.06548568",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2htum",
+            "score": 1,
+            "text": "Let the take over begin.",
+            "title_similarity": "0.047718316",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2htwq",
+            "score": 1,
+            "text": "Alexander shulgin already did this basically",
+            "title_similarity": "0.09436093",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2hvho",
+            "score": 1,
+            "text": "i volunteer as tribute!",
+            "title_similarity": "0.050608665",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2hz2u",
+            "score": 1,
+            "text": "New drug recipes just dropped, home cooking time",
+            "title_similarity": "0.45902234",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2ii4u",
+            "score": 1,
+            "text": "That sounds very promising. Any updates on manufacture and distribution. Supply chain is a mess and all.",
+            "title_similarity": "0.458844",
+            "sentiment_compound": 0.1263
+        },
+        {
+            "id": "hl2j1qo",
+            "score": 1,
+            "text": "Soma, Brave New World",
+            "title_similarity": "0.1840781",
+            "sentiment_compound": 0.5267
+        },
+        {
+            "id": "hl2jnog",
+            "score": 1,
+            "text": "Alright so when do I start testing",
+            "title_similarity": "0.16824716",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "hl2k45d",
+            "score": 1,
+            "text": "The world really is converging around the matrix resurrections.",
+            "title_similarity": "0.37018073",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2kd5p",
+            "score": 1,
+            "text": "There are legal synthetic opiates? When did that happen?",
+            "title_similarity": "0.47867852",
+            "sentiment_compound": 0.2168
+        },
+        {
+            "id": "hl2mhhq",
+            "score": 1,
+            "text": "They were so focused on whether they could do it, that they never thought about if they should do it.\n\nSeriously though why, why did they do this!?!",
+            "title_similarity": "0.371266",
+            "sentiment_compound": 0.5024
+        },
+        {
+            "id": "hl2nveo",
+            "score": 1,
+            "text": "Well where do I sign up to start testing them for ya?",
+            "title_similarity": "0.38509756",
+            "sentiment_compound": 0.2732
+        },
+        {
+            "id": "hl2o06g",
+            "score": 1,
+            "text": "I just have to ask why they would do that. What's the point?",
+            "title_similarity": "0.16264775",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2wqr8",
+            "score": 2,
+            "text": "Well….time to try em all",
+            "title_similarity": "0.107683145",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2wrqg",
+            "score": 2,
+            "text": "For science I just need like 2000 of those combos.",
+            "title_similarity": "0.45538747",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl2ws5u",
+            "score": 1,
+            "text": "“High permutation system designed to produce a large number of permutations produces a large number of permutations.’",
+            "title_similarity": "0.19231877",
+            "sentiment_compound": 0.1531
+        },
+        {
+            "id": "hl2x41a",
+            "score": 1,
+            "text": "Make a fun dip powder assortment and let's test the MD50's!",
+            "title_similarity": "0.41563988",
+            "sentiment_compound": 0.5562
+        },
+        {
+            "id": "hl2xh22",
+            "score": 1,
+            "text": "And Keith Richards has already done them.",
+            "title_similarity": "0.08883856",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2xh6z",
+            "score": 1,
+            "text": "Research chemical developers: :)",
+            "title_similarity": "0.32941356",
+            "sentiment_compound": 0.4588
+        },
+        {
+            "id": "hl2y0he",
+            "score": 1,
+            "text": "Perhaps it's time to bring Alexander shulgin back to test a few?",
+            "title_similarity": "0.344849",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl2z80p",
+            "score": 1,
+            "text": "If anyone creates a synthetic cocaine that’s non-addictive, heart healthy, and enhances erections I have a friend who wants to know",
+            "title_similarity": "0.5480926",
+            "sentiment_compound": 0.9042
+        },
+        {
+            "id": "hl2zquv",
+            "score": 1,
+            "text": "Does this mean my long lost dream of methlecraccid can come true?",
+            "title_similarity": "0.44671828",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl2zt4p",
+            "score": 1,
+            "text": "Hopefully this helps find a new painkiller as I've not found one that exists that works yet.",
+            "title_similarity": "0.53468174",
+            "sentiment_compound": 0.6486
+        },
+        {
+            "id": "hl303t7",
+            "score": 1,
+            "text": "*\"...and mix em all together in a big jug\"*",
+            "title_similarity": "0.16133538",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl30zm5",
+            "score": 1,
+            "text": "While this sounds exciting and all...2C-E was one of the strangest trips of my life and I wish godspeed to whomever will inevitably experiment with hundreds of new families of research chemicals.",
+            "title_similarity": "0.65651655",
+            "sentiment_compound": 0.7096
+        },
+        {
+            "id": "hl338tk",
+            "score": 1,
+            "text": ">The fact that we can predict what designer drugs are likely to emerge on the market before they actually appear is a bit like the 2002 sci-fi movie\n\nPick a number between 1-1000\n\nI bet you I can guess it with 8.9 million guesses",
+            "title_similarity": "0.7871934",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hl33pnq",
+            "score": 1,
+            "text": "You've read ai written stories, now try ai designed drugs.",
+            "title_similarity": "0.6598307",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl33qs3",
+            "score": 1,
+            "text": "Not too long from now we'll also have AI that can simulate how the human body would react to outside stimuli which would presumably combine with something like this to be able to narrow down those 8.9 million designs to the ones that have recreational and/or medical effects.",
+            "title_similarity": "0.7328375",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl33x4n",
+            "score": 1,
+            "text": "Haha, nice work fellas! Let’s get to the product testing phase on the double!",
+            "title_similarity": "0.38223302",
+            "sentiment_compound": 0.7494
+        },
+        {
+            "id": "hl342zd",
+            "score": 1,
+            "text": "Jesse, we need to cook.",
+            "title_similarity": "0.15870455",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl343hl",
+            "score": 1,
+            "text": "I'll take one of each please.",
+            "title_similarity": "-0.004305698",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hl34jrf",
+            "score": 1,
+            "text": "Our top scientists agree: Vancouver *is* awesome.",
+            "title_similarity": "0.2696728",
+            "sentiment_compound": 0.8126
+        },
+        {
+            "id": "hl34sdi",
+            "score": 1,
+            "text": "Great, I've already lost my patent!",
+            "title_similarity": "0.18844825",
+            "sentiment_compound": 0.4753
+        },
+        {
+            "id": "hl36e6q",
+            "score": 1,
+            "text": "TIHKAL? PHIHKAL? It’s like The computer version of Dr. Shulgin.",
+            "title_similarity": "0.4510007",
+            "sentiment_compound": 0.4329
+        },
+        {
+            "id": "hl379o6",
+            "score": 1,
+            "text": "Clearly we have misunderstood the nature of AI.",
+            "title_similarity": "0.27984262",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hl37ckj",
+            "score": 1,
+            "text": "Two questions\n1. Can we make them?\n2. When do we start testing",
+            "title_similarity": "0.3474976",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl37tqy",
+            "score": 1,
+            "text": "Every chemist on here is big mad",
+            "title_similarity": "0.28675777",
+            "sentiment_compound": -0.4939
+        },
+        {
+            "id": "hl38ziz",
+            "score": 1,
+            "text": "When do we start human trials?",
+            "title_similarity": "0.27127615",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl39b4d",
+            "score": 1,
+            "text": "This is more interesting: \n\nhttps://en.m.wikipedia.org/wiki/PiHKAL",
+            "title_similarity": "0.23852628",
+            "sentiment_compound": 0.4576
+        },
+        {
+            "id": "hl39kmu",
+            "score": 1,
+            "text": "Get her ugly tongue outta my face, please. I'm getting the creeps.",
+            "title_similarity": "0.24190998",
+            "sentiment_compound": -0.25
+        },
+        {
+            "id": "hl39txt",
+            "score": 1,
+            "text": "You can bet the spreadsheet with these new drugs is saved either open text or password123",
+            "title_similarity": "0.5900636",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hl3a2xx",
+            "score": 1,
+            "text": "Alex shulgin would be be proud",
+            "title_similarity": "0.047082946",
+            "sentiment_compound": 0.4767
+        },
+        {
+            "id": "hl3a83z",
+            "score": 1,
+            "text": "So does this ‘A.I.’ simply spit out every conceivable chemical structure for anything that could plug into the serotonin and dopamine receptors in the brain?",
+            "title_similarity": "0.6033058",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl3aocr",
+            "score": 1,
+            "text": "Chemical! When the naturals are the best! Marijuana, Psilocybin Mushrooms, Salvia, Coca, Opium, Peyote, Ayahuasca, Khat! Nature does it better!",
+            "title_similarity": "0.45504338",
+            "sentiment_compound": 0.8507
+        },
+        {
+            "id": "hl3biga",
+            "score": 1,
+            "text": "Where and how did you get \"collected\" data on the effects and use of illicit drugs from around the world? This article isn't a good look",
+            "title_similarity": "0.59164685",
+            "sentiment_compound": -0.3412
+        },
+        {
+            "id": "hl3c6o2",
+            "score": 1,
+            "text": "Finally someone puts AI to good use!",
+            "title_similarity": "0.17269155",
+            "sentiment_compound": 0.4926
+        },
+        {
+            "id": "hl3c7dc",
+            "score": 1,
+            "text": "Yeah, sure, not all those 8.9 million will be psycho active... but bless those researchers. \n\nWe better start synthesizing... you know, so we can um... stay ahead of those dastardly criminals.",
+            "title_similarity": "0.69405246",
+            "sentiment_compound": 0.6808
+        },
+        {
+            "id": "hl3ckz6",
+            "score": 1,
+            "text": "Helping law enforcement was not the use case I was hoping for",
+            "title_similarity": "0.34080487",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "hl3cub3",
+            "score": 1,
+            "text": "I’ll sign up to be the lab rat on this one",
+            "title_similarity": "0.5346919",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl3d4x6",
+            "score": 1,
+            "text": "Someone Would Take The Pill",
+            "title_similarity": "0.27676716",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl3dhw1",
+            "score": 1,
+            "text": "Anyone hiring for testers?",
+            "title_similarity": "0.34736195",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl3do6a",
+            "score": 1,
+            "text": "“196 newly created designer drugs” \n\nWhat fuckin drugs are people doing these days?",
+            "title_similarity": "0.6581216",
+            "sentiment_compound": 0.25
+        },
+        {
+            "id": "hl3dvgy",
+            "score": 1,
+            "text": "Mandatory minimum: 25-life",
+            "title_similarity": "0.020921635",
+            "sentiment_compound": 0.0772
+        },
+        {
+            "id": "hl3eis2",
+            "score": 1,
+            "text": "Now which one will finally ease my depression?",
+            "title_similarity": "0.18699846",
+            "sentiment_compound": -0.296
+        },
+        {
+            "id": "hl3fef7",
+            "score": 1,
+            "text": "I just imagine like 100k hippies sitting in a huge stadium getting handed drugs daily and monitored to get a study going",
+            "title_similarity": "0.58172524",
+            "sentiment_compound": 0.5859
+        },
+        {
+            "id": "hl3fgoq",
+            "score": 1,
+            "text": "so, in essence:\n\n#the war on drugs will never end",
+            "title_similarity": "0.38099903",
+            "sentiment_compound": -0.5994
+        },
+        {
+            "id": "hl3fwmy",
+            "score": 1,
+            "text": "It's well to see a Vancouver is awesome article getting so many likes.\n\nSource: and from Vancouver",
+            "title_similarity": "0.22445126",
+            "sentiment_compound": 0.8511
+        },
+        {
+            "id": "hl3g8yz",
+            "score": 1,
+            "text": "That's horrendous....what were they?",
+            "title_similarity": "0.05131414",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl3gjsh",
+            "score": 1,
+            "text": "YEAH lemme get something super calming with like…mild pleasant trippiness, non-addictive, thanks.",
+            "title_similarity": "0.16452794",
+            "sentiment_compound": 0.9406
+        },
+        {
+            "id": "hl3gtjq",
+            "score": 1,
+            "text": "Look man, there won’t ever be a drug better than mephedrone. They might as well hang it up.",
+            "title_similarity": "0.53027046",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "hl3h1hk",
+            "score": 1,
+            "text": "AI designer drugs. What a time to be alive",
+            "title_similarity": "0.46456543",
+            "sentiment_compound": 0.3818
+        },
+        {
+            "id": "hl3h51w",
+            "score": 1,
+            "text": "I think its safe to say that Dr. David Wishart (the guy who was the senior author for this paper) is the biggest narc in the world",
+            "title_similarity": "0.39243138",
+            "sentiment_compound": 0.4404
+        },
+        {
+            "id": "hl3hjn2",
+            "score": 1,
+            "text": "I wonder if they nicknamed that AI “Sasha”.",
+            "title_similarity": "0.23152563",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl3hlxx",
+            "score": 1,
+            "text": "Title of their upcoming book:  \n  \nAIDIHKAL.   \nAI drugs I have known and loved",
+            "title_similarity": "0.5166133",
+            "sentiment_compound": 0.5994
+        },
+        {
+            "id": "hl3k5l6",
+            "score": 1,
+            "text": "To people saying this is not useful, since we wouldn't know if these combinations do anything: They can just put all 8.9 million combinations on the forbidden list, and arrest people for it if if someone has any of them.",
+            "title_similarity": "0.6124616",
+            "sentiment_compound": -0.7654
+        },
+        {
+            "id": "hl3l8bs",
+            "score": 1,
+            "text": "A simple 3d printer is now spitting out illicit drugs to pay for electricity , “breaking board”",
+            "title_similarity": "0.561241",
+            "sentiment_compound": -0.1027
+        },
+        {
+            "id": "hl3lm4y",
+            "score": 1,
+            "text": "Anybody curious about some of the current ones checks out /r/researchchemicals to learn about them and their possible effects. Please remember, there's no sourcing on there, but there is a lot of knowledge and experience!",
+            "title_similarity": "0.5903918",
+            "sentiment_compound": 0.2481
+        },
+        {
+            "id": "hl3lypu",
+            "score": 1,
+            "text": "Okay here we go science",
+            "title_similarity": "0.18293849",
+            "sentiment_compound": 0.2263
+        },
+        {
+            "id": "hl3m2g5",
+            "score": 1,
+            "text": "And not one of them will fill the hole left by MXE </3",
+            "title_similarity": "0.12981245",
+            "sentiment_compound": -0.6124
+        },
+        {
+            "id": "hl3mczk",
+            "score": 1,
+            "text": "So what's the chance one of these can give me super powers?",
+            "title_similarity": "0.3724099",
+            "sentiment_compound": 0.7322
+        },
+        {
+            "id": "hl3ncse",
+            "score": 1,
+            "text": "How come they can collect data from the use of illicit drugs but they can't (or don't) prevent their use? Am I wrong to think \"illicit\" means something negative?",
+            "title_similarity": "0.5577728",
+            "sentiment_compound": -0.888
+        },
+        {
+            "id": "hl3o54p",
+            "score": 1,
+            "text": "Well…. Are they gonna share?",
+            "title_similarity": "0.017868288",
+            "sentiment_compound": 0.296
+        },
+        {
+            "id": "hl3o7tg",
+            "score": 1,
+            "text": "Didn’t a smart man call Dr Alex Shulgin already do all this AI’s legwork?\n\nAnd constant testing showed many of the structures expected to be of interest did very little while other did totally unexpected things. \n\nLike Hoffman’s work in the 50’s at Samdoz to create a better Curete for pregnant women during labour which had the unexpected effect of being the most psycho active substance by weight called LSD-25 and then ushered in a time of great human expansion known as the 60’s. \n\nBe good if the immoral and wasteful War on Drugs was ceased so proper testing could be undertaken on these and future substances could be studied to find all the great things we have prevented the world from getting to know over the last 5 to 6 decades.",
+            "title_similarity": "0.7176609",
+            "sentiment_compound": 0.9625
+        },
+        {
+            "id": "hl3ofy1",
+            "score": 1,
+            "text": "Gentlemen, we have work to do",
+            "title_similarity": "0.048154004",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl3ommf",
+            "score": 1,
+            "text": "Cool! Where can I buy some of these space drugs ?",
+            "title_similarity": "0.49908274",
+            "sentiment_compound": 0.3802
+        },
+        {
+            "id": "hl3opcq",
+            "score": 1,
+            "text": "Hi! unrelated topic to the article. Is it correct to use the term AI in such articles? Would Machine learning be more of a appropriate term? I am not much fluent in machine learning but I read some paper that what we are calling AI (mostly in media) is actually a subset of AI and we are nowhere near to any *Global domination* (what they show in movies) capable AI.",
+            "title_similarity": "0.63510746",
+            "sentiment_compound": 0.5792
+        },
+        {
+            "id": "hl3pzot",
+            "score": 1,
+            "text": "This is where the fun begins",
+            "title_similarity": "0.020693148",
+            "sentiment_compound": 0.5106
+        },
+        {
+            "id": "hl3q9bs",
+            "score": 2,
+            "text": "Seems to me like this should say \"AI puts letters in places they don't belong, people assume things\"\n\nYou could take a very simple psychoactive drug, say amphetamine. Now let's attach an NH2-C-O2--C-Eth2-C-Se=C- to any position on the ring. Obviously that's stupid but I think it's technically possible? Replace any of those atoms or groups with another in the same group, and figure you've got 5 positions on that ring to place it, and that's gotta already be a million compounds. \n\nThe article title may as well say \"cutting edge AI realizes there's actually a whole lot of numbers\".",
+            "title_similarity": "0.67890096",
+            "sentiment_compound": 0.1154
+        },
+        {
+            "id": "hl3sowm",
+            "score": 1,
+            "text": "One LSD/MDMA hybrid please.",
+            "title_similarity": "0.33513665",
+            "sentiment_compound": 0.3182
+        },
+        {
+            "id": "hl3t96v",
+            "score": 1,
+            "text": "Jayce!\n\nWhat?\n\nWe need to cook!",
+            "title_similarity": "0.16690177",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl3toph",
+            "score": 1,
+            "text": "This sounds dangerous look at fentanyl",
+            "title_similarity": "0.2579581",
+            "sentiment_compound": -0.4767
+        },
+        {
+            "id": "hl3w69n",
+            "score": 1,
+            "text": "so many ways to get high, nice",
+            "title_similarity": "0.10703103",
+            "sentiment_compound": 0.4215
+        },
+        {
+            "id": "hl3yad5",
+            "score": 1,
+            "text": "When are the human trials?",
+            "title_similarity": "0.2029163",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl3z33k",
+            "score": 1,
+            "text": "Woo, I better get busy.",
+            "title_similarity": "0.13138485",
+            "sentiment_compound": 0.7184
+        },
+        {
+            "id": "hl401vv",
+            "score": 1,
+            "text": "Ahh yes, the Huey Lewis bot.",
+            "title_similarity": "0.26200053",
+            "sentiment_compound": 0.4019
+        },
+        {
+            "id": "hl407vb",
+            "score": 1,
+            "text": "I just stick to my bath salts. Thank you.",
+            "title_similarity": "0.18553469",
+            "sentiment_compound": 0.3612
+        },
+        {
+            "id": "hl40gam",
+            "score": 1,
+            "text": "People will try to hide,  but the formulas will eventually come out. More AI will show how to synthesize, and then",
+            "title_similarity": "0.66416514",
+            "sentiment_compound": -0.09
+        },
+        {
+            "id": "hl41m6y",
+            "score": 1,
+            "text": "Great MDMA & 5 hour erection & explosive diarrhea combo drug, sign me up!",
+            "title_similarity": "0.47819868",
+            "sentiment_compound": 0.6588
+        },
+        {
+            "id": "hl41qgj",
+            "score": 1,
+            "text": "Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should.",
+            "title_similarity": "0.5016364",
+            "sentiment_compound": 0.2235
+        },
+        {
+            "id": "hl42nec",
+            "score": 1,
+            "text": "Finally worthy info that gives energy to keep arround a little longer",
+            "title_similarity": "0.1935943",
+            "sentiment_compound": 0.6124
+        },
+        {
+            "id": "hl47y1i",
+            "score": 1,
+            "text": "but I have not even tried all of the ones we currently have yet",
+            "title_similarity": "0.21613497",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl4adov",
+            "score": 1,
+            "text": "„Now that the computer can predict what chemicals are likely to appear in the near future, law agencies and public health officials can get a head start on things. Previously it would take months to identify a new designer drug after it had been found by authorities. Now it takes days.“ \n\nYou guys realize that’s horrible right?",
+            "title_similarity": "0.7405164",
+            "sentiment_compound": -0.5423
+        },
+        {
+            "id": "hl4k06p",
+            "score": 2,
+            "text": "Once the drug war ends were gonna enter a really groovy time god damn",
+            "title_similarity": "0.45123982",
+            "sentiment_compound": -0.6412
+        },
+        {
+            "id": "hl4ngph",
+            "score": 1,
+            "text": "But can the AI design a self-replicating molecular assembler, aka a nanobot ?!",
+            "title_similarity": "0.56751615",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl6rs2k",
+            "score": 3,
+            "text": "They'll need another AI to come up with all the street names.",
+            "title_similarity": "0.53575706",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hl7qg5e",
+            "score": 1,
+            "text": "So many drugs so little time.",
+            "title_similarity": "0.26963496",
+            "sentiment_compound": 0.0
+        },
+        {
+            "id": "hlaq689",
+            "score": 1,
+            "text": "Sad. I read a paper a while back about how this exact technology will likely be used to ban substances before they can get into the population.",
+            "title_similarity": "0.59341574",
+            "sentiment_compound": -0.7717
+        },
+        {
+            "id": "hphhnmc",
+            "score": 1,
+            "text": "This could be really helpful in medicine. Just like you've got AdvisorPRO  for developing diabetes strategies that are more personalized maybe this can do personalized medicine for each person",
+            "title_similarity": "0.57357484",
+            "sentiment_compound": 0.6801
+        },
+        {
+            "id": "hqda0ke",
+            "score": 1,
+            "text": "Is there a study I can volunteer for or something?",
+            "title_similarity": "0.31213778",
+            "sentiment_compound": 0.0
+        }
+    ]
+}

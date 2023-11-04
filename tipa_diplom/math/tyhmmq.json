@@ -1,0 +1,892 @@
+{
+    "What's one of your biggest math-related pet peeves?\nWhat's something that people do/think/say about math that really just rubs you the wrong way?\n\nOne of mine is when people call non-exponential growth \"exponential.\" Just because it's increasing quickly, doesn't make it exponential.": [
+        {
+            "id": "i3t21z8",
+            "score": 2,
+            "text": "Zero is not a natural number. What are we, set theorists?",
+            "title_similarity": "0.60427207"
+        },
+        {
+            "id": "i3sgfmw",
+            "score": 98,
+            "text": "Its completely valid to call non-exponential growth as \"exponential\".  Theyre just using the natural-language meaning of \"exponential,\" which just generally means something growing at an ever-increasing rate.  It's (usually) not being used in a technical sense, and you should not play coy and pretend as if they are.  Choosing to read their words in such a way is such a bad-faith action that makes people not want to engage with you.  It also makes mathematicians, and smart people in general, seem like annoying pedants who quibble on unimportant details.  And guess what, that means theyre less likely to want to engage with you when you try to correct them on a point that actually does matter.\n\nSo yes.  Spiders are insects, and \"the cold leaves\" when you open the fridge door.  You get what people mean.  That's how natural language works.  Get over it.",
+            "title_similarity": "0.8710227"
+        },
+        {
+            "id": "i3sglo1",
+            "score": -11,
+            "text": "people who say that integration by parts is the inverse of the product rule\n\nthey have no idea what inverse means",
+            "title_similarity": "0.5954948"
+        },
+        {
+            "id": "i3tik74",
+            "score": -1,
+            "text": "math \"culture\" in general.  it's all crap",
+            "title_similarity": "0.61929965"
+        },
+        {
+            "id": "i3si8r2",
+            "score": -2,
+            "text": "u/repostsleuthbot",
+            "title_similarity": "0.31750524"
+        },
+        {
+            "id": "i3tkzym",
+            "score": 3,
+            "text": "The assumption that people who start older or under difficult circumstances will never contribute anything of value to mathematics. It all smells of privilege, biological determinism and social darwinism to me.",
+            "title_similarity": "0.71168405"
+        },
+        {
+            "id": "i3sln7t",
+            "score": 8,
+            "text": "“Statistically significant”",
+            "title_similarity": "0.36196363"
+        },
+        {
+            "id": "i3wp8q9",
+            "score": 1,
+            "text": "I don’t like when people refer to “square root of x” as “root x,” or “radical x.” Both of those shortcut names are ambiguous (which root/radical?).",
+            "title_similarity": "0.69293773"
+        },
+        {
+            "id": "i3wydc7",
+            "score": 1,
+            "text": "Once let my friend do my homework for me because he’s a genius. Found derivatives very difficult. Thank you to my friend.",
+            "title_similarity": "0.65411717"
+        },
+        {
+            "id": "i3snpmw",
+            "score": 46,
+            "text": "\"Solve\". No, you don't solve an integral, you calculate it. You solve an equation.",
+            "title_similarity": "0.5575398"
+        },
+        {
+            "id": "i3sxbek",
+            "score": -2,
+            "text": "x^2 = e^(2lnx) ;)",
+            "title_similarity": "0.2903459"
+        },
+        {
+            "id": "i3tgfwr",
+            "score": 2,
+            "text": "Interrupting the professor to correct a minor typo on the board.",
+            "title_similarity": "0.5705229"
+        },
+        {
+            "id": "i3ttem1",
+            "score": 2,
+            "text": "Using Linear Algebra and not Geometric Algebra.",
+            "title_similarity": "0.35117784"
+        },
+        {
+            "id": "i3xejug",
+            "score": 2,
+            "text": "Nearly every maths wikipedia page feels nigh-incomprehensible unless you already understand what it's talking about, so when I'm trying to find good general solutions to weird computational problems, it becomes extremely difficult to suss out what applies to the space I'm working in vs. what *sounds* like it applies but does not.",
+            "title_similarity": "0.7635517"
+        },
+        {
+            "id": "i3tnio8",
+            "score": 5,
+            "text": "If they don’t know anything about math: “You’re a mathematician? Do you just do long division all day?”\n\nIf they know a bit about math: “You’re a mathematician? Do you just calculate integrals all day?”\n\nI just say, “Yep, pretty much.”",
+            "title_similarity": "0.66606915"
+        },
+        {
+            "id": "i3toe07",
+            "score": 3,
+            "text": "I have another one. “When am I going to use this in the real world?”\n\n“We’ll you won’t but some of the smarter kids might.”",
+            "title_similarity": "0.57995516"
+        },
+        {
+            "id": "i3svfg5",
+            "score": 3,
+            "text": "Saying “times” not multiplying. Like “I timesd it by 3”",
+            "title_similarity": "0.3710662"
+        },
+        {
+            "id": "i3u1es4",
+            "score": 5,
+            "text": "every time, in every thread, no matter what the subject is, no matter how forced it is, some idiot without a trace of cleverness has to come in with the same stupid fucking fermat/margin joke. all of you imbeciles: i would kick your nuts back inside your body",
+            "title_similarity": "0.5526146"
+        },
+        {
+            "id": "i3uvbmx",
+            "score": 6,
+            "text": "That \"common core math\" is \"bad\". \n\nI became very good at quick mental math in high school. I used to laugh at the common core math jokes too until I realized that it's the same techniques that I use to do mental math quickly. \n\nIf people took the time to understand what common core math is, they would realize that it really is a better way to teach math, but instead most people seem content at just making fun of it.",
+            "title_similarity": "0.6933111"
+        },
+        {
+            "id": "i3t10bm",
+            "score": 6,
+            "text": "The people who decided  to denote multiplication by concatenation made a big mistake.",
+            "title_similarity": "0.72534984"
+        },
+        {
+            "id": "i3t97gh",
+            "score": 6,
+            "text": "When people ask why you’re not studying something more “practical”. When in fact math is the foundation for most of the “practical” fields",
+            "title_similarity": "0.71139383"
+        },
+        {
+            "id": "i3szf1b",
+            "score": 7,
+            "text": "It's way worse than that in my experience. They say \"exponential growth\" when comparing all of two data points, i.e. to mean this one is way more bigger than this other one",
+            "title_similarity": "0.6888416"
+        },
+        {
+            "id": "i3t6jt7",
+            "score": 8,
+            "text": "This will probably come across as super pedantic, but I cringe whenever I hear someone say \"how do I solve this integral\" or \"just solve the integral\". You solve *equations* and you *evaluate* integrals haha.",
+            "title_similarity": "0.7809012"
+        },
+        {
+            "id": "i3t89ec",
+            "score": 7,
+            "text": "The example you gave drives me crazy as well. Like Ive seen people call fucking linear growth \"exponential\" just because the growth rate is high. Not to mention that polynomial growth is almost always called \"exponential\" by people who dont know that they are talking about.",
+            "title_similarity": "0.7702734"
+        },
+        {
+            "id": "i3so6n0",
+            "score": 8,
+            "text": "When grad students avoid real analysis. Just take the class! It’s important!",
+            "title_similarity": "0.6500237"
+        },
+        {
+            "id": "i3sq1ox",
+            "score": 9,
+            "text": "my boy Stokes is the whole pet peeve rn but my other homie Gauss-Green (GG for short) is a fun one\n\nNo but my real pet peeve is when people tell me that I'm \"supposed to be smart\" because of the math class I'm in. Listen, math has never been my forte and it never came to me quickly or naturally like some of the kids I’ve seen in my calc 3 class this year and I've really pushed myself to be up there but it's not because I'm inherently smart, I've just worked long hours and late nights and practiced to become better. That has nothing to do with my overall sense of intelligence.",
+            "title_similarity": "0.72106504"
+        },
+        {
+            "id": "i3tb8b4",
+            "score": 7,
+            "text": "I was a TA in Analysis / Calculus in college, and had to give seminar/exercise sessions and correct exams and exercises. By far my biggest pet-peeves (besides sloppiness, abusive notation, mathematical incompetence, etc)… are:\n\n1. WRONG pronounciation of greek letters: students that don’t put a bit of effort to learn the correct names (its not so many letters) and just call them whatever: phi and psy, calling nu to eta because it “looks” like an N, chi and xi, and xi and zeta (since they look _kinda_ similar).\n\n2. Having confusing notation and not taking the time to refine it so its readable especially for them when they’re solving complex equations and end up committing stupid mistakes, for example: a different way of writing x and times/vector product, a different way of writing t and +, writing nice curly brackets, writing a proper zeta and xi and not just some stupid generic scribble.\n\n3. Not being profecient with mathematical notation like “for all”, “exists”, “such as” , “if”, “when”, “for” etc and writing everything in sentences being therefore sloppy at times. This also applies to many authors.\n\n4. Writing QED instead of a small black square. It’s so overstated and I have to admit I despise it with all my heart for some reason.\n\nAnyways, exaggerated and unnecessary, but isn’t that the definition of a pet peeve?\n\nEDIT: my last one, since this feels oddly therapeutic:\n\n5. When engineers (and hopefully no math students) solve a differential equation f(y)*dy/dx = g(x) by “multiplying by dx on both sides and then we add the integral simbol on both sides”. This one makes my head explode with rage, specially since, firstly you could just easily integrate with substitution and second “adding the integral symbol on both sides” even though is already mathematically somehow meaningless, means you’re not doing the same thing on both sides, since the integrals will have different limits.",
+            "title_similarity": "0.69503355"
+        },
+        {
+            "id": "i3shvhy",
+            "score": 47,
+            "text": "Yup, the exponential thing for sure.\n\nMy second one is done by a lot of highly educated people in math and related fields. It's when they say \"I can describe this other/new thing A in terms of B, so all there is to know about A is already described by B.\n\nWell, woop-de-fucking-do, you found a trivial representation. It's not like we didn't know polynomials/reproducing kernels/unit steps/your favorite basis are dense in function spaces. That in no way means another representation doesn't offer new findings. That's the *entire reason* why people are looking for morphisms in the first place.",
+            "title_similarity": "0.765588"
+        },
+        {
+            "id": "i3tavry",
+            "score": 7,
+            "text": "Approximating pi way to much, like 3 or 1. The legends say that engineers do that, but as a student in engineering, I've never seen that. The most approximate value is 3.14. But still, overaproximating pi is something I hate...",
+            "title_similarity": "0.705587"
+        },
+        {
+            "id": "i3smdvg",
+            "score": 46,
+            "text": "**The deification of prime numbers.**\n\nI get it, primes are cool. However they are always characterized as these mysterious, elusive objects that mathematicians know nothing about. \"All we need is a formula for prime numbers, and then we'll unlock the secrets of the world\". Add in some mumbo-jumbo about Riemann Hypothesis, P=NP and how \"solving\" primes means we'll break cryptography and bring forth the apocalypse.\n\nAnd I place a lot of blame on pop-math, which takes interesting results in number theory and \"sexy\" it up until it makes sense only if you squint hard. Even Quanta magazine isn't immune to this, and go for clickbait titles that perpetuate this.",
+            "title_similarity": "0.8227687"
+        },
+        {
+            "id": "i3snqop",
+            "score": 12,
+            "text": "\"What is this useful for?\"",
+            "title_similarity": "0.32026184"
+        },
+        {
+            "id": "i3sji81",
+            "score": 51,
+            "text": "I understand this, but I don't condone it of course: **Being a math major/math enthusiast yet having the AUDACITY to not also being a human calculator.**\n\nLike I can read and write complicated proofs using a variety of techniques, and understand when problems are ill-posed far sooner than the average person, and suggest optimization strategies for what seem to be intractable problems. But god forbid I can't do triple digit products in my head faster than a TI-83+ and suddenly I'm not worth my salt as a mathematician. *Grrr*.",
+            "title_similarity": "0.86614984"
+        },
+        {
+            "id": "i3t3ovu",
+            "score": 48,
+            "text": "Mathematicians are incredibly bad explaining motivations and the big picture of maths. They're some of the worst teachers. They'll dive straight into unmotivated definitions purely because they are so familiar with the subject material the pedagogy goes out the window. You honestly have no idea what is in the grasp of undergrads and even high schoolers if the concepts are explained. Sheaves? It can be explained, quite simply. There are very few big ideas in math that cannot be explained, it's just mathematicians are bad at it.",
+            "title_similarity": "0.7741987"
+        },
+        {
+            "id": "i3sr8va",
+            "score": 27,
+            "text": "When math is use in trivia like Jeopardy!, they never actually test math but nomenclature.",
+            "title_similarity": "0.68323606"
+        },
+        {
+            "id": "i3t1j8m",
+            "score": 24,
+            "text": "Equations have solutions, polynomials have roots and not vice versa.",
+            "title_similarity": "0.47090632"
+        },
+        {
+            "id": "i3te1rl",
+            "score": 23,
+            "text": "“Rationalizing the denominator” is pointless and should not be required.",
+            "title_similarity": "0.43923765"
+        },
+        {
+            "id": "i3shjlg",
+            "score": 146,
+            "text": "When non-pure math classes try to simplify content/notation so much that it actually becomes harder to understand.\n\nI know the Einstein tensor notation. I understand how it works if you have a clear context for summation and pay proper attention to sub- and superscripts. I understand that it was created to make large computations easier to visualize. But I still hate it with a burning passion, and here's why:\n\nIn engineering classes it is thrown into the first equation of a chapter, with the index in two subscripts, without any explanation. It takes me longer to understand what is being expressed than it would take me to just write out a damned sigma. And it's usually just over i=1,2,3 anyway.",
+            "title_similarity": "0.7806101"
+        },
+        {
+            "id": "i3sfav2",
+            "score": 152,
+            "text": "*\"I'm good at math. I can calculate the 7% sales tax of my bill in my head.\"*\n\nTranslation: I'm really good at arithmetic.",
+            "title_similarity": "0.5414727"
+        },
+        {
+            "id": "i3syydi",
+            "score": 178,
+            "text": "\"Math is so boring. I am more of a creative person.\"\n\nThese idiots have no clue how creative and abstract math is. The only difference is math also has to make sense. They think mathematicians are bean counters when many mathematicians are also very artistic and creative. A huge proportion of my math professors also played instruments and had a talent for art. Creativity is built into mathematics because one must be creative enough to visualize abstract notions and see how they fit together similarly to creating a piece of art, but to ordinary people, math is a boring bean counter subject.",
+            "title_similarity": "0.7456056"
+        },
+        {
+            "id": "i3sm37n",
+            "score": 135,
+            "text": "It's Oil-er not U-ler damnit",
+            "title_similarity": "0.31800064"
+        },
+        {
+            "id": "i3skflc",
+            "score": 32,
+            "text": "\"Cross Multiplying\"",
+            "title_similarity": "0.26017"
+        },
+        {
+            "id": "i3sl71w",
+            "score": 40,
+            "text": "Ah, darn, you mean pet peeves with people and not with math. Because I gotta say, cycling around the same set of variables and symbols to mean vastly different things is driving me up the /wall/ right now.",
+            "title_similarity": "0.7027455"
+        },
+        {
+            "id": "i3ss62m",
+            "score": 39,
+            "text": "I often compare math to art rather than a science.  Rarely do people agree with me and that's a pet peeve.",
+            "title_similarity": "0.740098"
+        },
+        {
+            "id": "i3smh78",
+            "score": 102,
+            "text": "\"I'm just not good at math / I can't learn math / I'm really smart, I just don't have a math brain\" - 95% of students I help\n\nCan you guys just try? It just takes some effort and repetition. You didn't develop the skills you do have overnight. It frustrates me when people give up before they even try.",
+            "title_similarity": "0.74971056"
+        },
+        {
+            "id": "i3st857",
+            "score": 103,
+            "text": "Use of the verb \"derive\" instead of \"differentiate.\"\n\nEDIT: Other languages can call it what they want. I'm talking about people who speak English exclusively and still do this. \"Derive\" has an established, separate meaning that comes up a *lot* in math anyway",
+            "title_similarity": "0.58250606"
+        },
+        {
+            "id": "i3su1d3",
+            "score": 48,
+            "text": "I never liked how math is taught in school. It bores people and makes them think they’re stupid for not being able to do quick arithmetic. Mathematics is about how to understand and quantify the world. Simply thinking math is just numbers is dumb and naive. And similarly, one of my biggest pet peeves are those dumb “sally has 43 watermelons” questions. Like, can we not get better examples? \n\nI saw an absolutely [beautiful video](https://www.youtube.com/watch?v=qXTGVNwOz0w) on the equation of an ellipse just from someone looking at a problem from a different perspective. This is what maths should be like.",
+            "title_similarity": "0.75098634"
+        },
+        {
+            "id": "i3soiwu",
+            "score": 57,
+            "text": "my roommate back in undergrad thought mathematicians did textbook questions all day and the integrals they do just get longer and longer lol",
+            "title_similarity": "0.556963"
+        },
+        {
+            "id": "i3skheg",
+            "score": 133,
+            "text": "I’m a teacher, so this isn’t strictly a math pet peeve. But one that I have is when I’m trying to explain the steps to solve a problem and at each step the person asks “so this is the answer?” Absolutely infuriating because we agreed two seconds ago we need to get X isolated so why would 5X = 30 be the final answer?",
+            "title_similarity": "0.69738513"
+        },
+        {
+            "id": "i3shj2v",
+            "score": 218,
+            "text": "Not distinguishing between a probabilistic concept and its empirical counterpart: the expected value is not the same as the empirical mean, the variance is not the same as sample variance, and most importantly: The true distribution is NOT equal to the empirical distribution. \n\nFailing to seperate these concepts undermines things such as distributions that don't have these moments, or underestimates values just because extreme values haven't YET occured in the sample set.",
+            "title_similarity": "0.70352995"
+        },
+        {
+            "id": "i3sp2i7",
+            "score": 68,
+            "text": "When I am talking about my work with dad and he wants to give an give an example of something I would do, he will say something like \"so, say you are working on some formula...\". \n\nThe thing is, I work almost exclusively with category theory and topology, so I rarely work \"on formulas\". I tried to explain that I prove things but he doesn't get it. It's petty but it grinds my gears.",
+            "title_similarity": "0.69048727"
+        },
+        {
+            "id": "i3sl05i",
+            "score": 156,
+            "text": "Oh my god, I have one.  One of my students doesn't like to rewrite ANYTHING.  He'll be solving an equation and just piece by piece erase it as he moves numbers and variables around and it drives me NUTS!",
+            "title_similarity": "0.7170619"
+        },
+        {
+            "id": "i3sf3ee",
+            "score": 75,
+            "text": "For me, it used to be at school and university the people who were always asking why we actually learn all the maths if we never going to use it anyway. But the applications are countless once you look a little further. \n\nI am using all of it now, even concepts I considered myself rather abstract proved to have its uses down the line. But I get that not everyone will have to deal with maths in his job.",
+            "title_similarity": "0.7083647"
+        },
+        {
+            "id": "i3sq3ix",
+            "score": 73,
+            "text": "L'Hopital's rule is used too often. An overreliance on it causes students to be terrible with analysis, number sense, algebra, etc. I hate it so much.\n\nBasically L'Hopital's rule ruins student's number sense when it comes to computing limits. They just compute derivatives.\n\nAlso, many students can't even correctly state L'Hopital's rule.\n\nLately when I teach calculus I don't discuss L'Hopital's rule and don't let students use it until the very end of the course.",
+            "title_similarity": "0.70828104"
+        },
+        {
+            "id": "i3shzra",
+            "score": 368,
+            "text": "When people expect me to do large computations quickly (in my head, even) because I study math. I'm probably worse at calculations than the average person lol",
+            "title_similarity": "0.8120328"
+        },
+        {
+            "id": "i3t2qaz",
+            "score": 131,
+            "text": "\"Why was I taught about the pythagorean theorem in school when I never use it in my everyday life?\"  \nOh yes maybe because NOTHING you were taught in school is actually useful in your everyday life, except that it made you realize that you had a brain and maybe you should try using it.  \nAlso: \"What do you mean, research in mathematics? Hasn't math been like totally sorted out by now?\"",
+            "title_similarity": "0.70098966"
+        },
+        {
+            "id": "i3saicx",
+            "score": 547,
+            "text": "All those Facebook posts with stuff like \"whats 6÷2(3+4)?\" as if theres any mathematical content to them. Most of the time the problems are intentionally written to make the order of operations ambiguous. Sure, there may be a \"correct\" answer if you strictly follow PEMDAS, but thats not what math is about. It's just testing to see if you can decipher a poorly posed problem.",
+            "title_similarity": "0.72189325"
+        },
+        {
+            "id": "i3slgph",
+            "score": 439,
+            "text": "Every pi day there are a bunch of posts asking why it contains every sequence of numbers and there are a bunch of wrong answers in the comments which basically \"because pi is an infinite number.\" I don't understand why people are told this \"property\" of pi when it hasn't been proven and wouldn't be exclusive to pi. And referring to an irrational number as an infinite number makes me cringe",
+            "title_similarity": "0.78318834"
+        },
+        {
+            "id": "i3sosl6",
+            "score": 9,
+            "text": "Statistik being done wrong. At work my previous working place we had a report that was published once a month. \nIt looked at like 100 cases and calculated the mean for a few parameters or checked weather or not it fulfilled a certain criterion. All it did was check if the numbers from the month before were higher or lower. It did not check for something like variance or statistical significant changes. Basically it assumed all the information was contained in the 100 sample size.\nI think I don't have to say the person creating this did not have a maths degree.",
+            "title_similarity": "0.57952297"
+        },
+        {
+            "id": "i3sq7vh",
+            "score": 17,
+            "text": "\"Non-proper Subset not-equal to\".",
+            "title_similarity": "0.32835096"
+        },
+        {
+            "id": "i3srksp",
+            "score": 71,
+            "text": "\"math\" questions that are actually just really badly worded problems to the extent that the question asked is basically unanswerable unless you make assumptions about what the asker actually meant, and then answer that question. Which is usually trivial, because the only thing challenging about the original question was divining what was meant to be answered.\n\nUsually prefaced with some assertion that only IQ 160+ is able to answer the question\n\nI should also add that you'd hate me because I definitely use \"exponentially\" loosely in nonmathematical contexts to just mean \"growing really fast\" lol",
+            "title_similarity": "0.8865857"
+        },
+        {
+            "id": "i3stcky",
+            "score": 118,
+            "text": "The use of mnemonics and other tricks for memorizing everything, rather than taking the time to explain why things work. It causes so much issues for students when their understanding of math is a bunch of disjointed mnemonics and tricks stacked on top of each other.",
+            "title_similarity": "0.75021845"
+        },
+        {
+            "id": "i3su09b",
+            "score": 20,
+            "text": "All the false information about the golden ratio annoys me to no end.",
+            "title_similarity": "0.6626007"
+        },
+        {
+            "id": "i3suy18",
+            "score": 187,
+            "text": "Statements like \"I'm still waiting for that day I'll use this formula in my ordinary life.\" Once I remarked that their life is too ordinary for that. That person doesn't talk to me anymore. 😄",
+            "title_similarity": "0.57198465"
+        },
+        {
+            "id": "i3svwkg",
+            "score": 2,
+            "text": "When people think that there is a \"true\" probability of something happening out there and its our task to accurately measure it (i understand that in quantum physics that might be the case, but i mean predicting macro events). Like the dumb joke when someone writes that some binary event has 50/50 odds is actually accurate: if you know nothing about the event, two equiprobable outcomes is a fair model of the event.",
+            "title_similarity": "0.67116666"
+        },
+        {
+            "id": "i3sw2z3",
+            "score": 5,
+            "text": "When doing integrals when someone doesn’t surround the thing inside the integral with parentheses because you’re multiplying by dx(or dy, dz, whatever your integration variable is).",
+            "title_similarity": "0.68142575"
+        },
+        {
+            "id": "i3sxijv",
+            "score": 3,
+            "text": "I hate interval notation. Set notation ffw",
+            "title_similarity": "0.4867429"
+        },
+        {
+            "id": "i3sxmm4",
+            "score": 6,
+            "text": "People using “formula” and “equation” interchangeably—they are completely different concepts!",
+            "title_similarity": "0.51570714"
+        },
+        {
+            "id": "i3sxq19",
+            "score": 28,
+            "text": "The ungodly amount of ViRaL mAtH pRoBlEmS that circulate reddit",
+            "title_similarity": "0.75470996"
+        },
+        {
+            "id": "i3sybiz",
+            "score": 3,
+            "text": "When people think that math is only about numbers, when actually it is not.",
+            "title_similarity": "0.7103987"
+        },
+        {
+            "id": "i3syjx6",
+            "score": 3,
+            "text": "How students are often introduced to probability theory by way of sigma-algebra's without having seen measure theory, essentially doing measure theoretic probability without measure theory. Surely it's much more comprehensible if you define it in terms of sums or integrals (in the continuous case)? That's all it amounts to in practice anyway in the beginning. It's not like teaching first years pathological examples of non-discrete non-continuous random variables will further their understanding much anyway. That way you can treat all the important initial concepts using things they already understand rigorously like riemann integrals and infinite sums. At the end of the course you can give them a small peak into the whole sigma-algebra business and the limitations of the initial approach without overwhelming them.",
+            "title_similarity": "0.7551717"
+        },
+        {
+            "id": "i3szvxu",
+            "score": 6,
+            "text": "People saying \"derive\" instead of \"differentiate\" in intro calculus",
+            "title_similarity": "0.5335123"
+        },
+        {
+            "id": "i3t0amn",
+            "score": 206,
+            "text": "How technical majors reject the idea of needing to at least *understand* proof in their field of study.\n\nI saw a professional ML researcher make a fool of himself at a ML conference once by arguing against the speaker, claiming, \"You haven't examined all possible data sets, so how can you know your so called proof is true?\" He did not back down, even after the speaker clarified that it was, indeed, a mathematical proof about a general case.",
+            "title_similarity": "0.74043304"
+        },
+        {
+            "id": "i3t2wej",
+            "score": 3,
+            "text": "That everyone thinks I look down on them whenever they try to do maths for their own need.",
+            "title_similarity": "0.6186489"
+        },
+        {
+            "id": "i3t32d8",
+            "score": 1,
+            "text": "Mine is standard deviation. Since there are N based and N-1 based std() functions, it can get tricky. Especially when exchanging statistics and scripts with others. Watch out!",
+            "title_similarity": "0.66704386"
+        },
+        {
+            "id": "i3t6wc1",
+            "score": 21,
+            "text": "Other: what do you do for a living?\nMe: I research mathematics of machine learning.\nOther: Cool, I was always bad and hated math in high school.\n\nI'm not your therapist! I don't care about your hatred of the field I love! My other pet peeves is poor latex formatting.",
+            "title_similarity": "0.68679327"
+        },
+        {
+            "id": "i3t93nr",
+            "score": 1,
+            "text": "When you tubers clickbait math in their thumbnails",
+            "title_similarity": "0.40830693"
+        },
+        {
+            "id": "i3t9ilx",
+            "score": 2,
+            "text": "* overloading notation, parentheses being the worst offender\n\n* inverse trig function notation. Just no, why.\n\n* Having different conventions worldwide for the decimal point. I think this one might actually be controversial, since a lot of successful mathematicians will be accustomed to either . or , but honestly: I don't see what having that difference brings to the table. Bring on the fascist math overseeing body to strike a gavel on one or the other.\n\n* \"ThE GoLdEn RaTiO applied to pictures. Even better if it's stretched in some way. I mean, there are infinite spirals that *also* approximate the projection from whatever angle your camera lens made with the Mona Lisa.",
+            "title_similarity": "0.82429683"
+        },
+        {
+            "id": "i3t9ual",
+            "score": 1,
+            "text": "Prime numbers.  They're never going away.",
+            "title_similarity": "0.3566802"
+        },
+        {
+            "id": "i3taa3k",
+            "score": 10,
+            "text": "The fact that math is taught with proofs yet there typically isn’t a course in university about the symbols/language that math/proofs are written in and because they’re unique symbols not on the standard QWERTY keyboard layout you end up google silly stuff like backwards E in math. All this leads to a common inability for students capable of say calculus to even understand the proofs and totally ignore them, when your understanding could be so much more enhanced by having intimate understanding of how it was proved/derived.",
+            "title_similarity": "0.7519637"
+        },
+        {
+            "id": "i3tbigs",
+            "score": 2,
+            "text": "My pet peve is how much controversy people get into when those \"memes\" of a math problem like 2+3/(4-1) start. Like how can people who failed middle school and high school math classes sit here and argue that they know they're right. Like if you don't remember how PEMDAS works, and you probably don't care either, why bother telling others they are wrong? Just continued proof that the US education system is trash.",
+            "title_similarity": "0.80772734"
+        },
+        {
+            "id": "i3tdy25",
+            "score": 13,
+            "text": "The concept of teaching mathematics and the audacity of the people taking pride into the “oh, I suck at math”. \nAnd while it’s 50% the fault of bad teachers, 50% is them acting dumb. \nAnd I cannot get over the fact that Maths are not being taught in all levels by Mathematicians. We have teachers barely able to solve a basic equation and they “teach” mathematics. That is why people suck at it and they keep getting dumper!",
+            "title_similarity": "0.7193173"
+        },
+        {
+            "id": "i3teac6",
+            "score": 5,
+            "text": "[There are too damn many duplicate notations in linear algebra](https://mathoverflow.net/a/366118/107094).",
+            "title_similarity": "0.7001321"
+        },
+        {
+            "id": "i3tfn6s",
+            "score": 2,
+            "text": "As a teacher I'm a bit surprised it hasn't been mentionned : \"Math is useless\"",
+            "title_similarity": "0.69198406"
+        },
+        {
+            "id": "i3tgp9i",
+            "score": 4,
+            "text": "My biggest pet peeve is one in which I do not find fault with the individual who triggered it (generally speaking), but moreso speaks to a more overarching issue with public American education as a whole, and that would be the following statement (or similar paraphrasings):\n\n\"I didn't know I could do that...\"\n\nWhile I have run into some students who will give me that reply anytime I show them an answer to a question they have already seen solved in previous examples, these are few and far between. The more likely case is that in which students have been conditioned by public education to see math as completely formulaic and thus viewing the problem solving process as one in which it is a REQUIREMENT to see how an instructor writes a solution, after which the thing to do is to apply that example solution to similar questions. It greatly saddens me when I run into bright students at a collegiate level who are simply afraid to try to solve a problem by thinking about the logical reasoning, just because they have been told by previous instructors to \"do it their way\". Of course I could say more on this, but that's probably a bit much for a response!  \n\n\n  \n\n\nEdit: Missed an important negative... Whoops!",
+            "title_similarity": "0.7385439"
+        },
+        {
+            "id": "i3thsqv",
+            "score": 16,
+            "text": "This isn't related to just Math, but physics also in a big way. \n\nIt's when people dismiss Theoretical Physics or \"Abstract Algebra\" as having no application or no pragmatic uses.",
+            "title_similarity": "0.7180131"
+        },
+        {
+            "id": "i3tkc4d",
+            "score": 15,
+            "text": "Probably my worst is when I tell people I'm doing a maths degree, they immediately assume I want to be a banker or something else financial and boring. I like maths. It has everything: the creativity, the analysis, everything in between. It is not a gateway into the cold soulless arms of Morgan-Stanley.",
+            "title_similarity": "0.7706429"
+        },
+        {
+            "id": "i3tm87s",
+            "score": 2,
+            "text": "That if you're good at analysis then you're good at combo. Or algebra. And vice versa.",
+            "title_similarity": "0.5467252"
+        },
+        {
+            "id": "i3togov",
+            "score": 2,
+            "text": "When my college students tell me 5/0=0.",
+            "title_similarity": "0.3362349"
+        },
+        {
+            "id": "i3tt4ol",
+            "score": 8,
+            "text": "My biggest pet peeve is not understanding the material right away when I read it.\n\nMy second biggest pet peeve is having trouble with difficult problems.\n\nThis is more apparent in integral calculus.",
+            "title_similarity": "0.8049786"
+        },
+        {
+            "id": "i3tt6cr",
+            "score": 3,
+            "text": "I just say that everything that grows faster than linear grows with the busy beaver function. iunno probably right",
+            "title_similarity": "0.5073726"
+        },
+        {
+            "id": "i3ttrih",
+            "score": 4,
+            "text": "Growing up having teachers claiming the class would never need to use this in our day to day lives, but we were required to learn it anyways.  \n\n\nTurns out I use pretty much *everything* learned in highschool and below on an almost daily basis.",
+            "title_similarity": "0.4507861"
+        },
+        {
+            "id": "i3tu28u",
+            "score": 3,
+            "text": "Why are square roots taught with the square root notation as opposites to being a raised to the power of 1/2?",
+            "title_similarity": "0.57352084"
+        },
+        {
+            "id": "i3tvn27",
+            "score": 8,
+            "text": "“I’m just not a math person.” \n\nMy response has been, “I’m just not an English person. Letters are fine, but words are just too much. And then paragraphs are just weird.”",
+            "title_similarity": "0.67302406"
+        },
+        {
+            "id": "i3txb9j",
+            "score": 3,
+            "text": ">There is a probability\n\n0 is a probability.",
+            "title_similarity": "0.29430014"
+        },
+        {
+            "id": "i3tyme0",
+            "score": 10,
+            "text": "Not just math but that one post that was being shared around saying things like “School doesn’t make sense. Why study math when we have calculators? Why study Spanish when we have Dora?” etc came to mind because it seems like a very common belief.\n\nIt is very unfortunate that a teacher of mine from 12th grade who was meant to teach a math-centered unit in a particular course spent the entire time telling us how much he hated math because it was useless, as if he thought it was helping the students somehow? His fiancée posts similar sentiments on social media(“why did school teach us arithmetic but not how to do [XYZ] sewing technique?”).",
+            "title_similarity": "0.7220649"
+        },
+        {
+            "id": "i3u2wa8",
+            "score": 3,
+            "text": "\"I'll see you at 5!\"",
+            "title_similarity": "0.06701669"
+        },
+        {
+            "id": "i3u5sal",
+            "score": 4,
+            "text": "Those dumb PEDMAS memes where the expression is written without any parentheses or is otherwise at least partially ambiguous. There may be a right answer to some of them. Most of them are just poorly written, or rather written in a way that would never arise in any proper mathematical context. \n\nIt really fuels the poor understanding and frustrations people seem to have with maths sometimes. I guess maybe poor understanding is what fuels the memes to begin with but it then only reinforces it when people post them and argue over the \"right\" answer. \n\nSymbolic division and multiplication basically goes away after grade school arithmetic. Multiplication is done with dots, parentheses and direct placement (ie 2x, or 2(x+1)) and division is written more commonly as fractions. Furthermore spacing (along with direct placement) is used in written maths to most clearly show what operations are being performed on which terms. \n\nThe memes are frustratingly ironic because people think they are so smart but it makes everyone look stupid. Then I look stupid for caring this much XD",
+            "title_similarity": "0.7820972"
+        },
+        {
+            "id": "i3ubsgs",
+            "score": 6,
+            "text": "how accepted it is to tell people you hate math, especially if the person you’re talking to studies it/does it for a career. i’m a math major and a lot of the time when someone finds out i get some variation of “oh gosh i would hate that”, or the occasional “you’re crazy, math is terrible” and it annoys me so much. i know this isn’t math exclusive but i hear it way too often",
+            "title_similarity": "0.78644574"
+        },
+        {
+            "id": "i3uce97",
+            "score": 13,
+            "text": "When people say something like ‘proof based courses’. \nYou mean actual maths courses. If the course isn’t built on proving statements and exercises about proving stuff then what even is it…",
+            "title_similarity": "0.68045527"
+        },
+        {
+            "id": "i3ucwdi",
+            "score": 4,
+            "text": "Using “X” for multiplication",
+            "title_similarity": "0.42442912"
+        },
+        {
+            "id": "i3uhxyo",
+            "score": 2,
+            "text": "2+2=4",
+            "title_similarity": "0.19481106"
+        },
+        {
+            "id": "i3ui0uc",
+            "score": 8,
+            "text": "That mathematical thinking and reasoning is quick if you “get math”. Problem solving takes time. Sure, someone could get to an answer quicker than me, but the process is what matters, to me at least. Stretch your brain. Use what you know to get to something new or solve a problem. That is mathematical reasoning.",
+            "title_similarity": "0.74664557"
+        },
+        {
+            "id": "i3uoex2",
+            "score": 2,
+            "text": "Terrence Howard thinking 1 * 1 = 2.  \nBro, you went to school for chemical engineering.",
+            "title_similarity": "0.28840315"
+        },
+        {
+            "id": "i3upr66",
+            "score": 3,
+            "text": "I spent my whole life crossing my zeros, but then I was introduced to the empty set",
+            "title_similarity": "0.33152467"
+        },
+        {
+            "id": "i3uq2wz",
+            "score": 3,
+            "text": "Using \"derive\" as a verb for taking the derivative. A good friend of mine does it, I've never told him cus I don't wanna be a dick but I hate it!",
+            "title_similarity": "0.58189946"
+        },
+        {
+            "id": "i3ur1gq",
+            "score": 3,
+            "text": "When I want to prove something by induction, and I want to do this on the variable N, I'd say something like \"now, we induct on N...\".\n\nBut someone pointed out to me that the verb of induction is actually induce and not induct, so I've been saying it wrong all this time...",
+            "title_similarity": "0.65421605"
+        },
+        {
+            "id": "i3usahq",
+            "score": 2,
+            "text": "Why is x^0 = 1? Like wtf? Where did that come from? I accept it as a fact but I can’t for the life of me figure out the logic behind it. By definition, shouldn’t it be 0? If someone could explain it to me, that would be fantastic.",
+            "title_similarity": "0.64987934"
+        },
+        {
+            "id": "i3usbs8",
+            "score": 3,
+            "text": "\"Possible events must be equally probable\"",
+            "title_similarity": "0.2947288"
+        },
+        {
+            "id": "i3utx8n",
+            "score": 8,
+            "text": "My biggest pet peeve is when someone asks me what I do, and I tell them I am a mathematician the standard reply is always “oh yuck, I hate math.” I just want to say - “oh yeah I really hate the things you are interested in as well!”",
+            "title_similarity": "0.7272964"
+        },
+        {
+            "id": "i3uxz6a",
+            "score": 3,
+            "text": "0 is \"zero\", not \"oh\".",
+            "title_similarity": "0.25105312"
+        },
+        {
+            "id": "i3uylxs",
+            "score": 14,
+            "text": "Getting a math degree has ruined the words \"proof\"/\"proved\" in ordinary life for me.\n\n\"This or that thing just proves that...\" - when in reality it's just one example of a thing that supports their beliefs. It's one of my irrational pet peeves these days, it drives me nuts lol",
+            "title_similarity": "0.835461"
+        },
+        {
+            "id": "i3v0xfm",
+            "score": 3,
+            "text": "Similarly when someone refers to *a lot more* as *exponential*. Like, *exponentially more people watch [this] than [that]*.",
+            "title_similarity": "0.49863467"
+        },
+        {
+            "id": "i3v14zt",
+            "score": 2,
+            "text": "With ‘exponential’ they often don’t even mean ‘growing quickly’, just ‘large’. Though tbf if it’s constant I suppose it’s trivially exponential… but they clearly think it means ‘large’. Exponential can even mean decreasing…",
+            "title_similarity": "0.7895421"
+        },
+        {
+            "id": "i3v2muw",
+            "score": 2,
+            "text": "Unit metric conversion method in Algebra 1. The way it teaches us to do it is very annoying vs the way you can do it with common sense.",
+            "title_similarity": "0.7995782"
+        },
+        {
+            "id": "i3v6ths",
+            "score": 2,
+            "text": "Yeah, the exponential thing is mine. Most examples I see of that are just exponentially wrong.",
+            "title_similarity": "0.6927751"
+        },
+        {
+            "id": "i3v7r39",
+            "score": 2,
+            "text": "When people use x instead of • for multiplication like what the hell",
+            "title_similarity": "0.6591438"
+        },
+        {
+            "id": "i3v800v",
+            "score": 4,
+            "text": "It's not about math, but about a lot of students in a math class. All throughout highschool people would say their math teacher sucked and was awful. Throughout my undergrad experience as well, I'd always hear complaints about math teachers being awful. When I started paying attention to the people that were complaining, I noticed that they were often too busy playing on their phone or talking to their neighbors. Essentially, a large majority of people that claim their math teacher sucks, are just using that excuse rather than admitting to being a horrible student.\nThis may be true for other subjects as well, but I feel like it has been much more prevalent in math from my perspective and experience.",
+            "title_similarity": "0.6602602"
+        },
+        {
+            "id": "i3va0cm",
+            "score": 5,
+            "text": "When someone says “random” when they mean “arbitrary”",
+            "title_similarity": "0.38099426"
+        },
+        {
+            "id": "i3vbkc4",
+            "score": 2,
+            "text": "\"math is about numbers\"",
+            "title_similarity": "0.53541636"
+        },
+        {
+            "id": "i3vdam0",
+            "score": 4,
+            "text": "people that think calculus is the end of math.",
+            "title_similarity": "0.60111785"
+        },
+        {
+            "id": "i3vehde",
+            "score": 2,
+            "text": "When people think quick mental maths calculation is the epitome of high level maths, and are absolutely bewildered by someone squaring some large number in their head quickly thinking that it’s cool.",
+            "title_similarity": "0.7821696"
+        },
+        {
+            "id": "i3vkpy4",
+            "score": 3,
+            "text": "People putting golden spiral on everything",
+            "title_similarity": "0.14450124"
+        },
+        {
+            "id": "i3vl9uc",
+            "score": 2,
+            "text": "When people insist that 0.9999... repeating *does not* equal 1. It provably does. What's 1/3? 0.3333... What's 2/3? 0.6666.... So 1 = 1/3 + 2/3 = 0.9999.... Of course there are other proofs that are more rigorous and less obvious. But some people, no matter how many different ways you prove it to them, simply refuse to accept it because it *feels wrong*. Well, intuitions can be wrong, as it happens. A valid proof, on the other hand...\n\nUltimately, this comes down to the intuition that the sum of a geometric sequence cannot equal a whole number, which is simply not the case. That's the mistake Zeno made in the [Dichotomy Paradox](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes#Dichotomy_paradox), arguing that to traverse a distance, you have to traverse half the distance first. Then to traverse the remainder, you have to traverse the first half of *that* first. If you continue the reasoning to its conclusion, you have to traverse an infinite number of infinitely decreasing distances. This geometric series is 1/2 + 1/4 + 1/8 + 1/16.... (the one above is 9/10 + 9/100 + 9/1000 ...). Since there are an infinite number of these to consider, you can never traverse the whole distance, which is the same as saying it cannot add up to 1. But, of course it does, as we know, because we traverse distances all the time! And when we do, we *actually are* traversing an infinite number of increasingly smaller distances. In fact, any distance (or any number) can be expressed *in infinite unique ways* as of sums of increasingly smaller numbers.\n\nBut noooo, don't listen to the proofs, or even all the people who worked this out ages ago. Go with your gut. That makes sense.",
+            "title_similarity": "0.75036836"
+        },
+        {
+            "id": "i3vld5o",
+            "score": 3,
+            "text": "e^πi + 1 = 0 just feels like you took the actually interesting fact of e^πi = -1 and arbitrarily tacked on that extra one for an artificial sense of completeness",
+            "title_similarity": "0.6573772"
+        },
+        {
+            "id": "i3vmki5",
+            "score": 2,
+            "text": "That I can't do it",
+            "title_similarity": "0.23960164"
+        },
+        {
+            "id": "i3vo71b",
+            "score": 2,
+            "text": "Talking about .000001% or 99.9999%. Each time you add a decimal to those numbers you end up describing something 10X more rare. If you want to describe something that’s X per million or X per billion you should say that instead and rarely that’s what you want to say",
+            "title_similarity": "0.65114737"
+        },
+        {
+            "id": "i3vpim2",
+            "score": 7,
+            "text": "The narrative that all math was invented by white European men. As well as the dogmatic mathematically-illiterate attempts to counter this narrative, where people just making up mathematically-nonsensical stuff and hype it up in a moralistic proud rant. Like [this claim that ancient Indians descovered a linear alternative to Pythagoras' theorem](https://riskavoider.com/pythagoras-indigenous-knowledge/). \n\nFor the record, the ancient Indian Baudhāyana Śulbasûtra really does explicitly state the actual Pythagorean theorem, a\\^2+b\\^2 = c\\^2 (दीर्घचतुरश्रस्याक्ष्णया रज्जु: पार्श्र्वमानी तिर्यग् मानी च यत् पृथग् भूते कुरूतस्तदुभयं करोति ॥). We can legitimately glorify the book for this discovery.  However these ignorant people on the internet never really read it. Instead they claim Pothayanar found \"better alternative version\" which is 7/8 a + 1/8 b = c. And they get excited by this claim and copy paste it all over the internet and social media.  They seriously think \"7/8 a + 1/8 b = c\" is a superior version of \"a\\^2 + b\\^2 = c\\^2\" and that proves Indians are superior to Greeks. When you tell them \"7/8 a + 1/8 b = c\" is generally totally false for right triangles, they accuse you of being brainwashed by the western narrative.",
+            "title_similarity": "0.70520145"
+        },
+        {
+            "id": "i3vxwy7",
+            "score": 4,
+            "text": "The general attitude that being bad at math is a quirky character trait rather than a deficiency. I read somewhere once that we don't treat the inability to read with such casual disregard, so why do we do it for math? In the 21st century it's just as useful of a skill as reading and comes in handy all the time in unexpected places. Even just for calculatory skills shouldn't be considered niche, they should be considered essential basic skills.",
+            "title_similarity": "0.79054016"
+        },
+        {
+            "id": "i3w4zkb",
+            "score": 2,
+            "text": "Not using enough parenthesis in their work, and usually getting things mixed up because of it. Separate your damn variables and follow PEMDAS ffs.",
+            "title_similarity": "0.60452616"
+        },
+        {
+            "id": "i3w68wn",
+            "score": 2,
+            "text": "Calculus",
+            "title_similarity": "0.29902136"
+        },
+        {
+            "id": "i3wasxs",
+            "score": 2,
+            "text": "When people give a rate of something but not reduced to lowest terms: \"2 out of 10 are so-and-so\" instead of 1 out of 5.",
+            "title_similarity": "0.41655844"
+        },
+        {
+            "id": "i3wiba6",
+            "score": 1,
+            "text": "LL and LR in formal language theory.\n\nThe terms 'row', 'column', 'diagonal', 'triangular', 'left', or 'right' in linear algebra.",
+            "title_similarity": "0.36502928"
+        },
+        {
+            "id": "i3wlfyo",
+            "score": 2,
+            "text": "No standardisation of notation and terminology beyond first year undergrad.\n\nAs I got deeper and deeper into my maths undergrad, I found myself spending longer and longer just making sure that the source I was reading was, in fact, the thing I need to learn.\n\nNot because it was too convoluted, but because the notation and naming conventions were just so wildly different to what my lecturer taught me. \n\nLearning functional analysis was such a paranoid experience for me because it just got so cumbersome to keep up with all the different names people have for things and all the unique conventions people had in places like mathexchange.\n\nMy favourite topics in undergrad were differential geometry and topology. Mainly because they were basically just book clubs for the respective lecturer’s favourite book on the topic so I didn’t need to worry about this issue.",
+            "title_similarity": "0.7079931"
+        },
+        {
+            "id": "i3wpm4c",
+            "score": 2,
+            "text": "I don’t know if this has been mentioned but the fact that most universities do not offer resources to help students of “pure math” like they do for computational math, like a workshop, tutoring. I know the funds are limited and the finance, engineering, pre-med, and computer science students are the money makers, but you can only re-read the definitions and theorems, YouTube, and go to the professor’s office hours for so much and it still doesn’t click.",
+            "title_similarity": "0.68806124"
+        },
+        {
+            "id": "i3wqawy",
+            "score": 4,
+            "text": "Many people do not realize that an irrational number is just a point on the number line although its decimal representation contains an infinite number of digits that don't repeat.",
+            "title_similarity": "0.6945162"
+        },
+        {
+            "id": "i3wv6gi",
+            "score": 4,
+            "text": "I know this is pretty pedantic but it bugs me when people describe pizza slices as triangles",
+            "title_similarity": "0.5921127"
+        },
+        {
+            "id": "i3ww414",
+            "score": 2,
+            "text": "The conceited attitude some STE majors ( the non math lol) have about their understanding of Mathematics when they rarely have any depth beyond basic calculus. \n\nAlso, the misconception that people who study math just breeze through with no struggle at all...lol people are appalled when I explain studying math is essentially just being frustrated all the time.",
+            "title_similarity": "0.78215617"
+        },
+        {
+            "id": "i3wx7ls",
+            "score": 2,
+            "text": "I think that when a negative and a negative can make a positive; a negative and a positive can make a positive; and a positive and a positive make a positive.. but no combination of positive and positive can make a negative - irritates me to no rational. Then the English major in me rises in disbelief to state \"pfft, yeah, right.\"\n\n😂🐇",
+            "title_similarity": "0.7223393"
+        },
+        {
+            "id": "i3wyotw",
+            "score": 2,
+            "text": "That people use math before they understand it fully. A primary example of this is machine learning algorithms in computers. Right now, they are based on how the human brain works. The problem is, we don't understand how the human brain fully works. So we're emulating something we don't understand the full mathematical ramifications of, essentially creating a black box that finds solutions that we don't understand how it arrived at, and we're calling it correct, or proof of something.\n\n&#x200B;\n\nI'm not saying that we shouldn't use machine learning. I'm saying we shouldn't use machine learning YET. We need to better understand the underpinning math, because that's how we're going to end up with a SKYNET situation.",
+            "title_similarity": "0.7619846"
+        },
+        {
+            "id": "i3x307x",
+            "score": 3,
+            "text": "people saying \"squared\" when they mean \"doubled\"",
+            "title_similarity": "0.3745305"
+        },
+        {
+            "id": "i3x5hjs",
+            "score": 2,
+            "text": "People claiming - 1 = 1/12 and not realizing that it doesn't mean what they think it means",
+            "title_similarity": "0.61557686"
+        },
+        {
+            "id": "i3x5nr5",
+            "score": 2,
+            "text": "The fact that there's actually quite an interesting discussion to be had about whether we can treat infinity like a number, or whether it could be considered okay to say 1/0 = infinity, but rather whenever this discussion comes up it's usually immediately shut down by someone parroting a phrase along the lines of \"Nope! Infinity is a concept, not a number!\" (whatever that means), that they probably just heard someone say to them with an authoritative voice in their life at one point and never thought about it ever again.\n\nOf course, as long as we are specifically confined to the field of real numbers, then it is impossible to incorporate a new element that has the properties we'd expect infinity to have while still retaining the field structure. Similarly, no inverse of 0 can exist in a field. However, there's a good damn reason that the question of whether infinity is a number keeps being asked by people learning math - it makes intuitive sense! And indeed, there are situations where it *does* make sense to think of infinity as something that is number-like, and we have defined consistent algebraic structures that capture the intuition we have of how infinity should behave as a number (see the extended real numbers, the real projective line, reimann sphere, wheel algebras); and it's all really interesting stuff, which makes me think it's a bit of a shame that the discussion is usually ended so abruptly and confidently by people who (I would say) don't really fully understand what they're talking about.",
+            "title_similarity": "0.7729014"
+        },
+        {
+            "id": "i3x6l3j",
+            "score": 2,
+            "text": "Something that has bothered me since middle school, using “minus” interchangeably with “subtract”. It has bothered me less over time but there’s still something there",
+            "title_similarity": "0.5292992"
+        },
+        {
+            "id": "i3xxo8l",
+            "score": 2,
+            "text": "People that sees me doing statistics but claims and will argue you can't divide by 0 because they heard it in high school. 2 issues. You can calculate 0/0 but its undefined but not impossible and has its own set of issues.. The 2nd is the equation is normally me calculating permutations so its actually something 3!/0! And they have no clue what a factorial are.",
+            "title_similarity": "0.69489145"
+        },
+        {
+            "id": "i40eyt5",
+            "score": 3,
+            "text": "The most annoying thing happening  today is dumbed down tutorials.  I know the mathematics behind Machine Learning, and I try to look up something new I've never seen before (like boosting).  Instead of an actual explanation , the Internet covers me with dumbed down tutorials that make it *harder* to understand than if they just showed the matrix equations.  The tutorials leave out pertinent information i need (like normalization)\n\nI blame \"Data Science boot camps\" for creating this mess.",
+            "title_similarity": "0.7869197"
+        },
+        {
+            "id": "i416uqd",
+            "score": 3,
+            "text": "When mathematicians pretend to misunderstand common words like 'exponential' because their common usage differs from the mathematical one.\n\nLike cmon, get over yourself",
+            "title_similarity": "0.8424309"
+        },
+        {
+            "id": "i4485xf",
+            "score": 2,
+            "text": "The phrase \"Let X \\in R be a random variable\"\n\nThe symbols say X is an element of the reals, but the words say it's a random variable (i.e. a measurable map to the reals)",
+            "title_similarity": "0.593485"
+        },
+        {
+            "id": "i4mlh3k",
+            "score": 4,
+            "text": "I get a little frustrated when people describe maths in opposition to \"creative\" subjects or tell me \"you're either right or wrong with maths\". I haven't cracked a way of explaining in a relatable way why I disagree (and why it's so fascinating that way).\n\nAlso - it's not so bad in the grand scheme of things, but I wonder how many more times in my life I'm going to have to hear that \"topologist's doughnut/coffee mug\" factoid at the beginning of popular maths videos 😅",
+            "title_similarity": "0.8084119"
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "If we were able to walk in a straight line ignoring the curvature of the Earth, how far would we have to walk before our feet were not touching the ground?\nEDIT: thank you for all the information. Ignoring the fact the question itself is very unscientific, there's definitely a lot to work with here. Thank you for all the help.": [
+        {
+            "id": "h54cyi8",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h52rngi",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h52pxac",
+            "score": -5,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h53hqj7",
+            "score": 3,
+            "text": "As the man says, if the Earth were a perfect sphere then you couldn’t take a single step without it happening. But the Earth is actually an irregular oblate quasispheroid and so has some flat places. But the wild thing is that in order to still have all the surface meet up with itself everywhere, there are some places where, in order to compensate for the flat bits, there have to be really steep bits, too - instantaneously steep bits sometimes.\n\nThe answer to your 9yo’s question is that you just need to find the nearest cliff.",
+            "title_similarity": "0.6623487"
+        },
+        {
+            "id": "h53cat4",
+            "score": 12,
+            "text": "I'm going to try a different approach to the other answers here. The earth is not a sphere and so the answer is not 0 distance. Equally, we are not able to discern tiny gaps so it must be a discernible change in elevation. I'm going to take 1cm as a statistically significant elevation.\n\nThe earth is knobbly, and I can't predict your starting point so I'm going to say that the distance we're looking for is when, on average, your feet are 1cm or more from the ground for an extended period.\n\nI'm also assuming that you're staying on land for this thought experiment as going off a cliff into the sea would mess up these calculations a bit.\n\nInformation on the average smoothness of the earth's surface is hard to obtain. I was unable to find any studies which did anything more than plot the maximum and minimum elevation. As a result, I will be using data on elevation change from runners.\n\nAs far as I could tell, runners consider 100ft of elevation gain per mile to be a fairly steep hill. As most runners run in settled areas, which tend to be flat, I'll take 100ft to be a very rough average. It's probably a bit low but you're also probably starting from a settled area.\n\n100ft per mile is enormously more than the curvature of the earth for the first few miles. That's about a 2% gradient. Unfortunately, we don't know which direction that is, but if we assume that you are pointing downhill, an average of 2% would mean you go 50cm before your feet are 1cm off the ground.\n\nAccounting for angle means finding the average apparent slope at any angle, which means multiplying by 1/pi, or multiplying the distance by pi. This makes the average distance, assuming you're not going into the ground, 1.57m.",
+            "title_similarity": "0.62431145"
+        },
+        {
+            "id": "h52ajd2",
+            "score": -8,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h52rwms",
+            "score": 8,
+            "text": "It's not a yes/no thing.  If your feet are 1 centimeter off the ground, does that count as \"not\" touching?  How about 1 millimeter?  How about 1 nanometer?  If you define the threshold to be small enough, you're already \"not\" touching the ground the moment you move a single step forward in this scenario (which presumably assumes a perfectly smooth Earth, not one with hills and valleys.  If you take into account hills and valleys the answer would be different depending on the terrain.)\n\nThen there's the question of how big your feet are and are you allowed to flex them to conform to terrain or do you assume they are rigid and fixed in shape (unlike a human foot made of meat actually would be)?  Because some parts of your foot are a few inches away from other parts of your foot so technically the answer isn't even the same for the entire foot.  Just like the fake idealized world that's perfectly smooth, you \\*also\\* have to assume a fake idealized foot that's a single point in space and doesn't cover an area like a real foot does.\n\nEssentially, the question is phrased the wrong way because technically you are a teeeny distance off the ground the instant you move at all tangent to the surface.  If the question was rephrased with a threshold distance then you could give a reasonable answer.  If that threshold distance is big enough then you can ignore all these other ugly problems about terrain and foot size etc as being too small to matter at that scale.  e.g.  \"How far would I have to walk forward to end up being 20 kilometers off the ground?\" would be a good way to phrase it.  If you throw in \"assuming a perfectly smooth earth\" to get rid of terrain issues then you could get by with a smaller threshold and still get a reasonable answer at that scale, like 'how far to end up 1 meter off the ground\".",
+            "title_similarity": "0.5893526"
+        },
+        {
+            "id": "h547eof",
+            "score": 4,
+            "text": "Uh... If you were to somehow lock your own personal physics to ignore the curvature of spacetime and walk in a straight line... You wouldn't have to go anywhere. You would instantly leave earth. Either it would slam into you at 76,000 miles per hour... Or it would leave you at that speed. Either way, you would escape earth without taking a step.\n\n(I know, not the answer sought, I just thought it was funny)",
+            "title_similarity": "0.6801826"
+        },
+        {
+            "id": "h526ekd",
+            "score": 210,
+            "text": "The earth's curvature is about 8 inches per mile (sorry for the awful units, I know this specific bit of info from an Asimov quote).\n\nIn most places the earth is not smooth enough that 8 inches over a mile is going to be super noticeable super quickly, because small gradual bumps (like hills and stuff) are common enough. But if you were to 'walk' on a long slender lake on a day without much wind where the water is fairly still, you'd probably notice the difference within a few minutes of walking.",
+            "title_similarity": "0.6251022"
+        },
+        {
+            "id": "h53074p",
+            "score": 6,
+            "text": "On a perfectly round smooth surface, about a dozen steps or so.\n\nSince the earth is not perfectly round or smooth, figure about a quarter mile. \n\nThings disappear from sight over the curvature of the earth at roughly 12 miles.",
+            "title_similarity": "0.4565434"
+        },
+        {
+            "id": "h52e4jj",
+            "score": 2,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h52v8eg",
+            "score": -2,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h53nued",
+            "score": 10,
+            "text": "Assuming you’d be walking on perfectly smooth ground, about 1,500 feet of walking you’d start to notice a small but noticeable distance between you and the ground. The ground will start to move away from your feet even faster the farther you go, so it’s not a constant change in distance.",
+            "title_similarity": "0.6882421"
+        },
+        {
+            "id": "h5648n2",
+            "score": 3,
+            "text": "Working with laser levels in agriculture the rule of thumb is 1/4” at a 1/4 mile, roughly 2” at a half mile, and about 8” at a full mile. Makes it fun when you’re talking to an operation that wants the longest range laser they can get and you tell them it doesnt matter unless they want to allow for the curvature of the earth.",
+            "title_similarity": "0.5822444"
+        },
+        {
+            "id": "h5315uz",
+            "score": 3,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h535yml",
+            "score": 9,
+            "text": "Well, pretending the Earth is perfectly spherical, then just one step would be enough to not touch the ground anymore. The height from the foot to the ground would be very very little, but still enough to say that you weren't touching the ground anymore.",
+            "title_similarity": "0.6835068"
+        },
+        {
+            "id": "h53j3kd",
+            "score": 11,
+            "text": "Others have already pointed out that the answer is \"one step\" when the surface of the Earth is simplified as a perfectly smooth, oblate spheroid. I find it enjoyable to continue adding layers of nuance to problems like these, so I'll say: it would depend on\n\n1. where you started walking\n2. what qualifies as \"touching\" and\n3. what qualifies as \"the ground\"\n\nWhere aspects of (3) evoke a version of the [coastline paradox](https://en.wikipedia.org/wiki/Coastline_paradox).\n\nFor example: if I interpret \"the curvature of the Earth\" as referring to \"the curvature of a perfectly smooth, [oblate spheroid](https://en.wikipedia.org/wiki/Spheroid) with parameters chosen such that the RSS of normal distances taken between it and the Earth's actual surface (noting that we haven't yet defined Earth's surface) is minimized,\" then perhaps your linear walking path becomes a line contacting Earth's surface at your starting point and oriented in a direction parallel to the plane tangent to that spheroid. Note that if I start walking at the foot of a mountain (assuming the mountain qualifies as part of \"Earth's surface\"), then this walking path may actually *interfere* with \"Earth's surface.\"\n\nIn seeking a definition of \"Earth's surface,\" we notice that the Earth is not perfectly smooth, so even if one ignores/subtracts out \"the curvature of the Earth,\" there is still the \"roughness\" of the Earth to account for, i.e., mountains, valleys, and every other type of topographical feature that exists in between.\n\nOne could attempt to survey the topographical features comprising Earth's \"roughness\" and model them as a probability distribution (perhaps involving a [Markov chain](https://en.wikipedia.org/wiki/Markov_chain)) to a seemingly arbitrary level of accuracy, and declare victory.\n\nBut that approach creates a new problem! [What counts as a \"topographical feature\"?](https://en.wikipedia.org/wiki/Coastline_paradox) If my linear path aligns with a tree, does the tree count as \"the ground\"? If not, then how do I know when to categorize objects as \"the ground\" and when not to? How do I characterize \"the ground\" at positions near the base of the tree, in order to evaluate whether it is touching? If the ground is assumed to simply not exist near the base of the tree, then where does that boundary begin and end? (Etc.)\n\nAlso what exactly counts as \"touching\"? Having subtracted out Earth's curvature, I am now walking on a perfectly flat, mathematically-derived plane, and evaluating whether \"the ground\" touches my feet or not. Presumably, this means we're super-imposing a phantom, intangible version of Earth's surface over my walking path and evaluating whether that envelope counts as \"touching\" my feet or not. How close does it have to be to qualify as touching? Does the entire footprint need to be touching, or just one small point? If the latter, how small is small enough? The tip of a blade of grass? (Etc.)\n\nThe common theme is that at some point, you have to define resolutions for the boundary envelopes, and the answer you get will strongly depend on those input assumptions.",
+            "title_similarity": "0.6905306"
+        },
+        {
+            "id": "h53k6he",
+            "score": 13,
+            "text": "Talking about walking adds an unnecessary confusing factor. Instead, consider laying a perfectly flat infinitely rigid sheet of some material on the ground. How big would it have to be so that not every part of it would touch the ground? If the Earth were a perfectly smooth sphere, then no matter the size of the sheet, only one point on the sheet would touch the Earth at a time. If, however, the Earth had an *irregular* terrain, then the sheet could rest on multiple points if they all lie in the same plane.\n\nNow let's go back to walking. Imagine walking up a hill. Now pound that hill down so that it is perfectly flat and in the same plane as your shoes at your starting point. How far could you walk \"up\" that now perfectly level \"hill\"? That's mostly up to much dirt and bulldozers you've got available to build it. (There are other limitations, but you will run out of dirt before you leave the Earth's atmosphere, for instance.)",
+            "title_similarity": "0.6963376"
+        },
+        {
+            "id": "h52f8tn",
+            "score": 99,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h52mcsg",
+            "score": 70,
+            "text": "First we need to define when our feet aren’t touching the ground. In perfect geometry, our feet would only touch the ground at the point where our path is tangent to the earth meaning any distance would do it. But in real life the tolerances are larger. Let’s assume the earth is perfectly spherical. At what point are our feet “not touching”? Let’s go with 1mm above the earth. I would think most people would notice a significant loss of traction before this point and would notice loss of contact by 1mm, so let’s use 1mm. \n\nHow far from the tangent point would our straight-line path be 1mm from the surface of the globe?\n\nTo solve this you simply solve a right triangle where side c (the hypotenuse) has a length of the radius of the earth (6,370,990,560 mm) and side b has a length 1mm shorter. \n\nSolve for the length of side A. \n\nIt turns out that side A is 112,880 mm. Which of course is 112 meters or about 370 ft.\n\nSo if the earth was a perfect sphere (it isn’t) and we walked in a straight line, we would be floating 1mm above the earth’s surface after 370 ft. \n\nPlease note that this does NOT scale up linearly as the curve becomes more drastic the farther out you go. \n\n[pic here ](https://imgur.com/gallery/MRyKFMa)",
+            "title_similarity": "0.70138"
+        },
+        {
+            "id": "h54mg5h",
+            "score": 124,
+            "text": "Earth has an average radius of 6371km.\n\nThe equation of that for a circle would be x^(2)+y^(2)=6371^2 \n\nLets say we want to know the x position where the y is 1m below the earth radius (max y where the tangent is -1m).\n\nWe can solve for x by this equation. x^(2)+6370.999^(2)=6371^2\n\nThe result is we would have to walk **~2.74km** along the tangent line for the earth to be 1m below us measuring perpendicular to the tangent line to the earth.\n\nAs for the actual question asked any distance however incredibly small will result in your feet being off the ground. The smallest distance you could walk to be off the ground would be probably the distance of the furthest electron shell between your feet and the ground.",
+            "title_similarity": "0.50343126"
+        },
+        {
+            "id": "h52bdp4",
+            "score": 650,
+            "text": "I've wondered a similar question: if you were to make a road/tunnel across the US from NY to LA, in a laser-straight-line, how deep would the tunnel be in the middle? \n\nWould you be able to let go of a train car in NY, have it roll downhill for 1200 miles, and then back up 1200 miles, before coming to a stop in LA?",
+            "title_similarity": "0.4263719"
+        },
+        {
+            "id": "h52de40",
+            "score": 92,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h52ffnl",
+            "score": 11366,
+            "text": "If the Earth were a perfect sphere and you walked a \"horizontal\" path (i.e. [your path is a line in this plane which is tangent to the spherical earth at the point where you started](https://i.stack.imgur.com/hPosy.png)), then the first step you take will be off the surface of the earth by less than a hundredth of a millimeter, but you'd still be off the surface. As others have said, after a mile of walking, the ground would be about 8 inches or roughly 20 cm below your feet. \n\nYou could never take a single step of any distance along a tangent line to a sphere without stepping off the sphere. \n\nIn reality, the Earth is not a very perfect sphere from our reference scale, so the particular topography where you're walking has many orders of magnitude more of an effect than the curvature of the earth when you're walking around.\n\nEdit: Someone else below asked how far they would have to walk before they couldn't reach the ground so I found a general formula for your distance from the ground after you walk any distance along the tangent line. Comment pasted below if anyone is interested.\n\n>I did a little algebra and found a general formula for the distance off the ground your feet will be depending on how far you walk. Keep in mind this is the distance straight down (i.e. in the direction of the center of the Earth). The farther you walk along the tangent line, the more it'll feel like you're walking uphill. This is always the distance straight down to the ground. \n\n>Let \"D\" be the distance in meters you walked along the tangent line, and let \"R\" be the radius of the earth in meters. R is roughly equal to 6,371,000 m.\n\n>In that case, \"X\" which is your distance from the ground in meters is:\n\n>X = R((((D/R)^2 + 1)^1/2 ) - 1)\n\n>If the formatting is hard to read, you take the square root of (D/R)^2 + 1, then subtract 1, then multiply all that by R. \n\n>If you want to plug in your tip-toe height difference as X and solve for the distance you'd have to walk, then just rearrange the equation to get this:\n\n>D = R((((X/R) + 1)^2 - 1)^1/2 )\n\n>You can use any units for D, R and X that you want. Just make sure they're all the same unit.",
+            "title_similarity": "0.61188495"
+        },
+        {
+            "id": "h52evzf",
+            "score": 3,
+            "text": "That's really going to depend on a LOT.  Like, the area around you is going to have hills and local geography which has a much greater variance than the Earth's curvature over the scaling we live in.  And how far apart is not touching?\n\nIf you were on a near perfectly flat landscape that perfectly followed the average curvature for Earth then after a couple hundred meters than an observer would be able to see the space between your feet and the earth (\\~1cm).\n\nWith an accurate enough measuring device you would be able to tell the separation distance after a single step.",
+            "title_similarity": "0.61543214"
+        },
+        {
+            "id": "h53kp3u",
+            "score": 3,
+            "text": "You could use the other answers that talk about the base distance but describe it to your student as being on the ocean with no waves. This would like be more plausible to them than thinking they were on a hard sphere.",
+            "title_similarity": "0.6055137"
+        },
+        {
+            "id": "h541aqq",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h54da36",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h54ggyr",
+            "score": 1,
+            "text": "[removed]",
+            "title_similarity": "0.0978201"
+        },
+        {
+            "id": "h54jna0",
+            "score": 7,
+            "text": "Any point on a sphere where you move forward is a tangent, and equidistance from the center is what keeps you on the circle. The way that a ball would roll on a flat surface is that there’s a single point that has direct contact with the surface at all times. It’s why it can roll, because the next point is like a fulcrum where the rest of the curve of the ball is leaning over it, which brings the ball forward when given momentum. If the earth were a perfect sphere, and our feet perfectly flat, our next step would technically not touch the earth.",
+            "title_similarity": "0.6079129"
+        },
+        {
+            "id": "h7w8won",
+            "score": 1,
+            "text": "When we walk about the Earth, we are walking in a straight line in our frame of reference since earth's gravity is curving spacetime. From a distance we can see the individual walk the curvature. \n\nIf we defy the curvature of spacetime, and the earth is a perfect sphere, it would take 1 step before there would be an imperceptible distance between the earth and your foot. Imperceptible but a distance non the less.",
+            "title_similarity": "0.6602604"
+        }
+    ]
+}
